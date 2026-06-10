@@ -1,0 +1,9 @@
+{
+  "ld_penalty_factor": 2000,
+  "exploration_reward_weight": 0.5,
+  "n_trials": 80,
+  "random_seed": 123,
+  "use_guided_search": true,
+  "require_ld_improvement": true,
+  "require_ld_improvement_ratio": 0.03
+}

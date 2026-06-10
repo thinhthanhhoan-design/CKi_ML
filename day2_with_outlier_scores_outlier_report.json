@@ -1,0 +1,106 @@
+{
+  "input_csv": "deeplearwing_day2_tabular.csv",
+  "output_csv": "day2_with_outlier_scores.csv.gz",
+  "geometry_summary_csv": "day2_with_outlier_scores_geometry_outlier_summary.csv",
+  "group_col": "geom_hash",
+  "name_col": "name",
+  "n_geometry_groups": 591,
+  "written_rows": 687387,
+  "model_error_source": "e:\\Project2\\outputs\\day4c_cd_v3_final\\tables\\noisy_geometry_ranking.csv",
+  "soft_threshold": 0.5618983050847457,
+  "hard_threshold": 0.6831538135593226,
+  "soft_flag_count": 67,
+  "hard_flag_count": 12,
+  "top10_hard": [
+    {
+      "geom_hash": "826d554c9aa98a4741b308731fb31974c21b4299",
+      "name": "rhodesg36",
+      "ensemble_outlier_score": 0.8689216101694914,
+      "geometry_outlier_score": 0.9457627118644067,
+      "curve_outlier_score": 0.8833050847457626,
+      "model_difficulty_score": 0.7520833333333334,
+      "outlier_reason": "none"
+    },
+    {
+      "geom_hash": "92c4eabb36ef1c50ef271328b45e6fdb8ced18a9",
+      "name": "naca6412",
+      "ensemble_outlier_score": 0.8077987288135593,
+      "geometry_outlier_score": 0.9508474576271186,
+      "curve_outlier_score": 0.7869491525423729,
+      "model_difficulty_score": 0.6379166666666667,
+      "outlier_reason": "none"
+    },
+    {
+      "geom_hash": "8b6574dede00f11ef6289e9bc4a66f865221252a",
+      "name": "s8037",
+      "ensemble_outlier_score": 0.7714470338983052,
+      "geometry_outlier_score": 0.8483050847457627,
+      "curve_outlier_score": 0.765,
+      "model_difficulty_score": 0.6754166666666668,
+      "outlier_reason": "none"
+    },
+    {
+      "geom_hash": "4566e78c6a4afce7a38664d099a42ac17cfbc1f3",
+      "name": "lnv109a",
+      "ensemble_outlier_score": 0.7557436440677965,
+      "geometry_outlier_score": 0.909322033898305,
+      "curve_outlier_score": 0.6679661016949152,
+      "model_difficulty_score": 0.6387499999999999,
+      "outlier_reason": "none"
+    },
+    {
+      "geom_hash": "92fd778d74ae31a8a1d3fa0233f8dad1e72c2369",
+      "name": "n22",
+      "ensemble_outlier_score": 0.7315360169491525,
+      "geometry_outlier_score": 0.7796610169491525,
+      "curve_outlier_score": 0.7093220338983051,
+      "model_difficulty_score": 0.6895833333333334,
+      "outlier_reason": "none"
+    },
+    {
+      "geom_hash": "063af6cb5143c0a0a22bd60fa62e8fa1f3bef9e4",
+      "name": "naca2424",
+      "ensemble_outlier_score": 0.7300656779661017,
+      "geometry_outlier_score": 0.8542372881355932,
+      "curve_outlier_score": 0.7141525423728814,
+      "model_difficulty_score": 0.5804166666666667,
+      "outlier_reason": "none"
+    },
+    {
+      "geom_hash": "1337d4339b1bb6ff528b1f69baf368a79a7eb7d5",
+      "name": "fx78k161",
+      "ensemble_outlier_score": 0.7268199152542373,
+      "geometry_outlier_score": 0.923728813559322,
+      "curve_outlier_score": 0.6406779661016949,
+      "model_difficulty_score": 0.5504166666666667,
+      "outlier_reason": "none"
+    },
+    {
+      "geom_hash": "b9a36bfda3c1e5c57c18f3595107d8ad2f00bde3",
+      "name": "uag8814320",
+      "ensemble_outlier_score": 0.7236885593220339,
+      "geometry_outlier_score": 0.7203389830508475,
+      "curve_outlier_score": 0.8105932203389831,
+      "model_difficulty_score": 0.64125,
+      "outlier_reason": "none"
+    },
+    {
+      "geom_hash": "37059e0bc6a02dc31c4d6e2917a0cc52327d5b6f",
+      "name": "naca4424",
+      "ensemble_outlier_score": 0.7198877118644068,
+      "geometry_outlier_score": 0.8338983050847457,
+      "curve_outlier_score": 0.7006779661016949,
+      "model_difficulty_score": 0.5870833333333333,
+      "outlier_reason": "none"
+    },
+    {
+      "geom_hash": "5a7f0c99b407d7333383676cd05a942fc7d52197",
+      "name": "sg6050",
+      "ensemble_outlier_score": 0.7140190677966101,
+      "geometry_outlier_score": 0.6788135593220339,
+      "curve_outlier_score": 0.923728813559322,
+      "model_difficulty_score": 0.55125,
+      "outlier_reason": "none"
+    }
+  ]
+}
