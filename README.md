@@ -1,0 +1,92 @@
+# Dự Án Tối Ưu Hóa Biên Dạng Cánh Máy Bay (Airfoil Surrogate Optimizer)
+
+Dự án này là một framework toàn diện ứng dụng Học máy (Machine Learning) làm mô hình thay thế (Surrogate Models) để dự báo và tối ưu hóa hiệu suất khí động học (hệ số nâng CL, hệ số cản CD, hệ số mô-men CM) của biên dạng cánh máy bay sử dụng tham số hóa CST và vùng ràng buộc hình học (Trust Region / Manifold).
+
+---
+
+## 📂 Cấu Trúc Thư Mục Dự Án
+
+Thư mục làm việc của dự án được tổ chức gọn gàng và khoa học như sau:
+
+*   **`scripts/`**: Chứa toàn bộ mã nguồn Python thực thi của dự án từ các bước tiền xử lý, huấn luyện đến triển khai:
+    *   `day1.py` đến `day4_*.py`: Các kịch bản huấn luyện mô hình theo từng giai đoạn.
+    *   `day5.py`: Bộ tối ưu hóa cánh máy bay chính thức sử dụng CST Trust Region.
+    *   `deploy_airfoil_app.py`: Mã nguồn chính của ứng dụng web Streamlit.
+    *   `guided_search.py` & `neuralFoil.py`: Các module bổ trợ tối ưu hóa và liên kết với thư viện NeuralFoil.
+*   **`test/`**: Chứa các tệp biên dạng cánh dạng `.txt` riêng lẻ phục vụ quá trình chạy thử nghiệm và kiểm thử trên giao diện ứng dụng (ví dụ: `hs1404.txt`, `fx6184.txt`, `NACA2751.txt`...).
+*   **`airfoil/`**: Cơ sở dữ liệu chứa hàng ngàn tệp tọa độ biên dạng cánh `.dat` mặc định.
+*   **`reports/`**: Lưu trữ các báo cáo markdown kết quả huấn luyện mô hình, tệp nhật ký tối ưu hóa (`.log`) và các tệp phân tích văn bản trung gian.
+*   **`tables/`**: Chứa các tệp dữ liệu lớn dạng bảng đã được dọn dẹp và nén gọn gàng (`.csv.gz`).
+*   **`outputs/`**: Chứa các kết quả đầu ra của quá trình huấn luyện và chạy thử bao gồm:
+    *   `day4_cl_2_hgb_improved/`: Chứa mô hình CL cải tiến (HistGradientBoosting).
+    *   `day4c_cd_v3_final/`: Chứa mô hình CD đã được hiệu chuẩn.
+    *   `day4_cm_reset/`: Chứa mô hình CM.
+    *   `deploy_app/`: Lưu vết các lượt chạy tối ưu hóa (`runs/`) và các tệp tải lên (`uploads/`) của ứng dụng Streamlit.
+*   **`requirements.txt`**: Danh sách thư viện phụ thuộc của dự án.
+*   **`.gitignore`**: Danh sách các tệp tin dung lượng lớn, thư mục ảo (`.venv`) và dữ liệu nháp được bỏ qua không đưa lên GitHub.
+
+---
+
+## ⚙️ Quy Trình Chạy Pipeline (Day 1 - Day 5)
+
+Dự án được xây dựng theo quy trình phát triển tuần tự 5 ngày:
+
+1.  **Day 1 (Tiền xử lý):** Làm sạch dữ liệu thô, lọc bỏ các dòng lỗi vật lý và nén dữ liệu lớn.
+2.  **Day 2 (Thiết lập Manifold):** Tham số hóa biên dạng cánh bằng CST và sử dụng thuật toán MinCovDet + PCA + KDE để xác định vùng an toàn hình học (Descriptor Manifold).
+3.  **Day 3 (Huấn luyện CD/CM):** Huấn luyện các mô hình thay thế dự báo CD, CM và thực hiện hiệu chuẩn độ bất định bằng phân vị (Conformal Calibration).
+4.  **Day 4 (Tối ưu hóa CL & Vùng tin cậy):** Nâng cấp mô hình dự báo CL bằng thuật toán HistGradientBoosting nâng cao, thiết lập hệ thống cảnh báo vùng OOD (Out-Of-Distribution).
+5.  **Day 5 (Tối ưu hóa thiết kế cánh):** Kết hợp các mô hình thay thế và bộ lọc CAD mượt mà để thực hiện tìm kiếm biên dạng cánh tốt nhất thỏa mãn các điều kiện khí động học bằng thuật toán tiến hóa Differential Evolution hoặc Tối ưu hóa Bayes (Optuna).
+
+---
+
+## 💻 Hướng Dẫn Chạy Ứng Dụng Streamlit Cục Bộ (Local)
+
+### 1. Chuẩn bị môi trường
+Mở Terminal tại thư mục dự án và kích hoạt môi trường ảo:
+```powershell
+# Kích hoạt môi trường ảo (Windows)
+.\.venv\Scripts\Activate.ps1
+```
+
+### 2. Cài đặt các thư viện phụ thuộc
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Khởi chạy ứng dụng
+```bash
+streamlit run scripts/deploy_airfoil_app.py
+```
+Sau khi khởi chạy thành công, trình duyệt sẽ tự động mở trang web local tại địa chỉ: `http://localhost:8501`.
+
+---
+
+## ☁️ Hướng Dẫn Triển Khai Lên Streamlit Cloud
+
+Do các tệp mô hình học máy rất lớn (vượt quá giới hạn 100MB của GitHub), chúng tôi đã thiết kế trình tự động tải mô hình qua Google Drive để đảm bảo việc deploy Cloud diễn ra trơn tru.
+
+### Bước 1: Chuẩn bị tệp mô hình trên Google Drive
+Bạn hãy upload các tệp mô hình lớn sau đây lên một thư mục trên Google Drive cá nhân của bạn:
+*   `cl_model.joblib`
+*   `clmax_model.joblib`
+*   `stall_model.joblib`
+*   `feature_columns.json`
+*   `day5_cd_v3_interface.pkl`
+*   `cm_model.pkl`
+
+Chuột phải vào thư mục đó trên Google Drive -> Chọn **Chia sẻ (Share)** -> Đổi quyền truy cập chung thành **Bất kỳ ai có liên kết đều có thể xem (Anyone with the link can view)** -> Nhấp **Sao chép liên kết (Copy link)**.
+
+### Bước 2: Deploy ứng dụng lên Streamlit Cloud
+1.  Truy cập [share.streamlit.io](https://share.streamlit.io/) và liên kết với tài khoản GitHub của bạn.
+2.  Nhấp vào **New app** và thiết lập:
+    *   **Repository:** `thinhthanhhoan-design/CKi_ML`
+    *   **Branch:** `main`
+    *   **Main file path:** `scripts/deploy_airfoil_app.py`
+    *   **Python Version:** Chọn **`3.12`** hoặc **`3.11`** (để tránh lỗi tương thích khi compile thư viện).
+3.  Nhấn **Deploy!**
+
+### Bước 3: Liên kết mô hình khi chạy lần đầu
+Khi ứng dụng Streamlit Cloud khởi động lần đầu, nó sẽ nhận diện thiếu mô hình và hiển thị **Giao diện cứu hộ (Recovery UI)**:
+1.  Dán liên kết thư mục Google Drive của bạn vào ô **Cách 1 (Khuyên dùng)**.
+2.  Nhấn **Tải xuống và tự động sắp xếp**.
+3.  Ứng dụng sẽ tự động tải toàn bộ mô hình về máy chủ, phân loại và reload lại giao diện chính tối ưu hóa cánh máy bay. Kể từ lúc này, mọi người truy cập vào trang web đều có thể sử dụng bình thường mà không cần cấu hình lại.
