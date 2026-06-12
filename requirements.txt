@@ -6,4 +6,5 @@ scipy
 joblib
 matplotlib
 gdown
+optuna
 
