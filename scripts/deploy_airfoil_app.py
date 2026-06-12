@@ -123,6 +123,37 @@ def download_file_from_drive(drive_id: str, output_path: str) -> bool:
         return False
 
 
+def download_folder_from_drive(folder_id: str, temp_output_dir: str) -> bool:
+    try:
+        import gdown
+        out_path = Path(temp_output_dir)
+        out_path.mkdir(parents=True, exist_ok=True)
+        res = gdown.download_folder(id=folder_id, output=str(out_path), quiet=True, remaining_ok=True)
+        return res is not None
+    except Exception as e:
+        st.error(f"Lỗi khi tải thư mục từ Google Drive: {e}")
+        return False
+
+
+def organize_downloaded_models(temp_dir: str, miss: Dict[str, str]) -> Dict[str, bool]:
+    import shutil
+    temp_path = Path(temp_dir)
+    found_files = {}
+    targets = {os.path.basename(path).lower(): (name, path) for name, path in miss.items()}
+    
+    for p in temp_path.rglob("*"):
+        if p.is_file():
+            filename_lc = p.name.lower()
+            if filename_lc in targets:
+                name, dest_path = targets[filename_lc]
+                dest_p = Path(dest_path)
+                dest_p.parent.mkdir(parents=True, exist_ok=True)
+                shutil.move(str(p), str(dest_p))
+                found_files[name] = True
+    return found_files
+
+
+
 
 def parse_airfoil_dat_bytes(data: bytes) -> np.ndarray:
     rows: List[Tuple[float, float]] = []
@@ -327,66 +358,111 @@ if miss:
     st.warning("⚠️ **Thiếu các tệp mô hình (model artifacts) để chạy ứng dụng!**")
     st.write(
         "Do giới hạn kích thước tệp của GitHub (100MB), các tệp mô hình lớn không được tải lên kho lưu trữ. "
-        "Bạn hãy tải các mô hình này lên Google Drive cá nhân, bật chia sẻ công khai "
-        "(*'Bất kỳ ai có liên kết đều có thể xem'*), sau đó dán liên kết Google Drive hoặc nhập File ID của chúng dưới đây để tải về máy chủ ứng dụng."
+        "Bạn hãy tải tất cả các tệp mô hình bị thiếu lên **cùng một thư mục Google Drive**, bật chia sẻ công khai "
+        "(*'Bất kỳ ai có liên kết đều có thể xem'*), sau đó dán liên kết của thư mục đó vào ô bên dưới để ứng dụng tự động tải về."
     )
     
-    with st.expander("Hướng dẫn lấy Google Drive File ID hoặc Liên kết chia sẻ"):
-        st.markdown(
-            """
-            1. Tải các tệp mô hình bị thiếu lên Google Drive của bạn.
-            2. Nhấp chuột phải vào tệp trên Google Drive -> **Chia sẻ (Share)** -> **Chia sẻ với người khác**.
-            3. Ở phần **Quyền truy cập chung (General access)**, đổi thành **Bất kỳ ai có liên kết đều có thể xem (Anyone with the link)**.
-            4. Nhấp **Sao chép liên kết (Copy link)**.
-            5. Dán toàn bộ liên kết đó vào ô nhập liệu tương ứng bên dưới. Ứng dụng sẽ tự động trích xuất File ID thích hợp.
-            """
+    with st.expander("Danh sách các tệp mô hình cần có trong thư mục Google Drive:"):
+        for name, path in miss.items():
+            st.markdown(f"- **{name}**: `{os.path.basename(path)}`")
+            
+    with st.form("download_models_folder_form"):
+        st.subheader("Cách 1 (Khuyên dùng): Tải toàn bộ bằng liên kết Thư mục Google Drive")
+        folder_input = st.text_input(
+            "Liên kết Thư mục Google Drive chứa các mô hình:",
+            placeholder="Dán liên kết thư mục (ví dụ: https://drive.google.com/drive/folders/...)",
+            help="Đảm bảo thư mục này chứa đầy đủ các tệp mô hình ở trên và được chia sẻ công khai."
         )
         
-    with st.form("download_models_form"):
-        st.subheader("Nhập thông tin Google Drive cho các mô hình:")
+        submitted_folder = st.form_submit_button("Tải xuống và tự động sắp xếp", type="primary")
         
-        drive_inputs = {}
-        for name, path in miss.items():
-            default_val = MODEL_DRIVE_IDS.get(name, "")
-            drive_inputs[name] = st.text_input(
-                f"Liên kết hoặc File ID cho **{name}** (`{os.path.basename(path)}`):",
-                value=default_val,
-                help=f"Tệp tin sẽ được lưu tại: {path}"
-            )
-            
-        submitted = st.form_submit_button("Tải xuống các mô hình (Download Models)", type="primary")
-        
-        if submitted:
-            empty_fields = [n for n, val in drive_inputs.items() if not val.strip()]
-            if empty_fields:
-                st.error(f"Vui lòng nhập đầy đủ thông tin cho: {', '.join(empty_fields)}")
+        if submitted_folder:
+            if not folder_input.strip():
+                st.error("Vui lòng nhập liên kết thư mục Google Drive!")
             else:
-                success_count = 0
-                for name, path in miss.items():
-                    raw_input = drive_inputs[name].strip()
-                    drive_id = raw_input
-                    if "drive.google.com" in raw_input:
-                        match = re.search(r"/d/([a-zA-Z0-9_-]+)", raw_input)
-                        if match:
-                            drive_id = match.group(1)
-                        else:
-                            match_id = re.search(r"id=([a-zA-Z0-9_-]+)", raw_input)
-                            if match_id:
-                                drive_id = match_id.group(1)
+                raw_input = folder_input.strip()
+                folder_id = raw_input
+                if "drive.google.com" in raw_input:
+                    match = re.search(r"/folders/([a-zA-Z0-9_-]+)", raw_input)
+                    if match:
+                        folder_id = match.group(1)
+                
+                temp_dir = APP_OUT / "temp_download"
+                if temp_dir.exists():
+                    import shutil
+                    try:
+                        shutil.rmtree(temp_dir)
+                    except Exception:
+                        pass
+                
+                with st.spinner("Đang tải toàn bộ thư mục từ Google Drive (quá trình này có thể mất vài phút do dung lượng các mô hình lớn)..."):
+                    success = download_folder_from_drive(folder_id, str(temp_dir))
                     
-                    with st.spinner(f"Đang tải {name} ({os.path.basename(path)})..."):
-                        if download_file_from_drive(drive_id, path):
-                            success_count += 1
-                            st.success(f"✅ Đã tải xong {name}!")
-                        else:
-                            st.error(f"❌ Tải {name} thất bại! Vui lòng kiểm tra quyền chia sẻ link Google Drive.")
-                            
-                if success_count == len(miss):
-                    st.balloons()
-                    st.success("Tải xuống tất cả các mô hình thành công! Đang tải lại ứng dụng...")
-                    time.sleep(2)
-                    st.rerun()
+                if success:
+                    found_files = organize_downloaded_models(str(temp_dir), miss)
+                    still_missing = [n for n in miss.keys() if n not in found_files]
+                    
+                    if not still_missing:
+                        st.balloons()
+                        st.success("🎉 Tải xuống và tự động sắp xếp tất cả các mô hình thành công!")
+                        if temp_dir.exists():
+                            import shutil
+                            try:
+                                shutil.rmtree(temp_dir)
+                            except Exception:
+                                pass
+                        time.sleep(2)
+                        st.rerun()
+                    else:
+                        st.error(
+                            f"Đã tải thư mục thành công nhưng thiếu các tệp sau trong thư mục: {', '.join(still_missing)}. "
+                            "Vui lòng kiểm tra lại xem bạn đã upload đầy đủ các tệp mô hình lên thư mục Google Drive chưa."
+                        )
+                else:
+                    st.error("❌ Tải thư mục thất bại! Vui lòng kiểm tra lại quyền chia sẻ thư mục Google Drive (phải ở chế độ 'Bất kỳ ai có liên kết đều có thể xem').")
+
+    with st.expander("Cách 2: Tải thủ công từng tệp mô hình bằng liên kết riêng lẻ (Nâng cao)"):
+        with st.form("download_individual_models_form"):
+            drive_inputs = {}
+            for name, path in miss.items():
+                default_val = MODEL_DRIVE_IDS.get(name, "")
+                drive_inputs[name] = st.text_input(
+                    f"Liên kết hoặc File ID cho **{name}** (`{os.path.basename(path)}`):",
+                    value=default_val
+                )
+            submitted_ind = st.form_submit_button("Tải xuống từng tệp")
+            if submitted_ind:
+                empty_fields = [n for n, val in drive_inputs.items() if not val.strip()]
+                if empty_fields:
+                    st.error(f"Vui lòng nhập đầy đủ thông tin cho: {', '.join(empty_fields)}")
+                else:
+                    success_count = 0
+                    for name, path in miss.items():
+                        raw_input = drive_inputs[name].strip()
+                        drive_id = raw_input
+                        if "drive.google.com" in raw_input:
+                            match = re.search(r"/d/([a-zA-Z0-9_-]+)", raw_input)
+                            if match:
+                                drive_id = match.group(1)
+                            else:
+                                match_id = re.search(r"id=([a-zA-Z0-9_-]+)", raw_input)
+                                if match_id:
+                                    drive_id = match_id.group(1)
+                        
+                        with st.spinner(f"Đang tải {name} ({os.path.basename(path)})..."):
+                            if download_file_from_drive(drive_id, path):
+                                success_count += 1
+                                st.success(f"✅ Đã tải xong {name}!")
+                            else:
+                                st.error(f"❌ Tải {name} thất bại! Vui lòng kiểm tra lại link file.")
+                                
+                    if success_count == len(miss):
+                        st.balloons()
+                        st.success("Tải xuống tất cả các mô hình thành công! Đang tải lại ứng dụng...")
+                        time.sleep(2)
+                        st.rerun()
     st.stop()
+
 
 
 with st.sidebar:
