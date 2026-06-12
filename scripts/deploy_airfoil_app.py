@@ -4,11 +4,14 @@ import base64
 import io
 import json
 import os
+import re
 import sys
 import time
 import zipfile
 from pathlib import Path
 from typing import Dict, List, Tuple
+import gdown
+
 
 import matplotlib
 matplotlib.use("Agg")
@@ -96,6 +99,29 @@ def required_model_paths(cfg: Config) -> Dict[str, str]:
 
 def missing_model_paths(cfg: Config) -> Dict[str, str]:
     return {name: path for name, path in required_model_paths(cfg).items() if not Path(path).exists()}
+
+
+# Cấu hình Google Drive File ID hoặc Liên kết chia sẻ mặc định cho các mô hình
+MODEL_DRIVE_IDS = {
+    "CL": "",        # Google Drive ID cho cl_model.joblib
+    "CD": "",        # Google Drive ID cho day5_cd_v3_interface.pkl
+    "CM": "",        # Google Drive ID cho cm_model.pkl
+    "CLmax": "",     # Google Drive ID cho clmax_model.joblib
+    "Stall": "",     # Google Drive ID cho stall_model.joblib
+    "CL schema": "", # Google Drive ID cho feature_columns.json
+}
+
+
+def download_file_from_drive(drive_id: str, output_path: str) -> bool:
+    try:
+        out_path = Path(output_path)
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        res = gdown.download(id=drive_id, output=str(out_path), quiet=True)
+        return res is not None and out_path.exists()
+    except Exception as e:
+        st.error(f"Lỗi khi tải xuống từ Google Drive: {e}")
+        return False
+
 
 
 def parse_airfoil_dat_bytes(data: bytes) -> np.ndarray:
@@ -293,6 +319,76 @@ st.caption(
     "với manifold Day 2 và các ràng buộc CAD nghiêm ngặt."
 )
 
+# Kiểm tra thiếu mô hình ở mức toàn cục trước khi render các thành phần khác
+base_cfg = use_cl2_artifacts(Config())
+miss = missing_model_paths(base_cfg)
+
+if miss:
+    st.warning("⚠️ **Thiếu các tệp mô hình (model artifacts) để chạy ứng dụng!**")
+    st.write(
+        "Do giới hạn kích thước tệp của GitHub (100MB), các tệp mô hình lớn không được tải lên kho lưu trữ. "
+        "Bạn hãy tải các mô hình này lên Google Drive cá nhân, bật chia sẻ công khai "
+        "(*'Bất kỳ ai có liên kết đều có thể xem'*), sau đó dán liên kết Google Drive hoặc nhập File ID của chúng dưới đây để tải về máy chủ ứng dụng."
+    )
+    
+    with st.expander("Hướng dẫn lấy Google Drive File ID hoặc Liên kết chia sẻ"):
+        st.markdown(
+            """
+            1. Tải các tệp mô hình bị thiếu lên Google Drive của bạn.
+            2. Nhấp chuột phải vào tệp trên Google Drive -> **Chia sẻ (Share)** -> **Chia sẻ với người khác**.
+            3. Ở phần **Quyền truy cập chung (General access)**, đổi thành **Bất kỳ ai có liên kết đều có thể xem (Anyone with the link)**.
+            4. Nhấp **Sao chép liên kết (Copy link)**.
+            5. Dán toàn bộ liên kết đó vào ô nhập liệu tương ứng bên dưới. Ứng dụng sẽ tự động trích xuất File ID thích hợp.
+            """
+        )
+        
+    with st.form("download_models_form"):
+        st.subheader("Nhập thông tin Google Drive cho các mô hình:")
+        
+        drive_inputs = {}
+        for name, path in miss.items():
+            default_val = MODEL_DRIVE_IDS.get(name, "")
+            drive_inputs[name] = st.text_input(
+                f"Liên kết hoặc File ID cho **{name}** (`{os.path.basename(path)}`):",
+                value=default_val,
+                help=f"Tệp tin sẽ được lưu tại: {path}"
+            )
+            
+        submitted = st.form_submit_button("Tải xuống các mô hình (Download Models)", type="primary")
+        
+        if submitted:
+            empty_fields = [n for n, val in drive_inputs.items() if not val.strip()]
+            if empty_fields:
+                st.error(f"Vui lòng nhập đầy đủ thông tin cho: {', '.join(empty_fields)}")
+            else:
+                success_count = 0
+                for name, path in miss.items():
+                    raw_input = drive_inputs[name].strip()
+                    drive_id = raw_input
+                    if "drive.google.com" in raw_input:
+                        match = re.search(r"/d/([a-zA-Z0-9_-]+)", raw_input)
+                        if match:
+                            drive_id = match.group(1)
+                        else:
+                            match_id = re.search(r"id=([a-zA-Z0-9_-]+)", raw_input)
+                            if match_id:
+                                drive_id = match_id.group(1)
+                    
+                    with st.spinner(f"Đang tải {name} ({os.path.basename(path)})..."):
+                        if download_file_from_drive(drive_id, path):
+                            success_count += 1
+                            st.success(f"✅ Đã tải xong {name}!")
+                        else:
+                            st.error(f"❌ Tải {name} thất bại! Vui lòng kiểm tra quyền chia sẻ link Google Drive.")
+                            
+                if success_count == len(miss):
+                    st.balloons()
+                    st.success("Tải xuống tất cả các mô hình thành công! Đang tải lại ứng dụng...")
+                    time.sleep(2)
+                    st.rerun()
+    st.stop()
+
+
 with st.sidebar:
     st.header("Cấu hình chạy (Run Settings)")
     reynolds = st.number_input("Số Reynolds (Reynolds)", min_value=10_000.0, max_value=20_000_000.0, value=500_000.0, step=50_000.0)
@@ -301,15 +397,10 @@ with st.sidebar:
     popsize = st.number_input("Kích thước quần thể (popsize)", min_value=2, max_value=20, value=4, step=1)
     outer_loops = st.number_input("Số vòng lặp ngoài (outer loops)", min_value=1, max_value=8, value=1, step=1)
 
-    base_cfg = use_cl2_artifacts(Config())
-    miss = missing_model_paths(base_cfg)
-    if miss:
-        st.error("Đang thiếu các mô hình (model artifacts) được huấn luyện.")
-        for name, path in miss.items():
-            st.code(f"{name}: {path}")
-    else:
-        st.success("Tất cả mô hình đã sẵn sàng (CL2 + CD + CM).")
-        st.caption("Nguồn mô hình CL: outputs/day4_cl_2_hgb_improved")
+    st.success("Tất cả mô hình đã sẵn sàng (CL2 + CD + CM).")
+    st.caption("Nguồn mô hình CL: outputs/day4_cl_2_hgb_improved")
+
+
 
 uploaded = st.file_uploader("Chọn tệp biên dạng cánh (.dat hoặc .txt)", type=["dat", "txt"])
 
