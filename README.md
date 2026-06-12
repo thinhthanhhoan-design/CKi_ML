@@ -61,6 +61,37 @@ Sau khi khởi chạy thành công, trình duyệt sẽ tự động mở trang 
 
 ---
 
+## 🖱️ Hướng Dẫn Sử Dụng Giao Diện Ứng Dụng
+
+Sau khi ứng dụng đã sẵn sàng (cục bộ hoặc trên Cloud), dưới đây là các bước để thực hiện tối ưu hóa cánh máy bay:
+
+### Bước 1: Tải lên tệp biên dạng cánh máy bay cơ sở (Baseline Airfoil)
+- Tại mục **"Chọn tệp biên dạng cánh (.dat hoặc .txt)"**, nhấp chuột chọn hoặc kéo thả tệp tọa độ cánh.
+- *Gợi ý*: Các tệp cánh kiểm thử mẫu đã được chuẩn bị sẵn trong thư mục [test/](file:///e:/Project2/test) (ví dụ: `test/NACA2751.txt`, `test/hs1404.txt`).
+- Sau khi tải lên thành công, hệ thống sẽ tự động hiển thị bản vẽ hình học cánh ở bên trái và bảng dự báo các chỉ số khí động học cơ sở (CL, CD, CM, L/D) ở bên phải.
+
+### Bước 2: Cấu hình tham số tối ưu hóa (Sidebar bên trái)
+- **Số Reynolds**: Phù hợp với điều kiện vận hành thực tế của cánh (mặc định: `500,000`).
+- **Danh sách góc tấn AoA**: Nhập các góc tấn phân tách bằng dấu phẩy (ví dụ: `0,2,4,6,8`).
+- **Số lần lặp tối đa (maxiter)**: Quy định số thế hệ tiến hóa. Khuyên dùng đặt từ **`5` đến `15`** để tối ưu hóa tốc độ chạy trên web app.
+- **Kích thước quần thể (popsize)**: Số lượng ứng viên trong mỗi quần thể. Khuyên dùng đặt từ **`4` đến `8`**.
+- **Số vòng lặp ngoài**: Số lần chạy mở rộng vùng tin cậy (mặc định: `1`).
+
+### Bước 3: Chạy tối ưu hóa
+- Nhấp vào nút **"Tối ưu hóa và tạo Top 5 cánh tốt nhất"** màu đỏ ở cuối trang chính.
+- Hệ thống sẽ chạy thuật toán tiến hóa kết hợp lọc các ràng buộc CAD mượt và Manifold an toàn. Quá trình tính toán thường mất từ **1 đến 3 phút**.
+
+### Bước 4: Xem và tải về kết quả thiết kế
+- **Cánh tốt nhất (Best Profile)**: Hiển thị nổi bật ở trên cùng kèm điểm cải thiện khí động học (%).
+- **Bảng Top 5 ứng viên**: So sánh chi tiết tất cả các chỉ số chất lượng thiết kế của 5 ứng viên hàng đầu.
+- **Biểu đồ so sánh**: Xem bản vẽ hình học cánh xếp chồng và biểu đồ so sánh đường đặc tính khí động học (Polar).
+- **Tải tệp tin**:
+  - Tải riêng lẻ tệp tọa độ `.dat` của cánh tối ưu.
+  - Tải ảnh so sánh biên dạng hình học (`.png`).
+  - Tải trọn bộ gói thiết kế dạng nén `.zip` (chứa toàn bộ file `.dat` ứng viên, polars khí động học, bảng so sánh chi tiết dạng `.csv`).
+
+---
+
 ## ☁️ Hướng Dẫn Triển Khai Lên Streamlit Cloud
 
 Do các tệp mô hình học máy rất lớn (vượt quá giới hạn 100MB của GitHub), chúng tôi đã thiết kế trình tự động tải mô hình qua Google Drive để đảm bảo việc deploy Cloud diễn ra trơn tru.
