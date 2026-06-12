@@ -12,6 +12,20 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 import gdown
 
+# Patch pathlib.WindowsPath on non-Windows systems to avoid "cannot instantiate 'WindowsPath' on your system" error when unpickling models
+import pathlib
+if os.name != "nt":
+    def _windows_path_new(cls, *args, **kwargs):
+        new_args = []
+        for arg in args:
+            if isinstance(arg, str):
+                new_args.append(arg.replace("\\", "/"))
+            else:
+                new_args.append(arg)
+        return pathlib.PosixPath(*new_args)
+    pathlib.WindowsPath.__new__ = _windows_path_new
+
+
 
 import matplotlib
 matplotlib.use("Agg")
