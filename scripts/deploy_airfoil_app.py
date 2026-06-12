@@ -506,7 +506,15 @@ with right:
             st.dataframe(baseline_polar.round(6), use_container_width=True)
             st.dataframe(pd.DataFrame([opt_preview.baseline_summary]).round(6), use_container_width=True)
         except Exception as exc:
-            st.error(f"Dự báo gốc thất bại: {exc}")
+            import sklearn
+            import sys
+            st.error(
+                f"Dự báo gốc thất bại: {exc}\n\n"
+                f"**Thông tin môi trường chạy Streamlit:**\n"
+                f"- Python version: `{sys.version}`\n"
+                f"- Scikit-learn version: `{sklearn.__version__}`\n"
+                f"- Executable: `{sys.executable}`"
+            )
 
 st.divider()
 
