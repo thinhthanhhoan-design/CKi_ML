@@ -2,6 +2,8 @@
 
 Dự án này là một framework toàn diện ứng dụng Học máy (Machine Learning) làm mô hình thay thế (Surrogate Models) để dự báo và tối ưu hóa hiệu suất khí động học (hệ số nâng CL, hệ số cản CD, hệ số mô-men CM) của biên dạng cánh máy bay sử dụng tham số hóa CST và vùng ràng buộc hình học (Trust Region / Manifold).
 
+🌐 **Ứng dụng Web App trực tuyến**: [https://z5b7de739rc4eb95fvdvaq.streamlit.app/](https://z5b7de739rc4eb95fvdvaq.streamlit.app/)
+
 ---
 
 ## 📂 Cấu Trúc Thư Mục Dự Án
