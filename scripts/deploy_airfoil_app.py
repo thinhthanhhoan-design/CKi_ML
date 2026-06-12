@@ -128,7 +128,7 @@ def download_folder_from_drive(folder_id: str, temp_output_dir: str) -> bool:
         import gdown
         out_path = Path(temp_output_dir)
         out_path.mkdir(parents=True, exist_ok=True)
-        res = gdown.download_folder(id=folder_id, output=str(out_path), quiet=True, remaining_ok=True)
+        res = gdown.download_folder(id=folder_id, output=str(out_path), quiet=True)
         return res is not None
     except Exception as e:
         st.error(f"Lỗi khi tải thư mục từ Google Drive: {e}")
