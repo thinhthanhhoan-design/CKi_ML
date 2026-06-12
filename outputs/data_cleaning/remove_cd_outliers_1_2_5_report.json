@@ -1,0 +1,32 @@
+{
+  "removed_hashes": {
+    "10ec05e3a6d9fdbaa34ae324b42fce7686fc92cb": "cap21c",
+    "8177ea687834a2cb8f589b190dd23a74df4e740d": "fx79w470a",
+    "ef509a59974d9e5a916f5544c4e733f8b56dd6bf": "ah93w480b"
+  },
+  "removed_counts": {
+    "10ec05e3a6d9fdbaa34ae324b42fce7686fc92cb": 37,
+    "8177ea687834a2cb8f589b190dd23a74df4e740d": 1165,
+    "ef509a59974d9e5a916f5544c4e733f8b56dd6bf": 1165
+  },
+  "removed_names": {
+    "10ec05e3a6d9fdbaa34ae324b42fce7686fc92cb": [
+      "cap21c"
+    ],
+    "8177ea687834a2cb8f589b190dd23a74df4e740d": [
+      "fx79w470a"
+    ],
+    "ef509a59974d9e5a916f5544c4e733f8b56dd6bf": [
+      "ah93w480b"
+    ]
+  },
+  "total_rows_before": 667582,
+  "total_rows_after": 665215,
+  "total_rows_removed": 2367,
+  "source_csv": "E:\\Project2\\deeplearwing_day2_tabular.csv",
+  "source_gz": "E:\\Project2\\deeplearwing_day2_tabular.csv.gz",
+  "backup_csv": "E:\\Project2\\deeplearwing_day2_tabular.before_remove_1_2_5.bak.csv",
+  "backup_gz": "E:\\Project2\\deeplearwing_day2_tabular.before_remove_1_2_5.bak.csv.gz",
+  "elapsed_sec_write": 1572.622,
+  "elapsed_sec_total": 1572.63
+}

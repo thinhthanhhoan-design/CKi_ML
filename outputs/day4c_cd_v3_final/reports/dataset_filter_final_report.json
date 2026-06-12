@@ -1,0 +1,55 @@
+{
+  "removed_geometries": [
+    {
+      "geom_hash": "01491628a439d1adbcc9e0e5b285151bcc2320ef",
+      "name": "s9104BTE"
+    },
+    {
+      "geom_hash": "660255a32bb402634492c4b13d5fe6a838627d5e",
+      "name": "s9104"
+    },
+    {
+      "geom_hash": "f3b2dc7680d02bd021e8272d8cc19d04e16057b0",
+      "name": "marsden"
+    },
+    {
+      "geom_hash": "dcf331c60808834a2d2ff130b44a0eac1e5c3bc8",
+      "name": "ah81k144wfKlappe"
+    },
+    {
+      "geom_hash": "677a5a3db58643b41f5f19f7d1cfa20822124dc8",
+      "name": "mh126"
+    },
+    {
+      "geom_hash": "54a6efe9dc03ef9e01034faea79228df9ca9a7c3",
+      "name": "fx74modsm"
+    },
+    {
+      "geom_hash": "68e6350f16dfbb6cf4030dd6b694c6657b91b788",
+      "name": "fx72ls160"
+    }
+  ],
+  "kept_from_top_list": [
+    {
+      "geom_hash": "1d68e56a76e70e92a3208081e6a68831232f7f23",
+      "name": "kc135winglet"
+    },
+    {
+      "geom_hash": "826d554c9aa98a4741b308731fb31974c21b4299",
+      "name": "rhodesg36"
+    },
+    {
+      "geom_hash": "95a1517b1d019c4c667cba308dc28fab046a775c",
+      "name": "ma409"
+    },
+    {
+      "geom_hash": "92fd778d74ae31a8a1d3fa0233f8dad1e72c2369",
+      "name": "n22"
+    },
+    {
+      "geom_hash": "8b6574dede00f11ef6289e9bc4a66f865221252a",
+      "name": "s8037"
+    }
+  ],
+  "postcheck_report": "E:\\Project2\\outputs\\day4c_cd_v3_final\\reports\\dataset_filter_postcheck.json"
+}

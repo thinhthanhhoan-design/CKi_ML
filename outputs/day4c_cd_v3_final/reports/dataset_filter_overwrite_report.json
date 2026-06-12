@@ -1,0 +1,141 @@
+{
+  "removed_geometries": [
+    {
+      "geom_hash": "01491628a439d1adbcc9e0e5b285151bcc2320ef",
+      "name": "s9104BTE"
+    },
+    {
+      "geom_hash": "660255a32bb402634492c4b13d5fe6a838627d5e",
+      "name": "s9104"
+    },
+    {
+      "geom_hash": "f3b2dc7680d02bd021e8272d8cc19d04e16057b0",
+      "name": "marsden"
+    },
+    {
+      "geom_hash": "dcf331c60808834a2d2ff130b44a0eac1e5c3bc8",
+      "name": "ah81k144wfKlappe"
+    },
+    {
+      "geom_hash": "677a5a3db58643b41f5f19f7d1cfa20822124dc8",
+      "name": "mh126"
+    },
+    {
+      "geom_hash": "54a6efe9dc03ef9e01034faea79228df9ca9a7c3",
+      "name": "fx74modsm"
+    },
+    {
+      "geom_hash": "68e6350f16dfbb6cf4030dd6b694c6657b91b788",
+      "name": "fx72ls160"
+    }
+  ],
+  "kept_from_top_list": [
+    {
+      "geom_hash": "1d68e56a76e70e92a3208081e6a68831232f7f23",
+      "name": "kc135winglet"
+    },
+    {
+      "geom_hash": "826d554c9aa98a4741b308731fb31974c21b4299",
+      "name": "rhodesg36"
+    },
+    {
+      "geom_hash": "95a1517b1d019c4c667cba308dc28fab046a775c",
+      "name": "ma409"
+    },
+    {
+      "geom_hash": "92fd778d74ae31a8a1d3fa0233f8dad1e72c2369",
+      "name": "n22"
+    },
+    {
+      "geom_hash": "8b6574dede00f11ef6289e9bc4a66f865221252a",
+      "name": "s8037"
+    }
+  ],
+  "files": [
+    {
+      "path": "E:\\GKI\\DeepLearWing.csv",
+      "temp_output": "D:\\codex_tmp_filter_noisy_geoms\\DeepLearWing.csv",
+      "status": "filtered",
+      "total_rows": 2170346,
+      "kept_rows": 2165818,
+      "removed_rows": 4528,
+      "removed_by_name_rows": 4528,
+      "removed_by_hash_rows": 0,
+      "matched_removed_names": [
+        "ah81k144wfklappe",
+        "fx72ls160",
+        "fx74modsm",
+        "marsden"
+      ],
+      "matched_removed_hashes": []
+    },
+    {
+      "path": "E:\\GKI\\deeplearwing_day2_tabular.csv",
+      "temp_output": "D:\\codex_tmp_filter_noisy_geoms\\deeplearwing_day2_tabular.csv",
+      "status": "filtered",
+      "total_rows": 20709,
+      "kept_rows": 20709,
+      "removed_rows": 0,
+      "removed_by_name_rows": 0,
+      "removed_by_hash_rows": 0,
+      "matched_removed_names": [],
+      "matched_removed_hashes": []
+    },
+    {
+      "path": "E:\\Project2\\deeplearwing_day2_tabular.csv",
+      "temp_output": "D:\\codex_tmp_filter_noisy_geoms\\deeplearwing_day2_tabular.csv",
+      "status": "filtered",
+      "total_rows": 695542,
+      "kept_rows": 687387,
+      "removed_rows": 8155,
+      "removed_by_name_rows": 8155,
+      "removed_by_hash_rows": 8155,
+      "matched_removed_names": [
+        "ah81k144wfklappe",
+        "fx72ls160",
+        "fx74modsm",
+        "marsden",
+        "mh126",
+        "s9104",
+        "s9104bte"
+      ],
+      "matched_removed_hashes": [
+        "01491628a439d1adbcc9e0e5b285151bcc2320ef",
+        "54a6efe9dc03ef9e01034faea79228df9ca9a7c3",
+        "660255a32bb402634492c4b13d5fe6a838627d5e",
+        "677a5a3db58643b41f5f19f7d1cfa20822124dc8",
+        "68e6350f16dfbb6cf4030dd6b694c6657b91b788",
+        "dcf331c60808834a2d2ff130b44a0eac1e5c3bc8",
+        "f3b2dc7680d02bd021e8272d8cc19d04e16057b0"
+      ]
+    },
+    {
+      "path": "E:\\Project2\\deeplearwing_day2_tabular.csv.gz",
+      "temp_output": "D:\\codex_tmp_filter_noisy_geoms\\deeplearwing_day2_tabular.csv.gz",
+      "status": "filtered",
+      "total_rows": 695542,
+      "kept_rows": 687387,
+      "removed_rows": 8155,
+      "removed_by_name_rows": 8155,
+      "removed_by_hash_rows": 8155,
+      "matched_removed_names": [
+        "ah81k144wfklappe",
+        "fx72ls160",
+        "fx74modsm",
+        "marsden",
+        "mh126",
+        "s9104",
+        "s9104bte"
+      ],
+      "matched_removed_hashes": [
+        "01491628a439d1adbcc9e0e5b285151bcc2320ef",
+        "54a6efe9dc03ef9e01034faea79228df9ca9a7c3",
+        "660255a32bb402634492c4b13d5fe6a838627d5e",
+        "677a5a3db58643b41f5f19f7d1cfa20822124dc8",
+        "68e6350f16dfbb6cf4030dd6b694c6657b91b788",
+        "dcf331c60808834a2d2ff130b44a0eac1e5c3bc8",
+        "f3b2dc7680d02bd021e8272d8cc19d04e16057b0"
+      ]
+    }
+  ]
+}

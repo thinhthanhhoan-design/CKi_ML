@@ -1,0 +1,9 @@
+﻿# Model Selection Report
+
+Architecture selection uses out-of-fold predictions from identical held-out geometry folds.
+Selected full-training architecture: **stall_weighted**
+
+| candidate      |   overall_mae |   overall_rmse |       r2 |   logo_mae |   r1_mae |   r1_rmse |   r1_bias |   r1_low_drag_mae |   r2_mae |   r2_rmse |   r2_bias |   stall_region_mae |   near_stall_mae |   post_stall_mae |   high_cd_tail_mae |   high_cd_tail_rmse |   high_cd_tail_bias |   coverage90 |   uq_pearson | uncertainty_quality   |   physics_violation_count | selection_source        |
+|:---------------|--------------:|---------------:|---------:|-----------:|---------:|----------:|----------:|------------------:|---------:|----------:|----------:|-------------------:|-----------------:|-----------------:|-------------------:|--------------------:|--------------------:|-------------:|-------------:|:----------------------|--------------------------:|:------------------------|
+| baseline       |      0.002136 |       0.003574 | 0.998027 |        nan | 0.001646 |  0.003506 | -0.000234 |          0.000994 | 0.002251 |  0.003945 | -0.00025  |           0.00214  |         0.001967 |         0.002134 |           0.003939 |            0.005966 |           -0.002218 |     0.888877 |          nan | CV_P50_ONLY           |                         0 | geometry_groupkfold_oof |
+| stall_weighted |      0.002038 |       0.003476 | 0.998134 |        nan | 0.00162  |  0.003405 | -0.000264 |          0.000973 | 0.002391 |  0.004087 | -0.000244 |           0.001973 |         0.001774 |         0.002051 |           0.004106 |            0.006101 |           -0.001037 |     0.898909 |          nan | CV_P50_ONLY           |                         0 | geometry_groupkfold_oof |

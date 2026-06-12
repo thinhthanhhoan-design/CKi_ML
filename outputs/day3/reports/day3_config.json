@@ -1,0 +1,19 @@
+{
+  "input_csv": "deeplearwing_day2_tabular.csv",
+  "output_dir": "outputs/day3",
+  "test_size": 0.2,
+  "random_state": 42,
+  "max_rows": 250000,
+  "use_geometry_vector": false,
+  "ridge_alpha": 3.0,
+  "poly_ridge_alpha": 10.0,
+  "asymmetric_over_weight": 10.0,
+  "stall_aoa_threshold": 10.0,
+  "high_stall_aoa_threshold": 12.0,
+  "low_re_threshold": 80000.0,
+  "cl_clip_min": -2.5,
+  "cl_clip_max": 2.2,
+  "high_stall_cl_cap": 1.6,
+  "min_cd_physical": 1e-05,
+  "cd_high_threshold": 0.08
+}

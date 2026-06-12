@@ -1,0 +1,7 @@
+﻿Missing required feature columns
+abs_angle
+signed_angle_sq
+angle_cu
+angle_x_log10_re
+abs_angle_x_log10_re
+r1_edge_proximity

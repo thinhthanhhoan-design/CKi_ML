@@ -1,0 +1,30 @@
+[
+  {
+    "path": "E:\\GKI\\DeepLearWing.csv",
+    "exists": true,
+    "rows": 2165818,
+    "remaining_removed_name_rows": 0,
+    "remaining_removed_hash_rows": 0
+  },
+  {
+    "path": "E:\\GKI\\deeplearwing_day2_tabular.csv",
+    "exists": true,
+    "rows": 652380,
+    "remaining_removed_name_rows": 0,
+    "remaining_removed_hash_rows": 0
+  },
+  {
+    "path": "E:\\Project2\\deeplearwing_day2_tabular.csv",
+    "exists": true,
+    "rows": 687387,
+    "remaining_removed_name_rows": 0,
+    "remaining_removed_hash_rows": 0
+  },
+  {
+    "path": "E:\\Project2\\deeplearwing_day2_tabular.csv.gz",
+    "exists": true,
+    "rows": 687387,
+    "remaining_removed_name_rows": 0,
+    "remaining_removed_hash_rows": 0
+  }
+]

@@ -1,0 +1,10 @@
+﻿# Champion Selection Report
+
+Selected champion: **stall_weighted**
+
+Selection priorities: stall-region MAE -> uncertainty quality -> RMSE -> R2 -> physics violations. Geometry refit validation is removed.
+
+| candidate      |   overall_mae |   overall_rmse |       r2 |   logo_mae |     r1_mae |    r1_rmse |      r1_bias |   r1_low_drag_mae |     r2_mae |    r2_rmse |      r2_bias |   stall_region_mae |   near_stall_mae |   post_stall_mae |   high_cd_tail_mae |   high_cd_tail_rmse |   high_cd_tail_bias |   coverage90 |   uq_pearson | uncertainty_quality   |   physics_violation_count | selection_source        |   uq_pass_rank |
+|:---------------|--------------:|---------------:|---------:|-----------:|-----------:|-----------:|-------------:|------------------:|-----------:|-----------:|-------------:|-------------------:|-----------------:|-----------------:|-------------------:|--------------------:|--------------------:|-------------:|-------------:|:----------------------|--------------------------:|:------------------------|---------------:|
+| stall_weighted |    0.00203764 |     0.0034759  | 0.998134 |        nan | 0.00162009 | 0.00340543 | -0.000264121 |       0.000972582 | 0.0023909  | 0.00408673 | -0.00024403  |         0.00197281 |       0.00177444 |       0.00205124 |         0.00410593 |          0.00610059 |         -0.00103694 |     0.898909 |          nan | CV_P50_ONLY           |                         0 | geometry_groupkfold_oof |              0 |
+| baseline       |    0.00213578 |     0.00357401 | 0.998027 |        nan | 0.00164644 | 0.00350625 | -0.000234373 |       0.000993537 | 0.00225093 | 0.0039451  | -0.000249561 |         0.00213961 |       0.00196715 |       0.00213393 |         0.00393893 |          0.00596553 |         -0.00221761 |     0.888877 |          nan | CV_P50_ONLY           |                         0 | geometry_groupkfold_oof |              0 |

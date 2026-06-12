@@ -1,13 +1,15 @@
 *.csv
 *.csv.gz
 *.parquet
-# *.joblib
-# *.pkl
+*.joblib
+*.pkl
 *.log
 *.zip
 *.rar
-outputs/
-models/
 __pycache__/
 .ipynb_checkpoints/
 .venv/
+outputs/deploy_app/runs/
+outputs/deploy_app/uploads/
+
+
