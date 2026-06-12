@@ -1,0 +1,2922 @@
+[
+{
+"style": "Normal",
+"text": "ĐẠI HỌC QUỐC GIA HÀ NỘI"
+},
+{
+"style": "Normal",
+"text": "TRƯỜNG ĐẠI HỌC CÔNG NGHỆ"
+},
+{
+"style": "Normal",
+"text": "BÁO CÁO KẾT THÚC HỌC PHẦN"
+},
+{
+"style": "Normal",
+"text": "XÂY DỰNG MÔ HÌNH HỌC MÁY TỐI ƯU HOÁ BIÊN DẠNG VÀ DỰ ĐOÁN KHÍ ĐỘNG HỌC CÁNH MÁY BAY DỰA TRÊN MẶT CẮT 2D"
+},
+{
+"style": "Normal",
+"text": "Lớp học phần:                          CTE3103_1"
+},
+{
+"style": "Normal",
+"text": "Giảng viên hướng dẫn:            TS. Phạm Đình Nguyện\n                                                                    KS. Nguyễn Văn Duy"
+},
+{
+"style": "Normal",
+"text": "Người thực hiện:                      Nguyễn Văn Hoan"
+},
+{
+"style": "Normal",
+"text": "Mã sinh viên:                           24022994"
+},
+{
+"style": "Normal",
+"text": "HÀ NỘI – 2026"
+},
+{
+"style": "Normal",
+"text": "ĐẠI HỌC QUỐC GIA HÀ NỘI"
+},
+{
+"style": "Normal",
+"text": "TRƯỜNG ĐẠI HỌC CÔNG NGHỆ"
+},
+{
+"style": "Normal",
+"text": "MÔN HỌC: ỨNG DỤNG HỌC MÁY TRONG THIẾT KẾ"
+},
+{
+"style": "Normal",
+"text": "XÂY DỰNG MÔ HÌNH HỌC MÁY TỐI ƯU HOÁ BIÊN DẠNG VÀ DỰ ĐOÁN KHÍ ĐỘNG HỌC CÁNH MÁY BAY DỰA TRÊN MẶT CẮT 2D"
+},
+{
+"style": "Normal",
+"text": "Lớp học phần:                          CTE3103_1"
+},
+{
+"style": "Normal",
+"text": "Giảng viên hướng dẫn:            TS. Phạm Đình Nguyện"
+},
+{
+"style": "Normal",
+"text": "KS. Nguyễn Văn Duy"
+},
+{
+"style": "Normal",
+"text": "Người thực hiện:                      Nguyễn Văn Hoan"
+},
+{
+"style": "Normal",
+"text": "Mã sinh viên:                           24022994"
+},
+{
+"style": "Normal",
+"text": "HÀ NỘI – 2026"
+},
+{
+"style": "No Spacing",
+"text": "LỜI CẢM ƠN"
+},
+{
+"style": "Body Text",
+"text": "Trước hết, em xin chân thành cảm ơn tới giảng viên là TS. Phạm Đình Nguyện và KS. Nguyễn Văn Duy là giảng viên đảm nhận bộ môn Ứng dụng học máy trong thiết kế, đã truyền đạt cho em những kiến thức nền tảng và chuyên môn cần thiết để thực hiện đề tài."
+},
+{
+"style": "Body Text",
+"text": "Đề tài “Xây dựng mô hình học máy tối ưu hoá biên dạng và dự đoán khí động học cánh máy bay NACA 4-Digits” là cơ hội để em vận dụng các kiến thức về học máy, phân tích dữ liệu và khí động học vào một bài toán kỹ thuật thực tế. Nó là một trong những đề tài mà có liên quan chuyên ngành mà em muốn theo đuổi – thiết kế công nghiệp và kĩ thuật. Mặc dù đã cố gắng hoàn thành báo cáo với tinh thần nghiêm túc và trách nhiệm cao, do hạn chế về thời gian, kinh nghiệm và kiến thức chuyên môn, báo cáo khó tránh khỏi những thiếu sót. Em rất mong nhận được những ý kiến đóng góp và nhận xét từ các thầy cô để tiếp tục hoàn thiện đề tài trong thời gian tới."
+},
+{
+"style": "Body Text",
+"text": "Em xin chân thành cảm ơn và đón nhận những lời khuyên, nhận xét xác đáng đến từ các giảng viên bộ môn ạ!"
+},
+{
+"style": "Body Text",
+"text": "Hà Nội, ngày 11 tháng 06 năm 2026"
+},
+{
+"style": "Body Text",
+"text": "Sinh viên thực hiện"
+},
+{
+"style": "Body Text",
+"text": "Nguyễn Văn Hoan"
+},
+{
+"style": "Normal",
+"text": "LỜI CAM ĐOAN"
+},
+{
+"style": "Normal",
+"text": "Em tên là: Nguyễn Văn Hoan"
+},
+{
+"style": "Normal",
+"text": "Em xin cam đoan rằng bài tập lần này do chính em tự tìm hiểu và nghiên cứu, nếu có thắc mắc hoặc nghi vấn đạo văn, đạo bài, em sẽ chịu hoàn toàn trách nhiệm theo quy chế đào tạo."
+},
+{
+"style": "Normal",
+"text": "Hà Nội, ngày 11 tháng 06 năm 2026"
+},
+{
+"style": "Normal",
+"text": "Người cam đoan"
+},
+{
+"style": "Normal",
+"text": "Nguyễn Văn Hoan"
+},
+{
+"style": "Normal",
+"text": "TÓM TẮT"
+},
+{
+"style": "Normal",
+"text": "Hiện nay, quá trình thiết kế và tối ưu hóa biên dạng cánh máy bay thường đòi hỏi nhiều lần mô phỏng khí động học nhằm đánh giá các đặc tính như lực nâng, lực cản và hiệu suất khí động học. Tuy nhiên, các phương pháp mô phỏng CFD truyền thống có chi phí tính toán lớn và thời gian thực hiện dài, gây khó khăn cho việc khảo sát số lượng lớn phương án thiết kế. Để giải quyết vấn đề này, đề tài đề xuất xây dựng mô hình học máy thay thế nhằm dự đoán nhanh các đặc tính khí động học của biên dạng cánh và hỗ trợ quá trình tối ưu hóa thiết kế. Trong nghiên cứu, dữ liệu được xây dựng từ các biên dạng thuộc họ NACA 4-Digits kết hợp với các điều kiện vận hành khác nhau. Các đặc trưng hình học được trích xuất từ tọa độ airfoil và sử dụng làm đầu vào cho các mô hình học máy. Các thuật toán CatBoost Regressor, Random Forest Regressor và Extra Trees Regressor được sử dụng để dự đoán hệ số lực nâng và hệ số lực cản. Kết quả thực nghiệm cho thấy các mô hình đạt độ chính xác cao và duy trì khả năng tổng quát hóa tốt đối với các biên dạng chưa xuất hiện trong quá trình huấn luyện. Trên cơ sở các mô hình dự đoán đã xây dựng, đề tài thực hiện tối ưu hóa tỷ số lực nâng trên lực cản L/D nhằm tìm kiếm các biên dạng có hiệu suất khí động học cao hơn. Kết quả nghiên cứu cho thấy cách tiếp cận kết hợp giữa học máy và mô phỏng khí động học có khả năng rút ngắn đáng kể thời gian đánh giá thiết kế, đồng thời vẫn duy trì độ tin cậy cần thiết cho giai đoạn thiết kế sơ bộ airfoil."
+},
+{
+"style": "Normal",
+"text": "Từ khóa: Biên dạng cánh NACA 4-Digits, học máy, mô hình thay thế, hệ số lực nâng, hệ số lực cản, tỷ số lực nâng trên lực cản, tối ưu hóa khí động học."
+},
+{
+"style": "Normal",
+"text": "MỤC LỤC"
+},
+{
+"style": "toc 1",
+"text": "MỞ ĐẦU\t12"
+},
+{
+"style": "toc 1",
+"text": "CHƯƠNG 1: TỔNG QUAN ĐỀ TÀI\t13"
+},
+{
+"style": "toc 2",
+"text": "1.1.\tĐặt vấn đề\t13"
+},
+{
+"style": "toc 2",
+"text": "1.2.\tMục tiêu nghiên cứu\t14"
+},
+{
+"style": "toc 2",
+"text": "1.3.\tĐối tượng nghiên cứu\t15"
+},
+{
+"style": "toc 2",
+"text": "1.4.\tPhạm vi nghiên cứu\t16"
+},
+{
+"style": "toc 2",
+"text": "1.5.\tÝ nghĩa khoa học và thực tiễn\t17"
+},
+{
+"style": "toc 1",
+"text": "CHƯƠNG 2 CƠ SỞ LÝ THUYẾT VÀ PHƯƠNG PHÁP NGHIÊN CỨU\t17"
+},
+{
+"style": "toc 2",
+"text": "2.1. Cơ sở khí động học cho biên dạng cánh\t17"
+},
+{
+"style": "toc 3",
+"text": "2.1.1. Góc tấn và ảnh hưởng đến lực nâng\t18"
+},
+{
+"style": "toc 3",
+"text": "2.1.2. Cơ sở vật lý của sự hình thành lực nâng.\t18"
+},
+{
+"style": "toc 3",
+"text": "2.1.3. Định lý Kutta–Joukowski và vai trò của hình dạng hình học.\t19"
+},
+{
+"style": "toc 3",
+"text": "2.1.4. Lực nâng, lực cản và mô men khí động học\t19"
+},
+{
+"style": "toc 3",
+"text": "2.1.5. Số Reynolds và lớp biên\t21"
+},
+{
+"style": "toc 3",
+"text": "2.1.6. Hiện tượng thất tốc\t21"
+},
+{
+"style": "toc 3",
+"text": "2.1.7. Liên hệ giữa khí động học và đặc trưng hình học\t22"
+},
+{
+"style": "toc 2",
+"text": "2.2. Biểu diễn hình học biên dạng cánh\t23"
+},
+{
+"style": "toc 3",
+"text": "2.2.1. Hệ tọa độ biên dạng cánh\t23"
+},
+{
+"style": "toc 3",
+"text": "2.2.2. Đường dây cung và đường cong trung bình\t24"
+},
+{
+"style": "toc 3",
+"text": "2.2.3. Phân bố độ dày và độ cong hình học cục bộ\t24"
+},
+{
+"style": "toc 3",
+"text": "2.2.4. Biểu diễn hình học trong không gian nhiều chiều\t25"
+},
+{
+"style": "toc 2",
+"text": "2.3. Geometry mainfold của biên dạng cánh\t26"
+},
+{
+"style": "toc 3",
+"text": "2.3.1. Giả thuyết manifold thấp chiều của dữ liệu airfoil\t27"
+},
+{
+"style": "toc 3",
+"text": "2.3.2. Cơ sở vật lý của Geometry Manifold\t27"
+},
+{
+"style": "toc 3",
+"text": "2.3.3. Geometry Manifold và học máy khí động học\t28"
+},
+{
+"style": "toc 3",
+"text": "2.3.4. Geometry Manifold trong CKi_ML\t30"
+},
+{
+"style": "toc 2",
+"text": "2.4. Trích xuất đặc trưng hình học\t31"
+},
+{
+"style": "toc 3",
+"text": "2.4.1. Vai trò của Feature Engineering trong dự đoán khí động học\t31"
+},
+{
+"style": "toc 3",
+"text": "2.4.2. Phân loại các nhóm đặc trưng\t31"
+},
+{
+"style": "toc 3",
+"text": "2.4.3. Ý nghĩa vật lý và khả năng tổng quát hóa của các đặc trưng hình học\t34"
+},
+{
+"style": "toc 2",
+"text": "2.5. Mô hình học máy thay thế CFD\t35"
+},
+{
+"style": "toc 3",
+"text": "2.5.1. Động cơ sử dụng mô hình học máy trong khí động học\t35"
+},
+{
+"style": "toc 3",
+"text": "2.5.2. Bản chất của surrogate modeling trong CKi_ML\t37"
+},
+{
+"style": "toc 3",
+"text": "2.5.3. Các mô hình hồi quy cây quyết định\t37"
+},
+{
+"style": "toc 3",
+"text": "2.5.4. Ensemble Learning và khả năng tổng quát hóa\t39"
+},
+{
+"style": "toc 3",
+"text": "2.5.5. Vai trò của surrogate model trong bài\t39"
+},
+{
+"style": "toc 2",
+"text": "2.6. Tối ưu hoá khí động học biên dạng cánh\t40"
+},
+{
+"style": "toc 3",
+"text": "2.6.1. Không gian thiết kế khí động học\t40"
+},
+{
+"style": "toc 3",
+"text": "2.6.2. Phát biểu bài toán tối ưu hóa biên dạng cánh\t41"
+},
+{
+"style": "toc 3",
+"text": "2.6.3. Tối ưu hóa trong không gian đặc trưng hình học\t41"
+},
+{
+"style": "toc 3",
+"text": "2.6.4. Vai trò của Geometry Manifold trong tối ưu hóa\t42"
+},
+{
+"style": "toc 3",
+"text": "2.6.5. Surrogate-Based Optimization\t43"
+},
+{
+"style": "toc 3",
+"text": "2.6.6. Quy trình tối ưu hóa trong CKi_ML\t44"
+},
+{
+"style": "toc 2",
+"text": "2.7. Đánh giá và kiểm chứng mô hình\t45"
+},
+{
+"style": "toc 3",
+"text": "2.7.1. Các chỉ tiêu đánh giá sai số\t45"
+},
+{
+"style": "toc 3",
+"text": "2.7.6. Đánh giá theo nhóm hình học\t47"
+},
+{
+"style": "toc 1",
+"text": "CHƯƠNG 3 GIẢI QUYẾT VẤN ĐỀ\t49"
+},
+{
+"style": "toc 2",
+"text": "3.1. Tổng quan quá trình nghiên cứu\t49"
+},
+{
+"style": "toc 3",
+"text": "3.2. Thu thập và xây dựng bộ dữ liệu\t51"
+},
+{
+"style": "toc 3",
+"text": "3.2.1. Nguồn dữ liệu hình học biên dạng cánh\t51"
+},
+{
+"style": "toc 3",
+"text": "3.2.2. Xây dựng dữ liệu khí động học\t51"
+},
+{
+"style": "toc 3",
+"text": "3.2.3. Miền khảo sát khí động học\t52"
+},
+{
+"style": "toc 2",
+"text": "3.3. Tiền xử lý và kiểm soát chất lượng dữ liệu\t54"
+},
+{
+"style": "toc 3",
+"text": "3.3.1. Chuẩn hoá hình học biên dạng\t54"
+},
+{
+"style": "toc 3",
+"text": "3.3.2. Nội suy lại số lượng điểm tọa độ\t55"
+},
+{
+"style": "toc 3",
+"text": "3.3.3. Kiểm tra tính hợp lệ của biên dạng\t56"
+},
+{
+"style": "toc 3",
+"text": "3.3.4. Kiểm tra khí động học và phát hiện ngoại lại bằng isolation forest\t57"
+},
+{
+"style": "toc 2",
+"text": "3.4. Trích xuất và xây dựng đặc trưng hình học\t58"
+},
+{
+"style": "toc 3",
+"text": "3.4.1. Nguyên tắc xây dựng descriptor hình học\t58"
+},
+{
+"style": "toc 3",
+"text": "3.4.2 Phân loại các nhóm đặc trưng\t59"
+},
+{
+"style": "toc 3",
+"text": "3.4.3. Kiểm định descriptor và xây dựng chỉ số chất lượng dữ liệu\t61"
+},
+{
+"style": "toc 3",
+"text": "3.4.4. Xây dựng đặc trưng điều kiện dòng chảy\t62"
+},
+{
+"style": "toc 3",
+"text": "3.4.5. Xây dựng bộ dữ liệu học máy\t62"
+},
+{
+"style": "toc 1",
+"text": "TÀI LIỆU THAM KHẢO\t63"
+},
+{
+"style": "Normal",
+"text": "Danh mục hình và sơ đồ"
+},
+{
+"style": "table of figures",
+"text": "Hình 2.2.1. Histogram của AOA, CL, CD và L/D trong bộ dữ liệu.\t28"
+},
+{
+"style": "table of figures",
+"text": "Hình 2.2.2. Ma trận tương quan giữa các biến khí động học và đặc trưng hình học chính.\t29"
+},
+{
+"style": "table of figures",
+"text": "Hình 2.3.1. Một số biên dạng airfoil điển hình trong bộ dữ liệu.\t33"
+},
+{
+"style": "table of figures",
+"text": "Hình 2.4.1. Quy trình kiểm định chéo trong nghiên cứu\t37"
+},
+{
+"style": "table of figures",
+"text": "Hình 2.5.1. Learning curve của mô hình CL tốt nhất.\t39"
+},
+{
+"style": "table of figures",
+"text": "Hình 2.5.2. Learning curve của mô hình CD tốt nhất.\t39"
+},
+{
+"style": "table of figures",
+"text": "Hình 2.5.3. So sánh sai số tổng quát hóa giữa CL, CD và L/D.\t40"
+},
+{
+"style": "table of figures",
+"text": "Hình 3.1.1. So sánh sai số RMSE giữa các mô hình cho bài toán dự đoán CL.\t42"
+},
+{
+"style": "table of figures",
+"text": "Hình 3.1.2. Parity plot của mô hình dự đoán CL tốt nhất.\t43"
+},
+{
+"style": "table of figures",
+"text": "Hình 3.1.3. Độ quan trọng của các đặc trưng đối với mô hình dự đoán Cl\t43"
+},
+{
+"style": "table of figures",
+"text": "Hình 3.2.1. So sánh sai số RMSE giữa các mô hình cho bài toán dự đoán CD.\t44"
+},
+{
+"style": "table of figures",
+"text": "Hình 3.2.3 Độ quan trọng của các đặc trưng đối với mô hình dự đoán CD.\t45"
+},
+{
+"style": "table of figures",
+"text": "Kết quả tối ưu trên không gian NACA 4-Digits\t46"
+},
+{
+"style": "table of figures",
+"text": "Hình 3.3.1. So sánh hình học giữa airfoil ban đầu và airfoil tối ưu tốt nhất.\t47"
+},
+{
+"style": "table of figures",
+"text": "Hình 3.3.2. Chồng hình học của 5 ứng viên tối ưu tốt nhất so với airfoil ban đầu.\t47"
+},
+{
+"style": "table of figures",
+"text": "Hình 3.3.4. So sánh hiệu năng khí động học giữa baseline, dự đoán model train và kết quả kiểm chứng NeuralFoil của phương án tối ưu tốt nhất.\t48"
+},
+{
+"style": "Normal",
+"text": "DANH MỤC BẢNG BIỂU"
+},
+{
+"style": "table of figures",
+"text": "Bảng 2.2.1. Thống kê mô tả một số feature chính trong bộ dữ liệu.\t27"
+},
+{
+"style": "table of figures",
+"text": "Bảng 2.3.1. Kết quả làm sạch dữ liệu.\t31"
+},
+{
+"style": "table of figures",
+"text": "Bảng 2.4.1. Cấu hình chính của các mô hình được sử dụng.\t35"
+},
+{
+"style": "table of figures",
+"text": "Bảng 2.5.1. So sánh các mô hình cho bài toán dự đoán CL.\t37"
+},
+{
+"style": "table of figures",
+"text": "Bảng 2.5.2. So sánh các mô hình cho bài toán dự đoán CD.\t38"
+},
+{
+"style": "table of figures",
+"text": "Bảng 2.5.3. Tổng hợp kết quả đánh giá theo nhóm airfoil.\t39"
+},
+{
+"style": "table of figures",
+"text": "Bảng 3.1.1. Kết quả chi tiết của các mô hình cho bài toán dự đoán CL.\t41"
+},
+{
+"style": "table of figures",
+"text": "Bảng 3.2.1. Kết quả chi tiết của các mô hình cho bài toán dự đoán CD.\t44"
+},
+{
+"style": "table of figures",
+"text": "Bảng 3.3.1. Kết quả ứng viên tối ưu toàn cục tốt nhất trong không gian NACA 4-Digits.\t46"
+},
+{
+"style": "table of figures",
+"text": "Bảng 3.3.2. So sánh giữa airfoil ban đầu và airfoil tối ưu tốt nhất.\t46"
+},
+{
+"style": "table of figures",
+"text": "Bảng 3.3.3 So sánh dự đoán surrogate và kiểm chứng NeuralFoil cho các ứng viên tối ưu tốt nhất.\t47"
+},
+{
+"style": "Normal",
+"text": "DANH MỤC CHỮ VIẾT TẮT"
+},
+{
+"style": "Heading 1",
+"text": "MỞ ĐẦU"
+},
+{
+"style": "Body Text",
+"text": "Trong lĩnh vực thiết kế khí động học, việc lựa chọn và tối ưu hóa biên dạng cánh đóng vai trò quan trọng đối với hiệu suất hoạt động của máy bay, máy bay không người lái (UAV) và nhiều hệ thống làm việc trong môi trường dòng chảy. Các đặc tính khí động học của biên dạng cánh thường được đánh giá thông qua các đại lượng như hệ số lực nâng, hệ số lực cản và tỷ số lực nâng trên lực cản (L/D). Tuy nhiên, quá trình đánh giá các đại lượng này CFD thường đòi hỏi chi phí tính toán lớn và thời gian xử lý dài, đặc biệt khi cần khảo sát số lượng lớn phương án thiết kế trong các bài toán tối ưu hóa."
+},
+{
+"style": "Body Text",
+"text": "Sự phát triển của học máy trong những năm gần đây đã mở ra hướng tiếp cận mới cho các bài toán thiết kế kỹ thuật. Thay vì thực hiện mô phỏng CFD cho từng phương án hình học, mô hình học máy có thể được huấn luyện từ dữ liệu khí động học để xây dựng các mô hình thay thế, cho phép dự đoán nhanh các đặc tính khí động học với chi phí tính toán thấp hơn đáng kể. Cách tiếp cận này giúp rút ngắn thời gian đánh giá thiết kế, đồng thời tạo điều kiện thuận lợi cho việc tìm kiếm và tối ưu hóa các biên dạng cánh có hiệu suất cao."
+},
+{
+"style": "Body Text",
+"text": "Xuất phát từ thực tiễn đó, đề tài “Xây dựng mô hình học máy tối ưu hoá biên dạng và dự đoán khí động học cánh máy bay NACA 4-Digits” được thực hiện với mục tiêu xây dựng mô hình học máy dự đoán hệ số lực nâng và hệ số lực cản của các biên dạng thuộc họ NACA 4-Digits, từ đó hỗ trợ quá trình tối ưu hóa hình dạng nhằm nâng cao hiệu suất khí động học. Nghiên cứu sử dụng dữ liệu khí động học được xây dựng từ NeuralFoil, kết hợp với các đặc trưng hình học được trích xuất từ tọa độ thực của airfoil. Các thuật toán học máy như CatBoost Regressor, Random Forest Regressor và Extra Trees Regressor được sử dụng để xây dựng các mô hình dự đoán."
+},
+{
+"style": "Body Text",
+"text": "Kết quả nghiên cứu cho thấy mô hình CatBoost đạt độ chính xác cao đối với bài toán dự đoán hệ số lực nâng, trong khi mô hình Extra Trees cho kết quả tốt nhất đối với bài toán dự đoán hệ số lực cản. Trên cơ sở các mô hình đã xây dựng, đề tài thực hiện tối ưu hóa biên dạng trong không gian thiết kế NACA 4-Digits nhằm tìm kiếm các phương án có tỷ số lực nâng trên lực cản cao hơn so với thiết kế ban đầu. Các nghiệm tối ưu sau đó được kiểm chứng lại bằng NeuralFoil để đánh giá độ tin cậy và tính hợp lý về mặt khí động học."
+},
+{
+"style": "Body Text",
+"text": "Báo cáo được tổ chức thành ba chương chính. Chương 1 trình bày tổng quan đề tài, cơ sở lý thuyết và phương pháp nghiên cứu. Chương 2 trình bày quy trình xây dựng dữ liệu, trích xuất đặc trưng, huấn luyện và đánh giá mô hình học máy. Chương 3 trình bày các kết quả thực nghiệm, kết quả tối ưu hóa biên dạng cánh, các kết luận đạt được cũng như những định hướng phát triển trong tương lai."
+},
+{
+"style": "Heading 1",
+"text": "CHƯƠNG 1: TỔNG QUAN ĐỀ TÀI"
+},
+{
+"style": "Heading 2",
+"text": "Đặt vấn đề"
+},
+{
+"style": "Body Text",
+"text": "Trong bối cảnh ngành hàng không phát triển mạnh mẽ và các lĩnh vực liên quan đến khí động học, việc tối ưu hóa thiết kế biên dạng cánh ngày càng trở nên cấp thiết. Các đặc tính khí động học của biên dạng cánh (airfoil) như hệ số lực nâng (CL), lực cản (CD) và mô men (CM) là nền tảng cho việc thiết kế, phân tích và tối ưu hóa hiệu suất khí động học."
+},
+{
+"style": "Body Text",
+"text": "Các phương pháp truyền thống dựa trên mô phỏng số (CFD - Computational Fluid Dynamics) mặc dù có độ chính xác cao nhưng yêu cầu nguồn lực tính toán lớn và thời gian xử lý kéo dài, đặc biệt đối với các bài toán tối ưu hóa với không gian tham số rộng [1]. Do đó, nhu cầu phát triển các phương pháp mô hình hóa thay thế (surrogate modeling) ngày càng tăng nhằm rút ngắn thời gian, giảm chi phí tính toán và vẫn đảm bảo độ chính xác cần thiết [2]."
+},
+{
+"style": "Body Text",
+"text": "Trong các bài toán thiết kế khí động học hiện đại, tối ưu hóa biên dạng cánh yêu cầu khảo sát một không gian thiết kế rộng lớn. Mỗi lần thay đổi hình dạng cánh đều phải thực hiện lại quá trình đánh giá khí động học. Việc sử dụng CFD hoặc các công cụ phân tích truyền thống như XFOIL có thể kéo dài tổng thời gian tính toán từ nhiều giờ đến nhiều ngày, qua đó hạn chế đáng kể khả năng khám phá không gian thiết kế và tối ưu hóa toàn cục [2]."
+},
+{
+"style": "Body Text",
+"text": "Gần đây, các kỹ thuật học máy (machine learning) và trí tuệ nhân tạo đã được ứng dụng rộng rãi để xây dựng mô hình thay thế cho các quá trình vật lý phức tạp, đặc biệt trong lĩnh vực khí động học [3]. Các mô hình học sâu, điển hình như NeuralFoil, đã chứng minh hiệu quả trong dự đoán các đặc tính khí động học của biên dạng cánh, với độ chính xác cao và tốc độ vượt trội so với các mô phỏng CFD truyền thống [4]. Tuy nhiên, quá trình xây dựng, huấn luyện và áp dụng các mô hình surrogate vẫn gặp nhiều thách thức liên quan đến chất lượng dữ liệu, phạm vi áp dụng và khả năng tổng quát hóa của mô hình [5]."
+},
+{
+"style": "Body Text",
+"text": "Các nghiên cứu gần đây cho thấy các mô hình surrogate dựa trên học máy có thể giảm đáng kể thời gian đánh giá khí động học, đồng thời duy trì độ chính xác chấp nhận được cho các bài toán thiết kế và tối ưu hóa [1], [4]. Đặc biệt, sự phát triển của các công cụ phân tích khí động học dựa trên học máy như NeuralFoil đã chứng minh tính khả thi của việc thay thế các phương pháp truyền thống bằng các mô hình học máy được xây dựng từ dữ liệu khí động học quy mô lớn [5]."
+},
+{
+"style": "Body Text",
+"text": "Dựa trên các vấn đề thực tiễn đã nêu, nghiên cứu này tập trung vào việc xây dựng mô hình học máy nhằm dự đoán nhanh các hệ số khí động học CL, CD, CM từ các đặc trưng hình học của biên dạng cánh, đồng thời tích hợp mô hình này vào quy trình tối ưu hóa để tìm kiếm các cấu hình tối ưu mà không cần lặp lại nhiều phép mô phỏng CFD tốn kém. Điểm mới của nghiên cứu là phát triển và thử nghiệm một quy trình tối ưu hóa dựa trên mô hình surrogate học sâu, được huấn luyện từ tập dữ liệu đa dạng gồm nhiều họ biên dạng và các điều kiện dòng chảy khác nhau, qua đó đánh giá khả năng tổng quát hóa và hiệu quả dự đoán của mô hình trên các tập kiểm thử chưa từng gặp trước. Ngoài ra, nghiên cứu tiến hành so sánh trực tiếp kết quả dự đoán của mô hình với mô phỏng CFD và các công cụ học máy hiện có như NeuralFoil, nhằm làm rõ tiềm năng nâng cao độ chính xác và tốc độ phục vụ cho thiết kế khí động học. Mục tiêu cuối cùng là đề xuất một mô hình surrogate khả thi, phục vụ dự đoán và tối ưu hóa biên dạng cánh nhanh chóng, chính xác và hiệu quả."
+},
+{
+"style": "Heading 2",
+"text": "Mục tiêu nghiên cứu"
+},
+{
+"style": "Body Text",
+"text": "Việc phát triển các mô hình surrogate dựa trên học máy trong lĩnh vực khí động học là một hướng tiếp cận hiện đại, góp phần giải quyết các thách thức lớn về chi phí và thời gian tính toán trong quá trình tối ưu hóa biên dạng cánh. Đặc biệt, trong bối cảnh nhu cầu tối ưu hóa hình dạng cánh máy bay ngày càng tăng, các mô hình này được kỳ vọng sẽ hỗ trợ mở rộng không gian thiết kế và nâng cao hiệu suất khí động học."
+},
+{
+"style": "Body Text",
+"text": "Mục tiêu tổng quát của nghiên cứu là đề xuất, xây dựng và đánh giá một mô hình surrogate sử dụng các thuật toán học máy hiện đại nhằm dự đoán nhanh các đặc tính khí động học (CL, CD, CM) của biên dạng cánh hai chiều dựa trên cơ sở dữ liệu lớn. Ngoài ra, nghiên cứu hướng tới việc tích hợp mô hình này vào quy trình tối ưu hóa hình dạng cánh, qua đó giảm số lần sử dụng các mô phỏng CFD truyền thống vốn tốn kém về tài nguyên. Mục tiêu cuối cùng là phát triển một công cụ dự đoán và tối ưu hóa có thể áp dụng hiệu quả trong thiết kế khí Để hiện thực hóa mục tiêu tổng quát, nghiên cứu tập trung vào các mục tiêu cụ thể sau đây:cụ thể sau:"
+},
+{
+"style": "Body Text",
+"text": "Xây dựng bộ dữ liệu khí động học đa dạng, có tính đại diện cao, bao gồm các biên dạng cánh phổ biến thuộc các họ NACA, UIUC và nhiều điều kiện dòng chảy khác nhau, nhằm đảm bảo quá trình huấn luyện và đánh giá mô hình học máy đạt độ tin cậy trong dự đoán các đặc tính khí động học của biên dạng cánh."
+},
+{
+"style": "Body Text",
+"text": "Phát triển quy trình trích xuất và xử lý các đặc trưng hình học từ dữ liệu biên dạng cánh, nhằm hỗ trợ mô hình học máy nhận diện, phân tích và khai thác tối đa thông tin phục vụ dự đoán các đại lượng khí động học của biên dạng cánh."
+},
+{
+"style": "Body Text",
+"text": "Ứng dụng các thuật toán học máy tiên tiến (như học sâu hoặc hồi quy phi tuyến) để xây dựng mô hình surrogate dự đoán chính xác các hệ số lực nâng (CL), lực cản (CD) và mô men (CM) dựa trên thông tin hình học và điều kiện dòng chảy. Mô hình được kiểm chứng thông qua quy trình kiểm thử khoa học, bao gồm việc chia dữ liệu thành các tập huấn luyện, kiểm tra và kiểm thử độc lập (ví dụ: chia theo tỷ lệ 70% huấn luyện, 15% kiểm tra và 15% kiểm thử). Cụ thể, nghiên cứu này sử dụng bộ dữ liệu gồm 10.000 mẫu biên dạng cánh với các điều kiện dòng chảy đa dạng, sau đó chia ngẫu nhiên thành 7.000 mẫu cho quá trình huấn luyện, 1.500 mẫu cho kiểm tra (validation) và 1.500 mẫu cho kiểm thử độc lập (testing). Trường hợp kiểm thử điển hình là đánh giá mô hình trên các biên dạng cánh thuộc các họ thiết kế chưa từng xuất hiện trong bộ huấn luyện, nhằm kiểm tra khả năng tổng quát hóa của mô hình đối với các trường hợp mới. Tiêu chí đánh giá mô hình tập trung vào các chỉ số như MSE (mean squared error), MAE (mean absolute error), R² (coefficient of determination) và so sánh kết quả dự đoán với dữ liệu thực tế. Ngoài ra, quá trình kiểm thử cũng xem xét khả năng tổng quát hóa của mô hình trên các tập dữ liệu chưa từng gặp, đồng thời so sánh với các phương pháp truyền thống. Nghiên cứu cũng phân tích các yếu tố ảnh hưởng đến chất lượng mô hình như độ đa dạng của dữ liệu, lựa chọn đặc trưng và cấu trúc thuật toTriển khai quy trình tối ưu hóa hình dạng biên dạng cánh dựa trên mô hình surrogate đã được huấn luyện nhằm tăng tốc độ tìm kiếm cấu hình tối ưu, giảm chi phí tính toán và mở rộng ứng dụng thực tiễn trong thiết kế khí động học. Kết quả tối ưu và độ tin cậy của mô hình surrogate được kiểm chứng thông qua so sánh với kết quả mô phỏng CFD hoặc công cụ NeuralFoil, qua đó làm rõ tiềm năng ứng dụng và khả năng thay thế của phương pháp đề xuất trong thực tiễn."
+},
+{
+"style": "Heading 2",
+"text": "Đối tượng nghiên cứu"
+},
+{
+"style": "Body Text",
+"text": "Đối tượng nghiên cứu của đề tài tập trung vào các biên dạng cánh khí động học hai chiều (2D airfoil), đóng vai trò then chốt trong thiết kế và tối ưu hóa các phương tiện bay hiện đại. Các biên dạng này được lựa chọn đa dạng, đại diện cho nhiều họ phổ biến như NACA, UIUC, nhằm đảm bảo phạm vi khảo sát rộng và phù hợp với thực tiễn ứng dụng. Dữ liệu nghiên cứu được xây dựng dựa trên kết quả mô phỏng CFD và các công cụ phân tích như XFOIL, NeuralFoil, kết hợp với nguồn dữ liệu chuẩn từ các cơ sở dữ liệu quốc tế. tế."
+},
+{
+"style": "Body Text",
+"text": "Trọng tâm của nghiên cứu là dự đoán chính xác các đặc tính khí động học chủ đạo như hệ số lực nâng (CL), lực cản (CD), mô men (CM), cùng với các điều kiện dòng chảy điển hình bao gồm số Reynolds (Re), góc tấn (AoA) và các thông số hình học đặc trưng của cánh. Việc lựa chọn đối tượng nghiên cứu này không chỉ tối ưu hóa quá trình thiết kế các cấu kiện khí động học mà còn tạo điều kiện kiểm nghiệm và phát triển các phương pháp học máy tiên tiến trong bối cảnh thực tiễn, đồng thời mở ra tiềm năng ứng dụng rộng rãi trong các ngành công nghiệp hàng không, tàu thủy và năng lượng gió."
+},
+{
+"style": "Heading 2",
+"text": "Phạm vi nghiên cứu"
+},
+{
+"style": "Body Text",
+"text": "Phạm vi nghiên cứu của luận văn được xác định rõ ràng nhằm đảm bảo tính tập trung, tính khả thi và phù hợp với mục tiêu khoa học đã đề ra. Nghiên cứu chỉ tập trung vào các biên dạng cánh khí động học hai chiều (2D airfoil), không xét đến hiệu ứng ba chiều, cánh hữu hạn hoặc các cấu trúc khí động học phức tạp khác, do phần lớn các ứng dụng trong hàng không và công nghiệp hiện nay chủ yếu sử dụng dữ liệu hai chiều trong giai đoạn thiết kế sơ bộ. Giới hạn này cũng phù hợp với khả năng xử lý dữ liệu và nguồn lực hiện có, đảm bảo nghiên cứu được thực hiện trong phạm vi thời gian và kỹ thuật cho phép. Phạm vi nghiên cứu giới hạn trong dải vận tốc dưới Mach 0.8, không xem xét các hiện tượng siêu âm hoặc các điều kiện phi thực tiễn đối với hàng không dân dụng và các ứng dụng công nghiệp thông thường nhằm đảm bảo tính ứng dụng thực tiễn, đồng thời tránh phát sinh các vấn đề kỹ thuật phức tạp vượt ngoài phạm vi của đề tài. Tuy nhiên, kết quả và phương pháp nghiên cứu có tiềm năng mở rộng để ứng dụng cho các biên dạng cánh ba chiều (3D airfoil), cánh hữu hạn hoặc các điều kiện dòng chảy phức tạp hơn trong tương lai, đáp ứng nhu cầu đa dạng của các ứng dụng thực tiễn."
+},
+{
+"style": "Body Text",
+"text": "Các mô hình học máy được triển khai đều thuộc nhóm học có giám sát (supervised learning), với nhiệm vụ dự đoán (hồi quy) các đại lượng khí động học chủ yếu như hệ số lực nâng, hệ số lực cản và mô men, dựa trên dữ liệu thu thập từ các mô phỏng CFD, XFOIL, NeuralFoil hoặc các nguồn chuẩn quốc tế. Quá trình kiểm chứng và đối chiếu kết quả chủ yếu được thực hiện thông qua so sánh với dữ liệu từ các công cụ mô phỏng hoặc phân tích khí động học đã được công nhận, thay vì thực nghiệm vật lý."
+},
+{
+"style": "Body Text",
+"text": "Việc xác lập phạm vi như trên vừa đảm bảo độ sâu về mặt kỹ thuật, vừa tạo điều kiện thuận lợi để phát triển và kiểm định các mô hình học máy cũng như quy trình tối ưu hóa, đồng thời giúp đề tài tập trung giải quyết hiệu quả các vấn đề chính yếu mà không bị phân tán nguồn lực vào các yếu tố ngoại vi vượt ngoài tầm kiểm soát."
+},
+{
+"style": "Heading 2",
+"text": "Ý nghĩa khoa học và thực tiễn"
+},
+{
+"style": "Body Text",
+"text": "Về mặt khoa học, luận văn góp phần mở rộng và làm sâu sắc thêm hướng nghiên cứu ứng dụng học máy trong lĩnh vực khí động học, vốn đòi hỏi khối lượng tính toán lớn và phức tạp về mặt vật lý. Thông qua việc phát triển mô hình surrogate, luận văn hỗ trợ các nhà nghiên cứu dự đoán nhanh các hệ số lực nâng, lực cản và mô men của biên dạng cánh mới chỉ dựa trên thông tin hình học, từ đó tạo điều kiện thực hiện nhiều thử nghiệm thiết kế trong thời gian ngắn mà trước đây không khả thi nếu chỉ dùng mô phỏng CFD truyền thống. Việc xác định nhanh hiệu suất khí động học cho hàng nghìn biên dạng khác nhau trong quá trình tối ưu hóa có thể thúc đẩy khám phá các thiết kế sáng tạo, hướng tới các ý tưởng khí động học mới. Xây dựng thành công mô hình surrogate có khả năng dự đoán chính xác các đặc tính khí động học chủ đạo dựa trên cơ sở dữ liệu lớn không chỉ khẳng định tiềm năng ứng dụng của các kỹ thuật học máy hiện đại mà còn tạo tiền đề cho việc phát triển các giải pháp thay thế hiệu quả cho các phương pháp mô phỏng truyền thống như CFD. Kết quả nghiên cứu còn cung cấp nền tảng khoa học quan trọng để tiếp tục mở rộng ứng dụng mô hình surrogate trong các bài toán tối ưu hóa hình học, thiết kế vật thể bay, cũng như các lĩnh vực liên ngành khác."
+},
+{
+"style": "Body Text",
+"text": "Ở phương diện thực tiễn, mô hình surrogate giúp rút ngắn đáng kể thời gian và chi phí cho quá trình thiết kế, thử nghiệm các cấu hình khí động học, đặc biệt trong bối cảnh nhu cầu đổi mới và tối ưu hóa sản phẩm ngày càng tăng cao trong các ngành hàng không, tàu thủy và năng lượng gió. Việc tích hợp mô hình học máy vào quy trình tối ưu hóa cho phép các kỹ sư và nhà thiết kế nhanh chóng khảo sát, lựa chọn và phát triển các giải pháp hình học mới mà không phụ thuộc hoàn toàn vào các phép mô phỏng số phức tạp."
+},
+{
+"style": "Heading 1",
+"text": "CHƯƠNG 2 CƠ SỞ LÝ THUYẾT VÀ PHƯƠNG PHÁP NGHIÊN CỨU"
+},
+{
+"style": "Heading 2",
+"text": "2.1. Cơ sở khí động học cho biên dạng cánh"
+},
+{
+"style": "Body Text",
+"text": "Khí động học là ngành khoa học nghiên cứu sự tương tác giữa dòng lưu chất và vật thể chuyển động trong môi trường khí. Trong lĩnh vực hàng không, biên dạng cánh (airfoil) đóng vai trò quyết định đối với khả năng sinh lực nâng, lực cản và đặc tính ổn định của máy bay. Mọi thay đổi về hình dạng hình học của biên dạng đều có thể làm thay đổi cấu trúc dòng chảy xung quanh cánh, từ đó ảnh hưởng trực tiếp đến hiệu suất khí động học của phương tiện bay [6]."
+},
+{
+"style": "Body Text",
+"text": "Khi dòng không khí chuyển động quanh một biên dạng cánh, trường vận tốc và áp suất trên bề mặt cánh không còn đồng nhất. Sự phân bố không đồng đều này dẫn đến sự xuất hiện của các lực khí động học bao gồm lực nâng (Lift), lực cản (Drag) và mô men khí động học (Pitching Moment). Các đại lượng này phụ thuộc đồng thời vào hình dạng hình học của biên dạng, góc tấn, số Reynolds và trạng thái phát triển của lớp biên. Do đó, việc nghiên cứu mối liên hệ giữa hình dạng biên dạng và các hệ số khí động học là nền tảng của mọi bài toán thiết kế và tối ưu hóa cánh máy bay hiện đại [6], [7]."
+},
+{
+"style": "Heading 3",
+"text": "2.1.1. Góc tấn và ảnh hưởng đến lực nâng"
+},
+{
+"style": "Body Text",
+"text": "Góc tấn (Angle of Attack – AoA) được định nghĩa là góc tạo bởi dây cung hình học của biên dạng cánh và hướng dòng khí tới. Đây là tham số vận hành quan trọng nhất trong khí động học cánh máy bay vì nó quyết định trực tiếp sự phân bố áp suất trên bề mặt cánh."
+},
+{
+"style": "Body Text",
+"text": "Theo lý thuyết cánh mỏng (Thin Airfoil Theory), trong vùng dòng chảy bám, hệ số lực nâng có quan hệ gần tuyến tính với góc tấn:"
+},
+{
+"style": "Body Text",
+"text": "Trong đó  là hệ số lực nâng tại góc tấn bằng không,  là độ dốc đường cong lực nâng và là góc tấn."
+},
+{
+"style": "Body Text",
+"text": "Đối với biên dạng đối xứng trong điều kiện dòng chảy lý tưởng:"
+},
+{
+"style": "Body Text",
+"text": ",  [6], [7]."
+},
+{
+"style": "Body Text",
+"text": "Kết quả này cho thấy chỉ cần thay đổi một lượng nhỏ góc tấn cũng có thể tạo ra sự thay đổi đáng kể về lực nâng. Tuy nhiên, quan hệ tuyến tính này chỉ tồn tại trong vùng dòng chảy bám. Khi góc tấn vượt quá giá trị tới hạn, lớp biên bắt đầu tách khỏi bề mặt cánh, làm suy giảm nhanh lực nâng và dẫn đến hiện tượng thất tốc."
+},
+{
+"style": "Heading 3",
+"text": "2.1.2. Cơ sở vật lý của sự hình thành lực nâng."
+},
+{
+"style": "Body Text",
+"text": "Một trong những nền tảng lý thuyết quan trọng nhất để giải thích lực nâng là phương trình Bernoulli. Đối với dòng chảy ổn định, không nén được và bỏ qua ảnh hưởng của độ nhớt:"
+},
+{
+"style": "Body Text",
+"text": "Theo phương trình trên, sự gia tăng vận tốc dòng chảy sẽ kéo theo sự suy giảm áp suất tĩnh. Đối với biên dạng cánh có độ cong hoặc hoạt động ở góc tấn dương, dòng khí trên mặt trên thường có vận tốc lớn hơn dòng khí phía dưới. Sự khác biệt vận tốc này tạo nên chênh lệch áp suất giữa hai bề mặt cánh và là nguồn gốc trực tiếp của lực nâng [6]."
+},
+{
+"style": "Body Text",
+"text": "Tuy nhiên, cách giải thích dựa trên Bernoulli chưa phản ánh đầy đủ bản chất vật lý của hiện tượng. Từ quan điểm bảo toàn động lượng, lực nâng xuất hiện do biên dạng cánh làm thay đổi hướng chuyển động của dòng khí. Theo định luật II Newton:"
+},
+{
+"style": "Body Text",
+"text": "Khi dòng khí bị bẻ cong xuống phía sau mép sau của cánh, động lượng theo phương thẳng đứng của dòng khí thay đổi. Theo nguyên lý phản lực, biên dạng cánh sẽ chịu một lực ngược chiều hướng xuống của dòng khí. Lực này chính là lực nâng tác dụng lên cánh [7]. Hai cách tiếp cận trên thực chất là hai biểu hiện khác nhau của cùng một hiện tượng vật lý và đều dẫn đến cùng một kết luận: lực nâng được hình thành do sự thay đổi trường vận tốc và áp suất xung quanh biên dạng cánh."
+},
+{
+"style": "Heading 3",
+"text": "2.1.3. Định lý Kutta–Joukowski và vai trò của hình dạng hình học."
+},
+{
+"style": "Body Text",
+"text": "Một mô hình tổng quát hơn về lực nâng được xây dựng dựa trên lý thuyết dòng thế. Theo định lý Kutta–Joukowski, lực nâng trên một đơn vị sải cánh được xác định bởi:"
+},
+{
+"style": "Body Text",
+"text": "trong đó là tuần hoàn khí động học của trường vận tốc quanh biên dạng cánh."
+},
+{
+"style": "Body Text",
+"text": "Để xác định giá trị tuần hoàn duy nhất, nghiệm dòng chảy phải thỏa mãn điều kiện Kutta. Điều kiện này yêu cầu dòng chảy rời khỏi mép sau của biên dạng một cách liên tục và hữu hạn [7]."
+},
+{
+"style": "Body Text",
+"text": "Ý nghĩa quan trọng của định lý Kutta–Joukowski nằm ở chỗ nó thiết lập mối liên hệ trực tiếp giữa hình dạng hình học và lực nâng. Các thông số như độ cong cực đại, vị trí độ cong cực đại hoặc hình dạng mép sau có khả năng làm thay đổi giá trị tuần hoàn từ đó ảnh hưởng trực tiếp tới hệ số lực nâng. Đây là cơ sở vật lý giải thích tại sao các đặc trưng hình học thường được sử dụng làm biến đầu vào trong các mô hình dự đoán khí động học hiện đại [7], [9]."
+},
+{
+"style": "Heading 3",
+"text": "2.1.4. Lực nâng, lực cản và mô men khí động học"
+},
+{
+"style": "Body Text",
+"text": "Để loại bỏ ảnh hưởng của kích thước hình học và điều kiện vận hành, các lực khí động học thường được biểu diễn dưới dạng các hệ số không thứ nguyên. Việc sử dụng các hệ số khí động học cho phép so sánh đặc tính của các biên dạng cánh khác nhau trong cùng một hệ quy chiếu, đồng thời tạo cơ sở cho việc xây dựng các mô hình dự đoán và tối ưu hóa khí động học."
+},
+{
+"style": "Body Text",
+"text": "Lực nâng, lực cản và mô men khí động học được xác định lần lượt bởi:\n,\n,"
+},
+{
+"style": "Body Text",
+"text": "Trong đó:"
+},
+{
+"style": "Body Text",
+"text": "S là diện tích tham chiếu của cánh;"
+},
+{
+"style": "Body Text",
+"text": "c là chiều dài dây cung;"
+},
+{
+"style": "Body Text",
+"text": "là mật độ không khí;"
+},
+{
+"style": "Body Text",
+"text": "V là vận tốc dòng khí tự do."
+},
+{
+"style": "Body Text",
+"text": "Từ các biểu thức trên, các hệ số khí động học được xác định như sau:"
+},
+{
+"style": "Body Text",
+"text": "Trong nghiên cứu khí động học,  phản ánh khả năng sinh lực nâng của biên dạng cánh, phản ánh mức độ tổn hao năng lượng do lực cản, trong khi  đặc trưng cho xu hướng quay của biên dạng quanh điểm tham chiếu. Ba đại lượng này được xem là những thông số cơ bản nhất để đánh giá hiệu quả khí động học của một cấu hình cánh [6]."
+},
+{
+"style": "Body Text",
+"text": "Trong phạm vi đề tài, , và được lựa chọn làm các biến mục tiêu của mô hình học máy nhằm xây dựng mô hình thay thế cho các bài toán phân tích và tối ưu hóa khí động học."
+},
+{
+"style": "Body Text",
+"text": "Một chỉ tiêu tổng hợp thường được sử dụng để đánh giá hiệu suất khí động học là tỷ số lực nâng trên lực cản:"
+},
+{
+"style": "Body Text",
+"text": "Giá trị L/D càng lớn chứng tỏ biên dạng cánh tạo được nhiều lực nâng hơn với cùng mức lực cản, từ đó nâng cao hiệu quả sử dụng năng lượng. Vì vậy, đây là một trong những hàm mục tiêu phổ biến nhất trong các bài toán tối ưu hóa biên dạng cánh [6]."
+},
+{
+"style": "Heading 3",
+"text": "2.1.5. Số Reynolds và lớp biên"
+},
+{
+"style": "Body Text",
+"text": "Số Reynolds là đại lượng không thứ nguyên đặc trưng cho tỷ lệ giữa lực quán tính và lực nhớt trong dòng chảy:"
+},
+{
+"style": "Body Text",
+"text": ", trong đó () là độ nhớt động lực học của không khí."
+},
+{
+"style": "Body Text",
+"text": "Về mặt vật lý, Reynolds Number quyết định cấu trúc của lớp biên hình thành trên bề mặt cánh. Khi Reynolds thấp, lớp biên có xu hướng duy trì trạng thái dòng tầng trong khoảng chiều dài lớn hơn. Ngược lại, khi Reynolds tăng, quá trình chuyển tiếp sang dòng rối diễn ra sớm hơn, làm tăng khả năng chống tách dòng nhưng đồng thời có thể làm gia tăng lực cản ma sát [8]."
+},
+{
+"style": "Body Text",
+"text": "Sự phát triển của lớp biên có vai trò đặc biệt quan trọng đối với đặc tính khí động học của biên dạng cánh. Các hiện tượng như chuyển tiếp tầng và rối, tách dòng hoặc tái bám dòng đều diễn ra trong vùng lớp biên và ảnh hưởng trực tiếp tới các hệ số , và . Vì vậy, cùng một biên dạng cánh có thể cho các đặc tính khí động học hoàn toàn khác nhau khi hoạt động ở các điều kiện Reynolds khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Do đó, Reynolds Number luôn được xem là một trong những biến đầu vào quan trọng nhất trong các mô hình dự đoán khí động học hiện đại [8]."
+},
+{
+"style": "Heading 3",
+"text": "2.1.6. Hiện tượng thất tốc"
+},
+{
+"style": "Body Text",
+"text": "Một trong những hiện tượng khí động học quan trọng nhất đối với cánh máy bay là hiện tượng thất tốc (stall). Khi góc tấn tăng vượt quá giá trị tới hạn, lớp biên không còn đủ động lượng để thắng gradient áp suất bất lợi xuất hiện trên bề mặt cánh. Dòng chảy bắt đầu tách khỏi bề mặt cánh và hình thành vùng tuần hoàn cũng như vùng wake có kích thước lớn phía sau biên dạng [8]."
+},
+{
+"style": "Body Text",
+"text": "Sự xuất hiện của vùng tách dòng làm thay đổi đáng kể phân bố áp suất trên bề mặt cánh. Kết quả là khả năng sinh lực nâng suy giảm nhanh trong khi lực cản tăng mạnh. Đây là nguyên nhân trực tiếp dẫn đến hiện tượng thất tốc."
+},
+{
+"style": "Body Text",
+"text": "Trong vùng thất tốc:"
+},
+{
+"style": "Body Text",
+"text": "hệ số lực nâng giảm mạnh;"
+},
+{
+"style": "Body Text",
+"text": "hệ số lực cản tăng nhanh;"
+},
+{
+"style": "Body Text",
+"text": "hệ số mô men khí động học thay đổi đột ngột;"
+},
+{
+"style": "Body Text",
+"text": "mối quan hệ giữa các đại lượng khí động học trở nên phi tuyến mạnh."
+},
+{
+"style": "Body Text",
+"text": "Từ góc độ mô hình hóa, vùng near-stall và post-stall là những vùng hoạt động khó dự đoán nhất đối với cả các phương pháp CFD lẫn các mô hình học máy. Điều này xuất phát từ sự xuất hiện của các hiện tượng phi tuyến mạnh như tách dòng, tái bám dòng và tương tác giữa lớp biên với trường áp suất xung quanh biên dạng [8]."
+},
+{
+"style": "Body Text",
+"text": "Do đó, khả năng mô tả chính xác vùng stall thường được xem là một trong những tiêu chí quan trọng để đánh giá chất lượng của các mô hình surrogate khí động học."
+},
+{
+"style": "Heading 3",
+"text": "2.1.7. Liên hệ giữa khí động học và đặc trưng hình học"
+},
+{
+"style": "Body Text",
+"text": "Các cơ chế vật lý được trình bày trong các mục trên cho thấy rằng đặc tính khí động học của biên dạng cánh không chỉ phụ thuộc vào điều kiện vận hành mà còn phụ thuộc mạnh vào hình dạng hình học của biên dạng. Trên thực tế, mọi thay đổi về hình học đều có thể làm thay đổi cấu trúc dòng chảy, phân bố áp suất và sự phát triển của lớp biên, từ đó ảnh hưởng trực tiếp đến các hệ số khí động học."
+},
+{
+"style": "Body Text",
+"text": "Ví dụ, độ cong cực đại (maximum camber) có ảnh hưởng trực tiếp tới giá trị tuần hoàn khí động học và khả năng sinh lực nâng; độ dày cực đại (maximum thickness) ảnh hưởng đến sự phát triển của lớp biên và xu hướng tách dòng; bán kính mép trước (leading-edge radius) tác động đến đặc tính dòng chảy tại vùng stagnation; trong khi các đặc trưng của mép sau như góc mép sau, độ dày mép sau hoặc độ cong phần đuôi cánh có liên hệ chặt chẽ với điều kiện Kutta và sự phát triển của wake phía sau biên dạng [7]–[9]."
+},
+{
+"style": "Body Text",
+"text": "Từ góc độ tính toán, một biên dạng cánh thường được mô tả bằng hàng trăm điểm tọa độ trên mặt trên và mặt dưới. Khi đó, mỗi biên dạng có thể được xem như một điểm trong không gian hình học nhiều chiều. Tuy nhiên, việc sử dụng trực tiếp toàn bộ tập tọa độ này làm đầu vào cho mô hình học máy thường dẫn tới không gian dữ liệu có số chiều rất lớn, làm gia tăng chi phí tính toán và nguy cơ quá khớp mô hình."
+},
+{
+"style": "Body Text",
+"text": "Do đó, các nghiên cứu hiện đại thường chuyển đổi hình dạng biên dạng thành một tập các đặc trưng hình học có ý nghĩa vật lý (geometry descriptors). Các đặc trưng này không chỉ giúp giảm chiều dữ liệu mà còn duy trì được mối liên hệ giữa hình học và các cơ chế khí động học cơ bản như tuần hoàn khí động học, sự phát triển của lớp biên, tách dòng và điều kiện Kutta. Trên cơ sở đó, quá trình học máy được thực hiện trong không gian đặc trưng có kích thước nhỏ hơn nhưng vẫn bảo toàn phần lớn thông tin khí động học quan trọng của biên dạng cánh."
+},
+{
+"style": "Body Text",
+"text": "Cách tiếp cận này là nền tảng cho các khái niệm Geometry Manifold và Feature Engineering được trình bày trong các mục tiếp theo của đề tài."
+},
+{
+"style": "Heading 2",
+"text": "2.2. Biểu diễn hình học biên dạng cánh"
+},
+{
+"style": "Body Text",
+"text": "Trong các bài toán dự đoán và tối ưu hóa khí động học dựa trên dữ liệu, hình học biên dạng cánh là nguồn thông tin đầu vào quan trọng nhất. Các hệ số khí động học như lực nâng, lực cản và momen lực không chỉ phụ thuộc vào điều kiện dòng chảy như góc tấn và số Reynolds, mà còn phụ thuộc trực tiếp vào cách biên dạng cánh làm thay đổi phân bố vận tốc, áp suất và lớp biên trên bề mặt. Vì vậy, trước khi xây dựng mô hình học máy, cần có một phương pháp biểu diễn hình học đủ chính xác để mô tả hình dạng airfoil, đồng thời đủ thuận lợi để trích xuất các đặc trưng có ý nghĩa vật lý [9]."
+},
+{
+"style": "Heading 3",
+"text": "2.2.1. Hệ tọa độ biên dạng cánh"
+},
+{
+"style": "Body Text",
+"text": "Một biên dạng cánh hai chiều thường được mô tả bằng tập hợp các điểm tọa độ trên mặt trên và mặt dưới của cánh. Sau khi chuẩn hóa theo chiều dài dây cung, biên dạng có thể được biểu diễn dưới dạng:"
+},
+{
+"style": "Body Text",
+"text": "trong đó và lần lượt là tọa độ theo phương dây cung và phương vuông góc với dây cung tại điểm thứ , còn N là số điểm tọa độ dùng để mô tả biên dạng."
+},
+{
+"style": "Body Text",
+"text": "Trong biểu diễn này, trục x thường được chuẩn hóa trong khoảng:"
+},
+{
+"style": "Body Text",
+"text": "với x=0 tương ứng với mép trước và x=1 tương ứng với mép sau. Việc chuẩn hóa dây cung về đơn vị giúp loại bỏ ảnh hưởng của kích thước tuyệt đối, từ đó cho phép so sánh các biên dạng khác nhau trong cùng một hệ tọa độ hình học."
+},
+{
+"style": "Body Text",
+"text": "Cách biểu diễn bằng tọa độ có ưu điểm là mô tả được nhiều họ biên dạng khác nhau, không bị giới hạn trong một công thức tham số cụ thể như NACA 4-Digit. Điều này đặc biệt quan trọng đối với các cơ sở dữ liệu airfoil mở rộng, trong đó các biên dạng có thể đến từ nhiều họ hình học khác nhau như NACA, Selig, Eppler, Wortmann hoặc các biên dạng tối ưu hóa hiện đại. Vì vậy, biểu diễn bằng tập tọa độ là một lựa chọn phù hợp cho các bài toán học máy tổng quát áp dụng trên nhiều loại biên dạng cánh."
+},
+{
+"style": "Body Text",
+"text": "Tuy nhiên, biểu diễn trực tiếp bằng tọa độ cũng đặt ra một số thách thức. Thứ nhất, số lượng điểm tọa độ có thể khác nhau giữa các file hình học, đòi hỏi quá trình chuẩn hóa và nội suy lại biên dạng. Thứ hai, dữ liệu tọa độ có số chiều cao, dễ làm tăng độ phức tạp của mô hình học máy. Thứ ba, các tọa độ riêng lẻ thường khó diễn giải trực tiếp dưới góc độ khí động học. Do đó, biểu diễn tọa độ thường chỉ là bước đầu để xây dựng các đại lượng hình học có ý nghĩa hơn như đường cong trung bình, phân bố độ dày, độ cong hình học cục bộ và các đặc trưng mép trước, mép sau [9]."
+},
+{
+"style": "Heading 3",
+"text": "2.2.2. Đường dây cung và đường cong trung bình"
+},
+{
+"style": "Body Text",
+"text": "Một biên dạng cánh có thể được phân tách thành mặt trên và mặt dưới . Từ hai đường này, có thể xác định các đại lượng hình học cơ bản của biên dạng."
+},
+{
+"style": "Body Text",
+"text": "Đường dây cung (Chord Line) là đường thẳng nối mép trước và mép sau của biên dạng. Đây là trục tham chiếu cơ bản để xác định góc tấn, độ dày và độ cong camber của airfoil."
+},
+{
+"style": "Body Text",
+"text": "Đường cong trung bình được xác định là quỹ tích trung điểm giữa mặt trên và mặt dưới tại cùng vị trí (x:"
+},
+{
+"style": "Body Text",
+"text": "Đường cong trung bình phản ánh mức độ bất đối xứng hình học giữa mặt trên và mặt dưới của biên dạng. Về mặt khí động học, camber của airfoil có liên hệ trực tiếp với tuần hoàn khí động học và khả năng sinh lực nâng. Các biên dạng có camber lớn thường có khả năng tạo lực nâng ngay cả tại góc tấn nhỏ hoặc góc tấn bằng không. Điều này phù hợp với lý thuyết Kutta–Joukowski, trong đó lực nâng tỷ lệ với tuần hoàn của trường vận tốc quanh biên dạng [7]."
+},
+{
+"style": "Body Text",
+"text": "Do đó, các đại lượng như camber cực đại và vị trí camber cực đại không chỉ là thông số hình học đơn thuần, mà còn là các đại diện quan trọng cho khả năng sinh lực nâng của biên dạng. Đây là lý do các đặc trưng liên quan đến camber thường được sử dụng trong các mô hình dự đoán hệ số lực nâng (C_L)."
+},
+{
+"style": "Heading 3",
+"text": "2.2.3. Phân bố độ dày và độ cong hình học cục bộ"
+},
+{
+"style": "Body Text",
+"text": "Phân bố độ dày của biên dạng được xác định bằng khoảng cách giữa mặt trên và mặt dưới tại cùng vị trí theo dây cung:"
+},
+{
+"style": "Body Text",
+"text": "trong đó biểu diễn độ dày cục bộ tại vị trí x."
+},
+{
+"style": "Body Text",
+"text": "Độ dày là một trong những yếu tố hình học có ảnh hưởng mạnh đến đặc tính khí động học. Biên dạng dày thường có khả năng duy trì lực nâng ở góc tấn lớn tốt hơn do khả năng trì hoãn tách dòng, nhưng đồng thời có thể làm gia tăng lực cản áp suất. Ngược lại, biên dạng mỏng có thể giảm lực cản trong một số điều kiện dòng chảy nhưng thường nhạy hơn với hiện tượng tách dòng hoặc suy giảm lực nâng tại góc tấn cao."
+},
+{
+"style": "Body Text",
+"text": "Ngoài độ dày, độ cong hình học cục bộ của bề mặt cũng là một đại lượng quan trọng. Đối với một đường cong được biểu diễn bởi hàm , độ cong hình học cục bộ có thể được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "trong đó  và lần lượt là đạo hàm bậc nhất và bậc hai của đường hình học theo (x)."
+},
+{
+"style": "Body Text",
+"text": "Độ cong hình học cục bộ phản ánh mức độ thay đổi hướng của bề mặt airfoil. Những vùng có độ cong lớn, đặc biệt ở mép trước hoặc phần sau của biên dạng, có thể ảnh hưởng mạnh đến gradient áp suất và sự phát triển của lớp biên. Nếu phân bố độ cong thay đổi đột ngột, dòng chảy dễ xuất hiện gradient áp suất bất lợi, làm tăng nguy cơ tách dòng. Vì vậy, các đặc trưng liên quan đến độ cong, năng lượng độ cong hoặc phương sai độ cong thường có giá trị trong việc mô tả chất lượng hình học và khả năng ổn định khí động học của biên dạng."
+},
+{
+"style": "Body Text",
+"text": "Từ góc độ học máy, các đại lượng và  tạo thành cơ sở để xây dựng các đặc trưng hình học như độ dày cực đại, vị trí độ dày cực đại, camber cực đại, vị trí camber cực đại, bán kính mép trước và độ cong hình học vùng mép sau. Các đặc trưng này có ý nghĩa vật lý rõ ràng hơn nhiều so với từng tọa độ riêng lẻ, do đó phù hợp hơn để làm đầu vào cho các mô hình dự đoán khí động học [9]."
+},
+{
+"style": "Heading 3",
+"text": "2.2.4. Biểu diễn hình học trong không gian nhiều chiều"
+},
+{
+"style": "Body Text",
+"text": "Khi một biên dạng cánh được mô tả bởi N điểm tọa độ, toàn bộ hình dạng của nó có thể được xem như một vector trong không gian nhiều chiều:"
+},
+{
+"style": "Body Text",
+"text": "Nếu mỗi biên dạng được lấy mẫu bởi 240 điểm tọa độ, thì hình học của airfoil có thể được biểu diễn bởi một vector thuộc không gian:"
+},
+{
+"style": "Body Text",
+"text": "Biểu diễn này cho phép nhìn nhận mỗi biên dạng cánh như một điểm trong không gian hình học có số chiều cao. Tuy nhiên, không phải mọi vector trong đều tương ứng với một biên dạng cánh hợp lệ. Một tập tọa độ bất kỳ có thể tạo ra hình dạng tự cắt, độ dày âm, bề mặt không liên tục, mép trước không mượt hoặc mép sau không có ý nghĩa vật lý."
+},
+{
+"style": "Body Text",
+"text": "Điều này cho thấy không gian hình học của các biên dạng cánh thực tế không phải là toàn bộ , mà chỉ là một tập con có cấu trúc trong không gian nhiều chiều. Các biên dạng khả thi về mặt hình học và khí động học thường phải thỏa mãn các ràng buộc như tính liên tục, độ mượt bề mặt, độ dày dương, mép trước hợp lý và mép sau hữu hạn."
+},
+{
+"style": "Body Text",
+"text": "Chính nhận xét này là cơ sở để dẫn tới khái niệm Geometry Manifold. Thay vì xem dữ liệu hình học là các vector tọa độ phân bố tự do trong không gian nhiều chiều, có thể xem các biên dạng cánh hợp lệ như những điểm nằm trên một đa tạp hình học có cấu trúc. Cách nhìn này giúp giải thích tại sao việc trích xuất đặc trưng hình học và kiểm soát tính hợp lệ hình học là cần thiết trong các mô hình học máy dự đoán và tối ưu hóa khí động học."
+},
+{
+"style": "Heading 2",
+"text": "2.3. Geometry mainfold của biên dạng cánh"
+},
+{
+"style": "Body Text",
+"text": "Trong Mục 2.2, biên dạng cánh đã được biểu diễn dưới dạng tập hợp các điểm tọa độ hai chiều. Với N điểm lấy mẫu, toàn bộ hình dạng của một airfoil có thể được xem như một vector trong không gian nhiều chiều:"
+},
+{
+"style": "Body Text",
+"text": "ví dụ, nếu mỗi biên dạng được mô tả bằng 240 điểm tọa độ, hình học của airfoil sẽ tương ứng với một điểm trong không gian:"
+},
+{
+"style": "Body Text",
+"text": "Về mặt toán học, cách biểu diễn này cho phép mô tả chính xác hình dạng của biên dạng cánh. Tuy nhiên, nếu chỉ xem airfoil như một vector tự do trong không gian, ta đã bỏ qua một đặc điểm quan trọng: không phải mọi điểm trong không gian này đều tương ứng với một biên dạng cánh có ý nghĩa vật lý."
+},
+{
+"style": "Body Text",
+"text": "Một vector tọa độ được sinh ngẫu nhiên có thể tạo ra các hình dạng không hợp lệ như độ dày âm, bề mặt tự giao nhau, mép trước không liên tục hoặc mép sau không có ý nghĩa khí động học. Những hình dạng như vậy không thể sử dụng trong mô phỏng CFD, cũng không thể xuất hiện trong thực tế. Điều này cho thấy tập hợp các airfoil hợp lệ chỉ chiếm một phần rất nhỏ của toàn bộ không gian hình học nhiều chiều."
+},
+{
+"style": "Body Text",
+"text": "Từ góc độ hình học vi phân, tập hợp các biên dạng cánh hợp lệ có thể được xem như một đa tạp nằm trong không gian biểu diễn:"
+},
+{
+"style": "Body Text",
+"text": "trong đó  được gọi là Geometry Manifold."
+},
+{
+"style": "Body Text",
+"text": "Khái niệm này cho phép mô tả dữ liệu hình học không phải như các điểm phân bố ngẫu nhiên trong không gian tọa độ, mà như các điểm nằm trên một cấu trúc hình học có tổ chức được hình thành bởi các ràng buộc vật lý, khí động học và công nghệ chế tạo [9]–[11]."
+},
+{
+"style": "Heading 3",
+"text": "2.3.1. Giả thuyết manifold thấp chiều của dữ liệu airfoil"
+},
+{
+"style": "Body Text",
+"text": "Mặc dù một airfoil có thể được biểu diễn bằng hàng trăm tọa độ, số bậc tự do thực sự quyết định hình dạng khí động học của nó thường nhỏ hơn rất nhiều."
+},
+{
+"style": "Body Text",
+"text": "Xét một biên dạng được biểu diễn bằng 240 điểm tọa độ. Về hình thức, hình học của biên dạng có:"
+},
+{
+"style": "Body Text",
+"text": "bậc tự do hình học."
+},
+{
+"style": "Body Text",
+"text": "Tuy nhiên, trong thực tế, các tọa độ này không độc lập với nhau. Khi thay đổi một đặc trưng hình học quan trọng như:"
+},
+{
+"style": "Body Text",
+"text": "độ dày cực đại;"
+},
+{
+"style": "Body Text",
+"text": "vị trí độ dày cực đại;"
+},
+{
+"style": "Body Text",
+"text": "camber cực đại;"
+},
+{
+"style": "Body Text",
+"text": "vị trí camber cực đại;"
+},
+{
+"style": "Body Text",
+"text": "bán kính mép trước;"
+},
+{
+"style": "Body Text",
+"text": "hàng chục hoặc hàng trăm điểm tọa độ sẽ thay đổi đồng thời theo một quy luật liên tục."
+},
+{
+"style": "Body Text",
+"text": "Điều này cho thấy số bậc tự do hiệu dụng của biên dạng thỏa mãn:"
+},
+{
+"style": "Body Text",
+"text": "Nói cách khác, mặc dù dữ liệu được nhúng trong không gian các hình dạng airfoil thực tế chỉ phân bố trên một không gian con có số chiều thấp hơn đáng kể."
+},
+{
+"style": "Body Text",
+"text": "Giả thuyết này được gọi là giả thuyết manifold thấp chiều (Low-Dimensional Manifold Hypothesis) và hiện được sử dụng rộng rãi trong các nghiên cứu geometric learning, shape optimization và reduced-order modeling [10]–[13]."
+},
+{
+"style": "Heading 3",
+"text": "2.3.2. Cơ sở vật lý của Geometry Manifold"
+},
+{
+"style": "Body Text",
+"text": "Sự tồn tại của Geometry Manifold xuất phát từ các ràng buộc vật lý mà mọi biên dạng cánh phải thỏa mãn."
+},
+{
+"style": "Body Text",
+"text": "Trước hết, phân bố độ dày của biên dạng phải dương:"
+},
+{
+"style": "Body Text",
+"text": "Nếu điều kiện này bị vi phạm, mặt trên và mặt dưới sẽ giao nhau, tạo thành hình học chéo nhau và không hợp lệ."
+},
+{
+"style": "Body Text",
+"text": "Thứ hai, biên dạng cần có tính liên tục và độ mượt hình học. Trong các bài toán khí động học, bề mặt thường phải thỏa mãn ít nhất điều kiện liên tục đạo hàm bậc nhất:"
+},
+{
+"style": "Body Text",
+"text": "hoặc cao hơn:"
+},
+{
+"style": "Body Text",
+"text": "để tránh xuất hiện các điểm gãy hình học gây ảnh hưởng bất lợi đến sự phát triển của lớp biên [8], [9]."
+},
+{
+"style": "Body Text",
+"text": "Ngoài ra, mép trước cần có bán kính hữu hạn:"
+},
+{
+"style": "Body Text",
+"text": "trong khi mép sau phải đảm bảo hình dạng phù hợp với điều kiện Kutta nhằm duy trì quá trình tách dòng ổn định [7]."
+},
+{
+"style": "Body Text",
+"text": "Những ràng buộc này làm cho không gian airfoil thực tế bị giới hạn trong một vùng rất nhỏ của không gian hình học nhiều chiều. Có thể hình dung rằng nếu sinh ngẫu nhiên một vector trong , xác suất thu được một biên dạng cánh hợp lệ gần như bằng không:"
+},
+{
+"style": "Body Text",
+"text": "Do đó, dữ liệu airfoil thực tế không phân bố ngẫu nhiên mà tập trung trên một cấu trúc hình học có tổ chức được hình thành bởi các quy luật vật lý và hình học."
+},
+{
+"style": "Heading 3",
+"text": "2.3.3. Geometry Manifold và học máy khí động học"
+},
+{
+"style": "Body Text",
+"text": "Từ góc độ học máy, việc sử dụng trực tiếp toàn bộ tập tọa độ hình học làm đầu vào thường dẫn đến hai vấn đề."
+},
+{
+"style": "Body Text",
+"text": "Thứ nhất, không gian dữ liệu có số chiều rất cao, làm tăng độ phức tạp của mô hình và nguy cơ quá khớp."
+},
+{
+"style": "Body Text",
+"text": "Thứ hai, các tọa độ riêng lẻ khó mang ý nghĩa vật lý rõ ràng. Mô hình có thể học các biến thiên hình học không liên quan đến cơ chế khí động học thực sự."
+},
+{
+"style": "Body Text",
+"text": "Ngược lại, nếu chấp nhận giả thuyết manifold thấp chiều, có thể xây dựng một ánh xạ:"
+},
+{
+"style": "Body Text",
+"text": "với:\ntrong đó là phép chuyển đổi từ không gian tọa độ sang không gian đặc trưng hình học."
+},
+{
+"style": "Body Text",
+"text": "Các đặc trưng như:"
+},
+{
+"style": "Body Text",
+"text": "độ dày cực đại;"
+},
+{
+"style": "Body Text",
+"text": "vị trí độ dày cực đại;"
+},
+{
+"style": "Body Text",
+"text": "camber cực đại;"
+},
+{
+"style": "Body Text",
+"text": "vị trí camber cực đại;"
+},
+{
+"style": "Body Text",
+"text": "bán kính mép trước;"
+},
+{
+"style": "Body Text",
+"text": "góc mép sau;"
+},
+{
+"style": "Body Text",
+"text": "độ dày vùng đuôi;"
+},
+{
+"style": "Body Text",
+"text": "năng lượng độ cong;"
+},
+{
+"style": "Body Text",
+"text": "có thể được xem như các tọa độ mới mô tả vị trí của airfoil trên manifold hình học."
+},
+{
+"style": "Body Text",
+"text": "Nhờ đó, mô hình học máy không cần học trực tiếp từ hàng trăm tọa độ, mà tập trung vào các yếu tố thực sự quyết định đặc tính khí động học của biên dạng [10], [11]."
+},
+{
+"style": "Heading 3",
+"text": "2.3.4. Geometry Manifold trong CKi_ML"
+},
+{
+"style": "Body Text",
+"text": "Ý tưởng Geometry Manifold đóng vai trò trung tâm trong toàn bộ kiến trúc của bài nghiên cứu này."
+},
+{
+"style": "Body Text",
+"text": "Thay vì sử dụng trực tiếp vector tọa độ:"
+},
+{
+"style": "Body Text",
+"text": "hệ thống chuyển đổi hình học sang một tập descriptor có ý nghĩa vật lý:\n Quá trình này thực hiện đồng thời hai nhiệm vụ."
+},
+{
+"style": "Body Text",
+"text": "Thứ nhất, giảm số chiều dữ liệu đầu vào, giúp mô hình học máy ổn định hơn và giảm nguy cơ quá khớp."
+},
+{
+"style": "Body Text",
+"text": "Thứ hai, duy trì mối liên hệ trực tiếp giữa hình học và các cơ chế khí động học đã trình bày trong Mục 2.1."
+},
+{
+"style": "Body Text",
+"text": "Bên cạnh đó, việc sử dụng các định danh hình học như geom_hash cho phép nhóm các mẫu có cùng biên dạng nhưng khác điều kiện dòng chảy. Điều này đặc biệt quan trọng trong đánh giá khả năng tổng quát hóa của mô hình đối với các hình học chưa xuất hiện trong tập huấn luyện."
+},
+{
+"style": "Body Text",
+"text": "Như vậy, Geometry Manifold không chỉ là một khái niệm hình học trừu tượng mà còn là cơ sở lý thuyết giải thích toàn bộ quá trình chuẩn hóa hình học, trích xuất đặc trưng và xây dựng mô hình surrogate trong đề tài."
+},
+{
+"style": "Heading 2",
+"text": "2.4. Trích xuất đặc trưng hình học"
+},
+{
+"style": "Heading 3",
+"text": "2.4.1. Vai trò của Feature Engineering trong dự đoán khí động học"
+},
+{
+"style": "Body Text",
+"text": "Như đã trình bày trong Mục 2.2 và Mục 2.3, một biên dạng cánh có thể được mô tả bằng hàng trăm điểm tọa độ nằm trong không gian hình học nhiều chiều. Tuy nhiên, việc sử dụng trực tiếp toàn bộ tập tọa độ làm đầu vào cho mô hình học máy thường không phải là lựa chọn tối ưu. Mặc dù các tọa độ này chứa đầy đủ thông tin hình học của biên dạng, chúng lại không phản ánh trực tiếp các cơ chế vật lý chi phối lực nâng, lực cản và mô men khí động học."
+},
+{
+"style": "Body Text",
+"text": "Từ góc độ toán học, dữ liệu tọa độ tồn tại trong không gian có số chiều rất lớn. Nếu một biên dạng được mô tả bởi 240 điểm tọa độ thì không gian biểu diễn tương ứng có số chiều lên tới 480. Không gian dữ liệu lớn làm tăng độ phức tạp của mô hình, gia tăng nguy cơ quá khớp và làm giảm khả năng tổng quát hóa sang các hình học mới [10], [11]."
+},
+{
+"style": "Body Text",
+"text": "Mặt khác, từ góc độ khí động học, các hệ số khí động học không phụ thuộc trực tiếp vào từng tọa độ riêng lẻ mà phụ thuộc vào các đặc trưng hình học tổng quát như độ dày, độ cong, hình dạng mép trước, hình dạng mép sau hoặc mức độ thay đổi độ cong dọc theo dây cung. Điều này cho thấy các thông tin khí động học quan trọng thực chất được mã hóa trong các thuộc tính hình học có ý nghĩa vật lý chứ không nằm ở từng điểm tọa độ riêng biệt."
+},
+{
+"style": "Body Text",
+"text": "Do đó, các nghiên cứu hiện đại thường thực hiện quá trình trích xuất đặc trưng hình học nhằm chuyển đổi hình dạng airfoil từ không gian tọa độ nhiều chiều sang không gian đặc trưng có số chiều thấp hơn nhưng vẫn bảo toàn các thông tin khí động học quan trọng [9]–[11]."
+},
+{
+"style": "Body Text",
+"text": "Trong bài này, Feature Engineering đóng vai trò trung tâm trong toàn bộ pipeline xây dựng mô hình surrogate. Thay vì sử dụng trực tiếp tập tọa độ hình học, hệ thống chuyển đổi mỗi airfoil thành tập các geometry descriptors phản ánh những cơ chế vật lý đã được trình bày trong Mục 2.1 như tuần hoàn khí động học, sự phát triển của lớp biên, điều kiện Kutta và hiện tượng tách dòng."
+},
+{
+"style": "Heading 3",
+"text": "2.4.2. Phân loại các nhóm đặc trưng"
+},
+{
+"style": "Body Text",
+"text": "a.  Nhóm đặc trưng độ dày (Thickness Descriptors)"
+},
+{
+"style": "Body Text",
+"text": "Độ dày cục bộ của biên dạng được xác định bởi khoảng cách giữa mặt trên và mặt dưới tại cùng vị trí theo dây cung:"
+},
+{
+"style": "Body Text",
+"text": "Từ phân bố độ dày, có thể xác định nhiều đặc trưng quan trọng."
+},
+{
+"style": "Body Text",
+"text": "Độ dày cực đại:"
+},
+{
+"style": "Body Text",
+"text": "Vị trí độ dày cực đại:"
+},
+{
+"style": "Body Text",
+"text": "Độ dày trung bình:"
+},
+{
+"style": "Body Text",
+"text": "hoặc ở dạng rời rạc:"
+},
+{
+"style": "Body Text",
+"text": "Về mặt vật lý, độ dày ảnh hưởng trực tiếp tới phân bố áp suất, sự phát triển của lớp biên và khả năng chống tách dòng. Các biên dạng dày thường có xu hướng trì hoãn stall tốt hơn nhưng đồng thời có thể làm gia tăng lực cản áp suất. Ngược lại, biên dạng mỏng có thể giảm lực cản trong vùng dòng chảy bám nhưng dễ nhạy cảm với hiện tượng tách dòng ở góc tấn lớn [7], [8]."
+},
+{
+"style": "Body Text",
+"text": "Do đó, các đặc trưng liên quan đến độ dày thường có mức độ tương quan cao với hệ số lực cản và đặc tính thất tốc của biên dạng."
+},
+{
+"style": "Body Text",
+"text": "b. Nhóm đặc trưng độ cong (Camber Descriptors)"
+},
+{
+"style": "Body Text",
+"text": "Đường cong trung bình của biên dạng được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "Từ đường cong trung bình, có thể xác định độ cong cực đại:"
+},
+{
+"style": "Body Text",
+"text": "và vị trí độ cong cực đại:"
+},
+{
+"style": "Body Text",
+"text": "Độ cong của airfoil có mối liên hệ trực tiếp với tuần hoàn khí động học trong định lý Kutta–Joukowski. Airfoil có camber lớn thường tạo ra lực nâng ngay cả tại góc tấn nhỏ hoặc bằng không. Đồng thời, camber cũng ảnh hưởng tới độ dốc đường cong lực nâng và giá trị lực nâng cực đại của biên dạng [6], [7]."
+},
+{
+"style": "Body Text",
+"text": "Vì vậy, các descriptor như camber_max, x_cmax hoặc mean_camber thường là những đặc trưng có mức độ quan trọng cao trong các mô hình dự đoán hệ số lực nâng."
+},
+{
+"style": "Body Text",
+"text": "c. Nhóm đặc trưng mép trước (Leading-Edge Descriptors)"
+},
+{
+"style": "Body Text",
+"text": "Mép trước là khu vực đầu tiên tiếp xúc với dòng khí và có vai trò quyết định đối với sự hình thành vùng stagnation."
+},
+{
+"style": "Body Text",
+"text": "Một đại lượng thường được sử dụng để mô tả hình học mép trước là bán kính mép trước:"
+},
+{
+"style": "Body Text",
+"text": "trong đó:"
+},
+{
+"style": "Body Text",
+"text": "Về mặt khí động học, bán kính mép trước ảnh hưởng trực tiếp tới phân bố áp suất vùng đầu cánh, khả năng bám dòng và hành vi stall. Mép trước quá nhọn có thể làm tăng gradient áp suất bất lợi và dẫn đến tách dòng sớm. Ngược lại, mép trước quá tù có thể làm gia tăng lực cản ở một số chế độ dòng chảy [7], [8]."
+},
+{
+"style": "Body Text",
+"text": "Trong thực tế, các mô hình dữ liệu thường sử dụng các đại lượng thay thế như le_radius_proxy hoặc leading_edge_thickness để phản ánh đặc tính hình học của vùng mép trước."
+},
+{
+"style": "Body Text",
+"text": "d. Nhóm đặc trưng mép sau"
+},
+{
+"style": "Body Text",
+"text": "Mép sau có mối liên hệ trực tiếp với điều kiện Kutta và sự hình thành wake phía sau cánh."
+},
+{
+"style": "Body Text",
+"text": "Độ dày mép sau:"
+},
+{
+"style": "Body Text",
+"text": "Góc mép sau:"
+},
+{
+"style": "Body Text",
+"text": "Ngoài ra, các descriptor như trailing_edge_angle, aft_thickness và aft_camber cũng được sử dụng để mô tả cấu trúc vùng đuôi cánh."
+},
+{
+"style": "Body Text",
+"text": "Về mặt vật lý, các đặc trưng mép sau ảnh hưởng trực tiếp tới sự phát triển của wake, lực cản áp suất và mô men khí động học. Các thay đổi nhỏ tại vùng đuôi cánh đôi khi có thể gây ra sự thay đổi đáng kể đối với hệ số lực cản, đặc biệt trong vùng Reynolds thấp [7], [9]."
+},
+{
+"style": "Body Text",
+"text": "e. Nhóm đặc trưng độ cong cục bộ"
+},
+{
+"style": "Body Text",
+"text": "Độ cong hình học của biên dạng được xác định bởi:"
+},
+{
+"style": "Body Text",
+"text": "Từ phân bố độ cong có thể xây dựng các descriptor như:"
+},
+{
+"style": "Body Text",
+"text": "và năng lượng độ cong:"
+},
+{
+"style": "Body Text",
+"text": "Các đặc trưng như curvature_energy_aft, curvature_variance hoặc local_curvature_variance phản ánh mức độ mượt của biên dạng. Những vùng có độ cong thay đổi đột ngột thường tạo ra gradient áp suất lớn và làm tăng nguy cơ tách dòng. Vì vậy, các descriptor độ cong không chỉ phản ánh chất lượng hình học mà còn gián tiếp phản ánh chất lượng khí động học của biên dạng [9], [10]."
+},
+{
+"style": "Heading 3",
+"text": "2.4.3. Ý nghĩa vật lý và khả năng tổng quát hóa của các đặc trưng hình học"
+},
+{
+"style": "Body Text",
+"text": "Các đặc trưng hình học được trình bày ở trên không chỉ là các biến đầu vào phục vụ học máy mà còn là các đại diện vật lý cho những cơ chế khí động học cơ bản."
+},
+{
+"style": "Body Text",
+"text": "Độ cong cực đại liên hệ với tuần hoàn khí động học và khả năng sinh lực nâng. Độ dày cực đại ảnh hưởng đến lớp biên và khả năng chống thất tốc. Bán kính mép trước quyết định cấu trúc dòng chảy tại vùng stagnation, trong khi các đặc trưng mép sau ảnh hưởng đến điều kiện Kutta và sự phát triển của wake phía sau cánh."
+},
+{
+"style": "Body Text",
+"text": "Quan trọng hơn, các descriptor này giúp chuyển đổi hình học từ không gian tọa độ nhiều chiều sang một không gian đặc trưng có số chiều thấp hơn nhưng mang ý nghĩa vật lý rõ ràng. Nhờ đó, mô hình học máy có thể học các quy luật khí động học tổng quát thay vì ghi nhớ từng hình dạng riêng lẻ. Điều này góp phần cải thiện khả năng tổng quát hóa của mô hình đối với các biên dạng chưa xuất hiện trong tập huấn luyện và là cơ sở trực tiếp cho việc xây dựng các mô hình surrogate."
+},
+{
+"style": "Heading 2",
+"text": "2.5. Mô hình học máy thay thế CFD"
+},
+{
+"style": "Heading 3",
+"text": "2.5.1. Động cơ sử dụng mô hình học máy trong khí động học"
+},
+{
+"style": "Body Text",
+"text": "Trong các bài toán thiết kế và phân tích khí động học truyền thống, các hệ số lực nâng, lực cản và mô men khí động học thường được xác định thông qua thực nghiệm hầm gió hoặc mô phỏng động lực học chất lưu tính toán Computational Fluid Dynamics – CFD. Các phương pháp này cho phép mô tả chi tiết trường vận tốc, áp suất và sự phát triển của lớp biên quanh biên dạng cánh, từ đó cung cấp kết quả có độ chính xác cao. Tuy nhiên, chi phí tính toán của CFD thường rất lớn, đặc biệt khi cần khảo sát một số lượng lớn cấu hình hình học hoặc thực hiện tối ưu hóa lặp nhiều lần [2], [5]."
+},
+{
+"style": "Body Text",
+"text": "Đối với bài toán tối ưu hóa biên dạng cánh, mỗi ứng viên hình học thường phải được đánh giá tại nhiều điều kiện vận hành khác nhau, bao gồm các giá trị góc tấn và số Reynolds khác nhau. Nếu toàn bộ quá trình đánh giá đều được thực hiện bằng CFD, tổng thời gian tính toán có thể tăng lên tới hàng chục hoặc hàng trăm giờ đối với một vòng tối ưu. Điều này làm hạn chế khả năng khảo sát không gian thiết kế rộng và gây khó khăn trong việc áp dụng các thuật toán tối ưu hóa hiện đại."
+},
+{
+"style": "Body Text",
+"text": "Từ góc độ toán học, quá trình phân tích khí động học có thể được xem như một ánh xạ phi tuyến:"
+},
+{
+"style": "Body Text",
+"text": "trong đó G biểu diễn hình học biên dạng cánh, Re là số Reynolds và là góc tấn."
+},
+{
+"style": "Body Text",
+"text": "Mục tiêu của mô hình học máy là xây dựng một hàm xấp xỉ:"
+},
+{
+"style": "Body Text",
+"text": "sao cho có thể dự đoán nhanh các hệ số khí động học mà không cần thực hiện mô phỏng CFD cho từng trường hợp riêng lẻ."
+},
+{
+"style": "Body Text",
+"text": "Các mô hình như vậy thường được gọi là mô hình thay thế - Surrogate Models. Sau khi được huấn luyện từ dữ liệu CFD hoặc dữ liệu thực nghiệm, surrogate model có thể đưa ra dự đoán chỉ trong vài mili giây. Nhờ đó, tốc độ đánh giá có thể nhanh hơn nhiều bậc độ lớn so với các phương pháp mô phỏng truyền thống [2], [3], [5]."
+},
+{
+"style": "Body Text",
+"text": "Trong phạm vi đề tài này, surrogate model đóng vai trò trung gian kết nối giữa hình học biên dạng và bài toán tối ưu hóa khí động học. Đây là thành phần cốt lõi cho phép thực hiện tìm kiếm hình dạng tối ưu trên không gian thiết kế rộng mà vẫn duy trì chi phí tính toán ở mức chấp nhận được."
+},
+{
+"style": "Heading 3",
+"text": "2.5.2. Bản chất của surrogate modeling trong CKi_ML"
+},
+{
+"style": "Body Text",
+"text": "Một trong những vấn đề quan trọng khi xây dựng surrogate model là lựa chọn cách biểu diễn hình học đầu vào. Như đã trình bày trong Mục 2.2 và Mục 2.3, mỗi airfoil có thể được mô tả bằng hàng trăm điểm tọa độ và được xem như một điểm trong không gian hình học nhiều chiều:"
+},
+{
+"style": "Body Text",
+"text": "Tuy nhiên, việc sử dụng trực tiếp toàn bộ tập tọa độ thường làm gia tăng số chiều dữ liệu và giảm khả năng diễn giải của mô hình."
+},
+{
+"style": "Body Text",
+"text": "Trong nghiên cứu này, hình học không được đưa trực tiếp vào mô hình dưới dạng tọa độ thô mà được chuyển đổi thành một tập các đặc trưng hình học có ý nghĩa vật lý thông qua quá trình Feature Engineering đã trình bày trong Mục 2.4. Khi đó, bài toán dự đoán khí động học được viết dưới dạng:"
+},
+{
+"style": "Body Text",
+"text": "trong đó:"
+},
+{
+"style": "Body Text",
+"text": "G: hình học ban đầu;"
+},
+{
+"style": "Body Text",
+"text": ": vector đặc trưng hình học;"
+},
+{
+"style": "Body Text",
+"text": "Re: số Reynolds;"
+},
+{
+"style": "Body Text",
+"text": ": góc tấn."
+},
+{
+"style": "Body Text",
+"text": "Cách tiếp cận này cho phép mô hình học máy khai thác trực tiếp các yếu tố hình học có liên hệ vật lý với lực nâng, lực cản và mô men khí động học thay vì học từ tập tọa độ khó diễn giải."
+},
+{
+"style": "Body Text",
+"text": "Về bản chất, surrogate model không chỉ học một ánh xạ thống kê giữa đầu vào và đầu ra mà còn được định hướng bởi các đặc trưng hìn học và vật lý, từ đó giúp  mang ý nghĩa khí động học. Điều này giúp cải thiện khả năng tổng quát hóa của mô hình khi áp dụng cho các hình dạng chưa xuất hiện trong tập huấn luyện."
+},
+{
+"style": "Heading 3",
+"text": "2.5.3. Các mô hình hồi quy cây quyết định"
+},
+{
+"style": "Body Text",
+"text": "Các hệ số khí động học của biên dạng cánh có mối quan hệ phi tuyến mạnh với hình học và điều kiện dòng chảy. Đặc biệt trong vùng near-stall và post-stall, các hiện tượng tách dòng làm cho quan hệ giữa đầu vào và đầu ra trở nên phức tạp hơn đáng kể. Vì vậy, đề tài tập trung vào nhóm mô hình hồi quy dựa trên cây quyết định. Nhóm mô hình này có khả năng mô hình hóa các quan hệ phi tuyến, xử lý hiệu quả dữ liệu dạng bảng và không yêu cầu giả định tuyến tính giữa các biến."
+},
+{
+"style": "Body Text",
+"text": "Random Forest"
+},
+{
+"style": "Body Text",
+"text": "Random Forest là phương pháp ensemble dựa trên nhiều cây quyết định độc lập được huấn luyện trên các tập dữ liệu con khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Giả sử có (M) cây quyết định, giá trị dự đoán cuối cùng được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "trong đó (T_m(x)) là dự đoán của cây thứ (m)."
+},
+{
+"style": "Body Text",
+"text": "Việc kết hợp nhiều cây giúp giảm phương sai của mô hình và tăng khả năng chống quá khớp. Random Forest đặc biệt phù hợp với các bài toán có nhiều đặc trưng hình học tương tác phi tuyến với nhau."
+},
+{
+"style": "Body Text",
+"text": "b. HistGradientBoosting"
+},
+{
+"style": "Body Text",
+"text": "Khác với Random Forest, HistGradientBoosting xây dựng các cây theo trình tự tuần tự. Mỗi cây mới được huấn luyện nhằm giảm phần sai số còn lại của các cây trước đó."
+},
+{
+"style": "Body Text",
+"text": "Mô hình tổng quát có dạng:"
+},
+{
+"style": "Body Text",
+"text": "trong đó:"
+},
+{
+"style": "Body Text",
+"text": "cây mới được thêm vào;"
+},
+{
+"style": "Body Text",
+"text": "hệ số học."
+},
+{
+"style": "Body Text",
+"text": "Việc cập nhật liên tục theo sai số giúp mô hình tập trung vào những vùng khó dự đoán của dữ liệu, đặc biệt là các vùng khí động học phi tuyến lớn như near-stall và post-stall."
+},
+{
+"style": "Body Text",
+"text": "Trong project này, HistGradientBoosting cho thấy khả năng mô hình hóa tốt các tương tác giữa hình học, Reynolds Number và góc tấn."
+},
+{
+"style": "Body Text",
+"text": "c. CatBoost"
+},
+{
+"style": "Body Text",
+"text": "CatBoost cũng thuộc nhóm Gradient Boosting nhưng được thiết kế nhằm cải thiện tính ổn định trong quá trình huấn luyện và giảm nguy cơ quá khớp."
+},
+{
+"style": "Body Text",
+"text": "Mặc dù thường được sử dụng cho dữ liệu có biến phân loại, CatBoost vẫn là một trong những mô hình mạnh đối với dữ liệu bảng có cấu trúc phức tạp. Trong nghiên cứu này, CatBoost được sử dụng như một mô hình đối chứng nhằm đánh giá khả năng dự đoán của các phương pháp boosting khác nhau."
+},
+{
+"style": "Heading 3",
+"text": "2.5.4. Ensemble Learning và khả năng tổng quát hóa"
+},
+{
+"style": "Body Text",
+"text": "Trong thực tế, không có một mô hình đơn lẻ nào luôn hoạt động tối ưu trên toàn bộ miền dữ liệu khí động học. Một mô hình có thể dự đoán tốt trong vùng dòng chảy bám nhưng suy giảm độ chính xác ở vùng gần thất tốc. Ngược lại, một mô hình khác có thể hoạt động tốt ở vùng phi tuyến nhưng kém ổn định trong vùng tuyến tính. Do đó, một hướng tiếp cận phổ biến là sử dụng Ensemble Learning nhằm kết hợp ưu điểm của nhiều mô hình khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Giả sử có (K) mô hình thành phần:"
+},
+{
+"style": "Body Text",
+"text": "dự đoán tổng hợp được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "với:"
+},
+{
+"style": "Body Text",
+"text": "trong đó là trọng số của mô hình thứ k."
+},
+{
+"style": "Body Text",
+"text": "Việc kết hợp nhiều mô hình giúp giảm sai số tổng quát hóa và tăng tính ổn định của hệ thống dự đoán. Đây cũng là một trong những hướng tiếp cận được áp dụng rộng rãi trong các bài toán surrogate modeling hiện đại [3], [12]."
+},
+{
+"style": "Heading 3",
+"text": "2.5.5. Vai trò của surrogate model trong bài"
+},
+{
+"style": "Body Text",
+"text": "Từ các phân tích trên có thể thấy rằng surrogate model đóng vai trò trung tâm trong toàn bộ quy trình nghiên cứu của CKi_ML."
+},
+{
+"style": "Body Text",
+"text": "Quy trình tổng quát có thể được biểu diễn như sau:"
+},
+{
+"style": "Body Text",
+"text": "Trong đó:"
+},
+{
+"style": "Body Text",
+"text": "G là hình học airfoil;"
+},
+{
+"style": "Body Text",
+"text": "là tập đặc trưng hình học;"
+},
+{
+"style": "Body Text",
+"text": "là các giá trị dự đoán của mô hình học máy."
+},
+{
+"style": "Body Text",
+"text": "Điểm khác biệt của model này so với nhiều nghiên cứu dựa trên dữ liệu tọa độ thô là việc khai thác các descriptor hình học có ý nghĩa vật lý. Cách tiếp cận này giúp giảm số chiều dữ liệu đầu vào, tăng khả năng diễn giải của mô hình và duy trì mối liên hệ giữa hình học với các cơ chế khí động học đã trình bày trong các mục trước."
+},
+{
+"style": "Body Text",
+"text": "Ngoài ra, surrogate model còn là nền tảng cho bước tối ưu hóa hình học. Khi việc đánh giá khí động học có thể được thực hiện gần như tức thời, quá trình tìm kiếm biên dạng tối ưu trở nên khả thi trên không gian thiết kế lớn mà không cần thực hiện CFD cho từng ứng viên."
+},
+{
+"style": "Body Text",
+"text": "Như vậy, surrogate model trong bài không chỉ là công cụ dự đoán nhanh các hệ số khí động học mà còn là cầu nối giữa Geometry Manifold, Feature Engineering và bài toán tối ưu hóa biên dạng cánh."
+},
+{
+"style": "Heading 2",
+"text": "2.6. Tối ưu hoá khí động học biên dạng cánh"
+},
+{
+"style": "Heading 3",
+"text": "2.6.1. Không gian thiết kế khí động học"
+},
+{
+"style": "Body Text",
+"text": "Mục tiêu cuối cùng của thiết kế khí động học là tìm ra biên dạng cánh có khả năng tạo ra các đặc tính khí động học mong muốn trong một miền điều kiện vận hành xác định. Đối với biên dạng cánh hai chiều, các đặc tính này thường được đánh giá thông qua hệ số lực nâng, hệ số lực cản, hệ số mô men khí động học và tỷ số lực nâng trên lực cản."
+},
+{
+"style": "Body Text",
+"text": "Về mặt toán học, mỗi biên dạng cánh có thể được xem như một điểm trong không gian hình học nhiều chiều đã trình bày ở Mục 2.2. Nếu một airfoil được mô tả bởi N điểm tọa độ, không gian thiết kế tương ứng có thể được biểu diễn bởi:"
+},
+{
+"style": "Body Text",
+"text": "Đối với các bộ dữ liệu airfoil hiện đại, N thường dao động từ 100 đến 300 điểm. Điều này đồng nghĩa với việc không gian thiết kế có thể chứa hàng trăm biến hình học. Trong một không gian có số chiều lớn như vậy, số lượng cấu hình hình học khả dĩ là rất lớn, khiến việc khảo sát toàn bộ không gian bằng các phương pháp truyền thống gần như không khả thi."
+},
+{
+"style": "Body Text",
+"text": "Ngoài ra, phần lớn các điểm trong không gian  không tương ứng với các biên dạng cánh hợp lệ. Nhiều cấu hình có thể xuất hiện hiện tượng tự giao nhau, độ dày âm hoặc bề mặt không liên tục. Do đó, bài toán tối ưu hóa khí động học không chỉ là tìm kiếm nghiệm tốt nhất mà còn phải đảm bảo nghiệm thu được nằm trong miền hình học hợp lệ."
+},
+{
+"style": "Heading 3",
+"text": "2.6.2. Phát biểu bài toán tối ưu hóa biên dạng cánh"
+},
+{
+"style": "Body Text",
+"text": "Về bản chất, tối ưu hóa khí động học là bài toán tìm kiếm hình dạng biên dạng cánh sao cho một hàm mục tiêu đạt giá trị tốt nhất đồng thời thỏa mãn các ràng buộc thiết kế."
+},
+{
+"style": "Body Text",
+"text": "Nếu ký hiệu:"
+},
+{
+"style": "Body Text",
+"text": "là hình học biên dạng cánh và:"
+},
+{
+"style": "Body Text",
+"text": "là hàm mục tiêu, bài toán tối ưu hóa tổng quát được viết dưới dạng:"
+},
+{
+"style": "Body Text",
+"text": "hoặc:"
+},
+{
+"style": "Body Text",
+"text": "trong đó là nghiệm tối ưu."
+},
+{
+"style": "Body Text",
+"text": "Trong thiết kế khí động học, các mục tiêu thường gặp bao gồm:"
+},
+{
+"style": "Body Text",
+"text": "cực đại hóa hệ số lực nâng;"
+},
+{
+"style": "Body Text",
+"text": "cực tiểu hóa hệ số lực cản;"
+},
+{
+"style": "Body Text",
+"text": "cực đại hóa tỷ số lực nâng trên lực cản;"
+},
+{
+"style": "Body Text",
+"text": "duy trì mô men khí động học ổn định;"
+},
+{
+"style": "Body Text",
+"text": "trì hoãn hiện tượng thất tốc."
+},
+{
+"style": "Body Text",
+"text": "Đối với đề tài này, hiệu suất khí động học được đánh giá chủ yếu thông qua tỷ số lực nâng trên lực cản:"
+},
+{
+"style": "Body Text",
+"text": "Đại lượng này phản ánh khả năng tạo lực nâng với mức tổn hao năng lượng nhỏ nhất. Giá trị (L/D) càng lớn thì hiệu suất khí động học của biên dạng càng cao."
+},
+{
+"style": "Heading 3",
+"text": "2.6.3. Tối ưu hóa trong không gian đặc trưng hình học"
+},
+{
+"style": "Body Text",
+"text": "Mặc dù về mặt lý thuyết có thể thực hiện tối ưu hóa trực tiếp trên toàn bộ tập tọa độ hình học, cách tiếp cận này tồn tại nhiều hạn chế cả về mặt tính toán lẫn khả năng diễn giải vật lý."
+},
+{
+"style": "Body Text",
+"text": "Thứ nhất, số chiều của không gian thiết kế thường rất lớn. Nếu một biên dạng được mô tả bởi 240 điểm tọa độ thì hình học tương ứng nằm trong không gian:"
+},
+{
+"style": "Body Text",
+"text": "Không gian có số chiều cao dẫn đến hiện tượng Curse of Dimensionality, làm gia tăng đáng kể độ khó của bài toán tối ưu hóa và giảm hiệu quả của các thuật toán tìm kiếm."
+},
+{
+"style": "Body Text",
+"text": "Thứ hai, phần lớn các tọa độ riêng lẻ không mang ý nghĩa khí động học trực tiếp. Việc thay đổi một số điểm trên biên dạng thường khó liên hệ với các hiện tượng vật lý như sự thay đổi lực nâng, lực cản, tách dòng hoặc đặc tính thất tốc. Điều này làm giảm khả năng diễn giải kết quả tối ưu và gây khó khăn trong việc phân tích cơ chế vật lý phía sau nghiệm thu được."
+},
+{
+"style": "Body Text",
+"text": "Thứ ba, tối ưu hóa trực tiếp trên tập tọa độ dễ sinh ra các hình dạng không hợp lệ về mặt hình học hoặc nằm ngoài miền dữ liệu huấn luyện của mô hình học máy. Khi đó, độ tin cậy của các dự đoán khí động học có thể suy giảm đáng kể."
+},
+{
+"style": "Body Text",
+"text": "Để khắc phục các hạn chế trên, nghiên cứu lựa chọn thực hiện tối ưu hóa trong không gian đặc trưng hình học thay vì không gian tọa độ ban đầu. Các biến thiết kế được xây dựng từ các descriptor đã trình bày trong Mục 2.4 như độ dày cực đại, vị trí độ dày cực đại, độ cong cực đại, vị trí độ cong cực đại, bán kính mép trước, góc mép sau và các đặc trưng độ cong cục bộ."
+},
+{
+"style": "Body Text",
+"text": "Không gian thiết kế khi đó có thể được biểu diễn dưới dạng:"
+},
+{
+"style": "Body Text",
+"text": "Khác với tọa độ hình học thô, mỗi biến trong không gian đều có ý nghĩa vật lý rõ ràng đối với các cơ chế khí động học đã được trình bày ở Mục 2.1. Do đó, quá trình tối ưu không chỉ giúp tìm kiếm nghiệm tốt hơn mà còn cho phép giải thích nguyên nhân khí động học dẫn đến sự cải thiện hiệu suất của biên dạng cánh."
+},
+{
+"style": "Heading 3",
+"text": "2.6.4. Vai trò của Geometry Manifold trong tối ưu hóa"
+},
+{
+"style": "Body Text",
+"text": "Như đã trình bày ở Mục 2.3, các biên dạng cánh hợp lệ không phân bố ngẫu nhiên trong không gian hình học mà nằm trên một Geometry Manifold có cấu trúc. Do đó, quá trình tối ưu hóa không nên được thực hiện trên toàn bộ không gian tọa độ mà cần được giới hạn trong vùng lân cận của manifold hình học khả thi."
+},
+{
+"style": "Body Text",
+"text": "Các ràng buộc cơ bản bao gồm:"
+},
+{
+"style": "Body Text",
+"text": "trong đó là độ dày cục bộ, A là diện tích mặt cắt và là độ cong hình học."
+},
+{
+"style": "Body Text",
+"text": "Về bản chất, các điều kiện trên giúp đảm bảo rằng hình dạng được sinh ra trong quá trình tối ưu vẫn duy trì tính liên tục hình học, tính khả thi về chế tạo và ý nghĩa khí động học. Nếu không có các ràng buộc này, thuật toán tối ưu có thể tạo ra các hình dạng có giá trị hàm mục tiêu cao nhưng không tồn tại trong thực tế."
+},
+{
+"style": "Body Text",
+"text": "Từ góc nhìn học máy, việc rời xa Geometry Manifold đồng nghĩa với việc đi vào các vùng dữ liệu ngoài phân phối huấn luyện (Out-of-Distribution Region). Trong các vùng này, mô hình surrogate thường không còn được bảo đảm về độ chính xác do thiếu dữ liệu hỗ trợ. Vì vậy, việc duy trì quá trình tìm kiếm trong hoặc gần manifold hình học hợp lệ không chỉ giúp đảm bảo tính khả thi của nghiệm tối ưu mà còn nâng cao độ tin cậy của các dự đoán khí động học."
+},
+{
+"style": "Body Text",
+"text": "Có thể nói rằng Geometry Manifold đóng vai trò như một cơ chế kiểm soát không gian thiết kế, giúp kết nối giữa tối ưu hóa hình học và độ tin cậy của mô hình học máy trong toàn bộ quy trình CKi_ML."
+},
+{
+"style": "Heading 3",
+"text": "2.6.5. Surrogate-Based Optimization"
+},
+{
+"style": "Body Text",
+"text": "Trong các phương pháp thiết kế truyền thống, mỗi lần đánh giá một biên dạng mới đều yêu cầu thực hiện mô phỏng CFD hoặc thử nghiệm thực nghiệm nhằm xác định các hệ số khí động học tương ứng. Nếu ký hiệu  là bộ giải CFD, quá trình đánh giá có thể được mô tả:"
+},
+{
+"style": "Body Text",
+"text": "Mặc dù cho độ chính xác cao, phương pháp này đòi hỏi chi phí tính toán lớn. Trong bài toán tối ưu hóa, nơi hàng nghìn hoặc hàng chục nghìn cấu hình hình học cần được đánh giá, tổng chi phí tính toán có thể trở thành rào cản đáng kể."
+},
+{
+"style": "Body Text",
+"text": "Để khắc phục hạn chế này, nghiên cứu sử dụng mô hình học máy thay thế CFD trong vòng lặp tối ưu:"
+},
+{
+"style": "Body Text",
+"text": "Trong đó là vector đặc trưng hình học và là mô hình surrogate đã được huấn luyện từ dữ liệu khí động học."
+},
+{
+"style": "Body Text",
+"text": "Nếu ký hiệu thời gian đánh giá bằng CFD là và thời gian đánh giá bằng mô hình học máy là , thông thường tồn tại:"
+},
+{
+"style": "Body Text",
+"text": "Điều này cho phép khảo sát số lượng cấu hình hình học lớn hơn nhiều trong cùng một ngân sách tính toán. Đây cũng là lý do surrogate-based optimization hiện được xem là một trong những hướng tiếp cận chủ đạo trong tối ưu hóa khí động học hiện đại [2], [5], [12]."
+},
+{
+"style": "Body Text",
+"text": "Trong CKi_ML, surrogate model không chỉ đóng vai trò tăng tốc tính toán mà còn là cầu nối giữa Geometry Manifold, Feature Engineering và quá trình tối ưu hóa. Nhờ sử dụng các đặc trưng hình học có ý nghĩa vật lý, mô hình học máy có khả năng khai thác trực tiếp các mối quan hệ giữa hình học và khí động học thay vì chỉ học từ dữ liệu tọa độ thuần túy. Điều này giúp tăng khả năng diễn giải của mô hình và nâng cao độ tin cậy của quá trình tối ưu hóa."
+},
+{
+"style": "Heading 3",
+"text": "2.6.6. Quy trình tối ưu hóa trong CKi_ML"
+},
+{
+"style": "Body Text",
+"text": "Dựa trên các thành phần đã trình bày trong chương này, quy trình tối ưu hóa của CKi_ML có thể được mô tả theo sơ đồ:"
+},
+{
+"style": "Body Text",
+"text": "Trong đó:"
+},
+{
+"style": "Body Text",
+"text": "G là hình học ban đầu;"
+},
+{
+"style": "Body Text",
+"text": "là tập đặc trưng hình học;"
+},
+{
+"style": "Body Text",
+"text": "là kết quả dự đoán của surrogate model;"
+},
+{
+"style": "Body Text",
+"text": "là hàm mục tiêu tối ưu hóa;"
+},
+{
+"style": "Body Text",
+"text": "là biên dạng tối ưu thu được."
+},
+{
+"style": "Body Text",
+"text": "Quy trình này cho phép thay thế hàng nghìn lần gọi CFD bằng các dự đoán nhanh từ mô hình học máy, từ đó giảm đáng kể chi phí tính toán trong quá trình tìm kiếm hình dạng tối ưu."
+},
+{
+"style": "Body Text",
+"text": "Như vậy, tối ưu hóa khí động học trong bài này không được thực hiện trực tiếp trên dữ liệu tọa độ thô mà được xây dựng trên nền tảng Geometry Manifold, Feature Engineering và Surrogate Modeling. Đây là bước hoàn thiện cuối cùng của chuỗi xử lý từ biểu diễn hình học đến thiết kế biên dạng cánh tối ưu."
+},
+{
+"style": "Heading 2",
+"text": "2.7. Đánh giá và kiểm chứng mô hình"
+},
+{
+"style": "Body Text",
+"text": "Mục tiêu của mô hình học máy trong nghiên cứu này là xây dựng một mô hình thay thế có khả năng dự đoán nhanh các hệ số khí động học của biên dạng cánh dựa trên hình học và điều kiện dòng chảy. Tuy nhiên, độ chính xác của mô hình trên tập dữ liệu huấn luyện không đồng nghĩa với khả năng dự đoán chính xác đối với các biên dạng chưa từng xuất hiện trong quá trình học. Trong các bài toán khí động học, dữ liệu thường được tạo ra từ một số lượng hữu hạn các biên dạng cánh kết hợp với nhiều điều kiện góc tấn và Reynolds Number khác nhau. Do đó, mô hình có thể đạt sai số thấp đơn thuần vì đã học được các mẫu hình học đã xuất hiện trong tập dữ liệu, thay vì thực sự học được quy luật vật lý chi phối mối quan hệ giữa hình học và các hệ số khí động học."
+},
+{
+"style": "Body Text",
+"text": "Vì vậy, đánh giá mô hình không chỉ nhằm đo lường sai số dự đoán mà còn nhằm kiểm tra khả năng tổng quát hóa sang các biên dạng mới, đánh giá tính ổn định của mô hình và xác định mức độ phù hợp với các quy luật khí động học cơ bản. Đây là bước quan trọng trước khi sử dụng mô hình trong bài toán tối ưu hóa biên dạng cánh."
+},
+{
+"style": "Heading 3",
+"text": "2.7.1. Các chỉ tiêu đánh giá sai số"
+},
+{
+"style": "Body Text",
+"text": "Đối với bài toán hồi quy, chất lượng dự đoán của mô hình thường được đánh giá thông qua các chỉ tiêu thống kê phản ánh mức độ sai khác giữa giá trị dự đoán và giá trị tham chiếu."
+},
+{
+"style": "Body Text",
+"text": "Sai số tuyệt đối trung bình được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "Trong đó là giá trị thực, là giá trị dự đoán và là số mẫu dữ liệu."
+},
+{
+"style": "Body Text",
+"text": "MAE phản ánh sai số trung bình của mô hình trên toàn bộ tập dữ liệu và có ưu điểm là dễ diễn giải dưới góc độ vật lý. Đối với các hệ số khí động học như , và , giá trị MAE càng nhỏ chứng tỏ mô hình càng dự đoán gần với kết quả tham chiếu."
+},
+{
+"style": "Body Text",
+"text": "Bên cạnh đó, sai số bình phương trung bình căn bậc được sử dụng nhằm đánh giá mức độ xuất hiện của các sai số lớn:"
+},
+{
+"style": "Body Text",
+"text": "Khác với MAE, RMSE nhạy hơn với các điểm dự đoán sai lệch mạnh. Điều này đặc biệt quan trọng trong khí động học vì các sai số lớn thường xuất hiện tại vùng gần thất tốc hoặc sau thất tốc, nơi dòng chảy có tính phi tuyến cao."
+},
+{
+"style": "Body Text",
+"text": "Ngoài ra, nghiên cứu còn sử dụng hệ số xác định nhằm đánh giá khả năng giải thích phương sai của mô hình:"
+},
+{
+"style": "Body Text",
+"text": "Giá trị càng gần 1 cho thấy mô hình càng mô tả tốt sự biến thiên của dữ liệu khí động học."
+},
+{
+"style": "Body Text",
+"text": "Việc kết hợp đồng thời MAE, RMSE và cho phép đánh giá toàn diện chất lượng dự đoán của mô hình dưới nhiều góc độ khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Đánh giá bằng Cross Validation"
+},
+{
+"style": "Body Text",
+"text": "Trong học máy, hiệu năng của mô hình có thể phụ thuộc đáng kể vào cách chia dữ liệu thành tập huấn luyện và tập kiểm tra. Nếu việc đánh giá chỉ dựa trên một lần chia dữ liệu duy nhất, kết quả thu được có thể mang tính ngẫu nhiên và không phản ánh chính xác khả năng hoạt động thực tế của mô hình."
+},
+{
+"style": "Body Text",
+"text": "Để khắc phục vấn đề này, nghiên cứu sử dụng phương pháp đánh giá chéo K-Fold Cross Validation. Tập dữ liệu được chia thành phần có kích thước tương đương nhau. Tại mỗi lần lặp, một phần được sử dụng để kiểm tra trong khi phần còn lại được sử dụng để huấn luyện. Quá trình này được lặp lại lần cho đến khi mọi phần dữ liệu đều được sử dụng làm tập kiểm tra."
+},
+{
+"style": "Body Text",
+"text": "Cross Validation giúp giảm độ phụ thuộc vào một lần chia dữ liệu cụ thể, đồng thời cung cấp đánh giá ổn định hơn về khả năng dự đoán của mô hình. Đây là phương pháp được sử dụng rộng rãi trong các nghiên cứu surrogate modeling hiện đại."
+},
+{
+"style": "Body Text",
+"text": "Đánh giá tổng quát hình học"
+},
+{
+"style": "Body Text",
+"text": "Đối với các bài toán surrogate modeling trong khí động học, độ chính xác thống kê chưa phải là tiêu chí duy nhất để đánh giá chất lượng mô hình. Một mô hình có thể đạt giá trị MAE hoặc RMSE thấp nhưng vẫn tạo ra các dự đoán không phù hợp với các quy luật vật lý cơ bản của dòng chảy. Khi đó, việc sử dụng mô hình trong các bài toán thiết kế và tối ưu hóa có thể dẫn đến những kết luận sai lệch mặc dù các chỉ số đánh giá truyền thống vẫn cho kết quả tốt."
+},
+{
+"style": "Body Text",
+"text": "Vì vậy, bên cạnh các chỉ tiêu thống kê, nghiên cứu còn thực hiện kiểm chứng tính nhất quán vật lý của các kết quả dự đoán. Mục tiêu của quá trình này là đánh giá xem các hệ số khí động học được dự đoán có tuân theo các xu hướng vật lý đã được xác lập trong lý thuyết khí động học hay không."
+},
+{
+"style": "Body Text",
+"text": "Đối với hệ số lực nâng, mô hình cần tái hiện được xu hướng gia tăng theo góc tấn trong vùng dòng chảy bám. Khi góc tấn tiếp tục tăng và tiến gần tới trạng thái thất tốc, tốc độ gia tăng của lực nâng phải giảm dần và cuối cùng xuất hiện điểm cực đại tương ứng với góc thất tốc. Sau trạng thái này, lực nâng thường suy giảm do sự phát triển của vùng tách dòng trên bề mặt cánh."
+},
+{
+"style": "Body Text",
+"text": "Đối với hệ số lực cản, giá trị lực cản thường tăng theo góc tấn và có xu hướng gia tăng nhanh hơn trong vùng gần thất tốc. Do đó, các đường cong dự đoán cần phản ánh được xu thế tăng dần của lực cản khi điều kiện dòng chảy trở nên bất lợi hơn."
+},
+{
+"style": "Body Text",
+"text": "Đối với hệ số mô men khí động học, mô hình cần duy trì được tính liên tục của đường cong dự đoán và phản ánh hợp lý sự thay đổi mô men theo hình dạng biên dạng cũng như điều kiện dòng chảy. Những dao động bất thường hoặc sự thay đổi đột ngột không có cơ sở vật lý thường là dấu hiệu cho thấy mô hình chưa học được đúng bản chất của dữ liệu."
+},
+{
+"style": "Body Text",
+"text": "Ngoài việc xem xét từng hệ số riêng lẻ, nghiên cứu còn đánh giá tính hợp lý của toàn bộ đường cong khí động học theo góc tấn. Các đường cong dự đoán được so sánh với xu hướng vật lý mong đợi nhằm phát hiện các hiện tượng bất thường như dao động phi vật lý, thay đổi đột ngột hoặc vi phạm các quy luật khí động học cơ bản."
+},
+{
+"style": "Body Text",
+"text": "Việc kiểm chứng tính nhất quán vật lý có ý nghĩa đặc biệt quan trọng đối với bài toán học máy. Mục tiêu cuối cùng của hệ thống không chỉ là dự đoán chính xác các hệ số khí động học mà còn sử dụng các dự đoán này trong quá trình tối ưu hóa biên dạng cánh. Một mô hình duy trì được tính hợp lý vật lý sẽ giúp nâng cao độ tin cậy của kết quả tối ưu hóa và giảm nguy cơ xuất hiện các nghiệm tối ưu không phù hợp với thực tế khí động học."
+},
+{
+"style": "Heading 3",
+"text": "2.7.6. Đánh giá theo nhóm hình học"
+},
+{
+"style": "Body Text",
+"text": "Một trong những hạn chế của các chỉ tiêu đánh giá truyền thống là chúng xem mọi mẫu dữ liệu là độc lập và có cùng mức độ quan trọng. Trong khi đó, dữ liệu khí động học thường được tổ chức theo cấu trúc hình học. Mỗi biên dạng cánh có thể xuất hiện nhiều lần trong tập dữ liệu tương ứng với các giá trị góc tấn và Reynolds Number khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Do đó, một mô hình có thể đạt sai số thấp trên toàn bộ tập dữ liệu nhưng vẫn hoạt động kém đối với một số nhóm hình học cụ thể. Điều này đặc biệt quan trọng trong bài toán thiết kế biên dạng mới, bởi mục tiêu thực tế không phải là dự đoán lại các hình dạng đã biết mà là dự đoán chính xác đối với những hình học chưa từng xuất hiện trong quá trình huấn luyện."
+},
+{
+"style": "Body Text",
+"text": "Để khắc phục hạn chế này, nghiên cứu đánh giá mô hình trên từng nhóm hình học riêng biệt thông qua các chỉ tiêu:"
+},
+{
+"style": "Body Text",
+"text": "trong đó là sai số trung bình của biên dạng thứ ."
+},
+{
+"style": "Body Text",
+"text": "Từ các giá trị này có thể xác định:"
+},
+{
+"style": "Body Text",
+"text": "Best Geometry Error;"
+},
+{
+"style": "Body Text",
+"text": "Median Geometry Error;"
+},
+{
+"style": "Body Text",
+"text": "Worst Geometry Error."
+},
+{
+"style": "Body Text",
+"text": "Việc phân tích sai số theo từng nhóm hình học giúp xác định các vùng của Geometry Manifold mà mô hình học tốt hoặc học kém. Đồng thời, phương pháp này cho phép đánh giá khả năng ngoại suy hình học (geometry extrapolation) của mô hình một cách trực tiếp hơn so với các chỉ tiêu tổng hợp truyền thống."
+},
+{
+"style": "Body Text",
+"text": "Đánh giá theo nhóm hình học có ý nghĩa đặc biệt quan trọng vì mục tiêu cuối cùng của hệ thống là tối ưu hóa và sinh ra các biên dạng mới. Một mô hình chỉ đạt sai số thấp trên tập dữ liệu tổng thể nhưng có sai số lớn đối với một số nhóm hình học sẽ tiềm ẩn rủi ro khi được sử dụng trong vòng lặp tối ưu hóa. Vì vậy, kết quả Leave-One-Geometry-Out và phân tích sai số theo từng geometry được xem là tiêu chí đánh giá quan trọng bên cạnh MAE, RMSE và ."
+},
+{
+"style": "Heading 1",
+"text": "CHƯƠNG 3 GIẢI QUYẾT VẤN ĐỀ"
+},
+{
+"style": "Heading 2",
+"text": "3.1. Tổng quan quá trình nghiên cứu"
+},
+{
+"style": "Body Text",
+"text": "Khác với các phương pháp mô phỏng CFD truyền thống, trong đó mỗi lần đánh giá một biên dạng mới đều yêu cầu thực hiện quá trình giải số tốn kém về thời gian tính toán, hệ thống CKi_ML hướng tới việc học mối quan hệ giữa hình học biên dạng, điều kiện dòng chảy và các hệ số khí động học từ dữ liệu đã có. Sau khi được huấn luyện, mô hình có thể dự đoán nhanh các hệ số lực nâng ((C_L)), lực cản ((C_D)) và mô men khí động học ((C_M)) mà không cần thực hiện lại toàn bộ quá trình mô phỏng CFD."
+},
+{
+"style": "Body Text",
+"text": "Quy trình xây dựng hệ thống CKi_ML bao gồm năm giai đoạn chính:"
+},
+{
+"style": "Body Text",
+"text": "Thu thập và xây dựng bộ dữ liệu khí động học từ các biên dạng cánh và các điều kiện dòng chảy khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Tiền xử lý và chuẩn hóa hình học nhằm đưa các biên dạng về cùng hệ quy chiếu hình học."
+},
+{
+"style": "Body Text",
+"text": "Trích xuất các đặc trưng hình học có ý nghĩa vật lý từ tập tọa độ biên dạng."
+},
+{
+"style": "Body Text",
+"text": "Huấn luyện các mô hình học máy để xây dựng surrogate model dự đoán các hệ số khí động học."
+},
+{
+"style": "Body Text",
+"text": "Sử dụng các mô hình surrogate trong quá trình tối ưu hóa biên dạng cánh."
+},
+{
+"style": "Heading 5",
+"text": "Hình 3.1.1. Quy trình tổng thể xây dựng hệ thống thay thế."
+},
+{
+"style": "Body Text",
+"text": "Trong quy trình trên, giai đoạn xử lý hình học và trích xuất đặc trưng đóng vai trò cầu nối giữa dữ liệu hình học và mô hình học máy. Các tọa độ biên dạng ban đầu được chuyển đổi thành các descriptor hình học như độ dày cực đại, vị trí độ dày cực đại, độ cong cực đại, bán kính mép trước và các đặc trưng vùng mép sau. Những đặc trưng này vừa giúp giảm số chiều dữ liệu vừa bảo toàn các thông tin khí động học quan trọng của biên dạng cánh."
+},
+{
+"style": "Body Text",
+"text": "Tiếp theo, các đặc trưng hình học được kết hợp với các điều kiện dòng chảy như góc tấn và số Reynolds để tạo thành bộ dữ liệu đầu vào cho các mô hình học máy. Các mô hình surrogate sau khi được huấn luyện sẽ được sử dụng để dự đoán nhanh các hệ số khí động học, đồng thời đóng vai trò hàm đánh giá trong quá trình tối ưu hóa biên dạng cánh."
+},
+{
+"style": "Heading 3",
+"text": "3.2. Thu thập và xây dựng bộ dữ liệu"
+},
+{
+"style": "Body Text",
+"text": "Chất lượng của mô hình học máy phụ thuộc trực tiếp vào chất lượng dữ liệu được sử dụng trong quá trình huấn luyện. Trong các bài toán dự đoán khí động học, dữ liệu không chỉ đóng vai trò là nguồn thông tin để mô hình học được mối quan hệ giữa hình học và đặc tính dòng chảy, mà còn quyết định phạm vi áp dụng và khả năng tổng quát hóa của mô hình đối với các cấu hình hình học mới. Do đó, việc xây dựng một bộ dữ liệu có tính đa dạng về hình học, đầy đủ về điều kiện vận hành và nhất quán về mặt biểu diễn là một yêu cầu quan trọng đối với toàn bộ hệ thống học máy."
+},
+{
+"style": "Heading 3",
+"text": "3.2.1. Nguồn dữ liệu hình học biên dạng cánh"
+},
+{
+"style": "Body Text",
+"text": "Nguồn dữ liệu hình học được thu thập từ các cơ sở dữ liệu airfoil công khai được sử dụng rộng rãi trong cộng đồng nghiên cứu khí động học. Các cơ sở dữ liệu này chứa hàng nghìn biên dạng cánh thuộc nhiều họ hình học khác nhau, từ các biên dạng cổ điển đến các biên dạng tối ưu hóa hiện đại."
+},
+{
+"style": "Body Text",
+"text": "Trong nghiên cứu này, dữ liệu hình học được thu thập chủ yếu từ các nguồn như:"
+},
+{
+"style": "Body Text",
+"text": "AirfoilTools Database;"
+},
+{
+"style": "Body Text",
+"text": "UIUC Airfoil Database; [13]."
+},
+{
+"style": "Heading 5",
+"text": "Hình 3.2.1. một số biên dạng cánh máy bay"
+},
+{
+"style": "Body Text",
+"text": "Các biên dạng được lưu trữ dưới dạng tệp DAT, trong đó mỗi tệp chứa tập hợp các điểm tọa độ mô tả mặt trên và mặt dưới của biên dạng cánh. Mỗi điểm được biểu diễn bởi cặp tọa độ (x, y) trong hệ tọa độ hai chiều."
+},
+{
+"style": "Body Text",
+"text": "Ưu điểm của việc sử dụng dữ liệu từ nhiều nguồn khác nhau là giúp tăng tính đa dạng hình học của bộ dữ liệu. Thay vì chỉ giới hạn trong một họ biên dạng cụ thể như NACA 4-Digit hoặc NACA 5-Digit, tập dữ liệu có khả năng bao phủ nhiều kiểu hình dạng khác nhau về độ dày, độ cong, bán kính mép trước và đặc tính mép sau. Điều này giúp mô hình học máy tiếp cận được một không gian hình học rộng hơn và hạn chế nguy cơ học quá mức đối với một họ biên dạng nhất định."
+},
+{
+"style": "Body Text",
+"text": "Tuy nhiên, việc kết hợp dữ liệu từ nhiều nguồn cũng đặt ra những thách thức nhất định. Các tệp DAT thường có số lượng điểm khác nhau, cách sắp xếp điểm không đồng nhất và đôi khi chứa các sai lệch hình học nhỏ do quá trình số hóa. Vì vậy, toàn bộ dữ liệu hình học cần được chuẩn hóa trước khi sử dụng trong quá trình xây dựng bộ dữ liệu học máy."
+},
+{
+"style": "Heading 3",
+"text": "3.2.2. Xây dựng dữ liệu khí động học"
+},
+{
+"style": "Body Text",
+"text": "Bên cạnh hình học biên dạng, bộ dữ liệu còn cần chứa các thông tin phản ánh đặc tính khí động học của từng cấu hình cánh trong các điều kiện dòng chảy khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Đối với mỗi biên dạng, nghiên cứu thực hiện phân tích khí động học tại nhiều giá trị góc tấn và số Reynolds khác nhau nhằm thu được các hệ số khí động học tương ứng. Mỗi mẫu dữ liệu được xây dựng từ ba thành phần chính:"
+},
+{
+"style": "Body Text",
+"text": "hình học biên dạng cánh;"
+},
+{
+"style": "Body Text",
+"text": "điều kiện dòng chảy;"
+},
+{
+"style": "Body Text",
+"text": "kết quả khí động học."
+},
+{
+"style": "Body Text",
+"text": "Có thể mô tả quá trình sinh dữ liệu theo dạng ánh xạ:"
+},
+{
+"style": "Body Text",
+"text": "Trong đó:"
+},
+{
+"style": "Body Text",
+"text": "Geometry là hình học biên dạng cánh;"
+},
+{
+"style": "Body Text",
+"text": "Re là số Reynolds;"
+},
+{
+"style": "Body Text",
+"text": "AoA là góc tấn;"
+},
+{
+"style": "Body Text",
+"text": "CL là hệ số lực nâng;"
+},
+{
+"style": "Body Text",
+"text": "CD là hệ số lực cản;"
+},
+{
+"style": "Body Text",
+"text": "CM là hệ số mô men khí động học."
+},
+{
+"style": "Body Text",
+"text": "Khác với các bài toán học máy truyền thống chỉ có một đầu ra duy nhất, nghiên cứu này đồng thời quan tâm tới nhiều đại lượng khí động học. Điều này xuất phát từ thực tế rằng hiệu suất của một biên dạng cánh không thể được đánh giá chỉ thông qua một chỉ số đơn lẻ. Một biên dạng có lực nâng cao chưa chắc đã là biên dạng tốt nếu lực cản tăng mạnh hoặc mô men khí động học không ổn định."
+},
+{
+"style": "Body Text",
+"text": "Do đó, việc xây dựng dữ liệu bao gồm đồng thời CL, CD và CM cho phép nghiên cứu đánh giá đầy đủ hơn đặc tính khí động học của từng biên dạng."
+},
+{
+"style": "Heading 3",
+"text": "3.2.3. Miền khảo sát khí động học"
+},
+{
+"style": "Body Text",
+"text": "Một trong những yếu tố quan trọng ảnh hưởng đến chất lượng dữ liệu là phạm vi khảo sát của các điều kiện dòng chảy."
+},
+{
+"style": "Body Text",
+"text": "Nếu miền khảo sát quá hẹp, mô hình học máy chỉ học được một phần nhỏ hành vi khí động học của biên dạng. Ngược lại, nếu miền khảo sát đủ rộng, mô hình có khả năng mô tả được nhiều trạng thái dòng chảy khác nhau, từ vùng hoạt động tuyến tính cho tới vùng gần thất tốc."
+},
+{
+"style": "Body Text",
+"text": "Trong nghiên cứu này, dữ liệu được xây dựng trên nhiều giá trị góc tấn và Reynolds Number khác nhau nhằm phản ánh các điều kiện vận hành phổ biến của biên dạng cánh."
+},
+{
+"style": "Body Text",
+"text": "Góc tấn được khảo sát trong khoảng:"
+},
+{
+"style": "Body Text",
+"text": "Khoảng khảo sát này cho phép bao phủ:"
+},
+{
+"style": "Body Text",
+"text": "vùng lực nâng âm;"
+},
+{
+"style": "Body Text",
+"text": "vùng làm việc tuyến tính;"
+},
+{
+"style": "Body Text",
+"text": "vùng gần thất tốc;"
+},
+{
+"style": "Body Text",
+"text": "vùng sau thất tốc."
+},
+{
+"style": "Body Text",
+"text": "Bên cạnh đó, số Reynolds được khảo sát tại nhiều mức khác nhau nhằm phản ánh sự thay đổi của điều kiện dòng chảy:"
+},
+{
+"style": "Body Text",
+"text": "Việc lựa chọn nhiều mức Reynolds giúp bộ dữ liệu phản ánh được ảnh hưởng của lớp biên, quá trình chuyển tiếp dòng tầng – dòng rối và xu hướng tách dòng đối với các cấu hình hình học khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Nhờ đó, mô hình học máy không chỉ học được quan hệ giữa hình học và khí động học mà còn học được ảnh hưởng của điều kiện vận hành tới các hệ số khí động học."
+},
+{
+"style": "Heading 4",
+"text": "Bảng 3.2.1. Miền giá trị của dữ liệu gốc"
+},
+{
+"style": "Heading 2",
+"text": "3.3. Tiền xử lý và kiểm soát chất lượng dữ liệu"
+},
+{
+"style": "Body Text",
+"text": "Dữ liệu biên dạng cánh được thu thập từ nhiều nguồn khác nhau như UIUC Airfoil Database, AirfoilTools và các họ biên dạng NACA. Mặc dù các dữ liệu này đều được lưu trữ dưới dạng tập hợp các điểm tọa độ hai chiều, nhưng chúng không hoàn toàn đồng nhất về số lượng điểm, hệ tọa độ và cách mô tả hình học."
+},
+{
+"style": "Body Text",
+"text": "Trong thực tế, một số biên dạng được mô tả bởi vài chục điểm tọa độ, trong khi một số khác có thể chứa hàng trăm điểm. Ngoài ra, vị trí mép trước, mép sau và chiều dài dây cung giữa các file dữ liệu cũng có thể khác nhau. Những khác biệt này gây khó khăn cho quá trình trích xuất đặc trưng và xây dựng mô hình học máy."
+},
+{
+"style": "Body Text",
+"text": "Do đó, trước khi tiến hành phân tích hình học và huấn luyện mô hình, cần thực hiện quá trình tiền xử lý nhằm đưa toàn bộ các biên dạng về cùng một hệ quy chiếu hình học thống nhất. Quá trình này giúp loại bỏ các sai khác không liên quan đến đặc tính khí động học thực sự của biên dạng, đồng thời đảm bảo tính nhất quán của dữ liệu đầu vào."
+},
+{
+"style": "Body Text",
+"text": "Trong nghiên cứu này, quy trình tiền xử lý bao gồm ba bước chính:"
+},
+{
+"style": "Body Text",
+"text": "chuẩn hóa hình học;"
+},
+{
+"style": "Body Text",
+"text": "nội suy lại số lượng điểm tọa độ;"
+},
+{
+"style": "Body Text",
+"text": "kiểm tra tính hợp lệ của biên dạng."
+},
+{
+"style": "Heading 3",
+"text": "3.3.1. Chuẩn hoá hình học biên dạng"
+},
+{
+"style": "Body Text",
+"text": "Các biên dạng thu thập từ nhiều nguồn khác nhau thường có kích thước tuyệt đối không giống nhau. Tuy nhiên, trong bài toán khí động học hai chiều, hình dạng tương đối của biên dạng mới là yếu tố quyết định đặc tính khí động học, trong khi kích thước tuyệt đối có thể được mô tả riêng thông qua số Reynolds."
+},
+{
+"style": "Body Text",
+"text": "Vì lý do đó, tất cả các biên dạng được chuẩn hóa theo chiều dài dây cung đơn vị:"
+},
+{
+"style": "Body Text",
+"text": "Sau quá trình chuẩn hóa, mép trước được đưa về vị trí:"
+},
+{
+"style": "Body Text",
+"text": "và mép sau được đưa về vị trí:"
+},
+{
+"style": "Body Text",
+"text": "Nhờ đó, toàn bộ các biên dạng được biểu diễn trong cùng một hệ tọa độ chuẩn hóa."
+},
+{
+"style": "Body Text",
+"text": "Việc chuẩn hóa mang lại ba lợi ích chính."
+},
+{
+"style": "Body Text",
+"text": "Thứ nhất, loại bỏ ảnh hưởng của kích thước tuyệt đối giữa các biên dạng khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Thứ hai, tạo điều kiện thuận lợi cho việc so sánh trực tiếp các đặc trưng hình học như độ dày cực đại hoặc độ cong cực đại."
+},
+{
+"style": "Body Text",
+"text": "Thứ ba, giúp các mô hình học máy tập trung vào sự khác biệt hình học thực sự thay vì học các biến đổi tỉ lệ không có ý nghĩa khí động học."
+},
+{
+"style": "Body Text",
+"text": "Sau bước chuẩn hóa, mọi biên dạng trong cơ sở dữ liệu đều được biểu diễn trên cùng miền tọa độ:"
+},
+{
+"style": "Body Text",
+"text": "đây cũng là cơ sở cho quá trình nội suy hình học ở bước tiếp theo."
+},
+{
+"style": "Heading 3",
+"text": "3.3.2. Nội suy lại số lượng điểm tọa độ"
+},
+{
+"style": "Body Text",
+"text": "Mặc dù đã được chuẩn hóa về chiều dài dây cung, các biên dạng vẫn có sự khác biệt đáng kể về số lượng điểm mô tả."
+},
+{
+"style": "Body Text",
+"text": "Ví dụ, một số file DAT chỉ chứa khoảng 60 đến 80 điểm, trong khi các biên dạng khác có thể chứa trên 200 điểm. Điều này gây khó khăn cho việc xử lý dữ liệu hàng loạt vì các mô hình học máy yêu cầu các mẫu dữ liệu phải có cùng cấu trúc."
+},
+{
+"style": "Body Text",
+"text": "Để giải quyết vấn đề này, mỗi biên dạng được nội suy lại thành một số lượng điểm cố định."
+},
+{
+"style": "Body Text",
+"text": "Trong hệ thống bài này, mỗi biên dạng được lấy mẫu lại thành:"
+},
+{
+"style": "Body Text",
+"text": "120 điểm mặt trên;"
+},
+{
+"style": "Body Text",
+"text": "120 điểm mặt dưới."
+},
+{
+"style": "Body Text",
+"text": "Tổng cộng:"
+},
+{
+"style": "Body Text",
+"text": "điểm tọa độ cho mỗi biên dạng."
+},
+{
+"style": "Body Text",
+"text": "Việc sử dụng cùng một số lượng điểm cho tất cả các mẫu mang lại nhiều lợi ích."
+},
+{
+"style": "Body Text",
+"text": "Trước hết, nó giúp đảm bảo mọi biên dạng được mô tả với độ phân giải tương đương nhau. Thứ hai, quá trình tính toán các đại lượng hình học như độ dày, camber hoặc độ cong trở nên ổn định hơn. Cuối cùng, việc nội suy giúp giảm ảnh hưởng của sự khác biệt giữa các nguồn dữ liệu khác nhau."
+},
+{
+"style": "Body Text",
+"text": "Trong nghiên cứu này, nội suy được thực hiện trên miền dây cung chuẩn hóa nhằm duy trì hình dạng tổng thể của biên dạng trong khi vẫn bảo đảm tính nhất quán của dữ liệu đầu vào."
+},
+{
+"style": "Heading 3",
+"text": "3.3.3. Kiểm tra tính hợp lệ của biên dạng"
+},
+{
+"style": "Body Text",
+"text": "Sau khi chuẩn hóa và nội suy, cần tiếp tục kiểm tra tính hợp lệ hình học của từng biên dạng trước khi đưa vào quá trình trích xuất đặc trưng."
+},
+{
+"style": "Body Text",
+"text": "Bước này đặc biệt quan trọng vì các lỗi hình học có thể làm sai lệch kết quả tính toán hoặc gây ra các giá trị đặc trưng không có ý nghĩa vật lý."
+},
+{
+"style": "Body Text",
+"text": "Một biên dạng được xem là hợp lệ khi thỏa mãn đồng thời các điều kiện cơ bản sau:"
+},
+{
+"style": "Body Text",
+"text": "Điều kiện độ dày dương"
+},
+{
+"style": "Body Text",
+"text": "Phân bố độ dày phải thỏa mãn:"
+},
+{
+"style": "Body Text",
+"text": "trên phần lớn chiều dài dây cung. Điều kiện này bảo đảm mặt trên và mặt dưới không giao nhau."
+},
+{
+"style": "Body Text",
+"text": "Điều kiện diện tích dương"
+},
+{
+"style": "Body Text",
+"text": "Diện tích mặt cắt phải lớn hơn không:"
+},
+{
+"style": "Body Text",
+"text": "Nếu điều kiện này không được thỏa mãn, biên dạng không còn mang ý nghĩa vật lý."
+},
+{
+"style": "Body Text",
+"text": "Điều kiện không tự giao nhau"
+},
+{
+"style": "Body Text",
+"text": "Đường biên của airfoil không được xuất hiện các đoạn tự cắt hoặc giao nhau."
+},
+{
+"style": "Body Text",
+"text": "Các trường hợp tự giao thường xuất hiện do lỗi dữ liệu hoặc sai số trong quá trình nội suy và có thể gây mất ổn định trong các bước tính toán tiếp theo."
+},
+{
+"style": "Body Text",
+"text": "Điều kiện hình học liên tục"
+},
+{
+"style": "Body Text",
+"text": "Biên dạng cần duy trì tính liên tục và độ mượt hợp lý tại vùng mép trước và mép sau nhằm bảo đảm ý nghĩa khí động học của hình dạng."
+},
+{
+"style": "Body Text",
+"text": "Những biên dạng không thỏa mãn các điều kiện trên sẽ bị loại khỏi tập dữ liệu trước khi tiến hành xây dựng các đặc trưng hình học."
+},
+{
+"style": "Heading 3",
+"text": "3.3.4. Kiểm tra khí động học và phát hiện ngoại lại bằng isolation forest"
+},
+{
+"style": "Body Text",
+"text": "Sau khi vượt qua kiểm tra hình học, dữ liệu tiếp tục được đánh giá theo các quy luật khí động học cơ bản."
+},
+{
+"style": "Body Text",
+"text": "Các mẫu có:"
+},
+{
+"style": "Body Text",
+"text": "bị xem là không hợp lệ vì lực cản khí động học luôn không âm."
+},
+{
+"style": "Body Text",
+"text": "Tương tự, các trường hợp:"
+},
+{
+"style": "Body Text",
+"text": "quá lớn bất thường;"
+},
+{
+"style": "Body Text",
+"text": "vượt xa miền giá trị vật lý của tập dữ liệu;"
+},
+{
+"style": "Body Text",
+"text": "bất thường;"
+},
+{
+"style": "Body Text",
+"text": "được đánh dấu để kiểm tra bổ sung."
+},
+{
+"style": "Body Text",
+"text": "Việc kiểm tra này giúp loại bỏ các kết quả mô phỏng lỗi hoặc các mẫu có khả năng bị sai lệch trong quá trình sinh dữ liệu."
+},
+{
+"style": "Body Text",
+"text": "Ngay cả khi thỏa mãn các điều kiện hình học và vật lý cơ bản, một số mẫu vẫn có thể nằm rất xa phân bố chung của dữ liệu."
+},
+{
+"style": "Body Text",
+"text": "Để phát hiện các trường hợp này, nghiên cứu sử dụng thuật toán Isolation Forest trên không gian đặc trưng hình học."
+},
+{
+"style": "Body Text",
+"text": "Cho vector đặc trưng:"
+},
+{
+"style": "Body Text",
+"text": "Isolation Forest xây dựng tập cây phân hoạch ngẫu nhiên và tính điểm bất thường cho từng mẫu."
+},
+{
+"style": "Body Text",
+"text": "Nhưng tốt nhất, đã không xoá ngay lập tức, tránh trường hợp xoá những biên dnajg hiếm nhưng đem lại giá trị tốt, thì đã xây dựng chỉ số tin cậy dữ liệu – sample_confidence"
+},
+{
+"style": "Body Text",
+"text": "Khi đó chỉ số này sẽ phản ánh:"
+},
+{
+"style": "Body Text",
+"text": "Mức độ hợp lệ hình học"
+},
+{
+"style": "Body Text",
+"text": "Mức độ hợp lệ vật lý"
+},
+{
+"style": "Body Text",
+"text": "Khoảng cách tới phân bố dữ liệu chính"
+},
+{
+"style": "Body Text",
+"text": "Kết quả đánh giá Isolation Forest"
+},
+{
+"style": "Body Text",
+"text": "Nhờ đó, dữ liệu có thể được phân tầng chất lượng trước khi đưa vào huấn luyện mô hình."
+},
+{
+"style": "Body Text",
+"text": "Để nhận diện duy nhất các kiểu hình học, mỗi biên dạng cũng sẽ được gán mã định danh – geom_hash. Việc dùng định danh này sẽ giúp loại bỏ được dữ liệu trùng lặp, quản lý các mẫu cùng hình học nhưng khác AoA hoặc Re, phục vụ đánh giá GroupKFold tốt hơn."
+},
+{
+"style": "Heading 2",
+"text": "3.4. Trích xuất và xây dựng đặc trưng hình học"
+},
+{
+"style": "Heading 3",
+"text": "3.4.1. Nguyên tắc xây dựng descriptor hình học"
+},
+{
+"style": "Body Text",
+"text": "Quá trình xây dựng descriptor tuân theo ba nguyên tắc chính."
+},
+{
+"style": "Body Text",
+"text": "Thứ nhất, descriptor phải phản ánh được một đặc tính hình học có ý nghĩa khí động học rõ ràng. Mỗi đặc trưng được lựa chọn đều cần có mối liên hệ với ít nhất một trong các cơ chế vật lý đã trình bày ở Chương 2 như tuần hoàn khí động học, sự phát triển lớp biên, tách dòng hoặc điều kiện Kutta."
+},
+{
+"style": "Body Text",
+"text": "Thứ hai, descriptor phải có tính ổn định đối với sai số nội suy hình học. Các đại lượng được lựa chọn cần ít nhạy cảm với nhiễu dữ liệu và duy trì được giá trị đặc trưng khi mật độ lấy mẫu thay đổi."
+},
+{
+"style": "Body Text",
+"text": "Thứ ba, descriptor phải có khả năng diễn giải. Điều này giúp đánh giá vai trò của từng biến trong quá trình dự đoán và hỗ trợ phân tích kết quả sau khi huấn luyện mô hình."
+},
+{
+"style": "Body Text",
+"text": "Dựa trên các nguyên tắc trên, bộ descriptor của CKi_ML được chia thành năm nhóm chính: đặc trưng độ dày, đặc trưng độ cong trung bình, đặc trưng mép trước, đặc trưng mép sau và đặc trưng hình học tổng hợp."
+},
+{
+"style": "Heading 3",
+"text": "3.4.2 Phân loại các nhóm đặc trưng"
+},
+{
+"style": "Body Text",
+"text": "a. Nhóm đặc trưng độ dày"
+},
+{
+"style": "Body Text",
+"text": "Độ dày là một trong những yếu tố ảnh hưởng mạnh nhất đến cấu trúc dòng chảy quanh biên dạng cánh. Nó quyết định sự phát triển của lớp biên, vị trí tách dòng và đặc tính thất tốc của airfoil."
+},
+{
+"style": "Body Text",
+"text": "Phân bố độ dày được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "Từ phân bố này, hệ thống xây dựng các descriptor:"
+},
+{
+"style": "Body Text",
+"text": "max_thickness;"
+},
+{
+"style": "Body Text",
+"text": "x_max_thickness;"
+},
+{
+"style": "Body Text",
+"text": "mean_thickness;"
+},
+{
+"style": "Body Text",
+"text": "leading_edge_thickness;"
+},
+{
+"style": "Body Text",
+"text": "trailing_edge_thickness;"
+},
+{
+"style": "Body Text",
+"text": "aft_thickness."
+},
+{
+"style": "Body Text",
+"text": "Trong đó, độ dày cực đại phản ánh mức độ phát triển tổng thể của biên dạng, còn vị trí độ dày cực đại phản ánh sự phân bố áp suất dọc dây cung. Các nghiên cứu khí động học thực nghiệm cho thấy sự dịch chuyển của vị trí độ dày cực đại có thể làm thay đổi đáng kể hệ số lực cản và đặc tính stall của airfoil."
+},
+{
+"style": "Body Text",
+"text": "Độ dày vùng đuôi cánh (aft_thickness) được bổ sung nhằm mô tả riêng hình dạng phần sau của biên dạng, nơi có ảnh hưởng trực tiếp đến wake và lực cản áp suất."
+},
+{
+"style": "Body Text",
+"text": "Nhóm đặc trưng độ cong trung bình"
+},
+{
+"style": "Body Text",
+"text": "Khả năng sinh lực nâng của airfoil có liên hệ chặt chẽ với độ cong hình học của biên dạng."
+},
+{
+"style": "Body Text",
+"text": "Đường cong trung bình được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "Từ đó xây dựng các descriptor:"
+},
+{
+"style": "Body Text",
+"text": "max_abs_camber;"
+},
+{
+"style": "Body Text",
+"text": "x_max_abs_camber;"
+},
+{
+"style": "Body Text",
+"text": "mean_camber;"
+},
+{
+"style": "Body Text",
+"text": "aft_camber."
+},
+{
+"style": "Body Text",
+"text": "Độ cong cực đại phản ánh khả năng tạo tuần hoàn khí động học của biên dạng. Theo định lý Kutta–Joukowski, tuần hoàn là yếu tố quyết định lực nâng, do đó các descriptor liên quan đến camber thường có mức độ quan trọng cao đối với các mô hình dự đoán ."
+},
+{
+"style": "Body Text",
+"text": "Ngoài ra, độ cong vùng đuôi cánh được sử dụng nhằm mô tả riêng phần sau của đường camber, nơi có ảnh hưởng lớn đến mô men khí động học và đặc tính ổn định dọc."
+},
+{
+"style": "Body Text",
+"text": "c. Nhóm đặc trưng mép trước"
+},
+{
+"style": "Body Text",
+"text": "Mép trước là vị trí đầu tiên tiếp xúc với dòng khí và đóng vai trò quan trọng trong việc hình thành vùng stagnation."
+},
+{
+"style": "Body Text",
+"text": "Trong CKi_ML, hai descriptor chính được sử dụng là:"
+},
+{
+"style": "Body Text",
+"text": "leading_edge_thickness;"
+},
+{
+"style": "Body Text",
+"text": "le_radius_proxy."
+},
+{
+"style": "Body Text",
+"text": "Bán kính mép trước thực tế khó xác định chính xác từ dữ liệu tọa độ rời rạc. Vì vậy, nghiên cứu sử dụng các đại lượng xấp xỉ nhằm phản ánh độ tù hoặc độ nhọn của vùng mép trước."
+},
+{
+"style": "Body Text",
+"text": "Các descriptor này có liên hệ trực tiếp với khả năng chống tách dòng sớm và hành vi của biên dạng tại các góc tấn lớn."
+},
+{
+"style": "Body Text",
+"text": "d. Nhóm đặc trưng mép sau"
+},
+{
+"style": "Body Text",
+"text": "Mép sau có vai trò quan trọng đối với điều kiện Kutta và sự phát triển của wake phía sau cánh."
+},
+{
+"style": "Body Text",
+"text": "Các descriptor được xây dựng gồm:"
+},
+{
+"style": "Body Text",
+"text": "trailing_edge_thickness;"
+},
+{
+"style": "Body Text",
+"text": "te_angle_proxy;"
+},
+{
+"style": "Body Text",
+"text": "aft_thickness;"
+},
+{
+"style": "Body Text",
+"text": "aft_camber."
+},
+{
+"style": "Body Text",
+"text": "Những đặc trưng này phản ánh cấu trúc hình học của vùng dòng chảy rời khỏi biên dạng. Chúng thường có ảnh hưởng đáng kể đến hệ số lực cản và mô men khí động học."
+},
+{
+"style": "Body Text",
+"text": "Đặc biệt, góc mép sau là một đại lượng thường được sử dụng trong các nghiên cứu tối ưu hóa airfoil nhằm kiểm soát cấu trúc wake và giảm lực cản áp suất."
+},
+{
+"style": "Body Text",
+"text": "e. Đặc trưng hình học tổng hợp"
+},
+{
+"style": "Body Text",
+"text": "Bên cạnh các descriptor cục bộ, nghiên cứu còn xây dựng các đặc trưng mô tả hình dạng tổng thể của biên dạng."
+},
+{
+"style": "Body Text",
+"text": "Diện tích mặt cắt được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "và được lưu dưới dạng descriptor:"
+},
+{
+"style": "Body Text",
+"text": "section_area."
+},
+{
+"style": "Body Text",
+"text": "Ngoài ra còn có:"
+},
+{
+"style": "Body Text",
+"text": "upper_peak;"
+},
+{
+"style": "Body Text",
+"text": "lower_peak."
+},
+{
+"style": "Body Text",
+"text": "Nhóm descriptor này cho phép mô hình nhận diện những khác biệt hình học tổng quát giữa các họ airfoil khác nhau mà các descriptor cục bộ khó phản ánh đầy đủ."
+},
+{
+"style": "Heading 3",
+"text": "3.4.3. Kiểm định descriptor và xây dựng chỉ số chất lượng dữ liệu"
+},
+{
+"style": "Body Text",
+"text": "Sau khi trích xuất, toàn bộ descriptor tiếp tục được kiểm định nhằm phát hiện các trường hợp bất thường còn sót lại."
+},
+{
+"style": "Body Text",
+"text": "Các điều kiện kiểm tra bao gồm:"
+},
+{
+"style": "Body Text",
+"text": "Những descriptor vi phạm các điều kiện trên được xem là không hợp lệ và bị loại bỏ."
+},
+{
+"style": "Body Text",
+"text": "Bên cạnh đó, hệ thống còn xây dựng các biến đánh giá chất lượng dữ liệu như:"
+},
+{
+"style": "Body Text",
+"text": "rule_flags;"
+},
+{
+"style": "Body Text",
+"text": "rule_status;"
+},
+{
+"style": "Body Text",
+"text": "sample_confidence."
+},
+{
+"style": "Body Text",
+"text": "Các biến này tổng hợp kết quả từ quá trình kiểm tra hình học, kiểm tra vật lý và phát hiện ngoại lai, qua đó phản ánh mức độ tin cậy của từng mẫu dữ liệu."
+},
+{
+"style": "Heading 3",
+"text": "3.4.4. Xây dựng đặc trưng điều kiện dòng chảy"
+},
+{
+"style": "Body Text",
+"text": "Đặc tính khí động học của một biên dạng không chỉ phụ thuộc vào hình học mà còn phụ thuộc mạnh vào điều kiện vận hành."
+},
+{
+"style": "Body Text",
+"text": "Do đó, bộ đặc trưng đầu vào còn bao gồm:"
+},
+{
+"style": "Body Text",
+"text": "angle;"
+},
+{
+"style": "Body Text",
+"text": "abs_angle;"
+},
+{
+"style": "Body Text",
+"text": "reynolds;"
+},
+{
+"style": "Body Text",
+"text": "log10_re."
+},
+{
+"style": "Body Text",
+"text": "Trong đó, log10_re được sử dụng để giảm độ lệch phân bố của Reynolds Number và giúp mô hình học hiệu quả hơn trên nhiều miền Reynolds khác nhau."
+},
+{
+"style": "Heading 3",
+"text": "3.4.5. Xây dựng bộ dữ liệu học máy"
+},
+{
+"style": "Body Text",
+"text": "Sau khi hoàn thành quá trình trích xuất descriptor, dữ liệu hình học được kết hợp với điều kiện dòng chảy để tạo thành vector đầu vào của mô hình học máy:"
+},
+{
+"style": "Body Text",
+"text": "Trong đó là tập descriptor hình học."
+},
+{
+"style": "Body Text",
+"text": "Các biến mục tiêu được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "Bộ dữ liệu thu được là nền tảng cho quá trình huấn luyện các mô hình surrogate được trình bày trong các mục tiếp theo."
+},
+{
+"style": "Body Text",
+"text": "Quá trình Feature Engineering không đơn thuần là bước giảm chiều dữ liệu mà là quá trình chuyển đổi hình học airfoil sang một hệ tọa độ mới có ý nghĩa vật lý. Các descriptor được xây dựng đóng vai trò là cầu nối giữa Geometry Manifold và các mô hình học máy, giúp mô hình khai thác trực tiếp các yếu tố hình học có ảnh hưởng đến lực nâng, lực cản và mô men khí động học."
+},
+{
+"style": "Body Text",
+"text": "3.5. XÂY DỰNG BỘ DỮ LIỆU HỌC MÁY"
+},
+{
+"style": "Body Text",
+"text": "Sau quá trình làm sạch dữ liệu và trích xuất đặc trưng hình học, mỗi mẫu dữ liệu được biểu diễn dưới dạng một vector đặc trưng bao gồm các descriptor hình học, các điều kiện dòng chảy và các chỉ số đánh giá chất lượng dữ liệu. Mục tiêu của giai đoạn này là xây dựng một bộ dữ liệu thống nhất phục vụ cho quá trình huấn luyện các mô hình surrogate dự đoán khí động học."
+},
+{
+"style": "Body Text",
+"text": "Về mặt toán học, vector đầu vào của mô hình được xác định bởi:"
+},
+{
+"style": "Body Text",
+"text": "Trong đó:"
+},
+{
+"style": "Body Text",
+"text": "là tập descriptor hình học được xây dựng ở Mục 3.4;"
+},
+{
+"style": "Body Text",
+"text": "(Re) là số Reynolds;"
+},
+{
+"style": "Body Text",
+"text": "là góc tấn."
+},
+{
+"style": "Body Text",
+"text": "Bên cạnh các đặc trưng hình học và điều kiện dòng chảy, bộ dữ liệu còn lưu trữ các biến hỗ trợ đánh giá chất lượng dữ liệu như:"
+},
+{
+"style": "Body Text",
+"text": "geom_hash;"
+},
+{
+"style": "Body Text",
+"text": "rule_status;"
+},
+{
+"style": "Body Text",
+"text": "rule_flags;"
+},
+{
+"style": "Body Text",
+"text": "sample_confidence;"
+},
+{
+"style": "Body Text",
+"text": "iforest_keep."
+},
+{
+"style": "Body Text",
+"text": "Các biến này không được sử dụng trực tiếp làm đầu vào cho mô hình nhưng đóng vai trò quan trọng trong quá trình quản lý dữ liệu, đánh giá mô hình và kiểm soát hiện tượng rò rỉ dữ liệu giữa các tập huấn luyện và kiểm tra."
+},
+{
+"style": "Body Text",
+"text": "Các biến mục tiêu được xác định theo:"
+},
+{
+"style": "Body Text",
+"text": "Trong đó:"
+},
+{
+"style": "Body Text",
+"text": "là hệ số lực nâng."
+},
+{
+"style": "Body Text",
+"text": "là hệ số lực cản;"
+},
+{
+"style": "Body Text",
+"text": "là hệ số mô men khí động học."
+},
+{
+"style": "Body Text",
+"text": "Mỗi hàng dữ liệu tương ứng với một trạng thái khí động học xác định của một biên dạng cánh tại một giá trị Reynolds Number và góc tấn cụ thể. Do một biên dạng có thể được đánh giá tại nhiều điều kiện dòng chảy khác nhau nên số lượng mẫu dữ liệu cuối cùng lớn hơn đáng kể số lượng airfoil ban đầu."
+},
+{
+"style": "Heading 4",
+"text": "Bảng 3.5.1. Cấu trúc bộ dữ liệu học máy"
+},
+{
+"style": "Heading 1",
+"text": "TÀI LIỆU THAM KHẢO"
+},
+{
+"style": "Body Text",
+"text": "[1] J. Anderson, Computational Fluid Mechanics: The Basics with Applications, McGraw-Hill, 1995."
+},
+{
+"style": "Body Text",
+"text": "[2] T. Haftka et al., “Surrogate-based analysis and optimization,” in Progress in Aerospace Sciences, vol. 34, 1998, pp. 1–28."
+},
+{
+"style": "Body Text",
+"text": "[3] S. Brunton and B. Noack, “Machine learning for fluid mechanics,” in Annual Review of Fluid Mechanics, vol. 52, 2020, pp. 477–508."
+},
+{
+"style": "Body Text",
+"text": "[4] M. M. Paraschivoiu et al., “NeuralFoil: Rapid airfoil aerodynamic predictions via deep learning,” in AIAA SciTech Forum, 2022."
+},
+{
+"style": "Body Text",
+"text": "[5] B. Peherstorfer et al., “Survey of model reduction methods for numerical physics,” in SIAM Review, vol. 60, no. 3, 2018, pp. 550–591."
+},
+{
+"style": "Body Text",
+"text": "[6] Anderson, J. D. (2017), Fundamentals of Aerodynamics, 6th Edition, McGraw-Hill Education, New York, USA."
+},
+{
+"style": "Body Text",
+"text": "[7] Katz, J. and Plotkin, A. (2001), Low-Speed Aerodynamics, 2nd Edition, Cambridge University Press, Cambridge, United Kingdom."
+},
+{
+"style": "Body Text",
+"text": "[8] Schlichting, H. and Gersten, K. (2017), Boundary-Layer Theory, 9th Edition, Springer, Berlin, Germany."
+},
+{
+"style": "Body Text",
+"text": "[9] Kulfan, B. M. (2008), “Universal Parametric Geometry Representation Method”, Journal of Aircraft, Vol. 45, No. 1, pp. 142–158."
+},
+{
+"style": "Body Text",
+"text": "[10] Kulfan, B. M. and Bussoletti, J. E. (2006), “Fundamental Parametric Geometry Representations for Aircraft Component Shapes”, Proceedings of the 11th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, Portsmouth, Virginia, USA."
+},
+{
+"style": "Body Text",
+"text": "[11] Masters, D. A., Taylor, N. J., Rendall, T. C. S., Allen, C. B. and Poole, D. J. (2019), “Geometric Deep Learning for Data-Driven Airfoil Design”, AIAA Journal, Vol. 57, No. 3, pp. 1159–1172."
+},
+{
+"style": "Body Text",
+"text": "[12] Forrester, A. I. J., Sóbester, A. and Keane, A. J. (2008), Engineering Design via Surrogate Modelling: A Practical Guide, John Wiley & Sons, Chichester, United Kingdom."
+},
+{
+"style": "Normal",
+"text": "[13] M. S. Selig, UIUC Airfoil Coordinates Database, Department of Aerospace Engineering, University of Illinois Urbana–Champaign. Truy cập tại: https://m-selig.ae.illinois.edu/ads/coord_database.html (truy cập ngày 20/05/2026)."
+}
+]

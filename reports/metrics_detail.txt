@@ -1,0 +1,35 @@
+﻿=== CD Regime Metrics ===
+             scope       n       mae      rmse        r2      bias  regime_id       tag
+0        R1_linear  111345  0.001646  0.003506  0.954070 -0.000234          1  baseline
+1  R2_transitional   68520  0.002251  0.003945  0.980176 -0.000250          2  baseline
+2     R3_pre_stall   57100  0.002923  0.004561  0.986347 -0.000093          3  baseline
+3   R4_stall_onset   57100  0.002844  0.004344  0.991847 -0.000112          4  baseline
+4    R5_near_stall  228400  0.001967  0.002885  0.997499 -0.000057          5  baseline
+5    R6_post_stall  142750  0.002134  0.003644  0.995231  0.000914          6  baseline
+
+=== CD Fold Metrics ===
+               scope       n       mae      rmse        r2      bias  fold       tag  weighted  n_test_geometries      validation_mode                          cv_mode
+0  groupkfold_fold_1  133975  0.002063  0.003567  0.998018  0.000277     1  baseline     False                115  geometry_groupkfold  p50_global_iter_180_bootstrap_1
+1  groupkfold_fold_2  132810  0.002158  0.003440  0.998119  0.000232     2  baseline     False                114  geometry_groupkfold  p50_global_iter_180_bootstrap_1
+2  groupkfold_fold_3  132810  0.002205  0.003617  0.997980  0.000132     3  baseline     False                114  geometry_groupkfold  p50_global_iter_180_bootstrap_1
+3  groupkfold_fold_4  132810  0.002079  0.003471  0.998175 -0.000116     4  baseline     False                114  geometry_groupkfold  p50_global_iter_180_bootstrap_1
+4  groupkfold_fold_5  132810  0.002174  0.003766  0.997836 -0.000056     5  baseline     False                114  geometry_groupkfold  p50_global_iter_180_bootstrap_1
+
+=== CL LOGO Metrics ===
+Empty DataFrame
+Columns: [geom_hash, mae, rmse, r2, clmax_error, stall_error, stall_shift_signed, validation_mode]
+Index: []
+
+=== CL Conformal Coverage ===
+   target_coverage_alpha  computed_quantile      PICP      MPIW
+0                   0.80           0.062279  0.842248  0.124558
+1                   0.90           0.094584  0.925335  0.189168
+2                   0.95           0.135512  0.966815  0.271023
+
+=== CL Conformal Regime Metrics ===
+         regime       n       q80  coverage80       q90  coverage90       q95  coverage95
+0        linear  425186  0.057395    0.800000  0.089664    0.899999  0.126420    0.949998
+1    near-stall   50281  0.057869    0.800004  0.080869    0.900002  0.108832    0.950001
+2    post-stall   82704  0.044926    0.799998  0.063868    0.899993  0.083869    0.949990
+3     pre-stall   48249  0.051529    0.799996  0.075946    0.899998  0.101788    0.949989
+4  transitional   58795  0.054261    0.800000  0.087534    0.899991  0.126386    0.949996

@@ -1,5 +1,5 @@
 {
-    "input_csv": "deeplearwing_day2_tabular.csv",
+    "input_csv": "deeplearwing_day2_tabular.csv.gz",
     "base_airfoil_path": "base_airfoil.dat",
     "output_dir": "outputs/day5_reset",
 

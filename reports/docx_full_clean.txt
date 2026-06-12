@@ -1,0 +1,735 @@
+﻿||Normal||─Éß║áI Hß╗îC QUß╗ÉC GIA H├Ç Nß╗ÿI
+||Normal||TR╞»ß╗£NG ─Éß║áI Hß╗îC C├öNG NGHß╗å
+||Normal||B├üO C├üO Kß║╛T TH├ÜC Hß╗îC PHß║ªN
+||Normal||X├éY Dß╗░NG M├ö H├îNH Hß╗îC M├üY Tß╗ÉI ╞»U HO├ü BI├èN Dß║áNG V├Ç Dß╗░ ─ÉO├üN KH├ì ─Éß╗ÿNG Hß╗îC C├üNH M├üY BAY Dß╗░A TR├èN Mß║╢T Cß║«T 2D
+||Normal||Lß╗¢p hß╗ìc phß║ºn:                          CTE3103_1
+||Normal||Giß║úng vi├¬n h╞░ß╗¢ng dß║½n:            TS. Phß║ím ─É├¼nh Nguyß╗çn
+                                                                    KS. Nguyß╗àn V─ân Duy
+||Normal||Ng╞░ß╗¥i thß╗▒c hiß╗çn:                      Nguyß╗àn V─ân Hoan
+||Normal||M├ú sinh vi├¬n:                           24022994
+||Normal||H├Ç Nß╗ÿI ΓÇô 2026
+||Normal||─Éß║áI Hß╗îC QUß╗ÉC GIA H├Ç Nß╗ÿI
+||Normal||TR╞»ß╗£NG ─Éß║áI Hß╗îC C├öNG NGHß╗å
+||Normal||M├öN Hß╗îC: ß╗¿NG Dß╗ñNG Hß╗îC M├üY TRONG THIß║╛T Kß║╛
+||Normal||X├éY Dß╗░NG M├ö H├îNH Hß╗îC M├üY Tß╗ÉI ╞»U HO├ü BI├èN Dß║áNG V├Ç Dß╗░ ─ÉO├üN KH├ì ─Éß╗ÿNG Hß╗îC C├üNH M├üY BAY Dß╗░A TR├èN Mß║╢T Cß║«T 2D
+||Normal||Lß╗¢p hß╗ìc phß║ºn:                          CTE3103_1
+||Normal||Giß║úng vi├¬n h╞░ß╗¢ng dß║½n:            TS. Phß║ím ─É├¼nh Nguyß╗çn
+||Normal||KS. Nguyß╗àn V─ân Duy
+||Normal||Ng╞░ß╗¥i thß╗▒c hiß╗çn:                      Nguyß╗àn V─ân Hoan
+||Normal||M├ú sinh vi├¬n:                           24022994
+||Normal||H├Ç Nß╗ÿI ΓÇô 2026
+||No Spacing||Lß╗£I Cß║óM ╞áN
+||Body Text||Tr╞░ß╗¢c hß║┐t, em xin ch├ón th├ánh cß║úm ╞ín tß╗¢i giß║úng vi├¬n l├á TS. Phß║ím ─É├¼nh Nguyß╗çn v├á KS. Nguyß╗àn V─ân Duy l├á giß║úng vi├¬n ─æß║úm nhß║¡n bß╗Ö m├┤n ß╗¿ng dß╗Ñng hß╗ìc m├íy trong thiß║┐t kß║┐, ─æ├ú truyß╗ün ─æß║ít cho em nhß╗»ng kiß║┐n thß╗⌐c nß╗ün tß║úng v├á chuy├¬n m├┤n cß║ºn thiß║┐t ─æß╗â thß╗▒c hiß╗çn ─æß╗ü t├ái.
+||Body Text||─Éß╗ü t├ái ΓÇ£X├óy dß╗▒ng m├┤ h├¼nh hß╗ìc m├íy tß╗æi ╞░u ho├í bi├¬n dß║íng v├á dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc c├ính m├íy bay NACA 4-DigitsΓÇ¥ l├á c╞í hß╗Öi ─æß╗â em vß║¡n dß╗Ñng c├íc kiß║┐n thß╗⌐c vß╗ü hß╗ìc m├íy, ph├ón t├¡ch dß╗» liß╗çu v├á kh├¡ ─æß╗Öng hß╗ìc v├áo mß╗Öt b├ái to├ín kß╗╣ thuß║¡t thß╗▒c tß║┐. N├│ l├á mß╗Öt trong nhß╗»ng ─æß╗ü t├ái m├á c├│ li├¬n quan chuy├¬n ng├ánh m├á em muß╗æn theo ─æuß╗òi ΓÇô thiß║┐t kß║┐ c├┤ng nghiß╗çp v├á k─⌐ thuß║¡t. Mß║╖c d├╣ ─æ├ú cß╗æ gß║»ng ho├án th├ánh b├ío c├ío vß╗¢i tinh thß║ºn nghi├¬m t├║c v├á tr├ích nhiß╗çm cao, do hß║ín chß║┐ vß╗ü thß╗¥i gian, kinh nghiß╗çm v├á kiß║┐n thß╗⌐c chuy├¬n m├┤n, b├ío c├ío kh├│ tr├ính khß╗Åi nhß╗»ng thiß║┐u s├│t. Em rß║Ñt mong nhß║¡n ─æ╞░ß╗úc nhß╗»ng ├╜ kiß║┐n ─æ├│ng g├│p v├á nhß║¡n x├⌐t tß╗½ c├íc thß║ºy c├┤ ─æß╗â tiß║┐p tß╗Ñc ho├án thiß╗çn ─æß╗ü t├ái trong thß╗¥i gian tß╗¢i.
+||Body Text||Em xin ch├ón th├ánh cß║úm ╞ín v├á ─æ├│n nhß║¡n nhß╗»ng lß╗¥i khuy├¬n, nhß║¡n x├⌐t x├íc ─æ├íng ─æß║┐n tß╗½ c├íc giß║úng vi├¬n bß╗Ö m├┤n ß║í!
+||Body Text||H├á Nß╗Öi, ng├áy 11 th├íng 06 n─âm 2026
+||Body Text||Sinh vi├¬n thß╗▒c hiß╗çn
+||Body Text||Nguyß╗àn V─ân Hoan
+||Normal||Lß╗£I CAM ─ÉOAN
+||Normal||Em t├¬n l├á: Nguyß╗àn V─ân Hoan
+||Normal||Em xin cam ─æoan rß║▒ng b├ái tß║¡p lß║ºn n├áy do ch├¡nh em tß╗▒ t├¼m hiß╗âu v├á nghi├¬n cß╗⌐u, nß║┐u c├│ thß║»c mß║»c hoß║╖c nghi vß║Ñn ─æß║ío v─ân, ─æß║ío b├ái, em sß║╜ chß╗ïu ho├án to├án tr├ích nhiß╗çm theo quy chß║┐ ─æ├áo tß║ío.
+||Normal||H├á Nß╗Öi, ng├áy 11 th├íng 06 n─âm 2026
+||Normal||Ng╞░ß╗¥i cam ─æoan
+||Normal||Nguyß╗àn V─ân Hoan
+||Normal||T├ôM Tß║«T
+||Normal||Hiß╗çn nay, qu├í tr├¼nh thiß║┐t kß║┐ v├á tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính m├íy bay th╞░ß╗¥ng ─æ├▓i hß╗Åi nhiß╗üu lß║ºn m├┤ phß╗Ång kh├¡ ─æß╗Öng hß╗ìc nhß║▒m ─æ├ính gi├í c├íc ─æß║╖c t├¡nh nh╞░ lß╗▒c n├óng, lß╗▒c cß║ún v├á hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc. Tuy nhi├¬n, c├íc ph╞░╞íng ph├íp m├┤ phß╗Ång CFD truyß╗ün thß╗æng c├│ chi ph├¡ t├¡nh to├ín lß╗¢n v├á thß╗¥i gian thß╗▒c hiß╗çn d├ái, g├óy kh├│ kh─ân cho viß╗çc khß║úo s├ít sß╗æ l╞░ß╗úng lß╗¢n ph╞░╞íng ├ín thiß║┐t kß║┐. ─Éß╗â giß║úi quyß║┐t vß║Ñn ─æß╗ü n├áy, ─æß╗ü t├ái ─æß╗ü xuß║Ñt x├óy dß╗▒ng m├┤ h├¼nh hß╗ìc m├íy thay thß║┐ nhß║▒m dß╗▒ ─æo├ín nhanh c├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính v├á hß╗ù trß╗ú qu├í tr├¼nh tß╗æi ╞░u h├│a thiß║┐t kß║┐. Trong nghi├¬n cß╗⌐u, dß╗» liß╗çu ─æ╞░ß╗úc x├óy dß╗▒ng tß╗½ c├íc bi├¬n dß║íng thuß╗Öc hß╗ì NACA 4-Digits kß║┐t hß╗úp vß╗¢i c├íc ─æiß╗üu kiß╗çn vß║¡n h├ánh kh├íc nhau. C├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc ─æ╞░ß╗úc tr├¡ch xuß║Ñt tß╗½ tß╗ìa ─æß╗Ö airfoil v├á sß╗¡ dß╗Ñng l├ám ─æß║ºu v├áo cho c├íc m├┤ h├¼nh hß╗ìc m├íy. C├íc thuß║¡t to├ín CatBoost Regressor, Random Forest Regressor v├á Extra Trees Regressor ─æ╞░ß╗úc sß╗¡ dß╗Ñng ─æß╗â dß╗▒ ─æo├ín hß╗ç sß╗æ lß╗▒c n├óng v├á hß╗ç sß╗æ lß╗▒c cß║ún. Kß║┐t quß║ú thß╗▒c nghiß╗çm cho thß║Ñy c├íc m├┤ h├¼nh ─æß║ít ─æß╗Ö ch├¡nh x├íc cao v├á duy tr├¼ khß║ú n─âng tß╗òng qu├ít h├│a tß╗æt ─æß╗æi vß╗¢i c├íc bi├¬n dß║íng ch╞░a xuß║Ñt hiß╗çn trong qu├í tr├¼nh huß║Ñn luyß╗çn. Tr├¬n c╞í sß╗ƒ c├íc m├┤ h├¼nh dß╗▒ ─æo├ín ─æ├ú x├óy dß╗▒ng, ─æß╗ü t├ái thß╗▒c hiß╗çn tß╗æi ╞░u h├│a tß╗╖ sß╗æ lß╗▒c n├óng tr├¬n lß╗▒c cß║ún L/D nhß║▒m t├¼m kiß║┐m c├íc bi├¬n dß║íng c├│ hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc cao h╞ín. Kß║┐t quß║ú nghi├¬n cß╗⌐u cho thß║Ñy c├ích tiß║┐p cß║¡n kß║┐t hß╗úp giß╗»a hß╗ìc m├íy v├á m├┤ phß╗Ång kh├¡ ─æß╗Öng hß╗ìc c├│ khß║ú n─âng r├║t ngß║»n ─æ├íng kß╗â thß╗¥i gian ─æ├ính gi├í thiß║┐t kß║┐, ─æß╗ông thß╗¥i vß║½n duy tr├¼ ─æß╗Ö tin cß║¡y cß║ºn thiß║┐t cho giai ─æoß║ín thiß║┐t kß║┐ s╞í bß╗Ö airfoil.
+||Normal||Tß╗½ kh├│a: Bi├¬n dß║íng c├ính NACA 4-Digits, hß╗ìc m├íy, m├┤ h├¼nh thay thß║┐, hß╗ç sß╗æ lß╗▒c n├óng, hß╗ç sß╗æ lß╗▒c cß║ún, tß╗╖ sß╗æ lß╗▒c n├óng tr├¬n lß╗▒c cß║ún, tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc.
+||Normal||Mß╗ñC Lß╗ñC
+||toc 1||Mß╗₧ ─Éß║ªU	12
+||toc 1||CH╞»╞áNG 1: Tß╗öNG QUAN ─Éß╗Ç T├ÇI	13
+||toc 2||1.1.	─Éß║╖t vß║Ñn ─æß╗ü	13
+||toc 2||1.2.	Mß╗Ñc ti├¬u nghi├¬n cß╗⌐u	14
+||toc 2||1.3.	─Éß╗æi t╞░ß╗úng nghi├¬n cß╗⌐u	15
+||toc 2||1.4.	Phß║ím vi nghi├¬n cß╗⌐u	16
+||toc 2||1.5.	├¥ ngh─⌐a khoa hß╗ìc v├á thß╗▒c tiß╗àn	17
+||toc 1||CH╞»╞áNG 2 C╞á Sß╗₧ L├¥ THUYß║╛T V├Ç PH╞»╞áNG PH├üP NGHI├èN Cß╗¿U	17
+||toc 2||2.1. C╞í sß╗ƒ kh├¡ ─æß╗Öng hß╗ìc cho bi├¬n dß║íng c├ính	17
+||toc 3||2.1.1. G├│c tß║Ñn v├á ß║únh h╞░ß╗ƒng ─æß║┐n lß╗▒c n├óng	18
+||toc 3||2.1.2. C╞í sß╗ƒ vß║¡t l├╜ cß╗ºa sß╗▒ h├¼nh th├ánh lß╗▒c n├óng.	18
+||toc 3||2.1.3. ─Éß╗ïnh l├╜ KuttaΓÇôJoukowski v├á vai tr├▓ cß╗ºa h├¼nh dß║íng h├¼nh hß╗ìc.	19
+||toc 3||2.1.4. Lß╗▒c n├óng, lß╗▒c cß║ún v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc	19
+||toc 3||2.1.5. Sß╗æ Reynolds v├á lß╗¢p bi├¬n	21
+||toc 3||2.1.6. Hiß╗çn t╞░ß╗úng thß║Ñt tß╗æc	21
+||toc 3||2.1.7. Li├¬n hß╗ç giß╗»a kh├¡ ─æß╗Öng hß╗ìc v├á ─æß║╖c tr╞░ng h├¼nh hß╗ìc	22
+||toc 2||2.2. Biß╗âu diß╗àn h├¼nh hß╗ìc bi├¬n dß║íng c├ính	23
+||toc 3||2.2.1. Hß╗ç tß╗ìa ─æß╗Ö bi├¬n dß║íng c├ính	23
+||toc 3||2.2.2. ─É╞░ß╗¥ng d├óy cung v├á ─æ╞░ß╗¥ng cong trung b├¼nh	24
+||toc 3||2.2.3. Ph├ón bß╗æ ─æß╗Ö d├áy v├á ─æß╗Ö cong h├¼nh hß╗ìc cß╗Ñc bß╗Ö	24
+||toc 3||2.2.4. Biß╗âu diß╗àn h├¼nh hß╗ìc trong kh├┤ng gian nhiß╗üu chiß╗üu	25
+||toc 2||2.3. Geometry mainfold cß╗ºa bi├¬n dß║íng c├ính	26
+||toc 3||2.3.1. Giß║ú thuyß║┐t manifold thß║Ñp chiß╗üu cß╗ºa dß╗» liß╗çu airfoil	27
+||toc 3||2.3.2. C╞í sß╗ƒ vß║¡t l├╜ cß╗ºa Geometry Manifold	27
+||toc 3||2.3.3. Geometry Manifold v├á hß╗ìc m├íy kh├¡ ─æß╗Öng hß╗ìc	28
+||toc 3||2.3.4. Geometry Manifold trong CKi_ML	30
+||toc 2||2.4. Tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng h├¼nh hß╗ìc	31
+||toc 3||2.4.1. Vai tr├▓ cß╗ºa Feature Engineering trong dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc	31
+||toc 3||2.4.2. Ph├ón loß║íi c├íc nh├│m ─æß║╖c tr╞░ng	31
+||toc 3||2.4.3. ├¥ ngh─⌐a vß║¡t l├╜ v├á khß║ú n─âng tß╗òng qu├ít h├│a cß╗ºa c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc	34
+||toc 2||2.5. M├┤ h├¼nh hß╗ìc m├íy thay thß║┐ CFD	35
+||toc 3||2.5.1. ─Éß╗Öng c╞í sß╗¡ dß╗Ñng m├┤ h├¼nh hß╗ìc m├íy trong kh├¡ ─æß╗Öng hß╗ìc	35
+||toc 3||2.5.2. Bß║ún chß║Ñt cß╗ºa surrogate modeling trong CKi_ML	37
+||toc 3||2.5.3. C├íc m├┤ h├¼nh hß╗ôi quy c├óy quyß║┐t ─æß╗ïnh	37
+||toc 3||2.5.4. Ensemble Learning v├á khß║ú n─âng tß╗òng qu├ít h├│a	39
+||toc 3||2.5.5. Vai tr├▓ cß╗ºa surrogate model trong b├ái	39
+||toc 2||2.6. Tß╗æi ╞░u ho├í kh├¡ ─æß╗Öng hß╗ìc bi├¬n dß║íng c├ính	40
+||toc 3||2.6.1. Kh├┤ng gian thiß║┐t kß║┐ kh├¡ ─æß╗Öng hß╗ìc	40
+||toc 3||2.6.2. Ph├ít biß╗âu b├ái to├ín tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính	41
+||toc 3||2.6.3. Tß╗æi ╞░u h├│a trong kh├┤ng gian ─æß║╖c tr╞░ng h├¼nh hß╗ìc	41
+||toc 3||2.6.4. Vai tr├▓ cß╗ºa Geometry Manifold trong tß╗æi ╞░u h├│a	42
+||toc 3||2.6.5. Surrogate-Based Optimization	43
+||toc 3||2.6.6. Quy tr├¼nh tß╗æi ╞░u h├│a trong CKi_ML	44
+||toc 2||2.7. ─É├ính gi├í v├á kiß╗âm chß╗⌐ng m├┤ h├¼nh	45
+||toc 3||2.7.1. C├íc chß╗ë ti├¬u ─æ├ính gi├í sai sß╗æ	45
+||toc 3||2.7.6. ─É├ính gi├í theo nh├│m h├¼nh hß╗ìc	47
+||toc 1||CH╞»╞áNG 3 GIß║óI QUYß║╛T Vß║ñN ─Éß╗Ç	49
+||toc 2||3.1. Tß╗òng quan qu├í tr├¼nh nghi├¬n cß╗⌐u	49
+||toc 3||3.2. Thu thß║¡p v├á x├óy dß╗▒ng bß╗Ö dß╗» liß╗çu	51
+||toc 3||3.2.1. Nguß╗ôn dß╗» liß╗çu h├¼nh hß╗ìc bi├¬n dß║íng c├ính	51
+||toc 3||3.2.2. X├óy dß╗▒ng dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc	51
+||toc 3||3.2.3. Miß╗ün khß║úo s├ít kh├¡ ─æß╗Öng hß╗ìc	52
+||toc 2||3.3. Tiß╗ün xß╗¡ l├╜ v├á kiß╗âm so├ít chß║Ñt l╞░ß╗úng dß╗» liß╗çu	54
+||toc 3||3.3.1. Chuß║⌐n ho├í h├¼nh hß╗ìc bi├¬n dß║íng	54
+||toc 3||3.3.2. Nß╗Öi suy lß║íi sß╗æ l╞░ß╗úng ─æiß╗âm tß╗ìa ─æß╗Ö	55
+||toc 3||3.3.3. Kiß╗âm tra t├¡nh hß╗úp lß╗ç cß╗ºa bi├¬n dß║íng	56
+||toc 3||3.3.4. Kiß╗âm tra kh├¡ ─æß╗Öng hß╗ìc v├á ph├ít hiß╗çn ngoß║íi lß║íi bß║▒ng isolation forest	57
+||toc 2||3.4. Tr├¡ch xuß║Ñt v├á x├óy dß╗▒ng ─æß║╖c tr╞░ng h├¼nh hß╗ìc	58
+||toc 3||3.4.1. Nguy├¬n tß║»c x├óy dß╗▒ng descriptor h├¼nh hß╗ìc	58
+||toc 3||3.4.2 Ph├ón loß║íi c├íc nh├│m ─æß║╖c tr╞░ng	59
+||toc 3||3.4.3. Kiß╗âm ─æß╗ïnh descriptor v├á x├óy dß╗▒ng chß╗ë sß╗æ chß║Ñt l╞░ß╗úng dß╗» liß╗çu	61
+||toc 3||3.4.4. X├óy dß╗▒ng ─æß║╖c tr╞░ng ─æiß╗üu kiß╗çn d├▓ng chß║úy	62
+||toc 3||3.4.5. X├óy dß╗▒ng bß╗Ö dß╗» liß╗çu hß╗ìc m├íy	62
+||toc 1||T├ÇI LIß╗åU THAM KHß║óO	63
+||Normal||Danh mß╗Ñc h├¼nh v├á s╞í ─æß╗ô
+||table of figures||H├¼nh 2.2.1. Histogram cß╗ºa AOA, CL, CD v├á L/D trong bß╗Ö dß╗» liß╗çu.	28
+||table of figures||H├¼nh 2.2.2. Ma trß║¡n t╞░╞íng quan giß╗»a c├íc biß║┐n kh├¡ ─æß╗Öng hß╗ìc v├á ─æß║╖c tr╞░ng h├¼nh hß╗ìc ch├¡nh.	29
+||table of figures||H├¼nh 2.3.1. Mß╗Öt sß╗æ bi├¬n dß║íng airfoil ─æiß╗ân h├¼nh trong bß╗Ö dß╗» liß╗çu.	33
+||table of figures||H├¼nh 2.4.1. Quy tr├¼nh kiß╗âm ─æß╗ïnh ch├⌐o trong nghi├¬n cß╗⌐u	37
+||table of figures||H├¼nh 2.5.1. Learning curve cß╗ºa m├┤ h├¼nh CL tß╗æt nhß║Ñt.	39
+||table of figures||H├¼nh 2.5.2. Learning curve cß╗ºa m├┤ h├¼nh CD tß╗æt nhß║Ñt.	39
+||table of figures||H├¼nh 2.5.3. So s├ính sai sß╗æ tß╗òng qu├ít h├│a giß╗»a CL, CD v├á L/D.	40
+||table of figures||H├¼nh 3.1.1. So s├ính sai sß╗æ RMSE giß╗»a c├íc m├┤ h├¼nh cho b├ái to├ín dß╗▒ ─æo├ín CL.	42
+||table of figures||H├¼nh 3.1.2. Parity plot cß╗ºa m├┤ h├¼nh dß╗▒ ─æo├ín CL tß╗æt nhß║Ñt.	43
+||table of figures||H├¼nh 3.1.3. ─Éß╗Ö quan trß╗ìng cß╗ºa c├íc ─æß║╖c tr╞░ng ─æß╗æi vß╗¢i m├┤ h├¼nh dß╗▒ ─æo├ín Cl	43
+||table of figures||H├¼nh 3.2.1. So s├ính sai sß╗æ RMSE giß╗»a c├íc m├┤ h├¼nh cho b├ái to├ín dß╗▒ ─æo├ín CD.	44
+||table of figures||H├¼nh 3.2.3 ─Éß╗Ö quan trß╗ìng cß╗ºa c├íc ─æß║╖c tr╞░ng ─æß╗æi vß╗¢i m├┤ h├¼nh dß╗▒ ─æo├ín CD.	45
+||table of figures||Kß║┐t quß║ú tß╗æi ╞░u tr├¬n kh├┤ng gian NACA 4-Digits	46
+||table of figures||H├¼nh 3.3.1. So s├ính h├¼nh hß╗ìc giß╗»a airfoil ban ─æß║ºu v├á airfoil tß╗æi ╞░u tß╗æt nhß║Ñt.	47
+||table of figures||H├¼nh 3.3.2. Chß╗ông h├¼nh hß╗ìc cß╗ºa 5 ß╗⌐ng vi├¬n tß╗æi ╞░u tß╗æt nhß║Ñt so vß╗¢i airfoil ban ─æß║ºu.	47
+||table of figures||H├¼nh 3.3.4. So s├ính hiß╗çu n─âng kh├¡ ─æß╗Öng hß╗ìc giß╗»a baseline, dß╗▒ ─æo├ín model train v├á kß║┐t quß║ú kiß╗âm chß╗⌐ng NeuralFoil cß╗ºa ph╞░╞íng ├ín tß╗æi ╞░u tß╗æt nhß║Ñt.	48
+||Normal||DANH Mß╗ñC Bß║óNG BIß╗éU
+||table of figures||Bß║úng 2.2.1. Thß╗æng k├¬ m├┤ tß║ú mß╗Öt sß╗æ feature ch├¡nh trong bß╗Ö dß╗» liß╗çu.	27
+||table of figures||Bß║úng 2.3.1. Kß║┐t quß║ú l├ám sß║ích dß╗» liß╗çu.	31
+||table of figures||Bß║úng 2.4.1. Cß║Ñu h├¼nh ch├¡nh cß╗ºa c├íc m├┤ h├¼nh ─æ╞░ß╗úc sß╗¡ dß╗Ñng.	35
+||table of figures||Bß║úng 2.5.1. So s├ính c├íc m├┤ h├¼nh cho b├ái to├ín dß╗▒ ─æo├ín CL.	37
+||table of figures||Bß║úng 2.5.2. So s├ính c├íc m├┤ h├¼nh cho b├ái to├ín dß╗▒ ─æo├ín CD.	38
+||table of figures||Bß║úng 2.5.3. Tß╗òng hß╗úp kß║┐t quß║ú ─æ├ính gi├í theo nh├│m airfoil.	39
+||table of figures||Bß║úng 3.1.1. Kß║┐t quß║ú chi tiß║┐t cß╗ºa c├íc m├┤ h├¼nh cho b├ái to├ín dß╗▒ ─æo├ín CL.	41
+||table of figures||Bß║úng 3.2.1. Kß║┐t quß║ú chi tiß║┐t cß╗ºa c├íc m├┤ h├¼nh cho b├ái to├ín dß╗▒ ─æo├ín CD.	44
+||table of figures||Bß║úng 3.3.1. Kß║┐t quß║ú ß╗⌐ng vi├¬n tß╗æi ╞░u to├án cß╗Ñc tß╗æt nhß║Ñt trong kh├┤ng gian NACA 4-Digits.	46
+||table of figures||Bß║úng 3.3.2. So s├ính giß╗»a airfoil ban ─æß║ºu v├á airfoil tß╗æi ╞░u tß╗æt nhß║Ñt.	46
+||table of figures||Bß║úng 3.3.3 So s├ính dß╗▒ ─æo├ín surrogate v├á kiß╗âm chß╗⌐ng NeuralFoil cho c├íc ß╗⌐ng vi├¬n tß╗æi ╞░u tß╗æt nhß║Ñt.	47
+||Normal||DANH Mß╗ñC CHß╗« VIß║╛T Tß║«T
+||Heading 1||Mß╗₧ ─Éß║ªU
+||Body Text||Trong l─⌐nh vß╗▒c thiß║┐t kß║┐ kh├¡ ─æß╗Öng hß╗ìc, viß╗çc lß╗▒a chß╗ìn v├á tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính ─æ├│ng vai tr├▓ quan trß╗ìng ─æß╗æi vß╗¢i hiß╗çu suß║Ñt hoß║ít ─æß╗Öng cß╗ºa m├íy bay, m├íy bay kh├┤ng ng╞░ß╗¥i l├íi (UAV) v├á nhiß╗üu hß╗ç thß╗æng l├ám viß╗çc trong m├┤i tr╞░ß╗¥ng d├▓ng chß║úy. C├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính th╞░ß╗¥ng ─æ╞░ß╗úc ─æ├ính gi├í th├┤ng qua c├íc ─æß║íi l╞░ß╗úng nh╞░ hß╗ç sß╗æ lß╗▒c n├óng, hß╗ç sß╗æ lß╗▒c cß║ún v├á tß╗╖ sß╗æ lß╗▒c n├óng tr├¬n lß╗▒c cß║ún (L/D). Tuy nhi├¬n, qu├í tr├¼nh ─æ├ính gi├í c├íc ─æß║íi l╞░ß╗úng n├áy CFD th╞░ß╗¥ng ─æ├▓i hß╗Åi chi ph├¡ t├¡nh to├ín lß╗¢n v├á thß╗¥i gian xß╗¡ l├╜ d├ái, ─æß║╖c biß╗çt khi cß║ºn khß║úo s├ít sß╗æ l╞░ß╗úng lß╗¢n ph╞░╞íng ├ín thiß║┐t kß║┐ trong c├íc b├ái to├ín tß╗æi ╞░u h├│a.
+||Body Text||Sß╗▒ ph├ít triß╗ân cß╗ºa hß╗ìc m├íy trong nhß╗»ng n─âm gß║ºn ─æ├óy ─æ├ú mß╗ƒ ra h╞░ß╗¢ng tiß║┐p cß║¡n mß╗¢i cho c├íc b├ái to├ín thiß║┐t kß║┐ kß╗╣ thuß║¡t. Thay v├¼ thß╗▒c hiß╗çn m├┤ phß╗Ång CFD cho tß╗½ng ph╞░╞íng ├ín h├¼nh hß╗ìc, m├┤ h├¼nh hß╗ìc m├íy c├│ thß╗â ─æ╞░ß╗úc huß║Ñn luyß╗çn tß╗½ dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc ─æß╗â x├óy dß╗▒ng c├íc m├┤ h├¼nh thay thß║┐, cho ph├⌐p dß╗▒ ─æo├ín nhanh c├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc vß╗¢i chi ph├¡ t├¡nh to├ín thß║Ñp h╞ín ─æ├íng kß╗â. C├ích tiß║┐p cß║¡n n├áy gi├║p r├║t ngß║»n thß╗¥i gian ─æ├ính gi├í thiß║┐t kß║┐, ─æß╗ông thß╗¥i tß║ío ─æiß╗üu kiß╗çn thuß║¡n lß╗úi cho viß╗çc t├¼m kiß║┐m v├á tß╗æi ╞░u h├│a c├íc bi├¬n dß║íng c├ính c├│ hiß╗çu suß║Ñt cao.
+||Body Text||Xuß║Ñt ph├ít tß╗½ thß╗▒c tiß╗àn ─æ├│, ─æß╗ü t├ái ΓÇ£X├óy dß╗▒ng m├┤ h├¼nh hß╗ìc m├íy tß╗æi ╞░u ho├í bi├¬n dß║íng v├á dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc c├ính m├íy bay NACA 4-DigitsΓÇ¥ ─æ╞░ß╗úc thß╗▒c hiß╗çn vß╗¢i mß╗Ñc ti├¬u x├óy dß╗▒ng m├┤ h├¼nh hß╗ìc m├íy dß╗▒ ─æo├ín hß╗ç sß╗æ lß╗▒c n├óng v├á hß╗ç sß╗æ lß╗▒c cß║ún cß╗ºa c├íc bi├¬n dß║íng thuß╗Öc hß╗ì NACA 4-Digits, tß╗½ ─æ├│ hß╗ù trß╗ú qu├í tr├¼nh tß╗æi ╞░u h├│a h├¼nh dß║íng nhß║▒m n├óng cao hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc. Nghi├¬n cß╗⌐u sß╗¡ dß╗Ñng dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc ─æ╞░ß╗úc x├óy dß╗▒ng tß╗½ NeuralFoil, kß║┐t hß╗úp vß╗¢i c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc ─æ╞░ß╗úc tr├¡ch xuß║Ñt tß╗½ tß╗ìa ─æß╗Ö thß╗▒c cß╗ºa airfoil. C├íc thuß║¡t to├ín hß╗ìc m├íy nh╞░ CatBoost Regressor, Random Forest Regressor v├á Extra Trees Regressor ─æ╞░ß╗úc sß╗¡ dß╗Ñng ─æß╗â x├óy dß╗▒ng c├íc m├┤ h├¼nh dß╗▒ ─æo├ín.
+||Body Text||Kß║┐t quß║ú nghi├¬n cß╗⌐u cho thß║Ñy m├┤ h├¼nh CatBoost ─æß║ít ─æß╗Ö ch├¡nh x├íc cao ─æß╗æi vß╗¢i b├ái to├ín dß╗▒ ─æo├ín hß╗ç sß╗æ lß╗▒c n├óng, trong khi m├┤ h├¼nh Extra Trees cho kß║┐t quß║ú tß╗æt nhß║Ñt ─æß╗æi vß╗¢i b├ái to├ín dß╗▒ ─æo├ín hß╗ç sß╗æ lß╗▒c cß║ún. Tr├¬n c╞í sß╗ƒ c├íc m├┤ h├¼nh ─æ├ú x├óy dß╗▒ng, ─æß╗ü t├ái thß╗▒c hiß╗çn tß╗æi ╞░u h├│a bi├¬n dß║íng trong kh├┤ng gian thiß║┐t kß║┐ NACA 4-Digits nhß║▒m t├¼m kiß║┐m c├íc ph╞░╞íng ├ín c├│ tß╗╖ sß╗æ lß╗▒c n├óng tr├¬n lß╗▒c cß║ún cao h╞ín so vß╗¢i thiß║┐t kß║┐ ban ─æß║ºu. C├íc nghiß╗çm tß╗æi ╞░u sau ─æ├│ ─æ╞░ß╗úc kiß╗âm chß╗⌐ng lß║íi bß║▒ng NeuralFoil ─æß╗â ─æ├ính gi├í ─æß╗Ö tin cß║¡y v├á t├¡nh hß╗úp l├╜ vß╗ü mß║╖t kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||B├ío c├ío ─æ╞░ß╗úc tß╗ò chß╗⌐c th├ánh ba ch╞░╞íng ch├¡nh. Ch╞░╞íng 1 tr├¼nh b├áy tß╗òng quan ─æß╗ü t├ái, c╞í sß╗ƒ l├╜ thuyß║┐t v├á ph╞░╞íng ph├íp nghi├¬n cß╗⌐u. Ch╞░╞íng 2 tr├¼nh b├áy quy tr├¼nh x├óy dß╗▒ng dß╗» liß╗çu, tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng, huß║Ñn luyß╗çn v├á ─æ├ính gi├í m├┤ h├¼nh hß╗ìc m├íy. Ch╞░╞íng 3 tr├¼nh b├áy c├íc kß║┐t quß║ú thß╗▒c nghiß╗çm, kß║┐t quß║ú tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính, c├íc kß║┐t luß║¡n ─æß║ít ─æ╞░ß╗úc c┼⌐ng nh╞░ nhß╗»ng ─æß╗ïnh h╞░ß╗¢ng ph├ít triß╗ân trong t╞░╞íng lai.
+||Heading 1||CH╞»╞áNG 1: Tß╗öNG QUAN ─Éß╗Ç T├ÇI
+||Heading 2||─Éß║╖t vß║Ñn ─æß╗ü
+||Body Text||Trong bß╗æi cß║únh ng├ánh h├áng kh├┤ng ph├ít triß╗ân mß║ính mß║╜ v├á c├íc l─⌐nh vß╗▒c li├¬n quan ─æß║┐n kh├¡ ─æß╗Öng hß╗ìc, viß╗çc tß╗æi ╞░u h├│a thiß║┐t kß║┐ bi├¬n dß║íng c├ính ng├áy c├áng trß╗ƒ n├¬n cß║Ñp thiß║┐t. C├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính (airfoil) nh╞░ hß╗ç sß╗æ lß╗▒c n├óng (CL), lß╗▒c cß║ún (CD) v├á m├┤ men (CM) l├á nß╗ün tß║úng cho viß╗çc thiß║┐t kß║┐, ph├ón t├¡ch v├á tß╗æi ╞░u h├│a hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||C├íc ph╞░╞íng ph├íp truyß╗ün thß╗æng dß╗▒a tr├¬n m├┤ phß╗Ång sß╗æ (CFD - Computational Fluid Dynamics) mß║╖c d├╣ c├│ ─æß╗Ö ch├¡nh x├íc cao nh╞░ng y├¬u cß║ºu nguß╗ôn lß╗▒c t├¡nh to├ín lß╗¢n v├á thß╗¥i gian xß╗¡ l├╜ k├⌐o d├ái, ─æß║╖c biß╗çt ─æß╗æi vß╗¢i c├íc b├ái to├ín tß╗æi ╞░u h├│a vß╗¢i kh├┤ng gian tham sß╗æ rß╗Öng [1]. Do ─æ├│, nhu cß║ºu ph├ít triß╗ân c├íc ph╞░╞íng ph├íp m├┤ h├¼nh h├│a thay thß║┐ (surrogate modeling) ng├áy c├áng t─âng nhß║▒m r├║t ngß║»n thß╗¥i gian, giß║úm chi ph├¡ t├¡nh to├ín v├á vß║½n ─æß║úm bß║úo ─æß╗Ö ch├¡nh x├íc cß║ºn thiß║┐t [2].
+||Body Text||Trong c├íc b├ái to├ín thiß║┐t kß║┐ kh├¡ ─æß╗Öng hß╗ìc hiß╗çn ─æß║íi, tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính y├¬u cß║ºu khß║úo s├ít mß╗Öt kh├┤ng gian thiß║┐t kß║┐ rß╗Öng lß╗¢n. Mß╗ùi lß║ºn thay ─æß╗òi h├¼nh dß║íng c├ính ─æß╗üu phß║úi thß╗▒c hiß╗çn lß║íi qu├í tr├¼nh ─æ├ính gi├í kh├¡ ─æß╗Öng hß╗ìc. Viß╗çc sß╗¡ dß╗Ñng CFD hoß║╖c c├íc c├┤ng cß╗Ñ ph├ón t├¡ch truyß╗ün thß╗æng nh╞░ XFOIL c├│ thß╗â k├⌐o d├ái tß╗òng thß╗¥i gian t├¡nh to├ín tß╗½ nhiß╗üu giß╗¥ ─æß║┐n nhiß╗üu ng├áy, qua ─æ├│ hß║ín chß║┐ ─æ├íng kß╗â khß║ú n─âng kh├ím ph├í kh├┤ng gian thiß║┐t kß║┐ v├á tß╗æi ╞░u h├│a to├án cß╗Ñc [2].
+||Body Text||Gß║ºn ─æ├óy, c├íc kß╗╣ thuß║¡t hß╗ìc m├íy (machine learning) v├á tr├¡ tuß╗ç nh├ón tß║ío ─æ├ú ─æ╞░ß╗úc ß╗⌐ng dß╗Ñng rß╗Öng r├úi ─æß╗â x├óy dß╗▒ng m├┤ h├¼nh thay thß║┐ cho c├íc qu├í tr├¼nh vß║¡t l├╜ phß╗⌐c tß║íp, ─æß║╖c biß╗çt trong l─⌐nh vß╗▒c kh├¡ ─æß╗Öng hß╗ìc [3]. C├íc m├┤ h├¼nh hß╗ìc s├óu, ─æiß╗ân h├¼nh nh╞░ NeuralFoil, ─æ├ú chß╗⌐ng minh hiß╗çu quß║ú trong dß╗▒ ─æo├ín c├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính, vß╗¢i ─æß╗Ö ch├¡nh x├íc cao v├á tß╗æc ─æß╗Ö v╞░ß╗út trß╗Öi so vß╗¢i c├íc m├┤ phß╗Ång CFD truyß╗ün thß╗æng [4]. Tuy nhi├¬n, qu├í tr├¼nh x├óy dß╗▒ng, huß║Ñn luyß╗çn v├á ├íp dß╗Ñng c├íc m├┤ h├¼nh surrogate vß║½n gß║╖p nhiß╗üu th├ích thß╗⌐c li├¬n quan ─æß║┐n chß║Ñt l╞░ß╗úng dß╗» liß╗çu, phß║ím vi ├íp dß╗Ñng v├á khß║ú n─âng tß╗òng qu├ít h├│a cß╗ºa m├┤ h├¼nh [5].
+||Body Text||C├íc nghi├¬n cß╗⌐u gß║ºn ─æ├óy cho thß║Ñy c├íc m├┤ h├¼nh surrogate dß╗▒a tr├¬n hß╗ìc m├íy c├│ thß╗â giß║úm ─æ├íng kß╗â thß╗¥i gian ─æ├ính gi├í kh├¡ ─æß╗Öng hß╗ìc, ─æß╗ông thß╗¥i duy tr├¼ ─æß╗Ö ch├¡nh x├íc chß║Ñp nhß║¡n ─æ╞░ß╗úc cho c├íc b├ái to├ín thiß║┐t kß║┐ v├á tß╗æi ╞░u h├│a [1], [4]. ─Éß║╖c biß╗çt, sß╗▒ ph├ít triß╗ân cß╗ºa c├íc c├┤ng cß╗Ñ ph├ón t├¡ch kh├¡ ─æß╗Öng hß╗ìc dß╗▒a tr├¬n hß╗ìc m├íy nh╞░ NeuralFoil ─æ├ú chß╗⌐ng minh t├¡nh khß║ú thi cß╗ºa viß╗çc thay thß║┐ c├íc ph╞░╞íng ph├íp truyß╗ün thß╗æng bß║▒ng c├íc m├┤ h├¼nh hß╗ìc m├íy ─æ╞░ß╗úc x├óy dß╗▒ng tß╗½ dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc quy m├┤ lß╗¢n [5].
+||Body Text||Dß╗▒a tr├¬n c├íc vß║Ñn ─æß╗ü thß╗▒c tiß╗àn ─æ├ú n├¬u, nghi├¬n cß╗⌐u n├áy tß║¡p trung v├áo viß╗çc x├óy dß╗▒ng m├┤ h├¼nh hß╗ìc m├íy nhß║▒m dß╗▒ ─æo├ín nhanh c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc CL, CD, CM tß╗½ c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc cß╗ºa bi├¬n dß║íng c├ính, ─æß╗ông thß╗¥i t├¡ch hß╗úp m├┤ h├¼nh n├áy v├áo quy tr├¼nh tß╗æi ╞░u h├│a ─æß╗â t├¼m kiß║┐m c├íc cß║Ñu h├¼nh tß╗æi ╞░u m├á kh├┤ng cß║ºn lß║╖p lß║íi nhiß╗üu ph├⌐p m├┤ phß╗Ång CFD tß╗æn k├⌐m. ─Éiß╗âm mß╗¢i cß╗ºa nghi├¬n cß╗⌐u l├á ph├ít triß╗ân v├á thß╗¡ nghiß╗çm mß╗Öt quy tr├¼nh tß╗æi ╞░u h├│a dß╗▒a tr├¬n m├┤ h├¼nh surrogate hß╗ìc s├óu, ─æ╞░ß╗úc huß║Ñn luyß╗çn tß╗½ tß║¡p dß╗» liß╗çu ─æa dß║íng gß╗ôm nhiß╗üu hß╗ì bi├¬n dß║íng v├á c├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy kh├íc nhau, qua ─æ├│ ─æ├ính gi├í khß║ú n─âng tß╗òng qu├ít h├│a v├á hiß╗çu quß║ú dß╗▒ ─æo├ín cß╗ºa m├┤ h├¼nh tr├¬n c├íc tß║¡p kiß╗âm thß╗¡ ch╞░a tß╗½ng gß║╖p tr╞░ß╗¢c. Ngo├ái ra, nghi├¬n cß╗⌐u tiß║┐n h├ánh so s├ính trß╗▒c tiß║┐p kß║┐t quß║ú dß╗▒ ─æo├ín cß╗ºa m├┤ h├¼nh vß╗¢i m├┤ phß╗Ång CFD v├á c├íc c├┤ng cß╗Ñ hß╗ìc m├íy hiß╗çn c├│ nh╞░ NeuralFoil, nhß║▒m l├ám r├╡ tiß╗üm n─âng n├óng cao ─æß╗Ö ch├¡nh x├íc v├á tß╗æc ─æß╗Ö phß╗Ñc vß╗Ñ cho thiß║┐t kß║┐ kh├¡ ─æß╗Öng hß╗ìc. Mß╗Ñc ti├¬u cuß╗æi c├╣ng l├á ─æß╗ü xuß║Ñt mß╗Öt m├┤ h├¼nh surrogate khß║ú thi, phß╗Ñc vß╗Ñ dß╗▒ ─æo├ín v├á tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính nhanh ch├│ng, ch├¡nh x├íc v├á hiß╗çu quß║ú.
+||Heading 2||Mß╗Ñc ti├¬u nghi├¬n cß╗⌐u
+||Body Text||Viß╗çc ph├ít triß╗ân c├íc m├┤ h├¼nh surrogate dß╗▒a tr├¬n hß╗ìc m├íy trong l─⌐nh vß╗▒c kh├¡ ─æß╗Öng hß╗ìc l├á mß╗Öt h╞░ß╗¢ng tiß║┐p cß║¡n hiß╗çn ─æß║íi, g├│p phß║ºn giß║úi quyß║┐t c├íc th├ích thß╗⌐c lß╗¢n vß╗ü chi ph├¡ v├á thß╗¥i gian t├¡nh to├ín trong qu├í tr├¼nh tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính. ─Éß║╖c biß╗çt, trong bß╗æi cß║únh nhu cß║ºu tß╗æi ╞░u h├│a h├¼nh dß║íng c├ính m├íy bay ng├áy c├áng t─âng, c├íc m├┤ h├¼nh n├áy ─æ╞░ß╗úc kß╗│ vß╗ìng sß║╜ hß╗ù trß╗ú mß╗ƒ rß╗Öng kh├┤ng gian thiß║┐t kß║┐ v├á n├óng cao hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Mß╗Ñc ti├¬u tß╗òng qu├ít cß╗ºa nghi├¬n cß╗⌐u l├á ─æß╗ü xuß║Ñt, x├óy dß╗▒ng v├á ─æ├ính gi├í mß╗Öt m├┤ h├¼nh surrogate sß╗¡ dß╗Ñng c├íc thuß║¡t to├ín hß╗ìc m├íy hiß╗çn ─æß║íi nhß║▒m dß╗▒ ─æo├ín nhanh c├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc (CL, CD, CM) cß╗ºa bi├¬n dß║íng c├ính hai chiß╗üu dß╗▒a tr├¬n c╞í sß╗ƒ dß╗» liß╗çu lß╗¢n. Ngo├ái ra, nghi├¬n cß╗⌐u h╞░ß╗¢ng tß╗¢i viß╗çc t├¡ch hß╗úp m├┤ h├¼nh n├áy v├áo quy tr├¼nh tß╗æi ╞░u h├│a h├¼nh dß║íng c├ính, qua ─æ├│ giß║úm sß╗æ lß║ºn sß╗¡ dß╗Ñng c├íc m├┤ phß╗Ång CFD truyß╗ün thß╗æng vß╗æn tß╗æn k├⌐m vß╗ü t├ái nguy├¬n. Mß╗Ñc ti├¬u cuß╗æi c├╣ng l├á ph├ít triß╗ân mß╗Öt c├┤ng cß╗Ñ dß╗▒ ─æo├ín v├á tß╗æi ╞░u h├│a c├│ thß╗â ├íp dß╗Ñng hiß╗çu quß║ú trong thiß║┐t kß║┐ kh├¡ ─Éß╗â hiß╗çn thß╗▒c h├│a mß╗Ñc ti├¬u tß╗òng qu├ít, nghi├¬n cß╗⌐u tß║¡p trung v├áo c├íc mß╗Ñc ti├¬u cß╗Ñ thß╗â sau ─æ├óy:cß╗Ñ thß╗â sau:
+||Body Text||X├óy dß╗▒ng bß╗Ö dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc ─æa dß║íng, c├│ t├¡nh ─æß║íi diß╗çn cao, bao gß╗ôm c├íc bi├¬n dß║íng c├ính phß╗ò biß║┐n thuß╗Öc c├íc hß╗ì NACA, UIUC v├á nhiß╗üu ─æiß╗üu kiß╗çn d├▓ng chß║úy kh├íc nhau, nhß║▒m ─æß║úm bß║úo qu├í tr├¼nh huß║Ñn luyß╗çn v├á ─æ├ính gi├í m├┤ h├¼nh hß╗ìc m├íy ─æß║ít ─æß╗Ö tin cß║¡y trong dß╗▒ ─æo├ín c├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính.
+||Body Text||Ph├ít triß╗ân quy tr├¼nh tr├¡ch xuß║Ñt v├á xß╗¡ l├╜ c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc tß╗½ dß╗» liß╗çu bi├¬n dß║íng c├ính, nhß║▒m hß╗ù trß╗ú m├┤ h├¼nh hß╗ìc m├íy nhß║¡n diß╗çn, ph├ón t├¡ch v├á khai th├íc tß╗æi ─æa th├┤ng tin phß╗Ñc vß╗Ñ dß╗▒ ─æo├ín c├íc ─æß║íi l╞░ß╗úng kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính.
+||Body Text||ß╗¿ng dß╗Ñng c├íc thuß║¡t to├ín hß╗ìc m├íy ti├¬n tiß║┐n (nh╞░ hß╗ìc s├óu hoß║╖c hß╗ôi quy phi tuyß║┐n) ─æß╗â x├óy dß╗▒ng m├┤ h├¼nh surrogate dß╗▒ ─æo├ín ch├¡nh x├íc c├íc hß╗ç sß╗æ lß╗▒c n├óng (CL), lß╗▒c cß║ún (CD) v├á m├┤ men (CM) dß╗▒a tr├¬n th├┤ng tin h├¼nh hß╗ìc v├á ─æiß╗üu kiß╗çn d├▓ng chß║úy. M├┤ h├¼nh ─æ╞░ß╗úc kiß╗âm chß╗⌐ng th├┤ng qua quy tr├¼nh kiß╗âm thß╗¡ khoa hß╗ìc, bao gß╗ôm viß╗çc chia dß╗» liß╗çu th├ánh c├íc tß║¡p huß║Ñn luyß╗çn, kiß╗âm tra v├á kiß╗âm thß╗¡ ─æß╗Öc lß║¡p (v├¡ dß╗Ñ: chia theo tß╗╖ lß╗ç 70% huß║Ñn luyß╗çn, 15% kiß╗âm tra v├á 15% kiß╗âm thß╗¡). Cß╗Ñ thß╗â, nghi├¬n cß╗⌐u n├áy sß╗¡ dß╗Ñng bß╗Ö dß╗» liß╗çu gß╗ôm 10.000 mß║½u bi├¬n dß║íng c├ính vß╗¢i c├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy ─æa dß║íng, sau ─æ├│ chia ngß║½u nhi├¬n th├ánh 7.000 mß║½u cho qu├í tr├¼nh huß║Ñn luyß╗çn, 1.500 mß║½u cho kiß╗âm tra (validation) v├á 1.500 mß║½u cho kiß╗âm thß╗¡ ─æß╗Öc lß║¡p (testing). Tr╞░ß╗¥ng hß╗úp kiß╗âm thß╗¡ ─æiß╗ân h├¼nh l├á ─æ├ính gi├í m├┤ h├¼nh tr├¬n c├íc bi├¬n dß║íng c├ính thuß╗Öc c├íc hß╗ì thiß║┐t kß║┐ ch╞░a tß╗½ng xuß║Ñt hiß╗çn trong bß╗Ö huß║Ñn luyß╗çn, nhß║▒m kiß╗âm tra khß║ú n─âng tß╗òng qu├ít h├│a cß╗ºa m├┤ h├¼nh ─æß╗æi vß╗¢i c├íc tr╞░ß╗¥ng hß╗úp mß╗¢i. Ti├¬u ch├¡ ─æ├ính gi├í m├┤ h├¼nh tß║¡p trung v├áo c├íc chß╗ë sß╗æ nh╞░ MSE (mean squared error), MAE (mean absolute error), R┬▓ (coefficient of determination) v├á so s├ính kß║┐t quß║ú dß╗▒ ─æo├ín vß╗¢i dß╗» liß╗çu thß╗▒c tß║┐. Ngo├ái ra, qu├í tr├¼nh kiß╗âm thß╗¡ c┼⌐ng xem x├⌐t khß║ú n─âng tß╗òng qu├ít h├│a cß╗ºa m├┤ h├¼nh tr├¬n c├íc tß║¡p dß╗» liß╗çu ch╞░a tß╗½ng gß║╖p, ─æß╗ông thß╗¥i so s├ính vß╗¢i c├íc ph╞░╞íng ph├íp truyß╗ün thß╗æng. Nghi├¬n cß╗⌐u c┼⌐ng ph├ón t├¡ch c├íc yß║┐u tß╗æ ß║únh h╞░ß╗ƒng ─æß║┐n chß║Ñt l╞░ß╗úng m├┤ h├¼nh nh╞░ ─æß╗Ö ─æa dß║íng cß╗ºa dß╗» liß╗çu, lß╗▒a chß╗ìn ─æß║╖c tr╞░ng v├á cß║Ñu tr├║c thuß║¡t toTriß╗ân khai quy tr├¼nh tß╗æi ╞░u h├│a h├¼nh dß║íng bi├¬n dß║íng c├ính dß╗▒a tr├¬n m├┤ h├¼nh surrogate ─æ├ú ─æ╞░ß╗úc huß║Ñn luyß╗çn nhß║▒m t─âng tß╗æc ─æß╗Ö t├¼m kiß║┐m cß║Ñu h├¼nh tß╗æi ╞░u, giß║úm chi ph├¡ t├¡nh to├ín v├á mß╗ƒ rß╗Öng ß╗⌐ng dß╗Ñng thß╗▒c tiß╗àn trong thiß║┐t kß║┐ kh├¡ ─æß╗Öng hß╗ìc. Kß║┐t quß║ú tß╗æi ╞░u v├á ─æß╗Ö tin cß║¡y cß╗ºa m├┤ h├¼nh surrogate ─æ╞░ß╗úc kiß╗âm chß╗⌐ng th├┤ng qua so s├ính vß╗¢i kß║┐t quß║ú m├┤ phß╗Ång CFD hoß║╖c c├┤ng cß╗Ñ NeuralFoil, qua ─æ├│ l├ám r├╡ tiß╗üm n─âng ß╗⌐ng dß╗Ñng v├á khß║ú n─âng thay thß║┐ cß╗ºa ph╞░╞íng ph├íp ─æß╗ü xuß║Ñt trong thß╗▒c tiß╗àn.
+||Heading 2||─Éß╗æi t╞░ß╗úng nghi├¬n cß╗⌐u
+||Body Text||─Éß╗æi t╞░ß╗úng nghi├¬n cß╗⌐u cß╗ºa ─æß╗ü t├ái tß║¡p trung v├áo c├íc bi├¬n dß║íng c├ính kh├¡ ─æß╗Öng hß╗ìc hai chiß╗üu (2D airfoil), ─æ├│ng vai tr├▓ then chß╗æt trong thiß║┐t kß║┐ v├á tß╗æi ╞░u h├│a c├íc ph╞░╞íng tiß╗çn bay hiß╗çn ─æß║íi. C├íc bi├¬n dß║íng n├áy ─æ╞░ß╗úc lß╗▒a chß╗ìn ─æa dß║íng, ─æß║íi diß╗çn cho nhiß╗üu hß╗ì phß╗ò biß║┐n nh╞░ NACA, UIUC, nhß║▒m ─æß║úm bß║úo phß║ím vi khß║úo s├ít rß╗Öng v├á ph├╣ hß╗úp vß╗¢i thß╗▒c tiß╗àn ß╗⌐ng dß╗Ñng. Dß╗» liß╗çu nghi├¬n cß╗⌐u ─æ╞░ß╗úc x├óy dß╗▒ng dß╗▒a tr├¬n kß║┐t quß║ú m├┤ phß╗Ång CFD v├á c├íc c├┤ng cß╗Ñ ph├ón t├¡ch nh╞░ XFOIL, NeuralFoil, kß║┐t hß╗úp vß╗¢i nguß╗ôn dß╗» liß╗çu chuß║⌐n tß╗½ c├íc c╞í sß╗ƒ dß╗» liß╗çu quß╗æc tß║┐. tß║┐.
+||Body Text||Trß╗ìng t├óm cß╗ºa nghi├¬n cß╗⌐u l├á dß╗▒ ─æo├ín ch├¡nh x├íc c├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc chß╗º ─æß║ío nh╞░ hß╗ç sß╗æ lß╗▒c n├óng (CL), lß╗▒c cß║ún (CD), m├┤ men (CM), c├╣ng vß╗¢i c├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy ─æiß╗ân h├¼nh bao gß╗ôm sß╗æ Reynolds (Re), g├│c tß║Ñn (AoA) v├á c├íc th├┤ng sß╗æ h├¼nh hß╗ìc ─æß║╖c tr╞░ng cß╗ºa c├ính. Viß╗çc lß╗▒a chß╗ìn ─æß╗æi t╞░ß╗úng nghi├¬n cß╗⌐u n├áy kh├┤ng chß╗ë tß╗æi ╞░u h├│a qu├í tr├¼nh thiß║┐t kß║┐ c├íc cß║Ñu kiß╗çn kh├¡ ─æß╗Öng hß╗ìc m├á c├▓n tß║ío ─æiß╗üu kiß╗çn kiß╗âm nghiß╗çm v├á ph├ít triß╗ân c├íc ph╞░╞íng ph├íp hß╗ìc m├íy ti├¬n tiß║┐n trong bß╗æi cß║únh thß╗▒c tiß╗àn, ─æß╗ông thß╗¥i mß╗ƒ ra tiß╗üm n─âng ß╗⌐ng dß╗Ñng rß╗Öng r├úi trong c├íc ng├ánh c├┤ng nghiß╗çp h├áng kh├┤ng, t├áu thß╗ºy v├á n─âng l╞░ß╗úng gi├│.
+||Heading 2||Phß║ím vi nghi├¬n cß╗⌐u
+||Body Text||Phß║ím vi nghi├¬n cß╗⌐u cß╗ºa luß║¡n v─ân ─æ╞░ß╗úc x├íc ─æß╗ïnh r├╡ r├áng nhß║▒m ─æß║úm bß║úo t├¡nh tß║¡p trung, t├¡nh khß║ú thi v├á ph├╣ hß╗úp vß╗¢i mß╗Ñc ti├¬u khoa hß╗ìc ─æ├ú ─æß╗ü ra. Nghi├¬n cß╗⌐u chß╗ë tß║¡p trung v├áo c├íc bi├¬n dß║íng c├ính kh├¡ ─æß╗Öng hß╗ìc hai chiß╗üu (2D airfoil), kh├┤ng x├⌐t ─æß║┐n hiß╗çu ß╗⌐ng ba chiß╗üu, c├ính hß╗»u hß║ín hoß║╖c c├íc cß║Ñu tr├║c kh├¡ ─æß╗Öng hß╗ìc phß╗⌐c tß║íp kh├íc, do phß║ºn lß╗¢n c├íc ß╗⌐ng dß╗Ñng trong h├áng kh├┤ng v├á c├┤ng nghiß╗çp hiß╗çn nay chß╗º yß║┐u sß╗¡ dß╗Ñng dß╗» liß╗çu hai chiß╗üu trong giai ─æoß║ín thiß║┐t kß║┐ s╞í bß╗Ö. Giß╗¢i hß║ín n├áy c┼⌐ng ph├╣ hß╗úp vß╗¢i khß║ú n─âng xß╗¡ l├╜ dß╗» liß╗çu v├á nguß╗ôn lß╗▒c hiß╗çn c├│, ─æß║úm bß║úo nghi├¬n cß╗⌐u ─æ╞░ß╗úc thß╗▒c hiß╗çn trong phß║ím vi thß╗¥i gian v├á kß╗╣ thuß║¡t cho ph├⌐p. Phß║ím vi nghi├¬n cß╗⌐u giß╗¢i hß║ín trong dß║úi vß║¡n tß╗æc d╞░ß╗¢i Mach 0.8, kh├┤ng xem x├⌐t c├íc hiß╗çn t╞░ß╗úng si├¬u ├óm hoß║╖c c├íc ─æiß╗üu kiß╗çn phi thß╗▒c tiß╗àn ─æß╗æi vß╗¢i h├áng kh├┤ng d├ón dß╗Ñng v├á c├íc ß╗⌐ng dß╗Ñng c├┤ng nghiß╗çp th├┤ng th╞░ß╗¥ng nhß║▒m ─æß║úm bß║úo t├¡nh ß╗⌐ng dß╗Ñng thß╗▒c tiß╗àn, ─æß╗ông thß╗¥i tr├ính ph├ít sinh c├íc vß║Ñn ─æß╗ü kß╗╣ thuß║¡t phß╗⌐c tß║íp v╞░ß╗út ngo├ái phß║ím vi cß╗ºa ─æß╗ü t├ái. Tuy nhi├¬n, kß║┐t quß║ú v├á ph╞░╞íng ph├íp nghi├¬n cß╗⌐u c├│ tiß╗üm n─âng mß╗ƒ rß╗Öng ─æß╗â ß╗⌐ng dß╗Ñng cho c├íc bi├¬n dß║íng c├ính ba chiß╗üu (3D airfoil), c├ính hß╗»u hß║ín hoß║╖c c├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy phß╗⌐c tß║íp h╞ín trong t╞░╞íng lai, ─æ├íp ß╗⌐ng nhu cß║ºu ─æa dß║íng cß╗ºa c├íc ß╗⌐ng dß╗Ñng thß╗▒c tiß╗àn.
+||Body Text||C├íc m├┤ h├¼nh hß╗ìc m├íy ─æ╞░ß╗úc triß╗ân khai ─æß╗üu thuß╗Öc nh├│m hß╗ìc c├│ gi├ím s├ít (supervised learning), vß╗¢i nhiß╗çm vß╗Ñ dß╗▒ ─æo├ín (hß╗ôi quy) c├íc ─æß║íi l╞░ß╗úng kh├¡ ─æß╗Öng hß╗ìc chß╗º yß║┐u nh╞░ hß╗ç sß╗æ lß╗▒c n├óng, hß╗ç sß╗æ lß╗▒c cß║ún v├á m├┤ men, dß╗▒a tr├¬n dß╗» liß╗çu thu thß║¡p tß╗½ c├íc m├┤ phß╗Ång CFD, XFOIL, NeuralFoil hoß║╖c c├íc nguß╗ôn chuß║⌐n quß╗æc tß║┐. Qu├í tr├¼nh kiß╗âm chß╗⌐ng v├á ─æß╗æi chiß║┐u kß║┐t quß║ú chß╗º yß║┐u ─æ╞░ß╗úc thß╗▒c hiß╗çn th├┤ng qua so s├ính vß╗¢i dß╗» liß╗çu tß╗½ c├íc c├┤ng cß╗Ñ m├┤ phß╗Ång hoß║╖c ph├ón t├¡ch kh├¡ ─æß╗Öng hß╗ìc ─æ├ú ─æ╞░ß╗úc c├┤ng nhß║¡n, thay v├¼ thß╗▒c nghiß╗çm vß║¡t l├╜.
+||Body Text||Viß╗çc x├íc lß║¡p phß║ím vi nh╞░ tr├¬n vß╗½a ─æß║úm bß║úo ─æß╗Ö s├óu vß╗ü mß║╖t kß╗╣ thuß║¡t, vß╗½a tß║ío ─æiß╗üu kiß╗çn thuß║¡n lß╗úi ─æß╗â ph├ít triß╗ân v├á kiß╗âm ─æß╗ïnh c├íc m├┤ h├¼nh hß╗ìc m├íy c┼⌐ng nh╞░ quy tr├¼nh tß╗æi ╞░u h├│a, ─æß╗ông thß╗¥i gi├║p ─æß╗ü t├ái tß║¡p trung giß║úi quyß║┐t hiß╗çu quß║ú c├íc vß║Ñn ─æß╗ü ch├¡nh yß║┐u m├á kh├┤ng bß╗ï ph├ón t├ín nguß╗ôn lß╗▒c v├áo c├íc yß║┐u tß╗æ ngoß║íi vi v╞░ß╗út ngo├ái tß║ºm kiß╗âm so├ít.
+||Heading 2||├¥ ngh─⌐a khoa hß╗ìc v├á thß╗▒c tiß╗àn
+||Body Text||Vß╗ü mß║╖t khoa hß╗ìc, luß║¡n v─ân g├│p phß║ºn mß╗ƒ rß╗Öng v├á l├ám s├óu sß║»c th├¬m h╞░ß╗¢ng nghi├¬n cß╗⌐u ß╗⌐ng dß╗Ñng hß╗ìc m├íy trong l─⌐nh vß╗▒c kh├¡ ─æß╗Öng hß╗ìc, vß╗æn ─æ├▓i hß╗Åi khß╗æi l╞░ß╗úng t├¡nh to├ín lß╗¢n v├á phß╗⌐c tß║íp vß╗ü mß║╖t vß║¡t l├╜. Th├┤ng qua viß╗çc ph├ít triß╗ân m├┤ h├¼nh surrogate, luß║¡n v─ân hß╗ù trß╗ú c├íc nh├á nghi├¬n cß╗⌐u dß╗▒ ─æo├ín nhanh c├íc hß╗ç sß╗æ lß╗▒c n├óng, lß╗▒c cß║ún v├á m├┤ men cß╗ºa bi├¬n dß║íng c├ính mß╗¢i chß╗ë dß╗▒a tr├¬n th├┤ng tin h├¼nh hß╗ìc, tß╗½ ─æ├│ tß║ío ─æiß╗üu kiß╗çn thß╗▒c hiß╗çn nhiß╗üu thß╗¡ nghiß╗çm thiß║┐t kß║┐ trong thß╗¥i gian ngß║»n m├á tr╞░ß╗¢c ─æ├óy kh├┤ng khß║ú thi nß║┐u chß╗ë d├╣ng m├┤ phß╗Ång CFD truyß╗ün thß╗æng. Viß╗çc x├íc ─æß╗ïnh nhanh hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc cho h├áng ngh├¼n bi├¬n dß║íng kh├íc nhau trong qu├í tr├¼nh tß╗æi ╞░u h├│a c├│ thß╗â th├║c ─æß║⌐y kh├ím ph├í c├íc thiß║┐t kß║┐ s├íng tß║ío, h╞░ß╗¢ng tß╗¢i c├íc ├╜ t╞░ß╗ƒng kh├¡ ─æß╗Öng hß╗ìc mß╗¢i. X├óy dß╗▒ng th├ánh c├┤ng m├┤ h├¼nh surrogate c├│ khß║ú n─âng dß╗▒ ─æo├ín ch├¡nh x├íc c├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc chß╗º ─æß║ío dß╗▒a tr├¬n c╞í sß╗ƒ dß╗» liß╗çu lß╗¢n kh├┤ng chß╗ë khß║│ng ─æß╗ïnh tiß╗üm n─âng ß╗⌐ng dß╗Ñng cß╗ºa c├íc kß╗╣ thuß║¡t hß╗ìc m├íy hiß╗çn ─æß║íi m├á c├▓n tß║ío tiß╗ün ─æß╗ü cho viß╗çc ph├ít triß╗ân c├íc giß║úi ph├íp thay thß║┐ hiß╗çu quß║ú cho c├íc ph╞░╞íng ph├íp m├┤ phß╗Ång truyß╗ün thß╗æng nh╞░ CFD. Kß║┐t quß║ú nghi├¬n cß╗⌐u c├▓n cung cß║Ñp nß╗ün tß║úng khoa hß╗ìc quan trß╗ìng ─æß╗â tiß║┐p tß╗Ñc mß╗ƒ rß╗Öng ß╗⌐ng dß╗Ñng m├┤ h├¼nh surrogate trong c├íc b├ái to├ín tß╗æi ╞░u h├│a h├¼nh hß╗ìc, thiß║┐t kß║┐ vß║¡t thß╗â bay, c┼⌐ng nh╞░ c├íc l─⌐nh vß╗▒c li├¬n ng├ánh kh├íc.
+||Body Text||ß╗₧ ph╞░╞íng diß╗çn thß╗▒c tiß╗àn, m├┤ h├¼nh surrogate gi├║p r├║t ngß║»n ─æ├íng kß╗â thß╗¥i gian v├á chi ph├¡ cho qu├í tr├¼nh thiß║┐t kß║┐, thß╗¡ nghiß╗çm c├íc cß║Ñu h├¼nh kh├¡ ─æß╗Öng hß╗ìc, ─æß║╖c biß╗çt trong bß╗æi cß║únh nhu cß║ºu ─æß╗òi mß╗¢i v├á tß╗æi ╞░u h├│a sß║ún phß║⌐m ng├áy c├áng t─âng cao trong c├íc ng├ánh h├áng kh├┤ng, t├áu thß╗ºy v├á n─âng l╞░ß╗úng gi├│. Viß╗çc t├¡ch hß╗úp m├┤ h├¼nh hß╗ìc m├íy v├áo quy tr├¼nh tß╗æi ╞░u h├│a cho ph├⌐p c├íc kß╗╣ s╞░ v├á nh├á thiß║┐t kß║┐ nhanh ch├│ng khß║úo s├ít, lß╗▒a chß╗ìn v├á ph├ít triß╗ân c├íc giß║úi ph├íp h├¼nh hß╗ìc mß╗¢i m├á kh├┤ng phß╗Ñ thuß╗Öc ho├án to├án v├áo c├íc ph├⌐p m├┤ phß╗Ång sß╗æ phß╗⌐c tß║íp.
+||Heading 1||CH╞»╞áNG 2 C╞á Sß╗₧ L├¥ THUYß║╛T V├Ç PH╞»╞áNG PH├üP NGHI├èN Cß╗¿U
+||Heading 2||2.1. C╞í sß╗ƒ kh├¡ ─æß╗Öng hß╗ìc cho bi├¬n dß║íng c├ính
+||Body Text||Kh├¡ ─æß╗Öng hß╗ìc l├á ng├ánh khoa hß╗ìc nghi├¬n cß╗⌐u sß╗▒ t╞░╞íng t├íc giß╗»a d├▓ng l╞░u chß║Ñt v├á vß║¡t thß╗â chuyß╗ân ─æß╗Öng trong m├┤i tr╞░ß╗¥ng kh├¡. Trong l─⌐nh vß╗▒c h├áng kh├┤ng, bi├¬n dß║íng c├ính (airfoil) ─æ├│ng vai tr├▓ quyß║┐t ─æß╗ïnh ─æß╗æi vß╗¢i khß║ú n─âng sinh lß╗▒c n├óng, lß╗▒c cß║ún v├á ─æß║╖c t├¡nh ß╗òn ─æß╗ïnh cß╗ºa m├íy bay. Mß╗ìi thay ─æß╗òi vß╗ü h├¼nh dß║íng h├¼nh hß╗ìc cß╗ºa bi├¬n dß║íng ─æß╗üu c├│ thß╗â l├ám thay ─æß╗òi cß║Ñu tr├║c d├▓ng chß║úy xung quanh c├ính, tß╗½ ─æ├│ ß║únh h╞░ß╗ƒng trß╗▒c tiß║┐p ─æß║┐n hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc cß╗ºa ph╞░╞íng tiß╗çn bay [6].
+||Body Text||Khi d├▓ng kh├┤ng kh├¡ chuyß╗ân ─æß╗Öng quanh mß╗Öt bi├¬n dß║íng c├ính, tr╞░ß╗¥ng vß║¡n tß╗æc v├á ├íp suß║Ñt tr├¬n bß╗ü mß║╖t c├ính kh├┤ng c├▓n ─æß╗ông nhß║Ñt. Sß╗▒ ph├ón bß╗æ kh├┤ng ─æß╗ông ─æß╗üu n├áy dß║½n ─æß║┐n sß╗▒ xuß║Ñt hiß╗çn cß╗ºa c├íc lß╗▒c kh├¡ ─æß╗Öng hß╗ìc bao gß╗ôm lß╗▒c n├óng (Lift), lß╗▒c cß║ún (Drag) v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc (Pitching Moment). C├íc ─æß║íi l╞░ß╗úng n├áy phß╗Ñ thuß╗Öc ─æß╗ông thß╗¥i v├áo h├¼nh dß║íng h├¼nh hß╗ìc cß╗ºa bi├¬n dß║íng, g├│c tß║Ñn, sß╗æ Reynolds v├á trß║íng th├íi ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n. Do ─æ├│, viß╗çc nghi├¬n cß╗⌐u mß╗æi li├¬n hß╗ç giß╗»a h├¼nh dß║íng bi├¬n dß║íng v├á c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc l├á nß╗ün tß║úng cß╗ºa mß╗ìi b├ái to├ín thiß║┐t kß║┐ v├á tß╗æi ╞░u h├│a c├ính m├íy bay hiß╗çn ─æß║íi [6], [7].
+||Heading 3||2.1.1. G├│c tß║Ñn v├á ß║únh h╞░ß╗ƒng ─æß║┐n lß╗▒c n├óng
+||Body Text||G├│c tß║Ñn (Angle of Attack ΓÇô AoA) ─æ╞░ß╗úc ─æß╗ïnh ngh─⌐a l├á g├│c tß║ío bß╗ƒi d├óy cung h├¼nh hß╗ìc cß╗ºa bi├¬n dß║íng c├ính v├á h╞░ß╗¢ng d├▓ng kh├¡ tß╗¢i. ─É├óy l├á tham sß╗æ vß║¡n h├ánh quan trß╗ìng nhß║Ñt trong kh├¡ ─æß╗Öng hß╗ìc c├ính m├íy bay v├¼ n├│ quyß║┐t ─æß╗ïnh trß╗▒c tiß║┐p sß╗▒ ph├ón bß╗æ ├íp suß║Ñt tr├¬n bß╗ü mß║╖t c├ính.
+||Body Text||Theo l├╜ thuyß║┐t c├ính mß╗Ång (Thin Airfoil Theory), trong v├╣ng d├▓ng chß║úy b├ím, hß╗ç sß╗æ lß╗▒c n├óng c├│ quan hß╗ç gß║ºn tuyß║┐n t├¡nh vß╗¢i g├│c tß║Ñn:
+||Body Text||Trong ─æ├│  l├á hß╗ç sß╗æ lß╗▒c n├óng tß║íi g├│c tß║Ñn bß║▒ng kh├┤ng,  l├á ─æß╗Ö dß╗æc ─æ╞░ß╗¥ng cong lß╗▒c n├óng v├á l├á g├│c tß║Ñn.
+||Body Text||─Éß╗æi vß╗¢i bi├¬n dß║íng ─æß╗æi xß╗⌐ng trong ─æiß╗üu kiß╗çn d├▓ng chß║úy l├╜ t╞░ß╗ƒng:
+||Body Text||,  [6], [7].
+||Body Text||Kß║┐t quß║ú n├áy cho thß║Ñy chß╗ë cß║ºn thay ─æß╗òi mß╗Öt l╞░ß╗úng nhß╗Å g├│c tß║Ñn c┼⌐ng c├│ thß╗â tß║ío ra sß╗▒ thay ─æß╗òi ─æ├íng kß╗â vß╗ü lß╗▒c n├óng. Tuy nhi├¬n, quan hß╗ç tuyß║┐n t├¡nh n├áy chß╗ë tß╗ôn tß║íi trong v├╣ng d├▓ng chß║úy b├ím. Khi g├│c tß║Ñn v╞░ß╗út qu├í gi├í trß╗ï tß╗¢i hß║ín, lß╗¢p bi├¬n bß║»t ─æß║ºu t├ích khß╗Åi bß╗ü mß║╖t c├ính, l├ám suy giß║úm nhanh lß╗▒c n├óng v├á dß║½n ─æß║┐n hiß╗çn t╞░ß╗úng thß║Ñt tß╗æc.
+||Heading 3||2.1.2. C╞í sß╗ƒ vß║¡t l├╜ cß╗ºa sß╗▒ h├¼nh th├ánh lß╗▒c n├óng.
+||Body Text||Mß╗Öt trong nhß╗»ng nß╗ün tß║úng l├╜ thuyß║┐t quan trß╗ìng nhß║Ñt ─æß╗â giß║úi th├¡ch lß╗▒c n├óng l├á ph╞░╞íng tr├¼nh Bernoulli. ─Éß╗æi vß╗¢i d├▓ng chß║úy ß╗òn ─æß╗ïnh, kh├┤ng n├⌐n ─æ╞░ß╗úc v├á bß╗Å qua ß║únh h╞░ß╗ƒng cß╗ºa ─æß╗Ö nhß╗¢t:
+||Body Text||Theo ph╞░╞íng tr├¼nh tr├¬n, sß╗▒ gia t─âng vß║¡n tß╗æc d├▓ng chß║úy sß║╜ k├⌐o theo sß╗▒ suy giß║úm ├íp suß║Ñt t─⌐nh. ─Éß╗æi vß╗¢i bi├¬n dß║íng c├ính c├│ ─æß╗Ö cong hoß║╖c hoß║ít ─æß╗Öng ß╗ƒ g├│c tß║Ñn d╞░╞íng, d├▓ng kh├¡ tr├¬n mß║╖t tr├¬n th╞░ß╗¥ng c├│ vß║¡n tß╗æc lß╗¢n h╞ín d├▓ng kh├¡ ph├¡a d╞░ß╗¢i. Sß╗▒ kh├íc biß╗çt vß║¡n tß╗æc n├áy tß║ío n├¬n ch├¬nh lß╗çch ├íp suß║Ñt giß╗»a hai bß╗ü mß║╖t c├ính v├á l├á nguß╗ôn gß╗æc trß╗▒c tiß║┐p cß╗ºa lß╗▒c n├óng [6].
+||Body Text||Tuy nhi├¬n, c├ích giß║úi th├¡ch dß╗▒a tr├¬n Bernoulli ch╞░a phß║ún ├ính ─æß║ºy ─æß╗º bß║ún chß║Ñt vß║¡t l├╜ cß╗ºa hiß╗çn t╞░ß╗úng. Tß╗½ quan ─æiß╗âm bß║úo to├án ─æß╗Öng l╞░ß╗úng, lß╗▒c n├óng xuß║Ñt hiß╗çn do bi├¬n dß║íng c├ính l├ám thay ─æß╗òi h╞░ß╗¢ng chuyß╗ân ─æß╗Öng cß╗ºa d├▓ng kh├¡. Theo ─æß╗ïnh luß║¡t II Newton:
+||Body Text||Khi d├▓ng kh├¡ bß╗ï bß║╗ cong xuß╗æng ph├¡a sau m├⌐p sau cß╗ºa c├ính, ─æß╗Öng l╞░ß╗úng theo ph╞░╞íng thß║│ng ─æß╗⌐ng cß╗ºa d├▓ng kh├¡ thay ─æß╗òi. Theo nguy├¬n l├╜ phß║ún lß╗▒c, bi├¬n dß║íng c├ính sß║╜ chß╗ïu mß╗Öt lß╗▒c ng╞░ß╗úc chiß╗üu h╞░ß╗¢ng xuß╗æng cß╗ºa d├▓ng kh├¡. Lß╗▒c n├áy ch├¡nh l├á lß╗▒c n├óng t├íc dß╗Ñng l├¬n c├ính [7]. Hai c├ích tiß║┐p cß║¡n tr├¬n thß╗▒c chß║Ñt l├á hai biß╗âu hiß╗çn kh├íc nhau cß╗ºa c├╣ng mß╗Öt hiß╗çn t╞░ß╗úng vß║¡t l├╜ v├á ─æß╗üu dß║½n ─æß║┐n c├╣ng mß╗Öt kß║┐t luß║¡n: lß╗▒c n├óng ─æ╞░ß╗úc h├¼nh th├ánh do sß╗▒ thay ─æß╗òi tr╞░ß╗¥ng vß║¡n tß╗æc v├á ├íp suß║Ñt xung quanh bi├¬n dß║íng c├ính.
+||Heading 3||2.1.3. ─Éß╗ïnh l├╜ KuttaΓÇôJoukowski v├á vai tr├▓ cß╗ºa h├¼nh dß║íng h├¼nh hß╗ìc.
+||Body Text||Mß╗Öt m├┤ h├¼nh tß╗òng qu├ít h╞ín vß╗ü lß╗▒c n├óng ─æ╞░ß╗úc x├óy dß╗▒ng dß╗▒a tr├¬n l├╜ thuyß║┐t d├▓ng thß║┐. Theo ─æß╗ïnh l├╜ KuttaΓÇôJoukowski, lß╗▒c n├óng tr├¬n mß╗Öt ─æ╞ín vß╗ï sß║úi c├ính ─æ╞░ß╗úc x├íc ─æß╗ïnh bß╗ƒi:
+||Body Text||trong ─æ├│ l├á tuß║ºn ho├án kh├¡ ─æß╗Öng hß╗ìc cß╗ºa tr╞░ß╗¥ng vß║¡n tß╗æc quanh bi├¬n dß║íng c├ính.
+||Body Text||─Éß╗â x├íc ─æß╗ïnh gi├í trß╗ï tuß║ºn ho├án duy nhß║Ñt, nghiß╗çm d├▓ng chß║úy phß║úi thß╗Åa m├ún ─æiß╗üu kiß╗çn Kutta. ─Éiß╗üu kiß╗çn n├áy y├¬u cß║ºu d├▓ng chß║úy rß╗¥i khß╗Åi m├⌐p sau cß╗ºa bi├¬n dß║íng mß╗Öt c├ích li├¬n tß╗Ñc v├á hß╗»u hß║ín [7].
+||Body Text||├¥ ngh─⌐a quan trß╗ìng cß╗ºa ─æß╗ïnh l├╜ KuttaΓÇôJoukowski nß║▒m ß╗ƒ chß╗ù n├│ thiß║┐t lß║¡p mß╗æi li├¬n hß╗ç trß╗▒c tiß║┐p giß╗»a h├¼nh dß║íng h├¼nh hß╗ìc v├á lß╗▒c n├óng. C├íc th├┤ng sß╗æ nh╞░ ─æß╗Ö cong cß╗▒c ─æß║íi, vß╗ï tr├¡ ─æß╗Ö cong cß╗▒c ─æß║íi hoß║╖c h├¼nh dß║íng m├⌐p sau c├│ khß║ú n─âng l├ám thay ─æß╗òi gi├í trß╗ï tuß║ºn ho├án tß╗½ ─æ├│ ß║únh h╞░ß╗ƒng trß╗▒c tiß║┐p tß╗¢i hß╗ç sß╗æ lß╗▒c n├óng. ─É├óy l├á c╞í sß╗ƒ vß║¡t l├╜ giß║úi th├¡ch tß║íi sao c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc th╞░ß╗¥ng ─æ╞░ß╗úc sß╗¡ dß╗Ñng l├ám biß║┐n ─æß║ºu v├áo trong c├íc m├┤ h├¼nh dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc hiß╗çn ─æß║íi [7], [9].
+||Heading 3||2.1.4. Lß╗▒c n├óng, lß╗▒c cß║ún v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc
+||Body Text||─Éß╗â loß║íi bß╗Å ß║únh h╞░ß╗ƒng cß╗ºa k├¡ch th╞░ß╗¢c h├¼nh hß╗ìc v├á ─æiß╗üu kiß╗çn vß║¡n h├ánh, c├íc lß╗▒c kh├¡ ─æß╗Öng hß╗ìc th╞░ß╗¥ng ─æ╞░ß╗úc biß╗âu diß╗àn d╞░ß╗¢i dß║íng c├íc hß╗ç sß╗æ kh├┤ng thß╗⌐ nguy├¬n. Viß╗çc sß╗¡ dß╗Ñng c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc cho ph├⌐p so s├ính ─æß║╖c t├¡nh cß╗ºa c├íc bi├¬n dß║íng c├ính kh├íc nhau trong c├╣ng mß╗Öt hß╗ç quy chiß║┐u, ─æß╗ông thß╗¥i tß║ío c╞í sß╗ƒ cho viß╗çc x├óy dß╗▒ng c├íc m├┤ h├¼nh dß╗▒ ─æo├ín v├á tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Lß╗▒c n├óng, lß╗▒c cß║ún v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc ─æ╞░ß╗úc x├íc ─æß╗ïnh lß║ºn l╞░ß╗út bß╗ƒi:
+,
+,
+||Body Text||Trong ─æ├│:
+||Body Text||S l├á diß╗çn t├¡ch tham chiß║┐u cß╗ºa c├ính;
+||Body Text||c l├á chiß╗üu d├ái d├óy cung;
+||Body Text||l├á mß║¡t ─æß╗Ö kh├┤ng kh├¡;
+||Body Text||V l├á vß║¡n tß╗æc d├▓ng kh├¡ tß╗▒ do.
+||Body Text||Tß╗½ c├íc biß╗âu thß╗⌐c tr├¬n, c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc ─æ╞░ß╗úc x├íc ─æß╗ïnh nh╞░ sau:
+||Body Text||Trong nghi├¬n cß╗⌐u kh├¡ ─æß╗Öng hß╗ìc,  phß║ún ├ính khß║ú n─âng sinh lß╗▒c n├óng cß╗ºa bi├¬n dß║íng c├ính, phß║ún ├ính mß╗⌐c ─æß╗Ö tß╗òn hao n─âng l╞░ß╗úng do lß╗▒c cß║ún, trong khi  ─æß║╖c tr╞░ng cho xu h╞░ß╗¢ng quay cß╗ºa bi├¬n dß║íng quanh ─æiß╗âm tham chiß║┐u. Ba ─æß║íi l╞░ß╗úng n├áy ─æ╞░ß╗úc xem l├á nhß╗»ng th├┤ng sß╗æ c╞í bß║ún nhß║Ñt ─æß╗â ─æ├ính gi├í hiß╗çu quß║ú kh├¡ ─æß╗Öng hß╗ìc cß╗ºa mß╗Öt cß║Ñu h├¼nh c├ính [6].
+||Body Text||Trong phß║ím vi ─æß╗ü t├ái, , v├á ─æ╞░ß╗úc lß╗▒a chß╗ìn l├ám c├íc biß║┐n mß╗Ñc ti├¬u cß╗ºa m├┤ h├¼nh hß╗ìc m├íy nhß║▒m x├óy dß╗▒ng m├┤ h├¼nh thay thß║┐ cho c├íc b├ái to├ín ph├ón t├¡ch v├á tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Mß╗Öt chß╗ë ti├¬u tß╗òng hß╗úp th╞░ß╗¥ng ─æ╞░ß╗úc sß╗¡ dß╗Ñng ─æß╗â ─æ├ính gi├í hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc l├á tß╗╖ sß╗æ lß╗▒c n├óng tr├¬n lß╗▒c cß║ún:
+||Body Text||Gi├í trß╗ï L/D c├áng lß╗¢n chß╗⌐ng tß╗Å bi├¬n dß║íng c├ính tß║ío ─æ╞░ß╗úc nhiß╗üu lß╗▒c n├óng h╞ín vß╗¢i c├╣ng mß╗⌐c lß╗▒c cß║ún, tß╗½ ─æ├│ n├óng cao hiß╗çu quß║ú sß╗¡ dß╗Ñng n─âng l╞░ß╗úng. V├¼ vß║¡y, ─æ├óy l├á mß╗Öt trong nhß╗»ng h├ám mß╗Ñc ti├¬u phß╗ò biß║┐n nhß║Ñt trong c├íc b├ái to├ín tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính [6].
+||Heading 3||2.1.5. Sß╗æ Reynolds v├á lß╗¢p bi├¬n
+||Body Text||Sß╗æ Reynolds l├á ─æß║íi l╞░ß╗úng kh├┤ng thß╗⌐ nguy├¬n ─æß║╖c tr╞░ng cho tß╗╖ lß╗ç giß╗»a lß╗▒c qu├ín t├¡nh v├á lß╗▒c nhß╗¢t trong d├▓ng chß║úy:
+||Body Text||, trong ─æ├│ () l├á ─æß╗Ö nhß╗¢t ─æß╗Öng lß╗▒c hß╗ìc cß╗ºa kh├┤ng kh├¡.
+||Body Text||Vß╗ü mß║╖t vß║¡t l├╜, Reynolds Number quyß║┐t ─æß╗ïnh cß║Ñu tr├║c cß╗ºa lß╗¢p bi├¬n h├¼nh th├ánh tr├¬n bß╗ü mß║╖t c├ính. Khi Reynolds thß║Ñp, lß╗¢p bi├¬n c├│ xu h╞░ß╗¢ng duy tr├¼ trß║íng th├íi d├▓ng tß║ºng trong khoß║úng chiß╗üu d├ái lß╗¢n h╞ín. Ng╞░ß╗úc lß║íi, khi Reynolds t─âng, qu├í tr├¼nh chuyß╗ân tiß║┐p sang d├▓ng rß╗æi diß╗àn ra sß╗¢m h╞ín, l├ám t─âng khß║ú n─âng chß╗æng t├ích d├▓ng nh╞░ng ─æß╗ông thß╗¥i c├│ thß╗â l├ám gia t─âng lß╗▒c cß║ún ma s├ít [8].
+||Body Text||Sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n c├│ vai tr├▓ ─æß║╖c biß╗çt quan trß╗ìng ─æß╗æi vß╗¢i ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính. C├íc hiß╗çn t╞░ß╗úng nh╞░ chuyß╗ân tiß║┐p tß║ºng v├á rß╗æi, t├ích d├▓ng hoß║╖c t├íi b├ím d├▓ng ─æß╗üu diß╗àn ra trong v├╣ng lß╗¢p bi├¬n v├á ß║únh h╞░ß╗ƒng trß╗▒c tiß║┐p tß╗¢i c├íc hß╗ç sß╗æ , v├á . V├¼ vß║¡y, c├╣ng mß╗Öt bi├¬n dß║íng c├ính c├│ thß╗â cho c├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc ho├án to├án kh├íc nhau khi hoß║ít ─æß╗Öng ß╗ƒ c├íc ─æiß╗üu kiß╗çn Reynolds kh├íc nhau.
+||Body Text||Do ─æ├│, Reynolds Number lu├┤n ─æ╞░ß╗úc xem l├á mß╗Öt trong nhß╗»ng biß║┐n ─æß║ºu v├áo quan trß╗ìng nhß║Ñt trong c├íc m├┤ h├¼nh dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc hiß╗çn ─æß║íi [8].
+||Heading 3||2.1.6. Hiß╗çn t╞░ß╗úng thß║Ñt tß╗æc
+||Body Text||Mß╗Öt trong nhß╗»ng hiß╗çn t╞░ß╗úng kh├¡ ─æß╗Öng hß╗ìc quan trß╗ìng nhß║Ñt ─æß╗æi vß╗¢i c├ính m├íy bay l├á hiß╗çn t╞░ß╗úng thß║Ñt tß╗æc (stall). Khi g├│c tß║Ñn t─âng v╞░ß╗út qu├í gi├í trß╗ï tß╗¢i hß║ín, lß╗¢p bi├¬n kh├┤ng c├▓n ─æß╗º ─æß╗Öng l╞░ß╗úng ─æß╗â thß║»ng gradient ├íp suß║Ñt bß║Ñt lß╗úi xuß║Ñt hiß╗çn tr├¬n bß╗ü mß║╖t c├ính. D├▓ng chß║úy bß║»t ─æß║ºu t├ích khß╗Åi bß╗ü mß║╖t c├ính v├á h├¼nh th├ánh v├╣ng tuß║ºn ho├án c┼⌐ng nh╞░ v├╣ng wake c├│ k├¡ch th╞░ß╗¢c lß╗¢n ph├¡a sau bi├¬n dß║íng [8].
+||Body Text||Sß╗▒ xuß║Ñt hiß╗çn cß╗ºa v├╣ng t├ích d├▓ng l├ám thay ─æß╗òi ─æ├íng kß╗â ph├ón bß╗æ ├íp suß║Ñt tr├¬n bß╗ü mß║╖t c├ính. Kß║┐t quß║ú l├á khß║ú n─âng sinh lß╗▒c n├óng suy giß║úm nhanh trong khi lß╗▒c cß║ún t─âng mß║ính. ─É├óy l├á nguy├¬n nh├ón trß╗▒c tiß║┐p dß║½n ─æß║┐n hiß╗çn t╞░ß╗úng thß║Ñt tß╗æc.
+||Body Text||Trong v├╣ng thß║Ñt tß╗æc:
+||Body Text||hß╗ç sß╗æ lß╗▒c n├óng giß║úm mß║ính;
+||Body Text||hß╗ç sß╗æ lß╗▒c cß║ún t─âng nhanh;
+||Body Text||hß╗ç sß╗æ m├┤ men kh├¡ ─æß╗Öng hß╗ìc thay ─æß╗òi ─æß╗Öt ngß╗Öt;
+||Body Text||mß╗æi quan hß╗ç giß╗»a c├íc ─æß║íi l╞░ß╗úng kh├¡ ─æß╗Öng hß╗ìc trß╗ƒ n├¬n phi tuyß║┐n mß║ính.
+||Body Text||Tß╗½ g├│c ─æß╗Ö m├┤ h├¼nh h├│a, v├╣ng near-stall v├á post-stall l├á nhß╗»ng v├╣ng hoß║ít ─æß╗Öng kh├│ dß╗▒ ─æo├ín nhß║Ñt ─æß╗æi vß╗¢i cß║ú c├íc ph╞░╞íng ph├íp CFD lß║½n c├íc m├┤ h├¼nh hß╗ìc m├íy. ─Éiß╗üu n├áy xuß║Ñt ph├ít tß╗½ sß╗▒ xuß║Ñt hiß╗çn cß╗ºa c├íc hiß╗çn t╞░ß╗úng phi tuyß║┐n mß║ính nh╞░ t├ích d├▓ng, t├íi b├ím d├▓ng v├á t╞░╞íng t├íc giß╗»a lß╗¢p bi├¬n vß╗¢i tr╞░ß╗¥ng ├íp suß║Ñt xung quanh bi├¬n dß║íng [8].
+||Body Text||Do ─æ├│, khß║ú n─âng m├┤ tß║ú ch├¡nh x├íc v├╣ng stall th╞░ß╗¥ng ─æ╞░ß╗úc xem l├á mß╗Öt trong nhß╗»ng ti├¬u ch├¡ quan trß╗ìng ─æß╗â ─æ├ính gi├í chß║Ñt l╞░ß╗úng cß╗ºa c├íc m├┤ h├¼nh surrogate kh├¡ ─æß╗Öng hß╗ìc.
+||Heading 3||2.1.7. Li├¬n hß╗ç giß╗»a kh├¡ ─æß╗Öng hß╗ìc v├á ─æß║╖c tr╞░ng h├¼nh hß╗ìc
+||Body Text||C├íc c╞í chß║┐ vß║¡t l├╜ ─æ╞░ß╗úc tr├¼nh b├áy trong c├íc mß╗Ñc tr├¬n cho thß║Ñy rß║▒ng ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính kh├┤ng chß╗ë phß╗Ñ thuß╗Öc v├áo ─æiß╗üu kiß╗çn vß║¡n h├ánh m├á c├▓n phß╗Ñ thuß╗Öc mß║ính v├áo h├¼nh dß║íng h├¼nh hß╗ìc cß╗ºa bi├¬n dß║íng. Tr├¬n thß╗▒c tß║┐, mß╗ìi thay ─æß╗òi vß╗ü h├¼nh hß╗ìc ─æß╗üu c├│ thß╗â l├ám thay ─æß╗òi cß║Ñu tr├║c d├▓ng chß║úy, ph├ón bß╗æ ├íp suß║Ñt v├á sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n, tß╗½ ─æ├│ ß║únh h╞░ß╗ƒng trß╗▒c tiß║┐p ─æß║┐n c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||V├¡ dß╗Ñ, ─æß╗Ö cong cß╗▒c ─æß║íi (maximum camber) c├│ ß║únh h╞░ß╗ƒng trß╗▒c tiß║┐p tß╗¢i gi├í trß╗ï tuß║ºn ho├án kh├¡ ─æß╗Öng hß╗ìc v├á khß║ú n─âng sinh lß╗▒c n├óng; ─æß╗Ö d├áy cß╗▒c ─æß║íi (maximum thickness) ß║únh h╞░ß╗ƒng ─æß║┐n sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n v├á xu h╞░ß╗¢ng t├ích d├▓ng; b├ín k├¡nh m├⌐p tr╞░ß╗¢c (leading-edge radius) t├íc ─æß╗Öng ─æß║┐n ─æß║╖c t├¡nh d├▓ng chß║úy tß║íi v├╣ng stagnation; trong khi c├íc ─æß║╖c tr╞░ng cß╗ºa m├⌐p sau nh╞░ g├│c m├⌐p sau, ─æß╗Ö d├áy m├⌐p sau hoß║╖c ─æß╗Ö cong phß║ºn ─æu├┤i c├ính c├│ li├¬n hß╗ç chß║╖t chß║╜ vß╗¢i ─æiß╗üu kiß╗çn Kutta v├á sß╗▒ ph├ít triß╗ân cß╗ºa wake ph├¡a sau bi├¬n dß║íng [7]ΓÇô[9].
+||Body Text||Tß╗½ g├│c ─æß╗Ö t├¡nh to├ín, mß╗Öt bi├¬n dß║íng c├ính th╞░ß╗¥ng ─æ╞░ß╗úc m├┤ tß║ú bß║▒ng h├áng tr─âm ─æiß╗âm tß╗ìa ─æß╗Ö tr├¬n mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i. Khi ─æ├│, mß╗ùi bi├¬n dß║íng c├│ thß╗â ─æ╞░ß╗úc xem nh╞░ mß╗Öt ─æiß╗âm trong kh├┤ng gian h├¼nh hß╗ìc nhiß╗üu chiß╗üu. Tuy nhi├¬n, viß╗çc sß╗¡ dß╗Ñng trß╗▒c tiß║┐p to├án bß╗Ö tß║¡p tß╗ìa ─æß╗Ö n├áy l├ám ─æß║ºu v├áo cho m├┤ h├¼nh hß╗ìc m├íy th╞░ß╗¥ng dß║½n tß╗¢i kh├┤ng gian dß╗» liß╗çu c├│ sß╗æ chiß╗üu rß║Ñt lß╗¢n, l├ám gia t─âng chi ph├¡ t├¡nh to├ín v├á nguy c╞í qu├í khß╗¢p m├┤ h├¼nh.
+||Body Text||Do ─æ├│, c├íc nghi├¬n cß╗⌐u hiß╗çn ─æß║íi th╞░ß╗¥ng chuyß╗ân ─æß╗òi h├¼nh dß║íng bi├¬n dß║íng th├ánh mß╗Öt tß║¡p c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc c├│ ├╜ ngh─⌐a vß║¡t l├╜ (geometry descriptors). C├íc ─æß║╖c tr╞░ng n├áy kh├┤ng chß╗ë gi├║p giß║úm chiß╗üu dß╗» liß╗çu m├á c├▓n duy tr├¼ ─æ╞░ß╗úc mß╗æi li├¬n hß╗ç giß╗»a h├¼nh hß╗ìc v├á c├íc c╞í chß║┐ kh├¡ ─æß╗Öng hß╗ìc c╞í bß║ún nh╞░ tuß║ºn ho├án kh├¡ ─æß╗Öng hß╗ìc, sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n, t├ích d├▓ng v├á ─æiß╗üu kiß╗çn Kutta. Tr├¬n c╞í sß╗ƒ ─æ├│, qu├í tr├¼nh hß╗ìc m├íy ─æ╞░ß╗úc thß╗▒c hiß╗çn trong kh├┤ng gian ─æß║╖c tr╞░ng c├│ k├¡ch th╞░ß╗¢c nhß╗Å h╞ín nh╞░ng vß║½n bß║úo to├án phß║ºn lß╗¢n th├┤ng tin kh├¡ ─æß╗Öng hß╗ìc quan trß╗ìng cß╗ºa bi├¬n dß║íng c├ính.
+||Body Text||C├ích tiß║┐p cß║¡n n├áy l├á nß╗ün tß║úng cho c├íc kh├íi niß╗çm Geometry Manifold v├á Feature Engineering ─æ╞░ß╗úc tr├¼nh b├áy trong c├íc mß╗Ñc tiß║┐p theo cß╗ºa ─æß╗ü t├ái.
+||Heading 2||2.2. Biß╗âu diß╗àn h├¼nh hß╗ìc bi├¬n dß║íng c├ính
+||Body Text||Trong c├íc b├ái to├ín dß╗▒ ─æo├ín v├á tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc dß╗▒a tr├¬n dß╗» liß╗çu, h├¼nh hß╗ìc bi├¬n dß║íng c├ính l├á nguß╗ôn th├┤ng tin ─æß║ºu v├áo quan trß╗ìng nhß║Ñt. C├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc nh╞░ lß╗▒c n├óng, lß╗▒c cß║ún v├á momen lß╗▒c kh├┤ng chß╗ë phß╗Ñ thuß╗Öc v├áo ─æiß╗üu kiß╗çn d├▓ng chß║úy nh╞░ g├│c tß║Ñn v├á sß╗æ Reynolds, m├á c├▓n phß╗Ñ thuß╗Öc trß╗▒c tiß║┐p v├áo c├ích bi├¬n dß║íng c├ính l├ám thay ─æß╗òi ph├ón bß╗æ vß║¡n tß╗æc, ├íp suß║Ñt v├á lß╗¢p bi├¬n tr├¬n bß╗ü mß║╖t. V├¼ vß║¡y, tr╞░ß╗¢c khi x├óy dß╗▒ng m├┤ h├¼nh hß╗ìc m├íy, cß║ºn c├│ mß╗Öt ph╞░╞íng ph├íp biß╗âu diß╗àn h├¼nh hß╗ìc ─æß╗º ch├¡nh x├íc ─æß╗â m├┤ tß║ú h├¼nh dß║íng airfoil, ─æß╗ông thß╗¥i ─æß╗º thuß║¡n lß╗úi ─æß╗â tr├¡ch xuß║Ñt c├íc ─æß║╖c tr╞░ng c├│ ├╜ ngh─⌐a vß║¡t l├╜ [9].
+||Heading 3||2.2.1. Hß╗ç tß╗ìa ─æß╗Ö bi├¬n dß║íng c├ính
+||Body Text||Mß╗Öt bi├¬n dß║íng c├ính hai chiß╗üu th╞░ß╗¥ng ─æ╞░ß╗úc m├┤ tß║ú bß║▒ng tß║¡p hß╗úp c├íc ─æiß╗âm tß╗ìa ─æß╗Ö tr├¬n mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i cß╗ºa c├ính. Sau khi chuß║⌐n h├│a theo chiß╗üu d├ái d├óy cung, bi├¬n dß║íng c├│ thß╗â ─æ╞░ß╗úc biß╗âu diß╗àn d╞░ß╗¢i dß║íng:
+||Body Text||trong ─æ├│ v├á lß║ºn l╞░ß╗út l├á tß╗ìa ─æß╗Ö theo ph╞░╞íng d├óy cung v├á ph╞░╞íng vu├┤ng g├│c vß╗¢i d├óy cung tß║íi ─æiß╗âm thß╗⌐ , c├▓n N l├á sß╗æ ─æiß╗âm tß╗ìa ─æß╗Ö d├╣ng ─æß╗â m├┤ tß║ú bi├¬n dß║íng.
+||Body Text||Trong biß╗âu diß╗àn n├áy, trß╗Ñc x th╞░ß╗¥ng ─æ╞░ß╗úc chuß║⌐n h├│a trong khoß║úng:
+||Body Text||vß╗¢i x=0 t╞░╞íng ß╗⌐ng vß╗¢i m├⌐p tr╞░ß╗¢c v├á x=1 t╞░╞íng ß╗⌐ng vß╗¢i m├⌐p sau. Viß╗çc chuß║⌐n h├│a d├óy cung vß╗ü ─æ╞ín vß╗ï gi├║p loß║íi bß╗Å ß║únh h╞░ß╗ƒng cß╗ºa k├¡ch th╞░ß╗¢c tuyß╗çt ─æß╗æi, tß╗½ ─æ├│ cho ph├⌐p so s├ính c├íc bi├¬n dß║íng kh├íc nhau trong c├╣ng mß╗Öt hß╗ç tß╗ìa ─æß╗Ö h├¼nh hß╗ìc.
+||Body Text||C├ích biß╗âu diß╗àn bß║▒ng tß╗ìa ─æß╗Ö c├│ ╞░u ─æiß╗âm l├á m├┤ tß║ú ─æ╞░ß╗úc nhiß╗üu hß╗ì bi├¬n dß║íng kh├íc nhau, kh├┤ng bß╗ï giß╗¢i hß║ín trong mß╗Öt c├┤ng thß╗⌐c tham sß╗æ cß╗Ñ thß╗â nh╞░ NACA 4-Digit. ─Éiß╗üu n├áy ─æß║╖c biß╗çt quan trß╗ìng ─æß╗æi vß╗¢i c├íc c╞í sß╗ƒ dß╗» liß╗çu airfoil mß╗ƒ rß╗Öng, trong ─æ├│ c├íc bi├¬n dß║íng c├│ thß╗â ─æß║┐n tß╗½ nhiß╗üu hß╗ì h├¼nh hß╗ìc kh├íc nhau nh╞░ NACA, Selig, Eppler, Wortmann hoß║╖c c├íc bi├¬n dß║íng tß╗æi ╞░u h├│a hiß╗çn ─æß║íi. V├¼ vß║¡y, biß╗âu diß╗àn bß║▒ng tß║¡p tß╗ìa ─æß╗Ö l├á mß╗Öt lß╗▒a chß╗ìn ph├╣ hß╗úp cho c├íc b├ái to├ín hß╗ìc m├íy tß╗òng qu├ít ├íp dß╗Ñng tr├¬n nhiß╗üu loß║íi bi├¬n dß║íng c├ính.
+||Body Text||Tuy nhi├¬n, biß╗âu diß╗àn trß╗▒c tiß║┐p bß║▒ng tß╗ìa ─æß╗Ö c┼⌐ng ─æß║╖t ra mß╗Öt sß╗æ th├ích thß╗⌐c. Thß╗⌐ nhß║Ñt, sß╗æ l╞░ß╗úng ─æiß╗âm tß╗ìa ─æß╗Ö c├│ thß╗â kh├íc nhau giß╗»a c├íc file h├¼nh hß╗ìc, ─æ├▓i hß╗Åi qu├í tr├¼nh chuß║⌐n h├│a v├á nß╗Öi suy lß║íi bi├¬n dß║íng. Thß╗⌐ hai, dß╗» liß╗çu tß╗ìa ─æß╗Ö c├│ sß╗æ chiß╗üu cao, dß╗à l├ám t─âng ─æß╗Ö phß╗⌐c tß║íp cß╗ºa m├┤ h├¼nh hß╗ìc m├íy. Thß╗⌐ ba, c├íc tß╗ìa ─æß╗Ö ri├¬ng lß║╗ th╞░ß╗¥ng kh├│ diß╗àn giß║úi trß╗▒c tiß║┐p d╞░ß╗¢i g├│c ─æß╗Ö kh├¡ ─æß╗Öng hß╗ìc. Do ─æ├│, biß╗âu diß╗àn tß╗ìa ─æß╗Ö th╞░ß╗¥ng chß╗ë l├á b╞░ß╗¢c ─æß║ºu ─æß╗â x├óy dß╗▒ng c├íc ─æß║íi l╞░ß╗úng h├¼nh hß╗ìc c├│ ├╜ ngh─⌐a h╞ín nh╞░ ─æ╞░ß╗¥ng cong trung b├¼nh, ph├ón bß╗æ ─æß╗Ö d├áy, ─æß╗Ö cong h├¼nh hß╗ìc cß╗Ñc bß╗Ö v├á c├íc ─æß║╖c tr╞░ng m├⌐p tr╞░ß╗¢c, m├⌐p sau [9].
+||Heading 3||2.2.2. ─É╞░ß╗¥ng d├óy cung v├á ─æ╞░ß╗¥ng cong trung b├¼nh
+||Body Text||Mß╗Öt bi├¬n dß║íng c├ính c├│ thß╗â ─æ╞░ß╗úc ph├ón t├ích th├ánh mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i . Tß╗½ hai ─æ╞░ß╗¥ng n├áy, c├│ thß╗â x├íc ─æß╗ïnh c├íc ─æß║íi l╞░ß╗úng h├¼nh hß╗ìc c╞í bß║ún cß╗ºa bi├¬n dß║íng.
+||Body Text||─É╞░ß╗¥ng d├óy cung (Chord Line) l├á ─æ╞░ß╗¥ng thß║│ng nß╗æi m├⌐p tr╞░ß╗¢c v├á m├⌐p sau cß╗ºa bi├¬n dß║íng. ─É├óy l├á trß╗Ñc tham chiß║┐u c╞í bß║ún ─æß╗â x├íc ─æß╗ïnh g├│c tß║Ñn, ─æß╗Ö d├áy v├á ─æß╗Ö cong camber cß╗ºa airfoil.
+||Body Text||─É╞░ß╗¥ng cong trung b├¼nh ─æ╞░ß╗úc x├íc ─æß╗ïnh l├á quß╗╣ t├¡ch trung ─æiß╗âm giß╗»a mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i tß║íi c├╣ng vß╗ï tr├¡ (x:
+||Body Text||─É╞░ß╗¥ng cong trung b├¼nh phß║ún ├ính mß╗⌐c ─æß╗Ö bß║Ñt ─æß╗æi xß╗⌐ng h├¼nh hß╗ìc giß╗»a mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i cß╗ºa bi├¬n dß║íng. Vß╗ü mß║╖t kh├¡ ─æß╗Öng hß╗ìc, camber cß╗ºa airfoil c├│ li├¬n hß╗ç trß╗▒c tiß║┐p vß╗¢i tuß║ºn ho├án kh├¡ ─æß╗Öng hß╗ìc v├á khß║ú n─âng sinh lß╗▒c n├óng. C├íc bi├¬n dß║íng c├│ camber lß╗¢n th╞░ß╗¥ng c├│ khß║ú n─âng tß║ío lß╗▒c n├óng ngay cß║ú tß║íi g├│c tß║Ñn nhß╗Å hoß║╖c g├│c tß║Ñn bß║▒ng kh├┤ng. ─Éiß╗üu n├áy ph├╣ hß╗úp vß╗¢i l├╜ thuyß║┐t KuttaΓÇôJoukowski, trong ─æ├│ lß╗▒c n├óng tß╗╖ lß╗ç vß╗¢i tuß║ºn ho├án cß╗ºa tr╞░ß╗¥ng vß║¡n tß╗æc quanh bi├¬n dß║íng [7].
+||Body Text||Do ─æ├│, c├íc ─æß║íi l╞░ß╗úng nh╞░ camber cß╗▒c ─æß║íi v├á vß╗ï tr├¡ camber cß╗▒c ─æß║íi kh├┤ng chß╗ë l├á th├┤ng sß╗æ h├¼nh hß╗ìc ─æ╞ín thuß║ºn, m├á c├▓n l├á c├íc ─æß║íi diß╗çn quan trß╗ìng cho khß║ú n─âng sinh lß╗▒c n├óng cß╗ºa bi├¬n dß║íng. ─É├óy l├á l├╜ do c├íc ─æß║╖c tr╞░ng li├¬n quan ─æß║┐n camber th╞░ß╗¥ng ─æ╞░ß╗úc sß╗¡ dß╗Ñng trong c├íc m├┤ h├¼nh dß╗▒ ─æo├ín hß╗ç sß╗æ lß╗▒c n├óng (C_L).
+||Heading 3||2.2.3. Ph├ón bß╗æ ─æß╗Ö d├áy v├á ─æß╗Ö cong h├¼nh hß╗ìc cß╗Ñc bß╗Ö
+||Body Text||Ph├ón bß╗æ ─æß╗Ö d├áy cß╗ºa bi├¬n dß║íng ─æ╞░ß╗úc x├íc ─æß╗ïnh bß║▒ng khoß║úng c├ích giß╗»a mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i tß║íi c├╣ng vß╗ï tr├¡ theo d├óy cung:
+||Body Text||trong ─æ├│ biß╗âu diß╗àn ─æß╗Ö d├áy cß╗Ñc bß╗Ö tß║íi vß╗ï tr├¡ x.
+||Body Text||─Éß╗Ö d├áy l├á mß╗Öt trong nhß╗»ng yß║┐u tß╗æ h├¼nh hß╗ìc c├│ ß║únh h╞░ß╗ƒng mß║ính ─æß║┐n ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc. Bi├¬n dß║íng d├áy th╞░ß╗¥ng c├│ khß║ú n─âng duy tr├¼ lß╗▒c n├óng ß╗ƒ g├│c tß║Ñn lß╗¢n tß╗æt h╞ín do khß║ú n─âng tr├¼ ho├ún t├ích d├▓ng, nh╞░ng ─æß╗ông thß╗¥i c├│ thß╗â l├ám gia t─âng lß╗▒c cß║ún ├íp suß║Ñt. Ng╞░ß╗úc lß║íi, bi├¬n dß║íng mß╗Ång c├│ thß╗â giß║úm lß╗▒c cß║ún trong mß╗Öt sß╗æ ─æiß╗üu kiß╗çn d├▓ng chß║úy nh╞░ng th╞░ß╗¥ng nhß║íy h╞ín vß╗¢i hiß╗çn t╞░ß╗úng t├ích d├▓ng hoß║╖c suy giß║úm lß╗▒c n├óng tß║íi g├│c tß║Ñn cao.
+||Body Text||Ngo├ái ─æß╗Ö d├áy, ─æß╗Ö cong h├¼nh hß╗ìc cß╗Ñc bß╗Ö cß╗ºa bß╗ü mß║╖t c┼⌐ng l├á mß╗Öt ─æß║íi l╞░ß╗úng quan trß╗ìng. ─Éß╗æi vß╗¢i mß╗Öt ─æ╞░ß╗¥ng cong ─æ╞░ß╗úc biß╗âu diß╗àn bß╗ƒi h├ám , ─æß╗Ö cong h├¼nh hß╗ìc cß╗Ñc bß╗Ö c├│ thß╗â ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||trong ─æ├│  v├á lß║ºn l╞░ß╗út l├á ─æß║ío h├ám bß║¡c nhß║Ñt v├á bß║¡c hai cß╗ºa ─æ╞░ß╗¥ng h├¼nh hß╗ìc theo (x).
+||Body Text||─Éß╗Ö cong h├¼nh hß╗ìc cß╗Ñc bß╗Ö phß║ún ├ính mß╗⌐c ─æß╗Ö thay ─æß╗òi h╞░ß╗¢ng cß╗ºa bß╗ü mß║╖t airfoil. Nhß╗»ng v├╣ng c├│ ─æß╗Ö cong lß╗¢n, ─æß║╖c biß╗çt ß╗ƒ m├⌐p tr╞░ß╗¢c hoß║╖c phß║ºn sau cß╗ºa bi├¬n dß║íng, c├│ thß╗â ß║únh h╞░ß╗ƒng mß║ính ─æß║┐n gradient ├íp suß║Ñt v├á sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n. Nß║┐u ph├ón bß╗æ ─æß╗Ö cong thay ─æß╗òi ─æß╗Öt ngß╗Öt, d├▓ng chß║úy dß╗à xuß║Ñt hiß╗çn gradient ├íp suß║Ñt bß║Ñt lß╗úi, l├ám t─âng nguy c╞í t├ích d├▓ng. V├¼ vß║¡y, c├íc ─æß║╖c tr╞░ng li├¬n quan ─æß║┐n ─æß╗Ö cong, n─âng l╞░ß╗úng ─æß╗Ö cong hoß║╖c ph╞░╞íng sai ─æß╗Ö cong th╞░ß╗¥ng c├│ gi├í trß╗ï trong viß╗çc m├┤ tß║ú chß║Ñt l╞░ß╗úng h├¼nh hß╗ìc v├á khß║ú n─âng ß╗òn ─æß╗ïnh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng.
+||Body Text||Tß╗½ g├│c ─æß╗Ö hß╗ìc m├íy, c├íc ─æß║íi l╞░ß╗úng v├á  tß║ío th├ánh c╞í sß╗ƒ ─æß╗â x├óy dß╗▒ng c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc nh╞░ ─æß╗Ö d├áy cß╗▒c ─æß║íi, vß╗ï tr├¡ ─æß╗Ö d├áy cß╗▒c ─æß║íi, camber cß╗▒c ─æß║íi, vß╗ï tr├¡ camber cß╗▒c ─æß║íi, b├ín k├¡nh m├⌐p tr╞░ß╗¢c v├á ─æß╗Ö cong h├¼nh hß╗ìc v├╣ng m├⌐p sau. C├íc ─æß║╖c tr╞░ng n├áy c├│ ├╜ ngh─⌐a vß║¡t l├╜ r├╡ r├áng h╞ín nhiß╗üu so vß╗¢i tß╗½ng tß╗ìa ─æß╗Ö ri├¬ng lß║╗, do ─æ├│ ph├╣ hß╗úp h╞ín ─æß╗â l├ám ─æß║ºu v├áo cho c├íc m├┤ h├¼nh dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc [9].
+||Heading 3||2.2.4. Biß╗âu diß╗àn h├¼nh hß╗ìc trong kh├┤ng gian nhiß╗üu chiß╗üu
+||Body Text||Khi mß╗Öt bi├¬n dß║íng c├ính ─æ╞░ß╗úc m├┤ tß║ú bß╗ƒi N ─æiß╗âm tß╗ìa ─æß╗Ö, to├án bß╗Ö h├¼nh dß║íng cß╗ºa n├│ c├│ thß╗â ─æ╞░ß╗úc xem nh╞░ mß╗Öt vector trong kh├┤ng gian nhiß╗üu chiß╗üu:
+||Body Text||Nß║┐u mß╗ùi bi├¬n dß║íng ─æ╞░ß╗úc lß║Ñy mß║½u bß╗ƒi 240 ─æiß╗âm tß╗ìa ─æß╗Ö, th├¼ h├¼nh hß╗ìc cß╗ºa airfoil c├│ thß╗â ─æ╞░ß╗úc biß╗âu diß╗àn bß╗ƒi mß╗Öt vector thuß╗Öc kh├┤ng gian:
+||Body Text||Biß╗âu diß╗àn n├áy cho ph├⌐p nh├¼n nhß║¡n mß╗ùi bi├¬n dß║íng c├ính nh╞░ mß╗Öt ─æiß╗âm trong kh├┤ng gian h├¼nh hß╗ìc c├│ sß╗æ chiß╗üu cao. Tuy nhi├¬n, kh├┤ng phß║úi mß╗ìi vector trong ─æß╗üu t╞░╞íng ß╗⌐ng vß╗¢i mß╗Öt bi├¬n dß║íng c├ính hß╗úp lß╗ç. Mß╗Öt tß║¡p tß╗ìa ─æß╗Ö bß║Ñt kß╗│ c├│ thß╗â tß║ío ra h├¼nh dß║íng tß╗▒ cß║»t, ─æß╗Ö d├áy ├óm, bß╗ü mß║╖t kh├┤ng li├¬n tß╗Ñc, m├⌐p tr╞░ß╗¢c kh├┤ng m╞░ß╗út hoß║╖c m├⌐p sau kh├┤ng c├│ ├╜ ngh─⌐a vß║¡t l├╜.
+||Body Text||─Éiß╗üu n├áy cho thß║Ñy kh├┤ng gian h├¼nh hß╗ìc cß╗ºa c├íc bi├¬n dß║íng c├ính thß╗▒c tß║┐ kh├┤ng phß║úi l├á to├án bß╗Ö , m├á chß╗ë l├á mß╗Öt tß║¡p con c├│ cß║Ñu tr├║c trong kh├┤ng gian nhiß╗üu chiß╗üu. C├íc bi├¬n dß║íng khß║ú thi vß╗ü mß║╖t h├¼nh hß╗ìc v├á kh├¡ ─æß╗Öng hß╗ìc th╞░ß╗¥ng phß║úi thß╗Åa m├ún c├íc r├áng buß╗Öc nh╞░ t├¡nh li├¬n tß╗Ñc, ─æß╗Ö m╞░ß╗út bß╗ü mß║╖t, ─æß╗Ö d├áy d╞░╞íng, m├⌐p tr╞░ß╗¢c hß╗úp l├╜ v├á m├⌐p sau hß╗»u hß║ín.
+||Body Text||Ch├¡nh nhß║¡n x├⌐t n├áy l├á c╞í sß╗ƒ ─æß╗â dß║½n tß╗¢i kh├íi niß╗çm Geometry Manifold. Thay v├¼ xem dß╗» liß╗çu h├¼nh hß╗ìc l├á c├íc vector tß╗ìa ─æß╗Ö ph├ón bß╗æ tß╗▒ do trong kh├┤ng gian nhiß╗üu chiß╗üu, c├│ thß╗â xem c├íc bi├¬n dß║íng c├ính hß╗úp lß╗ç nh╞░ nhß╗»ng ─æiß╗âm nß║▒m tr├¬n mß╗Öt ─æa tß║íp h├¼nh hß╗ìc c├│ cß║Ñu tr├║c. C├ích nh├¼n n├áy gi├║p giß║úi th├¡ch tß║íi sao viß╗çc tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng h├¼nh hß╗ìc v├á kiß╗âm so├ít t├¡nh hß╗úp lß╗ç h├¼nh hß╗ìc l├á cß║ºn thiß║┐t trong c├íc m├┤ h├¼nh hß╗ìc m├íy dß╗▒ ─æo├ín v├á tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc.
+||Heading 2||2.3. Geometry mainfold cß╗ºa bi├¬n dß║íng c├ính
+||Body Text||Trong Mß╗Ñc 2.2, bi├¬n dß║íng c├ính ─æ├ú ─æ╞░ß╗úc biß╗âu diß╗àn d╞░ß╗¢i dß║íng tß║¡p hß╗úp c├íc ─æiß╗âm tß╗ìa ─æß╗Ö hai chiß╗üu. Vß╗¢i N ─æiß╗âm lß║Ñy mß║½u, to├án bß╗Ö h├¼nh dß║íng cß╗ºa mß╗Öt airfoil c├│ thß╗â ─æ╞░ß╗úc xem nh╞░ mß╗Öt vector trong kh├┤ng gian nhiß╗üu chiß╗üu:
+||Body Text||v├¡ dß╗Ñ, nß║┐u mß╗ùi bi├¬n dß║íng ─æ╞░ß╗úc m├┤ tß║ú bß║▒ng 240 ─æiß╗âm tß╗ìa ─æß╗Ö, h├¼nh hß╗ìc cß╗ºa airfoil sß║╜ t╞░╞íng ß╗⌐ng vß╗¢i mß╗Öt ─æiß╗âm trong kh├┤ng gian:
+||Body Text||Vß╗ü mß║╖t to├ín hß╗ìc, c├ích biß╗âu diß╗àn n├áy cho ph├⌐p m├┤ tß║ú ch├¡nh x├íc h├¼nh dß║íng cß╗ºa bi├¬n dß║íng c├ính. Tuy nhi├¬n, nß║┐u chß╗ë xem airfoil nh╞░ mß╗Öt vector tß╗▒ do trong kh├┤ng gian, ta ─æ├ú bß╗Å qua mß╗Öt ─æß║╖c ─æiß╗âm quan trß╗ìng: kh├┤ng phß║úi mß╗ìi ─æiß╗âm trong kh├┤ng gian n├áy ─æß╗üu t╞░╞íng ß╗⌐ng vß╗¢i mß╗Öt bi├¬n dß║íng c├ính c├│ ├╜ ngh─⌐a vß║¡t l├╜.
+||Body Text||Mß╗Öt vector tß╗ìa ─æß╗Ö ─æ╞░ß╗úc sinh ngß║½u nhi├¬n c├│ thß╗â tß║ío ra c├íc h├¼nh dß║íng kh├┤ng hß╗úp lß╗ç nh╞░ ─æß╗Ö d├áy ├óm, bß╗ü mß║╖t tß╗▒ giao nhau, m├⌐p tr╞░ß╗¢c kh├┤ng li├¬n tß╗Ñc hoß║╖c m├⌐p sau kh├┤ng c├│ ├╜ ngh─⌐a kh├¡ ─æß╗Öng hß╗ìc. Nhß╗»ng h├¼nh dß║íng nh╞░ vß║¡y kh├┤ng thß╗â sß╗¡ dß╗Ñng trong m├┤ phß╗Ång CFD, c┼⌐ng kh├┤ng thß╗â xuß║Ñt hiß╗çn trong thß╗▒c tß║┐. ─Éiß╗üu n├áy cho thß║Ñy tß║¡p hß╗úp c├íc airfoil hß╗úp lß╗ç chß╗ë chiß║┐m mß╗Öt phß║ºn rß║Ñt nhß╗Å cß╗ºa to├án bß╗Ö kh├┤ng gian h├¼nh hß╗ìc nhiß╗üu chiß╗üu.
+||Body Text||Tß╗½ g├│c ─æß╗Ö h├¼nh hß╗ìc vi ph├ón, tß║¡p hß╗úp c├íc bi├¬n dß║íng c├ính hß╗úp lß╗ç c├│ thß╗â ─æ╞░ß╗úc xem nh╞░ mß╗Öt ─æa tß║íp nß║▒m trong kh├┤ng gian biß╗âu diß╗àn:
+||Body Text||trong ─æ├│  ─æ╞░ß╗úc gß╗ìi l├á Geometry Manifold.
+||Body Text||Kh├íi niß╗çm n├áy cho ph├⌐p m├┤ tß║ú dß╗» liß╗çu h├¼nh hß╗ìc kh├┤ng phß║úi nh╞░ c├íc ─æiß╗âm ph├ón bß╗æ ngß║½u nhi├¬n trong kh├┤ng gian tß╗ìa ─æß╗Ö, m├á nh╞░ c├íc ─æiß╗âm nß║▒m tr├¬n mß╗Öt cß║Ñu tr├║c h├¼nh hß╗ìc c├│ tß╗ò chß╗⌐c ─æ╞░ß╗úc h├¼nh th├ánh bß╗ƒi c├íc r├áng buß╗Öc vß║¡t l├╜, kh├¡ ─æß╗Öng hß╗ìc v├á c├┤ng nghß╗ç chß║┐ tß║ío [9]ΓÇô[11].
+||Heading 3||2.3.1. Giß║ú thuyß║┐t manifold thß║Ñp chiß╗üu cß╗ºa dß╗» liß╗çu airfoil
+||Body Text||Mß║╖c d├╣ mß╗Öt airfoil c├│ thß╗â ─æ╞░ß╗úc biß╗âu diß╗àn bß║▒ng h├áng tr─âm tß╗ìa ─æß╗Ö, sß╗æ bß║¡c tß╗▒ do thß╗▒c sß╗▒ quyß║┐t ─æß╗ïnh h├¼nh dß║íng kh├¡ ─æß╗Öng hß╗ìc cß╗ºa n├│ th╞░ß╗¥ng nhß╗Å h╞ín rß║Ñt nhiß╗üu.
+||Body Text||X├⌐t mß╗Öt bi├¬n dß║íng ─æ╞░ß╗úc biß╗âu diß╗àn bß║▒ng 240 ─æiß╗âm tß╗ìa ─æß╗Ö. Vß╗ü h├¼nh thß╗⌐c, h├¼nh hß╗ìc cß╗ºa bi├¬n dß║íng c├│:
+||Body Text||bß║¡c tß╗▒ do h├¼nh hß╗ìc.
+||Body Text||Tuy nhi├¬n, trong thß╗▒c tß║┐, c├íc tß╗ìa ─æß╗Ö n├áy kh├┤ng ─æß╗Öc lß║¡p vß╗¢i nhau. Khi thay ─æß╗òi mß╗Öt ─æß║╖c tr╞░ng h├¼nh hß╗ìc quan trß╗ìng nh╞░:
+||Body Text||─æß╗Ö d├áy cß╗▒c ─æß║íi;
+||Body Text||vß╗ï tr├¡ ─æß╗Ö d├áy cß╗▒c ─æß║íi;
+||Body Text||camber cß╗▒c ─æß║íi;
+||Body Text||vß╗ï tr├¡ camber cß╗▒c ─æß║íi;
+||Body Text||b├ín k├¡nh m├⌐p tr╞░ß╗¢c;
+||Body Text||h├áng chß╗Ñc hoß║╖c h├áng tr─âm ─æiß╗âm tß╗ìa ─æß╗Ö sß║╜ thay ─æß╗òi ─æß╗ông thß╗¥i theo mß╗Öt quy luß║¡t li├¬n tß╗Ñc.
+||Body Text||─Éiß╗üu n├áy cho thß║Ñy sß╗æ bß║¡c tß╗▒ do hiß╗çu dß╗Ñng cß╗ºa bi├¬n dß║íng thß╗Åa m├ún:
+||Body Text||N├│i c├ích kh├íc, mß║╖c d├╣ dß╗» liß╗çu ─æ╞░ß╗úc nh├║ng trong kh├┤ng gian c├íc h├¼nh dß║íng airfoil thß╗▒c tß║┐ chß╗ë ph├ón bß╗æ tr├¬n mß╗Öt kh├┤ng gian con c├│ sß╗æ chiß╗üu thß║Ñp h╞ín ─æ├íng kß╗â.
+||Body Text||Giß║ú thuyß║┐t n├áy ─æ╞░ß╗úc gß╗ìi l├á giß║ú thuyß║┐t manifold thß║Ñp chiß╗üu (Low-Dimensional Manifold Hypothesis) v├á hiß╗çn ─æ╞░ß╗úc sß╗¡ dß╗Ñng rß╗Öng r├úi trong c├íc nghi├¬n cß╗⌐u geometric learning, shape optimization v├á reduced-order modeling [10]ΓÇô[13].
+||Heading 3||2.3.2. C╞í sß╗ƒ vß║¡t l├╜ cß╗ºa Geometry Manifold
+||Body Text||Sß╗▒ tß╗ôn tß║íi cß╗ºa Geometry Manifold xuß║Ñt ph├ít tß╗½ c├íc r├áng buß╗Öc vß║¡t l├╜ m├á mß╗ìi bi├¬n dß║íng c├ính phß║úi thß╗Åa m├ún.
+||Body Text||Tr╞░ß╗¢c hß║┐t, ph├ón bß╗æ ─æß╗Ö d├áy cß╗ºa bi├¬n dß║íng phß║úi d╞░╞íng:
+||Body Text||Nß║┐u ─æiß╗üu kiß╗çn n├áy bß╗ï vi phß║ím, mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i sß║╜ giao nhau, tß║ío th├ánh h├¼nh hß╗ìc ch├⌐o nhau v├á kh├┤ng hß╗úp lß╗ç.
+||Body Text||Thß╗⌐ hai, bi├¬n dß║íng cß║ºn c├│ t├¡nh li├¬n tß╗Ñc v├á ─æß╗Ö m╞░ß╗út h├¼nh hß╗ìc. Trong c├íc b├ái to├ín kh├¡ ─æß╗Öng hß╗ìc, bß╗ü mß║╖t th╞░ß╗¥ng phß║úi thß╗Åa m├ún ├¡t nhß║Ñt ─æiß╗üu kiß╗çn li├¬n tß╗Ñc ─æß║ío h├ám bß║¡c nhß║Ñt:
+||Body Text||hoß║╖c cao h╞ín:
+||Body Text||─æß╗â tr├ính xuß║Ñt hiß╗çn c├íc ─æiß╗âm g├úy h├¼nh hß╗ìc g├óy ß║únh h╞░ß╗ƒng bß║Ñt lß╗úi ─æß║┐n sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n [8], [9].
+||Body Text||Ngo├ái ra, m├⌐p tr╞░ß╗¢c cß║ºn c├│ b├ín k├¡nh hß╗»u hß║ín:
+||Body Text||trong khi m├⌐p sau phß║úi ─æß║úm bß║úo h├¼nh dß║íng ph├╣ hß╗úp vß╗¢i ─æiß╗üu kiß╗çn Kutta nhß║▒m duy tr├¼ qu├í tr├¼nh t├ích d├▓ng ß╗òn ─æß╗ïnh [7].
+||Body Text||Nhß╗»ng r├áng buß╗Öc n├áy l├ám cho kh├┤ng gian airfoil thß╗▒c tß║┐ bß╗ï giß╗¢i hß║ín trong mß╗Öt v├╣ng rß║Ñt nhß╗Å cß╗ºa kh├┤ng gian h├¼nh hß╗ìc nhiß╗üu chiß╗üu. C├│ thß╗â h├¼nh dung rß║▒ng nß║┐u sinh ngß║½u nhi├¬n mß╗Öt vector trong , x├íc suß║Ñt thu ─æ╞░ß╗úc mß╗Öt bi├¬n dß║íng c├ính hß╗úp lß╗ç gß║ºn nh╞░ bß║▒ng kh├┤ng:
+||Body Text||Do ─æ├│, dß╗» liß╗çu airfoil thß╗▒c tß║┐ kh├┤ng ph├ón bß╗æ ngß║½u nhi├¬n m├á tß║¡p trung tr├¬n mß╗Öt cß║Ñu tr├║c h├¼nh hß╗ìc c├│ tß╗ò chß╗⌐c ─æ╞░ß╗úc h├¼nh th├ánh bß╗ƒi c├íc quy luß║¡t vß║¡t l├╜ v├á h├¼nh hß╗ìc.
+||Heading 3||2.3.3. Geometry Manifold v├á hß╗ìc m├íy kh├¡ ─æß╗Öng hß╗ìc
+||Body Text||Tß╗½ g├│c ─æß╗Ö hß╗ìc m├íy, viß╗çc sß╗¡ dß╗Ñng trß╗▒c tiß║┐p to├án bß╗Ö tß║¡p tß╗ìa ─æß╗Ö h├¼nh hß╗ìc l├ám ─æß║ºu v├áo th╞░ß╗¥ng dß║½n ─æß║┐n hai vß║Ñn ─æß╗ü.
+||Body Text||Thß╗⌐ nhß║Ñt, kh├┤ng gian dß╗» liß╗çu c├│ sß╗æ chiß╗üu rß║Ñt cao, l├ám t─âng ─æß╗Ö phß╗⌐c tß║íp cß╗ºa m├┤ h├¼nh v├á nguy c╞í qu├í khß╗¢p.
+||Body Text||Thß╗⌐ hai, c├íc tß╗ìa ─æß╗Ö ri├¬ng lß║╗ kh├│ mang ├╜ ngh─⌐a vß║¡t l├╜ r├╡ r├áng. M├┤ h├¼nh c├│ thß╗â hß╗ìc c├íc biß║┐n thi├¬n h├¼nh hß╗ìc kh├┤ng li├¬n quan ─æß║┐n c╞í chß║┐ kh├¡ ─æß╗Öng hß╗ìc thß╗▒c sß╗▒.
+||Body Text||Ng╞░ß╗úc lß║íi, nß║┐u chß║Ñp nhß║¡n giß║ú thuyß║┐t manifold thß║Ñp chiß╗üu, c├│ thß╗â x├óy dß╗▒ng mß╗Öt ├ính xß║í:
+||Body Text||vß╗¢i:
+trong ─æ├│ l├á ph├⌐p chuyß╗ân ─æß╗òi tß╗½ kh├┤ng gian tß╗ìa ─æß╗Ö sang kh├┤ng gian ─æß║╖c tr╞░ng h├¼nh hß╗ìc.
+||Body Text||C├íc ─æß║╖c tr╞░ng nh╞░:
+||Body Text||─æß╗Ö d├áy cß╗▒c ─æß║íi;
+||Body Text||vß╗ï tr├¡ ─æß╗Ö d├áy cß╗▒c ─æß║íi;
+||Body Text||camber cß╗▒c ─æß║íi;
+||Body Text||vß╗ï tr├¡ camber cß╗▒c ─æß║íi;
+||Body Text||b├ín k├¡nh m├⌐p tr╞░ß╗¢c;
+||Body Text||g├│c m├⌐p sau;
+||Body Text||─æß╗Ö d├áy v├╣ng ─æu├┤i;
+||Body Text||n─âng l╞░ß╗úng ─æß╗Ö cong;
+||Body Text||c├│ thß╗â ─æ╞░ß╗úc xem nh╞░ c├íc tß╗ìa ─æß╗Ö mß╗¢i m├┤ tß║ú vß╗ï tr├¡ cß╗ºa airfoil tr├¬n manifold h├¼nh hß╗ìc.
+||Body Text||Nhß╗¥ ─æ├│, m├┤ h├¼nh hß╗ìc m├íy kh├┤ng cß║ºn hß╗ìc trß╗▒c tiß║┐p tß╗½ h├áng tr─âm tß╗ìa ─æß╗Ö, m├á tß║¡p trung v├áo c├íc yß║┐u tß╗æ thß╗▒c sß╗▒ quyß║┐t ─æß╗ïnh ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng [10], [11].
+||Heading 3||2.3.4. Geometry Manifold trong CKi_ML
+||Body Text||├¥ t╞░ß╗ƒng Geometry Manifold ─æ├│ng vai tr├▓ trung t├óm trong to├án bß╗Ö kiß║┐n tr├║c cß╗ºa b├ái nghi├¬n cß╗⌐u n├áy.
+||Body Text||Thay v├¼ sß╗¡ dß╗Ñng trß╗▒c tiß║┐p vector tß╗ìa ─æß╗Ö:
+||Body Text||hß╗ç thß╗æng chuyß╗ân ─æß╗òi h├¼nh hß╗ìc sang mß╗Öt tß║¡p descriptor c├│ ├╜ ngh─⌐a vß║¡t l├╜:
+ Qu├í tr├¼nh n├áy thß╗▒c hiß╗çn ─æß╗ông thß╗¥i hai nhiß╗çm vß╗Ñ.
+||Body Text||Thß╗⌐ nhß║Ñt, giß║úm sß╗æ chiß╗üu dß╗» liß╗çu ─æß║ºu v├áo, gi├║p m├┤ h├¼nh hß╗ìc m├íy ß╗òn ─æß╗ïnh h╞ín v├á giß║úm nguy c╞í qu├í khß╗¢p.
+||Body Text||Thß╗⌐ hai, duy tr├¼ mß╗æi li├¬n hß╗ç trß╗▒c tiß║┐p giß╗»a h├¼nh hß╗ìc v├á c├íc c╞í chß║┐ kh├¡ ─æß╗Öng hß╗ìc ─æ├ú tr├¼nh b├áy trong Mß╗Ñc 2.1.
+||Body Text||B├¬n cß║ính ─æ├│, viß╗çc sß╗¡ dß╗Ñng c├íc ─æß╗ïnh danh h├¼nh hß╗ìc nh╞░ geom_hash cho ph├⌐p nh├│m c├íc mß║½u c├│ c├╣ng bi├¬n dß║íng nh╞░ng kh├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy. ─Éiß╗üu n├áy ─æß║╖c biß╗çt quan trß╗ìng trong ─æ├ính gi├í khß║ú n─âng tß╗òng qu├ít h├│a cß╗ºa m├┤ h├¼nh ─æß╗æi vß╗¢i c├íc h├¼nh hß╗ìc ch╞░a xuß║Ñt hiß╗çn trong tß║¡p huß║Ñn luyß╗çn.
+||Body Text||Nh╞░ vß║¡y, Geometry Manifold kh├┤ng chß╗ë l├á mß╗Öt kh├íi niß╗çm h├¼nh hß╗ìc trß╗½u t╞░ß╗úng m├á c├▓n l├á c╞í sß╗ƒ l├╜ thuyß║┐t giß║úi th├¡ch to├án bß╗Ö qu├í tr├¼nh chuß║⌐n h├│a h├¼nh hß╗ìc, tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng v├á x├óy dß╗▒ng m├┤ h├¼nh surrogate trong ─æß╗ü t├ái.
+||Heading 2||2.4. Tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng h├¼nh hß╗ìc
+||Heading 3||2.4.1. Vai tr├▓ cß╗ºa Feature Engineering trong dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc
+||Body Text||Nh╞░ ─æ├ú tr├¼nh b├áy trong Mß╗Ñc 2.2 v├á Mß╗Ñc 2.3, mß╗Öt bi├¬n dß║íng c├ính c├│ thß╗â ─æ╞░ß╗úc m├┤ tß║ú bß║▒ng h├áng tr─âm ─æiß╗âm tß╗ìa ─æß╗Ö nß║▒m trong kh├┤ng gian h├¼nh hß╗ìc nhiß╗üu chiß╗üu. Tuy nhi├¬n, viß╗çc sß╗¡ dß╗Ñng trß╗▒c tiß║┐p to├án bß╗Ö tß║¡p tß╗ìa ─æß╗Ö l├ám ─æß║ºu v├áo cho m├┤ h├¼nh hß╗ìc m├íy th╞░ß╗¥ng kh├┤ng phß║úi l├á lß╗▒a chß╗ìn tß╗æi ╞░u. Mß║╖c d├╣ c├íc tß╗ìa ─æß╗Ö n├áy chß╗⌐a ─æß║ºy ─æß╗º th├┤ng tin h├¼nh hß╗ìc cß╗ºa bi├¬n dß║íng, ch├║ng lß║íi kh├┤ng phß║ún ├ính trß╗▒c tiß║┐p c├íc c╞í chß║┐ vß║¡t l├╜ chi phß╗æi lß╗▒c n├óng, lß╗▒c cß║ún v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Tß╗½ g├│c ─æß╗Ö to├ín hß╗ìc, dß╗» liß╗çu tß╗ìa ─æß╗Ö tß╗ôn tß║íi trong kh├┤ng gian c├│ sß╗æ chiß╗üu rß║Ñt lß╗¢n. Nß║┐u mß╗Öt bi├¬n dß║íng ─æ╞░ß╗úc m├┤ tß║ú bß╗ƒi 240 ─æiß╗âm tß╗ìa ─æß╗Ö th├¼ kh├┤ng gian biß╗âu diß╗àn t╞░╞íng ß╗⌐ng c├│ sß╗æ chiß╗üu l├¬n tß╗¢i 480. Kh├┤ng gian dß╗» liß╗çu lß╗¢n l├ám t─âng ─æß╗Ö phß╗⌐c tß║íp cß╗ºa m├┤ h├¼nh, gia t─âng nguy c╞í qu├í khß╗¢p v├á l├ám giß║úm khß║ú n─âng tß╗òng qu├ít h├│a sang c├íc h├¼nh hß╗ìc mß╗¢i [10], [11].
+||Body Text||Mß║╖t kh├íc, tß╗½ g├│c ─æß╗Ö kh├¡ ─æß╗Öng hß╗ìc, c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc kh├┤ng phß╗Ñ thuß╗Öc trß╗▒c tiß║┐p v├áo tß╗½ng tß╗ìa ─æß╗Ö ri├¬ng lß║╗ m├á phß╗Ñ thuß╗Öc v├áo c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc tß╗òng qu├ít nh╞░ ─æß╗Ö d├áy, ─æß╗Ö cong, h├¼nh dß║íng m├⌐p tr╞░ß╗¢c, h├¼nh dß║íng m├⌐p sau hoß║╖c mß╗⌐c ─æß╗Ö thay ─æß╗òi ─æß╗Ö cong dß╗ìc theo d├óy cung. ─Éiß╗üu n├áy cho thß║Ñy c├íc th├┤ng tin kh├¡ ─æß╗Öng hß╗ìc quan trß╗ìng thß╗▒c chß║Ñt ─æ╞░ß╗úc m├ú h├│a trong c├íc thuß╗Öc t├¡nh h├¼nh hß╗ìc c├│ ├╜ ngh─⌐a vß║¡t l├╜ chß╗⌐ kh├┤ng nß║▒m ß╗ƒ tß╗½ng ─æiß╗âm tß╗ìa ─æß╗Ö ri├¬ng biß╗çt.
+||Body Text||Do ─æ├│, c├íc nghi├¬n cß╗⌐u hiß╗çn ─æß║íi th╞░ß╗¥ng thß╗▒c hiß╗çn qu├í tr├¼nh tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng h├¼nh hß╗ìc nhß║▒m chuyß╗ân ─æß╗òi h├¼nh dß║íng airfoil tß╗½ kh├┤ng gian tß╗ìa ─æß╗Ö nhiß╗üu chiß╗üu sang kh├┤ng gian ─æß║╖c tr╞░ng c├│ sß╗æ chiß╗üu thß║Ñp h╞ín nh╞░ng vß║½n bß║úo to├án c├íc th├┤ng tin kh├¡ ─æß╗Öng hß╗ìc quan trß╗ìng [9]ΓÇô[11].
+||Body Text||Trong b├ái n├áy, Feature Engineering ─æ├│ng vai tr├▓ trung t├óm trong to├án bß╗Ö pipeline x├óy dß╗▒ng m├┤ h├¼nh surrogate. Thay v├¼ sß╗¡ dß╗Ñng trß╗▒c tiß║┐p tß║¡p tß╗ìa ─æß╗Ö h├¼nh hß╗ìc, hß╗ç thß╗æng chuyß╗ân ─æß╗òi mß╗ùi airfoil th├ánh tß║¡p c├íc geometry descriptors phß║ún ├ính nhß╗»ng c╞í chß║┐ vß║¡t l├╜ ─æ├ú ─æ╞░ß╗úc tr├¼nh b├áy trong Mß╗Ñc 2.1 nh╞░ tuß║ºn ho├án kh├¡ ─æß╗Öng hß╗ìc, sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n, ─æiß╗üu kiß╗çn Kutta v├á hiß╗çn t╞░ß╗úng t├ích d├▓ng.
+||Heading 3||2.4.2. Ph├ón loß║íi c├íc nh├│m ─æß║╖c tr╞░ng
+||Body Text||a.  Nh├│m ─æß║╖c tr╞░ng ─æß╗Ö d├áy (Thickness Descriptors)
+||Body Text||─Éß╗Ö d├áy cß╗Ñc bß╗Ö cß╗ºa bi├¬n dß║íng ─æ╞░ß╗úc x├íc ─æß╗ïnh bß╗ƒi khoß║úng c├ích giß╗»a mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i tß║íi c├╣ng vß╗ï tr├¡ theo d├óy cung:
+||Body Text||Tß╗½ ph├ón bß╗æ ─æß╗Ö d├áy, c├│ thß╗â x├íc ─æß╗ïnh nhiß╗üu ─æß║╖c tr╞░ng quan trß╗ìng.
+||Body Text||─Éß╗Ö d├áy cß╗▒c ─æß║íi:
+||Body Text||Vß╗ï tr├¡ ─æß╗Ö d├áy cß╗▒c ─æß║íi:
+||Body Text||─Éß╗Ö d├áy trung b├¼nh:
+||Body Text||hoß║╖c ß╗ƒ dß║íng rß╗¥i rß║íc:
+||Body Text||Vß╗ü mß║╖t vß║¡t l├╜, ─æß╗Ö d├áy ß║únh h╞░ß╗ƒng trß╗▒c tiß║┐p tß╗¢i ph├ón bß╗æ ├íp suß║Ñt, sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n v├á khß║ú n─âng chß╗æng t├ích d├▓ng. C├íc bi├¬n dß║íng d├áy th╞░ß╗¥ng c├│ xu h╞░ß╗¢ng tr├¼ ho├ún stall tß╗æt h╞ín nh╞░ng ─æß╗ông thß╗¥i c├│ thß╗â l├ám gia t─âng lß╗▒c cß║ún ├íp suß║Ñt. Ng╞░ß╗úc lß║íi, bi├¬n dß║íng mß╗Ång c├│ thß╗â giß║úm lß╗▒c cß║ún trong v├╣ng d├▓ng chß║úy b├ím nh╞░ng dß╗à nhß║íy cß║úm vß╗¢i hiß╗çn t╞░ß╗úng t├ích d├▓ng ß╗ƒ g├│c tß║Ñn lß╗¢n [7], [8].
+||Body Text||Do ─æ├│, c├íc ─æß║╖c tr╞░ng li├¬n quan ─æß║┐n ─æß╗Ö d├áy th╞░ß╗¥ng c├│ mß╗⌐c ─æß╗Ö t╞░╞íng quan cao vß╗¢i hß╗ç sß╗æ lß╗▒c cß║ún v├á ─æß║╖c t├¡nh thß║Ñt tß╗æc cß╗ºa bi├¬n dß║íng.
+||Body Text||b. Nh├│m ─æß║╖c tr╞░ng ─æß╗Ö cong (Camber Descriptors)
+||Body Text||─É╞░ß╗¥ng cong trung b├¼nh cß╗ºa bi├¬n dß║íng ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||Tß╗½ ─æ╞░ß╗¥ng cong trung b├¼nh, c├│ thß╗â x├íc ─æß╗ïnh ─æß╗Ö cong cß╗▒c ─æß║íi:
+||Body Text||v├á vß╗ï tr├¡ ─æß╗Ö cong cß╗▒c ─æß║íi:
+||Body Text||─Éß╗Ö cong cß╗ºa airfoil c├│ mß╗æi li├¬n hß╗ç trß╗▒c tiß║┐p vß╗¢i tuß║ºn ho├án kh├¡ ─æß╗Öng hß╗ìc trong ─æß╗ïnh l├╜ KuttaΓÇôJoukowski. Airfoil c├│ camber lß╗¢n th╞░ß╗¥ng tß║ío ra lß╗▒c n├óng ngay cß║ú tß║íi g├│c tß║Ñn nhß╗Å hoß║╖c bß║▒ng kh├┤ng. ─Éß╗ông thß╗¥i, camber c┼⌐ng ß║únh h╞░ß╗ƒng tß╗¢i ─æß╗Ö dß╗æc ─æ╞░ß╗¥ng cong lß╗▒c n├óng v├á gi├í trß╗ï lß╗▒c n├óng cß╗▒c ─æß║íi cß╗ºa bi├¬n dß║íng [6], [7].
+||Body Text||V├¼ vß║¡y, c├íc descriptor nh╞░ camber_max, x_cmax hoß║╖c mean_camber th╞░ß╗¥ng l├á nhß╗»ng ─æß║╖c tr╞░ng c├│ mß╗⌐c ─æß╗Ö quan trß╗ìng cao trong c├íc m├┤ h├¼nh dß╗▒ ─æo├ín hß╗ç sß╗æ lß╗▒c n├óng.
+||Body Text||c. Nh├│m ─æß║╖c tr╞░ng m├⌐p tr╞░ß╗¢c (Leading-Edge Descriptors)
+||Body Text||M├⌐p tr╞░ß╗¢c l├á khu vß╗▒c ─æß║ºu ti├¬n tiß║┐p x├║c vß╗¢i d├▓ng kh├¡ v├á c├│ vai tr├▓ quyß║┐t ─æß╗ïnh ─æß╗æi vß╗¢i sß╗▒ h├¼nh th├ánh v├╣ng stagnation.
+||Body Text||Mß╗Öt ─æß║íi l╞░ß╗úng th╞░ß╗¥ng ─æ╞░ß╗úc sß╗¡ dß╗Ñng ─æß╗â m├┤ tß║ú h├¼nh hß╗ìc m├⌐p tr╞░ß╗¢c l├á b├ín k├¡nh m├⌐p tr╞░ß╗¢c:
+||Body Text||trong ─æ├│:
+||Body Text||Vß╗ü mß║╖t kh├¡ ─æß╗Öng hß╗ìc, b├ín k├¡nh m├⌐p tr╞░ß╗¢c ß║únh h╞░ß╗ƒng trß╗▒c tiß║┐p tß╗¢i ph├ón bß╗æ ├íp suß║Ñt v├╣ng ─æß║ºu c├ính, khß║ú n─âng b├ím d├▓ng v├á h├ánh vi stall. M├⌐p tr╞░ß╗¢c qu├í nhß╗ìn c├│ thß╗â l├ám t─âng gradient ├íp suß║Ñt bß║Ñt lß╗úi v├á dß║½n ─æß║┐n t├ích d├▓ng sß╗¢m. Ng╞░ß╗úc lß║íi, m├⌐p tr╞░ß╗¢c qu├í t├╣ c├│ thß╗â l├ám gia t─âng lß╗▒c cß║ún ß╗ƒ mß╗Öt sß╗æ chß║┐ ─æß╗Ö d├▓ng chß║úy [7], [8].
+||Body Text||Trong thß╗▒c tß║┐, c├íc m├┤ h├¼nh dß╗» liß╗çu th╞░ß╗¥ng sß╗¡ dß╗Ñng c├íc ─æß║íi l╞░ß╗úng thay thß║┐ nh╞░ le_radius_proxy hoß║╖c leading_edge_thickness ─æß╗â phß║ún ├ính ─æß║╖c t├¡nh h├¼nh hß╗ìc cß╗ºa v├╣ng m├⌐p tr╞░ß╗¢c.
+||Body Text||d. Nh├│m ─æß║╖c tr╞░ng m├⌐p sau
+||Body Text||M├⌐p sau c├│ mß╗æi li├¬n hß╗ç trß╗▒c tiß║┐p vß╗¢i ─æiß╗üu kiß╗çn Kutta v├á sß╗▒ h├¼nh th├ánh wake ph├¡a sau c├ính.
+||Body Text||─Éß╗Ö d├áy m├⌐p sau:
+||Body Text||G├│c m├⌐p sau:
+||Body Text||Ngo├ái ra, c├íc descriptor nh╞░ trailing_edge_angle, aft_thickness v├á aft_camber c┼⌐ng ─æ╞░ß╗úc sß╗¡ dß╗Ñng ─æß╗â m├┤ tß║ú cß║Ñu tr├║c v├╣ng ─æu├┤i c├ính.
+||Body Text||Vß╗ü mß║╖t vß║¡t l├╜, c├íc ─æß║╖c tr╞░ng m├⌐p sau ß║únh h╞░ß╗ƒng trß╗▒c tiß║┐p tß╗¢i sß╗▒ ph├ít triß╗ân cß╗ºa wake, lß╗▒c cß║ún ├íp suß║Ñt v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc. C├íc thay ─æß╗òi nhß╗Å tß║íi v├╣ng ─æu├┤i c├ính ─æ├┤i khi c├│ thß╗â g├óy ra sß╗▒ thay ─æß╗òi ─æ├íng kß╗â ─æß╗æi vß╗¢i hß╗ç sß╗æ lß╗▒c cß║ún, ─æß║╖c biß╗çt trong v├╣ng Reynolds thß║Ñp [7], [9].
+||Body Text||e. Nh├│m ─æß║╖c tr╞░ng ─æß╗Ö cong cß╗Ñc bß╗Ö
+||Body Text||─Éß╗Ö cong h├¼nh hß╗ìc cß╗ºa bi├¬n dß║íng ─æ╞░ß╗úc x├íc ─æß╗ïnh bß╗ƒi:
+||Body Text||Tß╗½ ph├ón bß╗æ ─æß╗Ö cong c├│ thß╗â x├óy dß╗▒ng c├íc descriptor nh╞░:
+||Body Text||v├á n─âng l╞░ß╗úng ─æß╗Ö cong:
+||Body Text||C├íc ─æß║╖c tr╞░ng nh╞░ curvature_energy_aft, curvature_variance hoß║╖c local_curvature_variance phß║ún ├ính mß╗⌐c ─æß╗Ö m╞░ß╗út cß╗ºa bi├¬n dß║íng. Nhß╗»ng v├╣ng c├│ ─æß╗Ö cong thay ─æß╗òi ─æß╗Öt ngß╗Öt th╞░ß╗¥ng tß║ío ra gradient ├íp suß║Ñt lß╗¢n v├á l├ám t─âng nguy c╞í t├ích d├▓ng. V├¼ vß║¡y, c├íc descriptor ─æß╗Ö cong kh├┤ng chß╗ë phß║ún ├ính chß║Ñt l╞░ß╗úng h├¼nh hß╗ìc m├á c├▓n gi├ín tiß║┐p phß║ún ├ính chß║Ñt l╞░ß╗úng kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng [9], [10].
+||Heading 3||2.4.3. ├¥ ngh─⌐a vß║¡t l├╜ v├á khß║ú n─âng tß╗òng qu├ít h├│a cß╗ºa c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc
+||Body Text||C├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc ─æ╞░ß╗úc tr├¼nh b├áy ß╗ƒ tr├¬n kh├┤ng chß╗ë l├á c├íc biß║┐n ─æß║ºu v├áo phß╗Ñc vß╗Ñ hß╗ìc m├íy m├á c├▓n l├á c├íc ─æß║íi diß╗çn vß║¡t l├╜ cho nhß╗»ng c╞í chß║┐ kh├¡ ─æß╗Öng hß╗ìc c╞í bß║ún.
+||Body Text||─Éß╗Ö cong cß╗▒c ─æß║íi li├¬n hß╗ç vß╗¢i tuß║ºn ho├án kh├¡ ─æß╗Öng hß╗ìc v├á khß║ú n─âng sinh lß╗▒c n├óng. ─Éß╗Ö d├áy cß╗▒c ─æß║íi ß║únh h╞░ß╗ƒng ─æß║┐n lß╗¢p bi├¬n v├á khß║ú n─âng chß╗æng thß║Ñt tß╗æc. B├ín k├¡nh m├⌐p tr╞░ß╗¢c quyß║┐t ─æß╗ïnh cß║Ñu tr├║c d├▓ng chß║úy tß║íi v├╣ng stagnation, trong khi c├íc ─æß║╖c tr╞░ng m├⌐p sau ß║únh h╞░ß╗ƒng ─æß║┐n ─æiß╗üu kiß╗çn Kutta v├á sß╗▒ ph├ít triß╗ân cß╗ºa wake ph├¡a sau c├ính.
+||Body Text||Quan trß╗ìng h╞ín, c├íc descriptor n├áy gi├║p chuyß╗ân ─æß╗òi h├¼nh hß╗ìc tß╗½ kh├┤ng gian tß╗ìa ─æß╗Ö nhiß╗üu chiß╗üu sang mß╗Öt kh├┤ng gian ─æß║╖c tr╞░ng c├│ sß╗æ chiß╗üu thß║Ñp h╞ín nh╞░ng mang ├╜ ngh─⌐a vß║¡t l├╜ r├╡ r├áng. Nhß╗¥ ─æ├│, m├┤ h├¼nh hß╗ìc m├íy c├│ thß╗â hß╗ìc c├íc quy luß║¡t kh├¡ ─æß╗Öng hß╗ìc tß╗òng qu├ít thay v├¼ ghi nhß╗¢ tß╗½ng h├¼nh dß║íng ri├¬ng lß║╗. ─Éiß╗üu n├áy g├│p phß║ºn cß║úi thiß╗çn khß║ú n─âng tß╗òng qu├ít h├│a cß╗ºa m├┤ h├¼nh ─æß╗æi vß╗¢i c├íc bi├¬n dß║íng ch╞░a xuß║Ñt hiß╗çn trong tß║¡p huß║Ñn luyß╗çn v├á l├á c╞í sß╗ƒ trß╗▒c tiß║┐p cho viß╗çc x├óy dß╗▒ng c├íc m├┤ h├¼nh surrogate.
+||Heading 2||2.5. M├┤ h├¼nh hß╗ìc m├íy thay thß║┐ CFD
+||Heading 3||2.5.1. ─Éß╗Öng c╞í sß╗¡ dß╗Ñng m├┤ h├¼nh hß╗ìc m├íy trong kh├¡ ─æß╗Öng hß╗ìc
+||Body Text||Trong c├íc b├ái to├ín thiß║┐t kß║┐ v├á ph├ón t├¡ch kh├¡ ─æß╗Öng hß╗ìc truyß╗ün thß╗æng, c├íc hß╗ç sß╗æ lß╗▒c n├óng, lß╗▒c cß║ún v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc th╞░ß╗¥ng ─æ╞░ß╗úc x├íc ─æß╗ïnh th├┤ng qua thß╗▒c nghiß╗çm hß║ºm gi├│ hoß║╖c m├┤ phß╗Ång ─æß╗Öng lß╗▒c hß╗ìc chß║Ñt l╞░u t├¡nh to├ín Computational Fluid Dynamics ΓÇô CFD. C├íc ph╞░╞íng ph├íp n├áy cho ph├⌐p m├┤ tß║ú chi tiß║┐t tr╞░ß╗¥ng vß║¡n tß╗æc, ├íp suß║Ñt v├á sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n quanh bi├¬n dß║íng c├ính, tß╗½ ─æ├│ cung cß║Ñp kß║┐t quß║ú c├│ ─æß╗Ö ch├¡nh x├íc cao. Tuy nhi├¬n, chi ph├¡ t├¡nh to├ín cß╗ºa CFD th╞░ß╗¥ng rß║Ñt lß╗¢n, ─æß║╖c biß╗çt khi cß║ºn khß║úo s├ít mß╗Öt sß╗æ l╞░ß╗úng lß╗¢n cß║Ñu h├¼nh h├¼nh hß╗ìc hoß║╖c thß╗▒c hiß╗çn tß╗æi ╞░u h├│a lß║╖p nhiß╗üu lß║ºn [2], [5].
+||Body Text||─Éß╗æi vß╗¢i b├ái to├ín tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính, mß╗ùi ß╗⌐ng vi├¬n h├¼nh hß╗ìc th╞░ß╗¥ng phß║úi ─æ╞░ß╗úc ─æ├ính gi├í tß║íi nhiß╗üu ─æiß╗üu kiß╗çn vß║¡n h├ánh kh├íc nhau, bao gß╗ôm c├íc gi├í trß╗ï g├│c tß║Ñn v├á sß╗æ Reynolds kh├íc nhau. Nß║┐u to├án bß╗Ö qu├í tr├¼nh ─æ├ính gi├í ─æß╗üu ─æ╞░ß╗úc thß╗▒c hiß╗çn bß║▒ng CFD, tß╗òng thß╗¥i gian t├¡nh to├ín c├│ thß╗â t─âng l├¬n tß╗¢i h├áng chß╗Ñc hoß║╖c h├áng tr─âm giß╗¥ ─æß╗æi vß╗¢i mß╗Öt v├▓ng tß╗æi ╞░u. ─Éiß╗üu n├áy l├ám hß║ín chß║┐ khß║ú n─âng khß║úo s├ít kh├┤ng gian thiß║┐t kß║┐ rß╗Öng v├á g├óy kh├│ kh─ân trong viß╗çc ├íp dß╗Ñng c├íc thuß║¡t to├ín tß╗æi ╞░u h├│a hiß╗çn ─æß║íi.
+||Body Text||Tß╗½ g├│c ─æß╗Ö to├ín hß╗ìc, qu├í tr├¼nh ph├ón t├¡ch kh├¡ ─æß╗Öng hß╗ìc c├│ thß╗â ─æ╞░ß╗úc xem nh╞░ mß╗Öt ├ính xß║í phi tuyß║┐n:
+||Body Text||trong ─æ├│ G biß╗âu diß╗àn h├¼nh hß╗ìc bi├¬n dß║íng c├ính, Re l├á sß╗æ Reynolds v├á l├á g├│c tß║Ñn.
+||Body Text||Mß╗Ñc ti├¬u cß╗ºa m├┤ h├¼nh hß╗ìc m├íy l├á x├óy dß╗▒ng mß╗Öt h├ám xß║Ñp xß╗ë:
+||Body Text||sao cho c├│ thß╗â dß╗▒ ─æo├ín nhanh c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc m├á kh├┤ng cß║ºn thß╗▒c hiß╗çn m├┤ phß╗Ång CFD cho tß╗½ng tr╞░ß╗¥ng hß╗úp ri├¬ng lß║╗.
+||Body Text||C├íc m├┤ h├¼nh nh╞░ vß║¡y th╞░ß╗¥ng ─æ╞░ß╗úc gß╗ìi l├á m├┤ h├¼nh thay thß║┐ - Surrogate Models. Sau khi ─æ╞░ß╗úc huß║Ñn luyß╗çn tß╗½ dß╗» liß╗çu CFD hoß║╖c dß╗» liß╗çu thß╗▒c nghiß╗çm, surrogate model c├│ thß╗â ─æ╞░a ra dß╗▒ ─æo├ín chß╗ë trong v├ái mili gi├óy. Nhß╗¥ ─æ├│, tß╗æc ─æß╗Ö ─æ├ính gi├í c├│ thß╗â nhanh h╞ín nhiß╗üu bß║¡c ─æß╗Ö lß╗¢n so vß╗¢i c├íc ph╞░╞íng ph├íp m├┤ phß╗Ång truyß╗ün thß╗æng [2], [3], [5].
+||Body Text||Trong phß║ím vi ─æß╗ü t├ái n├áy, surrogate model ─æ├│ng vai tr├▓ trung gian kß║┐t nß╗æi giß╗»a h├¼nh hß╗ìc bi├¬n dß║íng v├á b├ái to├ín tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc. ─É├óy l├á th├ánh phß║ºn cß╗æt l├╡i cho ph├⌐p thß╗▒c hiß╗çn t├¼m kiß║┐m h├¼nh dß║íng tß╗æi ╞░u tr├¬n kh├┤ng gian thiß║┐t kß║┐ rß╗Öng m├á vß║½n duy tr├¼ chi ph├¡ t├¡nh to├ín ß╗ƒ mß╗⌐c chß║Ñp nhß║¡n ─æ╞░ß╗úc.
+||Heading 3||2.5.2. Bß║ún chß║Ñt cß╗ºa surrogate modeling trong CKi_ML
+||Body Text||Mß╗Öt trong nhß╗»ng vß║Ñn ─æß╗ü quan trß╗ìng khi x├óy dß╗▒ng surrogate model l├á lß╗▒a chß╗ìn c├ích biß╗âu diß╗àn h├¼nh hß╗ìc ─æß║ºu v├áo. Nh╞░ ─æ├ú tr├¼nh b├áy trong Mß╗Ñc 2.2 v├á Mß╗Ñc 2.3, mß╗ùi airfoil c├│ thß╗â ─æ╞░ß╗úc m├┤ tß║ú bß║▒ng h├áng tr─âm ─æiß╗âm tß╗ìa ─æß╗Ö v├á ─æ╞░ß╗úc xem nh╞░ mß╗Öt ─æiß╗âm trong kh├┤ng gian h├¼nh hß╗ìc nhiß╗üu chiß╗üu:
+||Body Text||Tuy nhi├¬n, viß╗çc sß╗¡ dß╗Ñng trß╗▒c tiß║┐p to├án bß╗Ö tß║¡p tß╗ìa ─æß╗Ö th╞░ß╗¥ng l├ám gia t─âng sß╗æ chiß╗üu dß╗» liß╗çu v├á giß║úm khß║ú n─âng diß╗àn giß║úi cß╗ºa m├┤ h├¼nh.
+||Body Text||Trong nghi├¬n cß╗⌐u n├áy, h├¼nh hß╗ìc kh├┤ng ─æ╞░ß╗úc ─æ╞░a trß╗▒c tiß║┐p v├áo m├┤ h├¼nh d╞░ß╗¢i dß║íng tß╗ìa ─æß╗Ö th├┤ m├á ─æ╞░ß╗úc chuyß╗ân ─æß╗òi th├ánh mß╗Öt tß║¡p c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc c├│ ├╜ ngh─⌐a vß║¡t l├╜ th├┤ng qua qu├í tr├¼nh Feature Engineering ─æ├ú tr├¼nh b├áy trong Mß╗Ñc 2.4. Khi ─æ├│, b├ái to├ín dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc ─æ╞░ß╗úc viß║┐t d╞░ß╗¢i dß║íng:
+||Body Text||trong ─æ├│:
+||Body Text||G: h├¼nh hß╗ìc ban ─æß║ºu;
+||Body Text||: vector ─æß║╖c tr╞░ng h├¼nh hß╗ìc;
+||Body Text||Re: sß╗æ Reynolds;
+||Body Text||: g├│c tß║Ñn.
+||Body Text||C├ích tiß║┐p cß║¡n n├áy cho ph├⌐p m├┤ h├¼nh hß╗ìc m├íy khai th├íc trß╗▒c tiß║┐p c├íc yß║┐u tß╗æ h├¼nh hß╗ìc c├│ li├¬n hß╗ç vß║¡t l├╜ vß╗¢i lß╗▒c n├óng, lß╗▒c cß║ún v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc thay v├¼ hß╗ìc tß╗½ tß║¡p tß╗ìa ─æß╗Ö kh├│ diß╗àn giß║úi.
+||Body Text||Vß╗ü bß║ún chß║Ñt, surrogate model kh├┤ng chß╗ë hß╗ìc mß╗Öt ├ính xß║í thß╗æng k├¬ giß╗»a ─æß║ºu v├áo v├á ─æß║ºu ra m├á c├▓n ─æ╞░ß╗úc ─æß╗ïnh h╞░ß╗¢ng bß╗ƒi c├íc ─æß║╖c tr╞░ng h├¼n hß╗ìc v├á vß║¡t l├╜, tß╗½ ─æ├│ gi├║p  mang ├╜ ngh─⌐a kh├¡ ─æß╗Öng hß╗ìc. ─Éiß╗üu n├áy gi├║p cß║úi thiß╗çn khß║ú n─âng tß╗òng qu├ít h├│a cß╗ºa m├┤ h├¼nh khi ├íp dß╗Ñng cho c├íc h├¼nh dß║íng ch╞░a xuß║Ñt hiß╗çn trong tß║¡p huß║Ñn luyß╗çn.
+||Heading 3||2.5.3. C├íc m├┤ h├¼nh hß╗ôi quy c├óy quyß║┐t ─æß╗ïnh
+||Body Text||C├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính c├│ mß╗æi quan hß╗ç phi tuyß║┐n mß║ính vß╗¢i h├¼nh hß╗ìc v├á ─æiß╗üu kiß╗çn d├▓ng chß║úy. ─Éß║╖c biß╗çt trong v├╣ng near-stall v├á post-stall, c├íc hiß╗çn t╞░ß╗úng t├ích d├▓ng l├ám cho quan hß╗ç giß╗»a ─æß║ºu v├áo v├á ─æß║ºu ra trß╗ƒ n├¬n phß╗⌐c tß║íp h╞ín ─æ├íng kß╗â. V├¼ vß║¡y, ─æß╗ü t├ái tß║¡p trung v├áo nh├│m m├┤ h├¼nh hß╗ôi quy dß╗▒a tr├¬n c├óy quyß║┐t ─æß╗ïnh. Nh├│m m├┤ h├¼nh n├áy c├│ khß║ú n─âng m├┤ h├¼nh h├│a c├íc quan hß╗ç phi tuyß║┐n, xß╗¡ l├╜ hiß╗çu quß║ú dß╗» liß╗çu dß║íng bß║úng v├á kh├┤ng y├¬u cß║ºu giß║ú ─æß╗ïnh tuyß║┐n t├¡nh giß╗»a c├íc biß║┐n.
+||Body Text||Random Forest
+||Body Text||Random Forest l├á ph╞░╞íng ph├íp ensemble dß╗▒a tr├¬n nhiß╗üu c├óy quyß║┐t ─æß╗ïnh ─æß╗Öc lß║¡p ─æ╞░ß╗úc huß║Ñn luyß╗çn tr├¬n c├íc tß║¡p dß╗» liß╗çu con kh├íc nhau.
+||Body Text||Giß║ú sß╗¡ c├│ (M) c├óy quyß║┐t ─æß╗ïnh, gi├í trß╗ï dß╗▒ ─æo├ín cuß╗æi c├╣ng ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||trong ─æ├│ (T_m(x)) l├á dß╗▒ ─æo├ín cß╗ºa c├óy thß╗⌐ (m).
+||Body Text||Viß╗çc kß║┐t hß╗úp nhiß╗üu c├óy gi├║p giß║úm ph╞░╞íng sai cß╗ºa m├┤ h├¼nh v├á t─âng khß║ú n─âng chß╗æng qu├í khß╗¢p. Random Forest ─æß║╖c biß╗çt ph├╣ hß╗úp vß╗¢i c├íc b├ái to├ín c├│ nhiß╗üu ─æß║╖c tr╞░ng h├¼nh hß╗ìc t╞░╞íng t├íc phi tuyß║┐n vß╗¢i nhau.
+||Body Text||b. HistGradientBoosting
+||Body Text||Kh├íc vß╗¢i Random Forest, HistGradientBoosting x├óy dß╗▒ng c├íc c├óy theo tr├¼nh tß╗▒ tuß║ºn tß╗▒. Mß╗ùi c├óy mß╗¢i ─æ╞░ß╗úc huß║Ñn luyß╗çn nhß║▒m giß║úm phß║ºn sai sß╗æ c├▓n lß║íi cß╗ºa c├íc c├óy tr╞░ß╗¢c ─æ├│.
+||Body Text||M├┤ h├¼nh tß╗òng qu├ít c├│ dß║íng:
+||Body Text||trong ─æ├│:
+||Body Text||c├óy mß╗¢i ─æ╞░ß╗úc th├¬m v├áo;
+||Body Text||hß╗ç sß╗æ hß╗ìc.
+||Body Text||Viß╗çc cß║¡p nhß║¡t li├¬n tß╗Ñc theo sai sß╗æ gi├║p m├┤ h├¼nh tß║¡p trung v├áo nhß╗»ng v├╣ng kh├│ dß╗▒ ─æo├ín cß╗ºa dß╗» liß╗çu, ─æß║╖c biß╗çt l├á c├íc v├╣ng kh├¡ ─æß╗Öng hß╗ìc phi tuyß║┐n lß╗¢n nh╞░ near-stall v├á post-stall.
+||Body Text||Trong project n├áy, HistGradientBoosting cho thß║Ñy khß║ú n─âng m├┤ h├¼nh h├│a tß╗æt c├íc t╞░╞íng t├íc giß╗»a h├¼nh hß╗ìc, Reynolds Number v├á g├│c tß║Ñn.
+||Body Text||c. CatBoost
+||Body Text||CatBoost c┼⌐ng thuß╗Öc nh├│m Gradient Boosting nh╞░ng ─æ╞░ß╗úc thiß║┐t kß║┐ nhß║▒m cß║úi thiß╗çn t├¡nh ß╗òn ─æß╗ïnh trong qu├í tr├¼nh huß║Ñn luyß╗çn v├á giß║úm nguy c╞í qu├í khß╗¢p.
+||Body Text||Mß║╖c d├╣ th╞░ß╗¥ng ─æ╞░ß╗úc sß╗¡ dß╗Ñng cho dß╗» liß╗çu c├│ biß║┐n ph├ón loß║íi, CatBoost vß║½n l├á mß╗Öt trong nhß╗»ng m├┤ h├¼nh mß║ính ─æß╗æi vß╗¢i dß╗» liß╗çu bß║úng c├│ cß║Ñu tr├║c phß╗⌐c tß║íp. Trong nghi├¬n cß╗⌐u n├áy, CatBoost ─æ╞░ß╗úc sß╗¡ dß╗Ñng nh╞░ mß╗Öt m├┤ h├¼nh ─æß╗æi chß╗⌐ng nhß║▒m ─æ├ính gi├í khß║ú n─âng dß╗▒ ─æo├ín cß╗ºa c├íc ph╞░╞íng ph├íp boosting kh├íc nhau.
+||Heading 3||2.5.4. Ensemble Learning v├á khß║ú n─âng tß╗òng qu├ít h├│a
+||Body Text||Trong thß╗▒c tß║┐, kh├┤ng c├│ mß╗Öt m├┤ h├¼nh ─æ╞ín lß║╗ n├áo lu├┤n hoß║ít ─æß╗Öng tß╗æi ╞░u tr├¬n to├án bß╗Ö miß╗ün dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc. Mß╗Öt m├┤ h├¼nh c├│ thß╗â dß╗▒ ─æo├ín tß╗æt trong v├╣ng d├▓ng chß║úy b├ím nh╞░ng suy giß║úm ─æß╗Ö ch├¡nh x├íc ß╗ƒ v├╣ng gß║ºn thß║Ñt tß╗æc. Ng╞░ß╗úc lß║íi, mß╗Öt m├┤ h├¼nh kh├íc c├│ thß╗â hoß║ít ─æß╗Öng tß╗æt ß╗ƒ v├╣ng phi tuyß║┐n nh╞░ng k├⌐m ß╗òn ─æß╗ïnh trong v├╣ng tuyß║┐n t├¡nh. Do ─æ├│, mß╗Öt h╞░ß╗¢ng tiß║┐p cß║¡n phß╗ò biß║┐n l├á sß╗¡ dß╗Ñng Ensemble Learning nhß║▒m kß║┐t hß╗úp ╞░u ─æiß╗âm cß╗ºa nhiß╗üu m├┤ h├¼nh kh├íc nhau.
+||Body Text||Giß║ú sß╗¡ c├│ (K) m├┤ h├¼nh th├ánh phß║ºn:
+||Body Text||dß╗▒ ─æo├ín tß╗òng hß╗úp ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||vß╗¢i:
+||Body Text||trong ─æ├│ l├á trß╗ìng sß╗æ cß╗ºa m├┤ h├¼nh thß╗⌐ k.
+||Body Text||Viß╗çc kß║┐t hß╗úp nhiß╗üu m├┤ h├¼nh gi├║p giß║úm sai sß╗æ tß╗òng qu├ít h├│a v├á t─âng t├¡nh ß╗òn ─æß╗ïnh cß╗ºa hß╗ç thß╗æng dß╗▒ ─æo├ín. ─É├óy c┼⌐ng l├á mß╗Öt trong nhß╗»ng h╞░ß╗¢ng tiß║┐p cß║¡n ─æ╞░ß╗úc ├íp dß╗Ñng rß╗Öng r├úi trong c├íc b├ái to├ín surrogate modeling hiß╗çn ─æß║íi [3], [12].
+||Heading 3||2.5.5. Vai tr├▓ cß╗ºa surrogate model trong b├ái
+||Body Text||Tß╗½ c├íc ph├ón t├¡ch tr├¬n c├│ thß╗â thß║Ñy rß║▒ng surrogate model ─æ├│ng vai tr├▓ trung t├óm trong to├án bß╗Ö quy tr├¼nh nghi├¬n cß╗⌐u cß╗ºa CKi_ML.
+||Body Text||Quy tr├¼nh tß╗òng qu├ít c├│ thß╗â ─æ╞░ß╗úc biß╗âu diß╗àn nh╞░ sau:
+||Body Text||Trong ─æ├│:
+||Body Text||G l├á h├¼nh hß╗ìc airfoil;
+||Body Text||l├á tß║¡p ─æß║╖c tr╞░ng h├¼nh hß╗ìc;
+||Body Text||l├á c├íc gi├í trß╗ï dß╗▒ ─æo├ín cß╗ºa m├┤ h├¼nh hß╗ìc m├íy.
+||Body Text||─Éiß╗âm kh├íc biß╗çt cß╗ºa model n├áy so vß╗¢i nhiß╗üu nghi├¬n cß╗⌐u dß╗▒a tr├¬n dß╗» liß╗çu tß╗ìa ─æß╗Ö th├┤ l├á viß╗çc khai th├íc c├íc descriptor h├¼nh hß╗ìc c├│ ├╜ ngh─⌐a vß║¡t l├╜. C├ích tiß║┐p cß║¡n n├áy gi├║p giß║úm sß╗æ chiß╗üu dß╗» liß╗çu ─æß║ºu v├áo, t─âng khß║ú n─âng diß╗àn giß║úi cß╗ºa m├┤ h├¼nh v├á duy tr├¼ mß╗æi li├¬n hß╗ç giß╗»a h├¼nh hß╗ìc vß╗¢i c├íc c╞í chß║┐ kh├¡ ─æß╗Öng hß╗ìc ─æ├ú tr├¼nh b├áy trong c├íc mß╗Ñc tr╞░ß╗¢c.
+||Body Text||Ngo├ái ra, surrogate model c├▓n l├á nß╗ün tß║úng cho b╞░ß╗¢c tß╗æi ╞░u h├│a h├¼nh hß╗ìc. Khi viß╗çc ─æ├ính gi├í kh├¡ ─æß╗Öng hß╗ìc c├│ thß╗â ─æ╞░ß╗úc thß╗▒c hiß╗çn gß║ºn nh╞░ tß╗⌐c thß╗¥i, qu├í tr├¼nh t├¼m kiß║┐m bi├¬n dß║íng tß╗æi ╞░u trß╗ƒ n├¬n khß║ú thi tr├¬n kh├┤ng gian thiß║┐t kß║┐ lß╗¢n m├á kh├┤ng cß║ºn thß╗▒c hiß╗çn CFD cho tß╗½ng ß╗⌐ng vi├¬n.
+||Body Text||Nh╞░ vß║¡y, surrogate model trong b├ái kh├┤ng chß╗ë l├á c├┤ng cß╗Ñ dß╗▒ ─æo├ín nhanh c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc m├á c├▓n l├á cß║ºu nß╗æi giß╗»a Geometry Manifold, Feature Engineering v├á b├ái to├ín tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính.
+||Heading 2||2.6. Tß╗æi ╞░u ho├í kh├¡ ─æß╗Öng hß╗ìc bi├¬n dß║íng c├ính
+||Heading 3||2.6.1. Kh├┤ng gian thiß║┐t kß║┐ kh├¡ ─æß╗Öng hß╗ìc
+||Body Text||Mß╗Ñc ti├¬u cuß╗æi c├╣ng cß╗ºa thiß║┐t kß║┐ kh├¡ ─æß╗Öng hß╗ìc l├á t├¼m ra bi├¬n dß║íng c├ính c├│ khß║ú n─âng tß║ío ra c├íc ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc mong muß╗æn trong mß╗Öt miß╗ün ─æiß╗üu kiß╗çn vß║¡n h├ánh x├íc ─æß╗ïnh. ─Éß╗æi vß╗¢i bi├¬n dß║íng c├ính hai chiß╗üu, c├íc ─æß║╖c t├¡nh n├áy th╞░ß╗¥ng ─æ╞░ß╗úc ─æ├ính gi├í th├┤ng qua hß╗ç sß╗æ lß╗▒c n├óng, hß╗ç sß╗æ lß╗▒c cß║ún, hß╗ç sß╗æ m├┤ men kh├¡ ─æß╗Öng hß╗ìc v├á tß╗╖ sß╗æ lß╗▒c n├óng tr├¬n lß╗▒c cß║ún.
+||Body Text||Vß╗ü mß║╖t to├ín hß╗ìc, mß╗ùi bi├¬n dß║íng c├ính c├│ thß╗â ─æ╞░ß╗úc xem nh╞░ mß╗Öt ─æiß╗âm trong kh├┤ng gian h├¼nh hß╗ìc nhiß╗üu chiß╗üu ─æ├ú tr├¼nh b├áy ß╗ƒ Mß╗Ñc 2.2. Nß║┐u mß╗Öt airfoil ─æ╞░ß╗úc m├┤ tß║ú bß╗ƒi N ─æiß╗âm tß╗ìa ─æß╗Ö, kh├┤ng gian thiß║┐t kß║┐ t╞░╞íng ß╗⌐ng c├│ thß╗â ─æ╞░ß╗úc biß╗âu diß╗àn bß╗ƒi:
+||Body Text||─Éß╗æi vß╗¢i c├íc bß╗Ö dß╗» liß╗çu airfoil hiß╗çn ─æß║íi, N th╞░ß╗¥ng dao ─æß╗Öng tß╗½ 100 ─æß║┐n 300 ─æiß╗âm. ─Éiß╗üu n├áy ─æß╗ông ngh─⌐a vß╗¢i viß╗çc kh├┤ng gian thiß║┐t kß║┐ c├│ thß╗â chß╗⌐a h├áng tr─âm biß║┐n h├¼nh hß╗ìc. Trong mß╗Öt kh├┤ng gian c├│ sß╗æ chiß╗üu lß╗¢n nh╞░ vß║¡y, sß╗æ l╞░ß╗úng cß║Ñu h├¼nh h├¼nh hß╗ìc khß║ú d─⌐ l├á rß║Ñt lß╗¢n, khiß║┐n viß╗çc khß║úo s├ít to├án bß╗Ö kh├┤ng gian bß║▒ng c├íc ph╞░╞íng ph├íp truyß╗ün thß╗æng gß║ºn nh╞░ kh├┤ng khß║ú thi.
+||Body Text||Ngo├ái ra, phß║ºn lß╗¢n c├íc ─æiß╗âm trong kh├┤ng gian  kh├┤ng t╞░╞íng ß╗⌐ng vß╗¢i c├íc bi├¬n dß║íng c├ính hß╗úp lß╗ç. Nhiß╗üu cß║Ñu h├¼nh c├│ thß╗â xuß║Ñt hiß╗çn hiß╗çn t╞░ß╗úng tß╗▒ giao nhau, ─æß╗Ö d├áy ├óm hoß║╖c bß╗ü mß║╖t kh├┤ng li├¬n tß╗Ñc. Do ─æ├│, b├ái to├ín tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc kh├┤ng chß╗ë l├á t├¼m kiß║┐m nghiß╗çm tß╗æt nhß║Ñt m├á c├▓n phß║úi ─æß║úm bß║úo nghiß╗çm thu ─æ╞░ß╗úc nß║▒m trong miß╗ün h├¼nh hß╗ìc hß╗úp lß╗ç.
+||Heading 3||2.6.2. Ph├ít biß╗âu b├ái to├ín tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính
+||Body Text||Vß╗ü bß║ún chß║Ñt, tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc l├á b├ái to├ín t├¼m kiß║┐m h├¼nh dß║íng bi├¬n dß║íng c├ính sao cho mß╗Öt h├ám mß╗Ñc ti├¬u ─æß║ít gi├í trß╗ï tß╗æt nhß║Ñt ─æß╗ông thß╗¥i thß╗Åa m├ún c├íc r├áng buß╗Öc thiß║┐t kß║┐.
+||Body Text||Nß║┐u k├╜ hiß╗çu:
+||Body Text||l├á h├¼nh hß╗ìc bi├¬n dß║íng c├ính v├á:
+||Body Text||l├á h├ám mß╗Ñc ti├¬u, b├ái to├ín tß╗æi ╞░u h├│a tß╗òng qu├ít ─æ╞░ß╗úc viß║┐t d╞░ß╗¢i dß║íng:
+||Body Text||hoß║╖c:
+||Body Text||trong ─æ├│ l├á nghiß╗çm tß╗æi ╞░u.
+||Body Text||Trong thiß║┐t kß║┐ kh├¡ ─æß╗Öng hß╗ìc, c├íc mß╗Ñc ti├¬u th╞░ß╗¥ng gß║╖p bao gß╗ôm:
+||Body Text||cß╗▒c ─æß║íi h├│a hß╗ç sß╗æ lß╗▒c n├óng;
+||Body Text||cß╗▒c tiß╗âu h├│a hß╗ç sß╗æ lß╗▒c cß║ún;
+||Body Text||cß╗▒c ─æß║íi h├│a tß╗╖ sß╗æ lß╗▒c n├óng tr├¬n lß╗▒c cß║ún;
+||Body Text||duy tr├¼ m├┤ men kh├¡ ─æß╗Öng hß╗ìc ß╗òn ─æß╗ïnh;
+||Body Text||tr├¼ ho├ún hiß╗çn t╞░ß╗úng thß║Ñt tß╗æc.
+||Body Text||─Éß╗æi vß╗¢i ─æß╗ü t├ái n├áy, hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc ─æ╞░ß╗úc ─æ├ính gi├í chß╗º yß║┐u th├┤ng qua tß╗╖ sß╗æ lß╗▒c n├óng tr├¬n lß╗▒c cß║ún:
+||Body Text||─Éß║íi l╞░ß╗úng n├áy phß║ún ├ính khß║ú n─âng tß║ío lß╗▒c n├óng vß╗¢i mß╗⌐c tß╗òn hao n─âng l╞░ß╗úng nhß╗Å nhß║Ñt. Gi├í trß╗ï (L/D) c├áng lß╗¢n th├¼ hiß╗çu suß║Ñt kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├áng cao.
+||Heading 3||2.6.3. Tß╗æi ╞░u h├│a trong kh├┤ng gian ─æß║╖c tr╞░ng h├¼nh hß╗ìc
+||Body Text||Mß║╖c d├╣ vß╗ü mß║╖t l├╜ thuyß║┐t c├│ thß╗â thß╗▒c hiß╗çn tß╗æi ╞░u h├│a trß╗▒c tiß║┐p tr├¬n to├án bß╗Ö tß║¡p tß╗ìa ─æß╗Ö h├¼nh hß╗ìc, c├ích tiß║┐p cß║¡n n├áy tß╗ôn tß║íi nhiß╗üu hß║ín chß║┐ cß║ú vß╗ü mß║╖t t├¡nh to├ín lß║½n khß║ú n─âng diß╗àn giß║úi vß║¡t l├╜.
+||Body Text||Thß╗⌐ nhß║Ñt, sß╗æ chiß╗üu cß╗ºa kh├┤ng gian thiß║┐t kß║┐ th╞░ß╗¥ng rß║Ñt lß╗¢n. Nß║┐u mß╗Öt bi├¬n dß║íng ─æ╞░ß╗úc m├┤ tß║ú bß╗ƒi 240 ─æiß╗âm tß╗ìa ─æß╗Ö th├¼ h├¼nh hß╗ìc t╞░╞íng ß╗⌐ng nß║▒m trong kh├┤ng gian:
+||Body Text||Kh├┤ng gian c├│ sß╗æ chiß╗üu cao dß║½n ─æß║┐n hiß╗çn t╞░ß╗úng Curse of Dimensionality, l├ám gia t─âng ─æ├íng kß╗â ─æß╗Ö kh├│ cß╗ºa b├ái to├ín tß╗æi ╞░u h├│a v├á giß║úm hiß╗çu quß║ú cß╗ºa c├íc thuß║¡t to├ín t├¼m kiß║┐m.
+||Body Text||Thß╗⌐ hai, phß║ºn lß╗¢n c├íc tß╗ìa ─æß╗Ö ri├¬ng lß║╗ kh├┤ng mang ├╜ ngh─⌐a kh├¡ ─æß╗Öng hß╗ìc trß╗▒c tiß║┐p. Viß╗çc thay ─æß╗òi mß╗Öt sß╗æ ─æiß╗âm tr├¬n bi├¬n dß║íng th╞░ß╗¥ng kh├│ li├¬n hß╗ç vß╗¢i c├íc hiß╗çn t╞░ß╗úng vß║¡t l├╜ nh╞░ sß╗▒ thay ─æß╗òi lß╗▒c n├óng, lß╗▒c cß║ún, t├ích d├▓ng hoß║╖c ─æß║╖c t├¡nh thß║Ñt tß╗æc. ─Éiß╗üu n├áy l├ám giß║úm khß║ú n─âng diß╗àn giß║úi kß║┐t quß║ú tß╗æi ╞░u v├á g├óy kh├│ kh─ân trong viß╗çc ph├ón t├¡ch c╞í chß║┐ vß║¡t l├╜ ph├¡a sau nghiß╗çm thu ─æ╞░ß╗úc.
+||Body Text||Thß╗⌐ ba, tß╗æi ╞░u h├│a trß╗▒c tiß║┐p tr├¬n tß║¡p tß╗ìa ─æß╗Ö dß╗à sinh ra c├íc h├¼nh dß║íng kh├┤ng hß╗úp lß╗ç vß╗ü mß║╖t h├¼nh hß╗ìc hoß║╖c nß║▒m ngo├ái miß╗ün dß╗» liß╗çu huß║Ñn luyß╗çn cß╗ºa m├┤ h├¼nh hß╗ìc m├íy. Khi ─æ├│, ─æß╗Ö tin cß║¡y cß╗ºa c├íc dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc c├│ thß╗â suy giß║úm ─æ├íng kß╗â.
+||Body Text||─Éß╗â khß║»c phß╗Ñc c├íc hß║ín chß║┐ tr├¬n, nghi├¬n cß╗⌐u lß╗▒a chß╗ìn thß╗▒c hiß╗çn tß╗æi ╞░u h├│a trong kh├┤ng gian ─æß║╖c tr╞░ng h├¼nh hß╗ìc thay v├¼ kh├┤ng gian tß╗ìa ─æß╗Ö ban ─æß║ºu. C├íc biß║┐n thiß║┐t kß║┐ ─æ╞░ß╗úc x├óy dß╗▒ng tß╗½ c├íc descriptor ─æ├ú tr├¼nh b├áy trong Mß╗Ñc 2.4 nh╞░ ─æß╗Ö d├áy cß╗▒c ─æß║íi, vß╗ï tr├¡ ─æß╗Ö d├áy cß╗▒c ─æß║íi, ─æß╗Ö cong cß╗▒c ─æß║íi, vß╗ï tr├¡ ─æß╗Ö cong cß╗▒c ─æß║íi, b├ín k├¡nh m├⌐p tr╞░ß╗¢c, g├│c m├⌐p sau v├á c├íc ─æß║╖c tr╞░ng ─æß╗Ö cong cß╗Ñc bß╗Ö.
+||Body Text||Kh├┤ng gian thiß║┐t kß║┐ khi ─æ├│ c├│ thß╗â ─æ╞░ß╗úc biß╗âu diß╗àn d╞░ß╗¢i dß║íng:
+||Body Text||Kh├íc vß╗¢i tß╗ìa ─æß╗Ö h├¼nh hß╗ìc th├┤, mß╗ùi biß║┐n trong kh├┤ng gian ─æß╗üu c├│ ├╜ ngh─⌐a vß║¡t l├╜ r├╡ r├áng ─æß╗æi vß╗¢i c├íc c╞í chß║┐ kh├¡ ─æß╗Öng hß╗ìc ─æ├ú ─æ╞░ß╗úc tr├¼nh b├áy ß╗ƒ Mß╗Ñc 2.1. Do ─æ├│, qu├í tr├¼nh tß╗æi ╞░u kh├┤ng chß╗ë gi├║p t├¼m kiß║┐m nghiß╗çm tß╗æt h╞ín m├á c├▓n cho ph├⌐p giß║úi th├¡ch nguy├¬n nh├ón kh├¡ ─æß╗Öng hß╗ìc dß║½n ─æß║┐n sß╗▒ cß║úi thiß╗çn hiß╗çu suß║Ñt cß╗ºa bi├¬n dß║íng c├ính.
+||Heading 3||2.6.4. Vai tr├▓ cß╗ºa Geometry Manifold trong tß╗æi ╞░u h├│a
+||Body Text||Nh╞░ ─æ├ú tr├¼nh b├áy ß╗ƒ Mß╗Ñc 2.3, c├íc bi├¬n dß║íng c├ính hß╗úp lß╗ç kh├┤ng ph├ón bß╗æ ngß║½u nhi├¬n trong kh├┤ng gian h├¼nh hß╗ìc m├á nß║▒m tr├¬n mß╗Öt Geometry Manifold c├│ cß║Ñu tr├║c. Do ─æ├│, qu├í tr├¼nh tß╗æi ╞░u h├│a kh├┤ng n├¬n ─æ╞░ß╗úc thß╗▒c hiß╗çn tr├¬n to├án bß╗Ö kh├┤ng gian tß╗ìa ─æß╗Ö m├á cß║ºn ─æ╞░ß╗úc giß╗¢i hß║ín trong v├╣ng l├ón cß║¡n cß╗ºa manifold h├¼nh hß╗ìc khß║ú thi.
+||Body Text||C├íc r├áng buß╗Öc c╞í bß║ún bao gß╗ôm:
+||Body Text||trong ─æ├│ l├á ─æß╗Ö d├áy cß╗Ñc bß╗Ö, A l├á diß╗çn t├¡ch mß║╖t cß║»t v├á l├á ─æß╗Ö cong h├¼nh hß╗ìc.
+||Body Text||Vß╗ü bß║ún chß║Ñt, c├íc ─æiß╗üu kiß╗çn tr├¬n gi├║p ─æß║úm bß║úo rß║▒ng h├¼nh dß║íng ─æ╞░ß╗úc sinh ra trong qu├í tr├¼nh tß╗æi ╞░u vß║½n duy tr├¼ t├¡nh li├¬n tß╗Ñc h├¼nh hß╗ìc, t├¡nh khß║ú thi vß╗ü chß║┐ tß║ío v├á ├╜ ngh─⌐a kh├¡ ─æß╗Öng hß╗ìc. Nß║┐u kh├┤ng c├│ c├íc r├áng buß╗Öc n├áy, thuß║¡t to├ín tß╗æi ╞░u c├│ thß╗â tß║ío ra c├íc h├¼nh dß║íng c├│ gi├í trß╗ï h├ám mß╗Ñc ti├¬u cao nh╞░ng kh├┤ng tß╗ôn tß║íi trong thß╗▒c tß║┐.
+||Body Text||Tß╗½ g├│c nh├¼n hß╗ìc m├íy, viß╗çc rß╗¥i xa Geometry Manifold ─æß╗ông ngh─⌐a vß╗¢i viß╗çc ─æi v├áo c├íc v├╣ng dß╗» liß╗çu ngo├ái ph├ón phß╗æi huß║Ñn luyß╗çn (Out-of-Distribution Region). Trong c├íc v├╣ng n├áy, m├┤ h├¼nh surrogate th╞░ß╗¥ng kh├┤ng c├▓n ─æ╞░ß╗úc bß║úo ─æß║úm vß╗ü ─æß╗Ö ch├¡nh x├íc do thiß║┐u dß╗» liß╗çu hß╗ù trß╗ú. V├¼ vß║¡y, viß╗çc duy tr├¼ qu├í tr├¼nh t├¼m kiß║┐m trong hoß║╖c gß║ºn manifold h├¼nh hß╗ìc hß╗úp lß╗ç kh├┤ng chß╗ë gi├║p ─æß║úm bß║úo t├¡nh khß║ú thi cß╗ºa nghiß╗çm tß╗æi ╞░u m├á c├▓n n├óng cao ─æß╗Ö tin cß║¡y cß╗ºa c├íc dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||C├│ thß╗â n├│i rß║▒ng Geometry Manifold ─æ├│ng vai tr├▓ nh╞░ mß╗Öt c╞í chß║┐ kiß╗âm so├ít kh├┤ng gian thiß║┐t kß║┐, gi├║p kß║┐t nß╗æi giß╗»a tß╗æi ╞░u h├│a h├¼nh hß╗ìc v├á ─æß╗Ö tin cß║¡y cß╗ºa m├┤ h├¼nh hß╗ìc m├íy trong to├án bß╗Ö quy tr├¼nh CKi_ML.
+||Heading 3||2.6.5. Surrogate-Based Optimization
+||Body Text||Trong c├íc ph╞░╞íng ph├íp thiß║┐t kß║┐ truyß╗ün thß╗æng, mß╗ùi lß║ºn ─æ├ính gi├í mß╗Öt bi├¬n dß║íng mß╗¢i ─æß╗üu y├¬u cß║ºu thß╗▒c hiß╗çn m├┤ phß╗Ång CFD hoß║╖c thß╗¡ nghiß╗çm thß╗▒c nghiß╗çm nhß║▒m x├íc ─æß╗ïnh c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc t╞░╞íng ß╗⌐ng. Nß║┐u k├╜ hiß╗çu  l├á bß╗Ö giß║úi CFD, qu├í tr├¼nh ─æ├ính gi├í c├│ thß╗â ─æ╞░ß╗úc m├┤ tß║ú:
+||Body Text||Mß║╖c d├╣ cho ─æß╗Ö ch├¡nh x├íc cao, ph╞░╞íng ph├íp n├áy ─æ├▓i hß╗Åi chi ph├¡ t├¡nh to├ín lß╗¢n. Trong b├ái to├ín tß╗æi ╞░u h├│a, n╞íi h├áng ngh├¼n hoß║╖c h├áng chß╗Ñc ngh├¼n cß║Ñu h├¼nh h├¼nh hß╗ìc cß║ºn ─æ╞░ß╗úc ─æ├ính gi├í, tß╗òng chi ph├¡ t├¡nh to├ín c├│ thß╗â trß╗ƒ th├ánh r├áo cß║ún ─æ├íng kß╗â.
+||Body Text||─Éß╗â khß║»c phß╗Ñc hß║ín chß║┐ n├áy, nghi├¬n cß╗⌐u sß╗¡ dß╗Ñng m├┤ h├¼nh hß╗ìc m├íy thay thß║┐ CFD trong v├▓ng lß║╖p tß╗æi ╞░u:
+||Body Text||Trong ─æ├│ l├á vector ─æß║╖c tr╞░ng h├¼nh hß╗ìc v├á l├á m├┤ h├¼nh surrogate ─æ├ú ─æ╞░ß╗úc huß║Ñn luyß╗çn tß╗½ dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Nß║┐u k├╜ hiß╗çu thß╗¥i gian ─æ├ính gi├í bß║▒ng CFD l├á v├á thß╗¥i gian ─æ├ính gi├í bß║▒ng m├┤ h├¼nh hß╗ìc m├íy l├á , th├┤ng th╞░ß╗¥ng tß╗ôn tß║íi:
+||Body Text||─Éiß╗üu n├áy cho ph├⌐p khß║úo s├ít sß╗æ l╞░ß╗úng cß║Ñu h├¼nh h├¼nh hß╗ìc lß╗¢n h╞ín nhiß╗üu trong c├╣ng mß╗Öt ng├ón s├ích t├¡nh to├ín. ─É├óy c┼⌐ng l├á l├╜ do surrogate-based optimization hiß╗çn ─æ╞░ß╗úc xem l├á mß╗Öt trong nhß╗»ng h╞░ß╗¢ng tiß║┐p cß║¡n chß╗º ─æß║ío trong tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc hiß╗çn ─æß║íi [2], [5], [12].
+||Body Text||Trong CKi_ML, surrogate model kh├┤ng chß╗ë ─æ├│ng vai tr├▓ t─âng tß╗æc t├¡nh to├ín m├á c├▓n l├á cß║ºu nß╗æi giß╗»a Geometry Manifold, Feature Engineering v├á qu├í tr├¼nh tß╗æi ╞░u h├│a. Nhß╗¥ sß╗¡ dß╗Ñng c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc c├│ ├╜ ngh─⌐a vß║¡t l├╜, m├┤ h├¼nh hß╗ìc m├íy c├│ khß║ú n─âng khai th├íc trß╗▒c tiß║┐p c├íc mß╗æi quan hß╗ç giß╗»a h├¼nh hß╗ìc v├á kh├¡ ─æß╗Öng hß╗ìc thay v├¼ chß╗ë hß╗ìc tß╗½ dß╗» liß╗çu tß╗ìa ─æß╗Ö thuß║ºn t├║y. ─Éiß╗üu n├áy gi├║p t─âng khß║ú n─âng diß╗àn giß║úi cß╗ºa m├┤ h├¼nh v├á n├óng cao ─æß╗Ö tin cß║¡y cß╗ºa qu├í tr├¼nh tß╗æi ╞░u h├│a.
+||Heading 3||2.6.6. Quy tr├¼nh tß╗æi ╞░u h├│a trong CKi_ML
+||Body Text||Dß╗▒a tr├¬n c├íc th├ánh phß║ºn ─æ├ú tr├¼nh b├áy trong ch╞░╞íng n├áy, quy tr├¼nh tß╗æi ╞░u h├│a cß╗ºa CKi_ML c├│ thß╗â ─æ╞░ß╗úc m├┤ tß║ú theo s╞í ─æß╗ô:
+||Body Text||Trong ─æ├│:
+||Body Text||G l├á h├¼nh hß╗ìc ban ─æß║ºu;
+||Body Text||l├á tß║¡p ─æß║╖c tr╞░ng h├¼nh hß╗ìc;
+||Body Text||l├á kß║┐t quß║ú dß╗▒ ─æo├ín cß╗ºa surrogate model;
+||Body Text||l├á h├ám mß╗Ñc ti├¬u tß╗æi ╞░u h├│a;
+||Body Text||l├á bi├¬n dß║íng tß╗æi ╞░u thu ─æ╞░ß╗úc.
+||Body Text||Quy tr├¼nh n├áy cho ph├⌐p thay thß║┐ h├áng ngh├¼n lß║ºn gß╗ìi CFD bß║▒ng c├íc dß╗▒ ─æo├ín nhanh tß╗½ m├┤ h├¼nh hß╗ìc m├íy, tß╗½ ─æ├│ giß║úm ─æ├íng kß╗â chi ph├¡ t├¡nh to├ín trong qu├í tr├¼nh t├¼m kiß║┐m h├¼nh dß║íng tß╗æi ╞░u.
+||Body Text||Nh╞░ vß║¡y, tß╗æi ╞░u h├│a kh├¡ ─æß╗Öng hß╗ìc trong b├ái n├áy kh├┤ng ─æ╞░ß╗úc thß╗▒c hiß╗çn trß╗▒c tiß║┐p tr├¬n dß╗» liß╗çu tß╗ìa ─æß╗Ö th├┤ m├á ─æ╞░ß╗úc x├óy dß╗▒ng tr├¬n nß╗ün tß║úng Geometry Manifold, Feature Engineering v├á Surrogate Modeling. ─É├óy l├á b╞░ß╗¢c ho├án thiß╗çn cuß╗æi c├╣ng cß╗ºa chuß╗ùi xß╗¡ l├╜ tß╗½ biß╗âu diß╗àn h├¼nh hß╗ìc ─æß║┐n thiß║┐t kß║┐ bi├¬n dß║íng c├ính tß╗æi ╞░u.
+||Heading 2||2.7. ─É├ính gi├í v├á kiß╗âm chß╗⌐ng m├┤ h├¼nh
+||Body Text||Mß╗Ñc ti├¬u cß╗ºa m├┤ h├¼nh hß╗ìc m├íy trong nghi├¬n cß╗⌐u n├áy l├á x├óy dß╗▒ng mß╗Öt m├┤ h├¼nh thay thß║┐ c├│ khß║ú n─âng dß╗▒ ─æo├ín nhanh c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng c├ính dß╗▒a tr├¬n h├¼nh hß╗ìc v├á ─æiß╗üu kiß╗çn d├▓ng chß║úy. Tuy nhi├¬n, ─æß╗Ö ch├¡nh x├íc cß╗ºa m├┤ h├¼nh tr├¬n tß║¡p dß╗» liß╗çu huß║Ñn luyß╗çn kh├┤ng ─æß╗ông ngh─⌐a vß╗¢i khß║ú n─âng dß╗▒ ─æo├ín ch├¡nh x├íc ─æß╗æi vß╗¢i c├íc bi├¬n dß║íng ch╞░a tß╗½ng xuß║Ñt hiß╗çn trong qu├í tr├¼nh hß╗ìc. Trong c├íc b├ái to├ín kh├¡ ─æß╗Öng hß╗ìc, dß╗» liß╗çu th╞░ß╗¥ng ─æ╞░ß╗úc tß║ío ra tß╗½ mß╗Öt sß╗æ l╞░ß╗úng hß╗»u hß║ín c├íc bi├¬n dß║íng c├ính kß║┐t hß╗úp vß╗¢i nhiß╗üu ─æiß╗üu kiß╗çn g├│c tß║Ñn v├á Reynolds Number kh├íc nhau. Do ─æ├│, m├┤ h├¼nh c├│ thß╗â ─æß║ít sai sß╗æ thß║Ñp ─æ╞ín thuß║ºn v├¼ ─æ├ú hß╗ìc ─æ╞░ß╗úc c├íc mß║½u h├¼nh hß╗ìc ─æ├ú xuß║Ñt hiß╗çn trong tß║¡p dß╗» liß╗çu, thay v├¼ thß╗▒c sß╗▒ hß╗ìc ─æ╞░ß╗úc quy luß║¡t vß║¡t l├╜ chi phß╗æi mß╗æi quan hß╗ç giß╗»a h├¼nh hß╗ìc v├á c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||V├¼ vß║¡y, ─æ├ính gi├í m├┤ h├¼nh kh├┤ng chß╗ë nhß║▒m ─æo l╞░ß╗¥ng sai sß╗æ dß╗▒ ─æo├ín m├á c├▓n nhß║▒m kiß╗âm tra khß║ú n─âng tß╗òng qu├ít h├│a sang c├íc bi├¬n dß║íng mß╗¢i, ─æ├ính gi├í t├¡nh ß╗òn ─æß╗ïnh cß╗ºa m├┤ h├¼nh v├á x├íc ─æß╗ïnh mß╗⌐c ─æß╗Ö ph├╣ hß╗úp vß╗¢i c├íc quy luß║¡t kh├¡ ─æß╗Öng hß╗ìc c╞í bß║ún. ─É├óy l├á b╞░ß╗¢c quan trß╗ìng tr╞░ß╗¢c khi sß╗¡ dß╗Ñng m├┤ h├¼nh trong b├ái to├ín tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính.
+||Heading 3||2.7.1. C├íc chß╗ë ti├¬u ─æ├ính gi├í sai sß╗æ
+||Body Text||─Éß╗æi vß╗¢i b├ái to├ín hß╗ôi quy, chß║Ñt l╞░ß╗úng dß╗▒ ─æo├ín cß╗ºa m├┤ h├¼nh th╞░ß╗¥ng ─æ╞░ß╗úc ─æ├ính gi├í th├┤ng qua c├íc chß╗ë ti├¬u thß╗æng k├¬ phß║ún ├ính mß╗⌐c ─æß╗Ö sai kh├íc giß╗»a gi├í trß╗ï dß╗▒ ─æo├ín v├á gi├í trß╗ï tham chiß║┐u.
+||Body Text||Sai sß╗æ tuyß╗çt ─æß╗æi trung b├¼nh ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||Trong ─æ├│ l├á gi├í trß╗ï thß╗▒c, l├á gi├í trß╗ï dß╗▒ ─æo├ín v├á l├á sß╗æ mß║½u dß╗» liß╗çu.
+||Body Text||MAE phß║ún ├ính sai sß╗æ trung b├¼nh cß╗ºa m├┤ h├¼nh tr├¬n to├án bß╗Ö tß║¡p dß╗» liß╗çu v├á c├│ ╞░u ─æiß╗âm l├á dß╗à diß╗àn giß║úi d╞░ß╗¢i g├│c ─æß╗Ö vß║¡t l├╜. ─Éß╗æi vß╗¢i c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc nh╞░ , v├á , gi├í trß╗ï MAE c├áng nhß╗Å chß╗⌐ng tß╗Å m├┤ h├¼nh c├áng dß╗▒ ─æo├ín gß║ºn vß╗¢i kß║┐t quß║ú tham chiß║┐u.
+||Body Text||B├¬n cß║ính ─æ├│, sai sß╗æ b├¼nh ph╞░╞íng trung b├¼nh c─ân bß║¡c ─æ╞░ß╗úc sß╗¡ dß╗Ñng nhß║▒m ─æ├ính gi├í mß╗⌐c ─æß╗Ö xuß║Ñt hiß╗çn cß╗ºa c├íc sai sß╗æ lß╗¢n:
+||Body Text||Kh├íc vß╗¢i MAE, RMSE nhß║íy h╞ín vß╗¢i c├íc ─æiß╗âm dß╗▒ ─æo├ín sai lß╗çch mß║ính. ─Éiß╗üu n├áy ─æß║╖c biß╗çt quan trß╗ìng trong kh├¡ ─æß╗Öng hß╗ìc v├¼ c├íc sai sß╗æ lß╗¢n th╞░ß╗¥ng xuß║Ñt hiß╗çn tß║íi v├╣ng gß║ºn thß║Ñt tß╗æc hoß║╖c sau thß║Ñt tß╗æc, n╞íi d├▓ng chß║úy c├│ t├¡nh phi tuyß║┐n cao.
+||Body Text||Ngo├ái ra, nghi├¬n cß╗⌐u c├▓n sß╗¡ dß╗Ñng hß╗ç sß╗æ x├íc ─æß╗ïnh nhß║▒m ─æ├ính gi├í khß║ú n─âng giß║úi th├¡ch ph╞░╞íng sai cß╗ºa m├┤ h├¼nh:
+||Body Text||Gi├í trß╗ï c├áng gß║ºn 1 cho thß║Ñy m├┤ h├¼nh c├áng m├┤ tß║ú tß╗æt sß╗▒ biß║┐n thi├¬n cß╗ºa dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Viß╗çc kß║┐t hß╗úp ─æß╗ông thß╗¥i MAE, RMSE v├á cho ph├⌐p ─æ├ính gi├í to├án diß╗çn chß║Ñt l╞░ß╗úng dß╗▒ ─æo├ín cß╗ºa m├┤ h├¼nh d╞░ß╗¢i nhiß╗üu g├│c ─æß╗Ö kh├íc nhau.
+||Body Text||─É├ính gi├í bß║▒ng Cross Validation
+||Body Text||Trong hß╗ìc m├íy, hiß╗çu n─âng cß╗ºa m├┤ h├¼nh c├│ thß╗â phß╗Ñ thuß╗Öc ─æ├íng kß╗â v├áo c├ích chia dß╗» liß╗çu th├ánh tß║¡p huß║Ñn luyß╗çn v├á tß║¡p kiß╗âm tra. Nß║┐u viß╗çc ─æ├ính gi├í chß╗ë dß╗▒a tr├¬n mß╗Öt lß║ºn chia dß╗» liß╗çu duy nhß║Ñt, kß║┐t quß║ú thu ─æ╞░ß╗úc c├│ thß╗â mang t├¡nh ngß║½u nhi├¬n v├á kh├┤ng phß║ún ├ính ch├¡nh x├íc khß║ú n─âng hoß║ít ─æß╗Öng thß╗▒c tß║┐ cß╗ºa m├┤ h├¼nh.
+||Body Text||─Éß╗â khß║»c phß╗Ñc vß║Ñn ─æß╗ü n├áy, nghi├¬n cß╗⌐u sß╗¡ dß╗Ñng ph╞░╞íng ph├íp ─æ├ính gi├í ch├⌐o K-Fold Cross Validation. Tß║¡p dß╗» liß╗çu ─æ╞░ß╗úc chia th├ánh phß║ºn c├│ k├¡ch th╞░ß╗¢c t╞░╞íng ─æ╞░╞íng nhau. Tß║íi mß╗ùi lß║ºn lß║╖p, mß╗Öt phß║ºn ─æ╞░ß╗úc sß╗¡ dß╗Ñng ─æß╗â kiß╗âm tra trong khi phß║ºn c├▓n lß║íi ─æ╞░ß╗úc sß╗¡ dß╗Ñng ─æß╗â huß║Ñn luyß╗çn. Qu├í tr├¼nh n├áy ─æ╞░ß╗úc lß║╖p lß║íi lß║ºn cho ─æß║┐n khi mß╗ìi phß║ºn dß╗» liß╗çu ─æß╗üu ─æ╞░ß╗úc sß╗¡ dß╗Ñng l├ám tß║¡p kiß╗âm tra.
+||Body Text||Cross Validation gi├║p giß║úm ─æß╗Ö phß╗Ñ thuß╗Öc v├áo mß╗Öt lß║ºn chia dß╗» liß╗çu cß╗Ñ thß╗â, ─æß╗ông thß╗¥i cung cß║Ñp ─æ├ính gi├í ß╗òn ─æß╗ïnh h╞ín vß╗ü khß║ú n─âng dß╗▒ ─æo├ín cß╗ºa m├┤ h├¼nh. ─É├óy l├á ph╞░╞íng ph├íp ─æ╞░ß╗úc sß╗¡ dß╗Ñng rß╗Öng r├úi trong c├íc nghi├¬n cß╗⌐u surrogate modeling hiß╗çn ─æß║íi.
+||Body Text||─É├ính gi├í tß╗òng qu├ít h├¼nh hß╗ìc
+||Body Text||─Éß╗æi vß╗¢i c├íc b├ái to├ín surrogate modeling trong kh├¡ ─æß╗Öng hß╗ìc, ─æß╗Ö ch├¡nh x├íc thß╗æng k├¬ ch╞░a phß║úi l├á ti├¬u ch├¡ duy nhß║Ñt ─æß╗â ─æ├ính gi├í chß║Ñt l╞░ß╗úng m├┤ h├¼nh. Mß╗Öt m├┤ h├¼nh c├│ thß╗â ─æß║ít gi├í trß╗ï MAE hoß║╖c RMSE thß║Ñp nh╞░ng vß║½n tß║ío ra c├íc dß╗▒ ─æo├ín kh├┤ng ph├╣ hß╗úp vß╗¢i c├íc quy luß║¡t vß║¡t l├╜ c╞í bß║ún cß╗ºa d├▓ng chß║úy. Khi ─æ├│, viß╗çc sß╗¡ dß╗Ñng m├┤ h├¼nh trong c├íc b├ái to├ín thiß║┐t kß║┐ v├á tß╗æi ╞░u h├│a c├│ thß╗â dß║½n ─æß║┐n nhß╗»ng kß║┐t luß║¡n sai lß╗çch mß║╖c d├╣ c├íc chß╗ë sß╗æ ─æ├ính gi├í truyß╗ün thß╗æng vß║½n cho kß║┐t quß║ú tß╗æt.
+||Body Text||V├¼ vß║¡y, b├¬n cß║ính c├íc chß╗ë ti├¬u thß╗æng k├¬, nghi├¬n cß╗⌐u c├▓n thß╗▒c hiß╗çn kiß╗âm chß╗⌐ng t├¡nh nhß║Ñt qu├ín vß║¡t l├╜ cß╗ºa c├íc kß║┐t quß║ú dß╗▒ ─æo├ín. Mß╗Ñc ti├¬u cß╗ºa qu├í tr├¼nh n├áy l├á ─æ├ính gi├í xem c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc ─æ╞░ß╗úc dß╗▒ ─æo├ín c├│ tu├ón theo c├íc xu h╞░ß╗¢ng vß║¡t l├╜ ─æ├ú ─æ╞░ß╗úc x├íc lß║¡p trong l├╜ thuyß║┐t kh├¡ ─æß╗Öng hß╗ìc hay kh├┤ng.
+||Body Text||─Éß╗æi vß╗¢i hß╗ç sß╗æ lß╗▒c n├óng, m├┤ h├¼nh cß║ºn t├íi hiß╗çn ─æ╞░ß╗úc xu h╞░ß╗¢ng gia t─âng theo g├│c tß║Ñn trong v├╣ng d├▓ng chß║úy b├ím. Khi g├│c tß║Ñn tiß║┐p tß╗Ñc t─âng v├á tiß║┐n gß║ºn tß╗¢i trß║íng th├íi thß║Ñt tß╗æc, tß╗æc ─æß╗Ö gia t─âng cß╗ºa lß╗▒c n├óng phß║úi giß║úm dß║ºn v├á cuß╗æi c├╣ng xuß║Ñt hiß╗çn ─æiß╗âm cß╗▒c ─æß║íi t╞░╞íng ß╗⌐ng vß╗¢i g├│c thß║Ñt tß╗æc. Sau trß║íng th├íi n├áy, lß╗▒c n├óng th╞░ß╗¥ng suy giß║úm do sß╗▒ ph├ít triß╗ân cß╗ºa v├╣ng t├ích d├▓ng tr├¬n bß╗ü mß║╖t c├ính.
+||Body Text||─Éß╗æi vß╗¢i hß╗ç sß╗æ lß╗▒c cß║ún, gi├í trß╗ï lß╗▒c cß║ún th╞░ß╗¥ng t─âng theo g├│c tß║Ñn v├á c├│ xu h╞░ß╗¢ng gia t─âng nhanh h╞ín trong v├╣ng gß║ºn thß║Ñt tß╗æc. Do ─æ├│, c├íc ─æ╞░ß╗¥ng cong dß╗▒ ─æo├ín cß║ºn phß║ún ├ính ─æ╞░ß╗úc xu thß║┐ t─âng dß║ºn cß╗ºa lß╗▒c cß║ún khi ─æiß╗üu kiß╗çn d├▓ng chß║úy trß╗ƒ n├¬n bß║Ñt lß╗úi h╞ín.
+||Body Text||─Éß╗æi vß╗¢i hß╗ç sß╗æ m├┤ men kh├¡ ─æß╗Öng hß╗ìc, m├┤ h├¼nh cß║ºn duy tr├¼ ─æ╞░ß╗úc t├¡nh li├¬n tß╗Ñc cß╗ºa ─æ╞░ß╗¥ng cong dß╗▒ ─æo├ín v├á phß║ún ├ính hß╗úp l├╜ sß╗▒ thay ─æß╗òi m├┤ men theo h├¼nh dß║íng bi├¬n dß║íng c┼⌐ng nh╞░ ─æiß╗üu kiß╗çn d├▓ng chß║úy. Nhß╗»ng dao ─æß╗Öng bß║Ñt th╞░ß╗¥ng hoß║╖c sß╗▒ thay ─æß╗òi ─æß╗Öt ngß╗Öt kh├┤ng c├│ c╞í sß╗ƒ vß║¡t l├╜ th╞░ß╗¥ng l├á dß║Ñu hiß╗çu cho thß║Ñy m├┤ h├¼nh ch╞░a hß╗ìc ─æ╞░ß╗úc ─æ├║ng bß║ún chß║Ñt cß╗ºa dß╗» liß╗çu.
+||Body Text||Ngo├ái viß╗çc xem x├⌐t tß╗½ng hß╗ç sß╗æ ri├¬ng lß║╗, nghi├¬n cß╗⌐u c├▓n ─æ├ính gi├í t├¡nh hß╗úp l├╜ cß╗ºa to├án bß╗Ö ─æ╞░ß╗¥ng cong kh├¡ ─æß╗Öng hß╗ìc theo g├│c tß║Ñn. C├íc ─æ╞░ß╗¥ng cong dß╗▒ ─æo├ín ─æ╞░ß╗úc so s├ính vß╗¢i xu h╞░ß╗¢ng vß║¡t l├╜ mong ─æß╗úi nhß║▒m ph├ít hiß╗çn c├íc hiß╗çn t╞░ß╗úng bß║Ñt th╞░ß╗¥ng nh╞░ dao ─æß╗Öng phi vß║¡t l├╜, thay ─æß╗òi ─æß╗Öt ngß╗Öt hoß║╖c vi phß║ím c├íc quy luß║¡t kh├¡ ─æß╗Öng hß╗ìc c╞í bß║ún.
+||Body Text||Viß╗çc kiß╗âm chß╗⌐ng t├¡nh nhß║Ñt qu├ín vß║¡t l├╜ c├│ ├╜ ngh─⌐a ─æß║╖c biß╗çt quan trß╗ìng ─æß╗æi vß╗¢i b├ái to├ín hß╗ìc m├íy. Mß╗Ñc ti├¬u cuß╗æi c├╣ng cß╗ºa hß╗ç thß╗æng kh├┤ng chß╗ë l├á dß╗▒ ─æo├ín ch├¡nh x├íc c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc m├á c├▓n sß╗¡ dß╗Ñng c├íc dß╗▒ ─æo├ín n├áy trong qu├í tr├¼nh tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính. Mß╗Öt m├┤ h├¼nh duy tr├¼ ─æ╞░ß╗úc t├¡nh hß╗úp l├╜ vß║¡t l├╜ sß║╜ gi├║p n├óng cao ─æß╗Ö tin cß║¡y cß╗ºa kß║┐t quß║ú tß╗æi ╞░u h├│a v├á giß║úm nguy c╞í xuß║Ñt hiß╗çn c├íc nghiß╗çm tß╗æi ╞░u kh├┤ng ph├╣ hß╗úp vß╗¢i thß╗▒c tß║┐ kh├¡ ─æß╗Öng hß╗ìc.
+||Heading 3||2.7.6. ─É├ính gi├í theo nh├│m h├¼nh hß╗ìc
+||Body Text||Mß╗Öt trong nhß╗»ng hß║ín chß║┐ cß╗ºa c├íc chß╗ë ti├¬u ─æ├ính gi├í truyß╗ün thß╗æng l├á ch├║ng xem mß╗ìi mß║½u dß╗» liß╗çu l├á ─æß╗Öc lß║¡p v├á c├│ c├╣ng mß╗⌐c ─æß╗Ö quan trß╗ìng. Trong khi ─æ├│, dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc th╞░ß╗¥ng ─æ╞░ß╗úc tß╗ò chß╗⌐c theo cß║Ñu tr├║c h├¼nh hß╗ìc. Mß╗ùi bi├¬n dß║íng c├ính c├│ thß╗â xuß║Ñt hiß╗çn nhiß╗üu lß║ºn trong tß║¡p dß╗» liß╗çu t╞░╞íng ß╗⌐ng vß╗¢i c├íc gi├í trß╗ï g├│c tß║Ñn v├á Reynolds Number kh├íc nhau.
+||Body Text||Do ─æ├│, mß╗Öt m├┤ h├¼nh c├│ thß╗â ─æß║ít sai sß╗æ thß║Ñp tr├¬n to├án bß╗Ö tß║¡p dß╗» liß╗çu nh╞░ng vß║½n hoß║ít ─æß╗Öng k├⌐m ─æß╗æi vß╗¢i mß╗Öt sß╗æ nh├│m h├¼nh hß╗ìc cß╗Ñ thß╗â. ─Éiß╗üu n├áy ─æß║╖c biß╗çt quan trß╗ìng trong b├ái to├ín thiß║┐t kß║┐ bi├¬n dß║íng mß╗¢i, bß╗ƒi mß╗Ñc ti├¬u thß╗▒c tß║┐ kh├┤ng phß║úi l├á dß╗▒ ─æo├ín lß║íi c├íc h├¼nh dß║íng ─æ├ú biß║┐t m├á l├á dß╗▒ ─æo├ín ch├¡nh x├íc ─æß╗æi vß╗¢i nhß╗»ng h├¼nh hß╗ìc ch╞░a tß╗½ng xuß║Ñt hiß╗çn trong qu├í tr├¼nh huß║Ñn luyß╗çn.
+||Body Text||─Éß╗â khß║»c phß╗Ñc hß║ín chß║┐ n├áy, nghi├¬n cß╗⌐u ─æ├ính gi├í m├┤ h├¼nh tr├¬n tß╗½ng nh├│m h├¼nh hß╗ìc ri├¬ng biß╗çt th├┤ng qua c├íc chß╗ë ti├¬u:
+||Body Text||trong ─æ├│ l├á sai sß╗æ trung b├¼nh cß╗ºa bi├¬n dß║íng thß╗⌐ .
+||Body Text||Tß╗½ c├íc gi├í trß╗ï n├áy c├│ thß╗â x├íc ─æß╗ïnh:
+||Body Text||Best Geometry Error;
+||Body Text||Median Geometry Error;
+||Body Text||Worst Geometry Error.
+||Body Text||Viß╗çc ph├ón t├¡ch sai sß╗æ theo tß╗½ng nh├│m h├¼nh hß╗ìc gi├║p x├íc ─æß╗ïnh c├íc v├╣ng cß╗ºa Geometry Manifold m├á m├┤ h├¼nh hß╗ìc tß╗æt hoß║╖c hß╗ìc k├⌐m. ─Éß╗ông thß╗¥i, ph╞░╞íng ph├íp n├áy cho ph├⌐p ─æ├ính gi├í khß║ú n─âng ngoß║íi suy h├¼nh hß╗ìc (geometry extrapolation) cß╗ºa m├┤ h├¼nh mß╗Öt c├ích trß╗▒c tiß║┐p h╞ín so vß╗¢i c├íc chß╗ë ti├¬u tß╗òng hß╗úp truyß╗ün thß╗æng.
+||Body Text||─É├ính gi├í theo nh├│m h├¼nh hß╗ìc c├│ ├╜ ngh─⌐a ─æß║╖c biß╗çt quan trß╗ìng v├¼ mß╗Ñc ti├¬u cuß╗æi c├╣ng cß╗ºa hß╗ç thß╗æng l├á tß╗æi ╞░u h├│a v├á sinh ra c├íc bi├¬n dß║íng mß╗¢i. Mß╗Öt m├┤ h├¼nh chß╗ë ─æß║ít sai sß╗æ thß║Ñp tr├¬n tß║¡p dß╗» liß╗çu tß╗òng thß╗â nh╞░ng c├│ sai sß╗æ lß╗¢n ─æß╗æi vß╗¢i mß╗Öt sß╗æ nh├│m h├¼nh hß╗ìc sß║╜ tiß╗üm ß║⌐n rß╗ºi ro khi ─æ╞░ß╗úc sß╗¡ dß╗Ñng trong v├▓ng lß║╖p tß╗æi ╞░u h├│a. V├¼ vß║¡y, kß║┐t quß║ú Leave-One-Geometry-Out v├á ph├ón t├¡ch sai sß╗æ theo tß╗½ng geometry ─æ╞░ß╗úc xem l├á ti├¬u ch├¡ ─æ├ính gi├í quan trß╗ìng b├¬n cß║ính MAE, RMSE v├á .
+||Heading 1||CH╞»╞áNG 3 GIß║óI QUYß║╛T Vß║ñN ─Éß╗Ç
+||Heading 2||3.1. Tß╗òng quan qu├í tr├¼nh nghi├¬n cß╗⌐u
+||Body Text||Kh├íc vß╗¢i c├íc ph╞░╞íng ph├íp m├┤ phß╗Ång CFD truyß╗ün thß╗æng, trong ─æ├│ mß╗ùi lß║ºn ─æ├ính gi├í mß╗Öt bi├¬n dß║íng mß╗¢i ─æß╗üu y├¬u cß║ºu thß╗▒c hiß╗çn qu├í tr├¼nh giß║úi sß╗æ tß╗æn k├⌐m vß╗ü thß╗¥i gian t├¡nh to├ín, hß╗ç thß╗æng CKi_ML h╞░ß╗¢ng tß╗¢i viß╗çc hß╗ìc mß╗æi quan hß╗ç giß╗»a h├¼nh hß╗ìc bi├¬n dß║íng, ─æiß╗üu kiß╗çn d├▓ng chß║úy v├á c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc tß╗½ dß╗» liß╗çu ─æ├ú c├│. Sau khi ─æ╞░ß╗úc huß║Ñn luyß╗çn, m├┤ h├¼nh c├│ thß╗â dß╗▒ ─æo├ín nhanh c├íc hß╗ç sß╗æ lß╗▒c n├óng ((C_L)), lß╗▒c cß║ún ((C_D)) v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc ((C_M)) m├á kh├┤ng cß║ºn thß╗▒c hiß╗çn lß║íi to├án bß╗Ö qu├í tr├¼nh m├┤ phß╗Ång CFD.
+||Body Text||Quy tr├¼nh x├óy dß╗▒ng hß╗ç thß╗æng CKi_ML bao gß╗ôm n─âm giai ─æoß║ín ch├¡nh:
+||Body Text||Thu thß║¡p v├á x├óy dß╗▒ng bß╗Ö dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc tß╗½ c├íc bi├¬n dß║íng c├ính v├á c├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy kh├íc nhau.
+||Body Text||Tiß╗ün xß╗¡ l├╜ v├á chuß║⌐n h├│a h├¼nh hß╗ìc nhß║▒m ─æ╞░a c├íc bi├¬n dß║íng vß╗ü c├╣ng hß╗ç quy chiß║┐u h├¼nh hß╗ìc.
+||Body Text||Tr├¡ch xuß║Ñt c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc c├│ ├╜ ngh─⌐a vß║¡t l├╜ tß╗½ tß║¡p tß╗ìa ─æß╗Ö bi├¬n dß║íng.
+||Body Text||Huß║Ñn luyß╗çn c├íc m├┤ h├¼nh hß╗ìc m├íy ─æß╗â x├óy dß╗▒ng surrogate model dß╗▒ ─æo├ín c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Sß╗¡ dß╗Ñng c├íc m├┤ h├¼nh surrogate trong qu├í tr├¼nh tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính.
+||Heading 5||H├¼nh 3.1.1. Quy tr├¼nh tß╗òng thß╗â x├óy dß╗▒ng hß╗ç thß╗æng thay thß║┐.
+||Body Text||Trong quy tr├¼nh tr├¬n, giai ─æoß║ín xß╗¡ l├╜ h├¼nh hß╗ìc v├á tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng ─æ├│ng vai tr├▓ cß║ºu nß╗æi giß╗»a dß╗» liß╗çu h├¼nh hß╗ìc v├á m├┤ h├¼nh hß╗ìc m├íy. C├íc tß╗ìa ─æß╗Ö bi├¬n dß║íng ban ─æß║ºu ─æ╞░ß╗úc chuyß╗ân ─æß╗òi th├ánh c├íc descriptor h├¼nh hß╗ìc nh╞░ ─æß╗Ö d├áy cß╗▒c ─æß║íi, vß╗ï tr├¡ ─æß╗Ö d├áy cß╗▒c ─æß║íi, ─æß╗Ö cong cß╗▒c ─æß║íi, b├ín k├¡nh m├⌐p tr╞░ß╗¢c v├á c├íc ─æß║╖c tr╞░ng v├╣ng m├⌐p sau. Nhß╗»ng ─æß║╖c tr╞░ng n├áy vß╗½a gi├║p giß║úm sß╗æ chiß╗üu dß╗» liß╗çu vß╗½a bß║úo to├án c├íc th├┤ng tin kh├¡ ─æß╗Öng hß╗ìc quan trß╗ìng cß╗ºa bi├¬n dß║íng c├ính.
+||Body Text||Tiß║┐p theo, c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc ─æ╞░ß╗úc kß║┐t hß╗úp vß╗¢i c├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy nh╞░ g├│c tß║Ñn v├á sß╗æ Reynolds ─æß╗â tß║ío th├ánh bß╗Ö dß╗» liß╗çu ─æß║ºu v├áo cho c├íc m├┤ h├¼nh hß╗ìc m├íy. C├íc m├┤ h├¼nh surrogate sau khi ─æ╞░ß╗úc huß║Ñn luyß╗çn sß║╜ ─æ╞░ß╗úc sß╗¡ dß╗Ñng ─æß╗â dß╗▒ ─æo├ín nhanh c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc, ─æß╗ông thß╗¥i ─æ├│ng vai tr├▓ h├ám ─æ├ính gi├í trong qu├í tr├¼nh tß╗æi ╞░u h├│a bi├¬n dß║íng c├ính.
+||Heading 3||3.2. Thu thß║¡p v├á x├óy dß╗▒ng bß╗Ö dß╗» liß╗çu
+||Body Text||Chß║Ñt l╞░ß╗úng cß╗ºa m├┤ h├¼nh hß╗ìc m├íy phß╗Ñ thuß╗Öc trß╗▒c tiß║┐p v├áo chß║Ñt l╞░ß╗úng dß╗» liß╗çu ─æ╞░ß╗úc sß╗¡ dß╗Ñng trong qu├í tr├¼nh huß║Ñn luyß╗çn. Trong c├íc b├ái to├ín dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc, dß╗» liß╗çu kh├┤ng chß╗ë ─æ├│ng vai tr├▓ l├á nguß╗ôn th├┤ng tin ─æß╗â m├┤ h├¼nh hß╗ìc ─æ╞░ß╗úc mß╗æi quan hß╗ç giß╗»a h├¼nh hß╗ìc v├á ─æß║╖c t├¡nh d├▓ng chß║úy, m├á c├▓n quyß║┐t ─æß╗ïnh phß║ím vi ├íp dß╗Ñng v├á khß║ú n─âng tß╗òng qu├ít h├│a cß╗ºa m├┤ h├¼nh ─æß╗æi vß╗¢i c├íc cß║Ñu h├¼nh h├¼nh hß╗ìc mß╗¢i. Do ─æ├│, viß╗çc x├óy dß╗▒ng mß╗Öt bß╗Ö dß╗» liß╗çu c├│ t├¡nh ─æa dß║íng vß╗ü h├¼nh hß╗ìc, ─æß║ºy ─æß╗º vß╗ü ─æiß╗üu kiß╗çn vß║¡n h├ánh v├á nhß║Ñt qu├ín vß╗ü mß║╖t biß╗âu diß╗àn l├á mß╗Öt y├¬u cß║ºu quan trß╗ìng ─æß╗æi vß╗¢i to├án bß╗Ö hß╗ç thß╗æng hß╗ìc m├íy.
+||Heading 3||3.2.1. Nguß╗ôn dß╗» liß╗çu h├¼nh hß╗ìc bi├¬n dß║íng c├ính
+||Body Text||Nguß╗ôn dß╗» liß╗çu h├¼nh hß╗ìc ─æ╞░ß╗úc thu thß║¡p tß╗½ c├íc c╞í sß╗ƒ dß╗» liß╗çu airfoil c├┤ng khai ─æ╞░ß╗úc sß╗¡ dß╗Ñng rß╗Öng r├úi trong cß╗Öng ─æß╗ông nghi├¬n cß╗⌐u kh├¡ ─æß╗Öng hß╗ìc. C├íc c╞í sß╗ƒ dß╗» liß╗çu n├áy chß╗⌐a h├áng ngh├¼n bi├¬n dß║íng c├ính thuß╗Öc nhiß╗üu hß╗ì h├¼nh hß╗ìc kh├íc nhau, tß╗½ c├íc bi├¬n dß║íng cß╗ò ─æiß╗ân ─æß║┐n c├íc bi├¬n dß║íng tß╗æi ╞░u h├│a hiß╗çn ─æß║íi.
+||Body Text||Trong nghi├¬n cß╗⌐u n├áy, dß╗» liß╗çu h├¼nh hß╗ìc ─æ╞░ß╗úc thu thß║¡p chß╗º yß║┐u tß╗½ c├íc nguß╗ôn nh╞░:
+||Body Text||AirfoilTools Database;
+||Body Text||UIUC Airfoil Database; [13].
+||Heading 5||H├¼nh 3.2.1. mß╗Öt sß╗æ bi├¬n dß║íng c├ính m├íy bay
+||Body Text||C├íc bi├¬n dß║íng ─æ╞░ß╗úc l╞░u trß╗» d╞░ß╗¢i dß║íng tß╗çp DAT, trong ─æ├│ mß╗ùi tß╗çp chß╗⌐a tß║¡p hß╗úp c├íc ─æiß╗âm tß╗ìa ─æß╗Ö m├┤ tß║ú mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i cß╗ºa bi├¬n dß║íng c├ính. Mß╗ùi ─æiß╗âm ─æ╞░ß╗úc biß╗âu diß╗àn bß╗ƒi cß║╖p tß╗ìa ─æß╗Ö (x, y) trong hß╗ç tß╗ìa ─æß╗Ö hai chiß╗üu.
+||Body Text||╞»u ─æiß╗âm cß╗ºa viß╗çc sß╗¡ dß╗Ñng dß╗» liß╗çu tß╗½ nhiß╗üu nguß╗ôn kh├íc nhau l├á gi├║p t─âng t├¡nh ─æa dß║íng h├¼nh hß╗ìc cß╗ºa bß╗Ö dß╗» liß╗çu. Thay v├¼ chß╗ë giß╗¢i hß║ín trong mß╗Öt hß╗ì bi├¬n dß║íng cß╗Ñ thß╗â nh╞░ NACA 4-Digit hoß║╖c NACA 5-Digit, tß║¡p dß╗» liß╗çu c├│ khß║ú n─âng bao phß╗º nhiß╗üu kiß╗âu h├¼nh dß║íng kh├íc nhau vß╗ü ─æß╗Ö d├áy, ─æß╗Ö cong, b├ín k├¡nh m├⌐p tr╞░ß╗¢c v├á ─æß║╖c t├¡nh m├⌐p sau. ─Éiß╗üu n├áy gi├║p m├┤ h├¼nh hß╗ìc m├íy tiß║┐p cß║¡n ─æ╞░ß╗úc mß╗Öt kh├┤ng gian h├¼nh hß╗ìc rß╗Öng h╞ín v├á hß║ín chß║┐ nguy c╞í hß╗ìc qu├í mß╗⌐c ─æß╗æi vß╗¢i mß╗Öt hß╗ì bi├¬n dß║íng nhß║Ñt ─æß╗ïnh.
+||Body Text||Tuy nhi├¬n, viß╗çc kß║┐t hß╗úp dß╗» liß╗çu tß╗½ nhiß╗üu nguß╗ôn c┼⌐ng ─æß║╖t ra nhß╗»ng th├ích thß╗⌐c nhß║Ñt ─æß╗ïnh. C├íc tß╗çp DAT th╞░ß╗¥ng c├│ sß╗æ l╞░ß╗úng ─æiß╗âm kh├íc nhau, c├ích sß║»p xß║┐p ─æiß╗âm kh├┤ng ─æß╗ông nhß║Ñt v├á ─æ├┤i khi chß╗⌐a c├íc sai lß╗çch h├¼nh hß╗ìc nhß╗Å do qu├í tr├¼nh sß╗æ h├│a. V├¼ vß║¡y, to├án bß╗Ö dß╗» liß╗çu h├¼nh hß╗ìc cß║ºn ─æ╞░ß╗úc chuß║⌐n h├│a tr╞░ß╗¢c khi sß╗¡ dß╗Ñng trong qu├í tr├¼nh x├óy dß╗▒ng bß╗Ö dß╗» liß╗çu hß╗ìc m├íy.
+||Heading 3||3.2.2. X├óy dß╗▒ng dß╗» liß╗çu kh├¡ ─æß╗Öng hß╗ìc
+||Body Text||B├¬n cß║ính h├¼nh hß╗ìc bi├¬n dß║íng, bß╗Ö dß╗» liß╗çu c├▓n cß║ºn chß╗⌐a c├íc th├┤ng tin phß║ún ├ính ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa tß╗½ng cß║Ñu h├¼nh c├ính trong c├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy kh├íc nhau.
+||Body Text||─Éß╗æi vß╗¢i mß╗ùi bi├¬n dß║íng, nghi├¬n cß╗⌐u thß╗▒c hiß╗çn ph├ón t├¡ch kh├¡ ─æß╗Öng hß╗ìc tß║íi nhiß╗üu gi├í trß╗ï g├│c tß║Ñn v├á sß╗æ Reynolds kh├íc nhau nhß║▒m thu ─æ╞░ß╗úc c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc t╞░╞íng ß╗⌐ng. Mß╗ùi mß║½u dß╗» liß╗çu ─æ╞░ß╗úc x├óy dß╗▒ng tß╗½ ba th├ánh phß║ºn ch├¡nh:
+||Body Text||h├¼nh hß╗ìc bi├¬n dß║íng c├ính;
+||Body Text||─æiß╗üu kiß╗çn d├▓ng chß║úy;
+||Body Text||kß║┐t quß║ú kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||C├│ thß╗â m├┤ tß║ú qu├í tr├¼nh sinh dß╗» liß╗çu theo dß║íng ├ính xß║í:
+||Body Text||Trong ─æ├│:
+||Body Text||Geometry l├á h├¼nh hß╗ìc bi├¬n dß║íng c├ính;
+||Body Text||Re l├á sß╗æ Reynolds;
+||Body Text||AoA l├á g├│c tß║Ñn;
+||Body Text||CL l├á hß╗ç sß╗æ lß╗▒c n├óng;
+||Body Text||CD l├á hß╗ç sß╗æ lß╗▒c cß║ún;
+||Body Text||CM l├á hß╗ç sß╗æ m├┤ men kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Kh├íc vß╗¢i c├íc b├ái to├ín hß╗ìc m├íy truyß╗ün thß╗æng chß╗ë c├│ mß╗Öt ─æß║ºu ra duy nhß║Ñt, nghi├¬n cß╗⌐u n├áy ─æß╗ông thß╗¥i quan t├óm tß╗¢i nhiß╗üu ─æß║íi l╞░ß╗úng kh├¡ ─æß╗Öng hß╗ìc. ─Éiß╗üu n├áy xuß║Ñt ph├ít tß╗½ thß╗▒c tß║┐ rß║▒ng hiß╗çu suß║Ñt cß╗ºa mß╗Öt bi├¬n dß║íng c├ính kh├┤ng thß╗â ─æ╞░ß╗úc ─æ├ính gi├í chß╗ë th├┤ng qua mß╗Öt chß╗ë sß╗æ ─æ╞ín lß║╗. Mß╗Öt bi├¬n dß║íng c├│ lß╗▒c n├óng cao ch╞░a chß║»c ─æ├ú l├á bi├¬n dß║íng tß╗æt nß║┐u lß╗▒c cß║ún t─âng mß║ính hoß║╖c m├┤ men kh├¡ ─æß╗Öng hß╗ìc kh├┤ng ß╗òn ─æß╗ïnh.
+||Body Text||Do ─æ├│, viß╗çc x├óy dß╗▒ng dß╗» liß╗çu bao gß╗ôm ─æß╗ông thß╗¥i CL, CD v├á CM cho ph├⌐p nghi├¬n cß╗⌐u ─æ├ính gi├í ─æß║ºy ─æß╗º h╞ín ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa tß╗½ng bi├¬n dß║íng.
+||Heading 3||3.2.3. Miß╗ün khß║úo s├ít kh├¡ ─æß╗Öng hß╗ìc
+||Body Text||Mß╗Öt trong nhß╗»ng yß║┐u tß╗æ quan trß╗ìng ß║únh h╞░ß╗ƒng ─æß║┐n chß║Ñt l╞░ß╗úng dß╗» liß╗çu l├á phß║ím vi khß║úo s├ít cß╗ºa c├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy.
+||Body Text||Nß║┐u miß╗ün khß║úo s├ít qu├í hß║╣p, m├┤ h├¼nh hß╗ìc m├íy chß╗ë hß╗ìc ─æ╞░ß╗úc mß╗Öt phß║ºn nhß╗Å h├ánh vi kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng. Ng╞░ß╗úc lß║íi, nß║┐u miß╗ün khß║úo s├ít ─æß╗º rß╗Öng, m├┤ h├¼nh c├│ khß║ú n─âng m├┤ tß║ú ─æ╞░ß╗úc nhiß╗üu trß║íng th├íi d├▓ng chß║úy kh├íc nhau, tß╗½ v├╣ng hoß║ít ─æß╗Öng tuyß║┐n t├¡nh cho tß╗¢i v├╣ng gß║ºn thß║Ñt tß╗æc.
+||Body Text||Trong nghi├¬n cß╗⌐u n├áy, dß╗» liß╗çu ─æ╞░ß╗úc x├óy dß╗▒ng tr├¬n nhiß╗üu gi├í trß╗ï g├│c tß║Ñn v├á Reynolds Number kh├íc nhau nhß║▒m phß║ún ├ính c├íc ─æiß╗üu kiß╗çn vß║¡n h├ánh phß╗ò biß║┐n cß╗ºa bi├¬n dß║íng c├ính.
+||Body Text||G├│c tß║Ñn ─æ╞░ß╗úc khß║úo s├ít trong khoß║úng:
+||Body Text||Khoß║úng khß║úo s├ít n├áy cho ph├⌐p bao phß╗º:
+||Body Text||v├╣ng lß╗▒c n├óng ├óm;
+||Body Text||v├╣ng l├ám viß╗çc tuyß║┐n t├¡nh;
+||Body Text||v├╣ng gß║ºn thß║Ñt tß╗æc;
+||Body Text||v├╣ng sau thß║Ñt tß╗æc.
+||Body Text||B├¬n cß║ính ─æ├│, sß╗æ Reynolds ─æ╞░ß╗úc khß║úo s├ít tß║íi nhiß╗üu mß╗⌐c kh├íc nhau nhß║▒m phß║ún ├ính sß╗▒ thay ─æß╗òi cß╗ºa ─æiß╗üu kiß╗çn d├▓ng chß║úy:
+||Body Text||Viß╗çc lß╗▒a chß╗ìn nhiß╗üu mß╗⌐c Reynolds gi├║p bß╗Ö dß╗» liß╗çu phß║ún ├ính ─æ╞░ß╗úc ß║únh h╞░ß╗ƒng cß╗ºa lß╗¢p bi├¬n, qu├í tr├¼nh chuyß╗ân tiß║┐p d├▓ng tß║ºng ΓÇô d├▓ng rß╗æi v├á xu h╞░ß╗¢ng t├ích d├▓ng ─æß╗æi vß╗¢i c├íc cß║Ñu h├¼nh h├¼nh hß╗ìc kh├íc nhau.
+||Body Text||Nhß╗¥ ─æ├│, m├┤ h├¼nh hß╗ìc m├íy kh├┤ng chß╗ë hß╗ìc ─æ╞░ß╗úc quan hß╗ç giß╗»a h├¼nh hß╗ìc v├á kh├¡ ─æß╗Öng hß╗ìc m├á c├▓n hß╗ìc ─æ╞░ß╗úc ß║únh h╞░ß╗ƒng cß╗ºa ─æiß╗üu kiß╗çn vß║¡n h├ánh tß╗¢i c├íc hß╗ç sß╗æ kh├¡ ─æß╗Öng hß╗ìc.
+||Heading 4||Bß║úng 3.2.1. Miß╗ün gi├í trß╗ï cß╗ºa dß╗» liß╗çu gß╗æc
+||Heading 2||3.3. Tiß╗ün xß╗¡ l├╜ v├á kiß╗âm so├ít chß║Ñt l╞░ß╗úng dß╗» liß╗çu
+||Body Text||Dß╗» liß╗çu bi├¬n dß║íng c├ính ─æ╞░ß╗úc thu thß║¡p tß╗½ nhiß╗üu nguß╗ôn kh├íc nhau nh╞░ UIUC Airfoil Database, AirfoilTools v├á c├íc hß╗ì bi├¬n dß║íng NACA. Mß║╖c d├╣ c├íc dß╗» liß╗çu n├áy ─æß╗üu ─æ╞░ß╗úc l╞░u trß╗» d╞░ß╗¢i dß║íng tß║¡p hß╗úp c├íc ─æiß╗âm tß╗ìa ─æß╗Ö hai chiß╗üu, nh╞░ng ch├║ng kh├┤ng ho├án to├án ─æß╗ông nhß║Ñt vß╗ü sß╗æ l╞░ß╗úng ─æiß╗âm, hß╗ç tß╗ìa ─æß╗Ö v├á c├ích m├┤ tß║ú h├¼nh hß╗ìc.
+||Body Text||Trong thß╗▒c tß║┐, mß╗Öt sß╗æ bi├¬n dß║íng ─æ╞░ß╗úc m├┤ tß║ú bß╗ƒi v├ái chß╗Ñc ─æiß╗âm tß╗ìa ─æß╗Ö, trong khi mß╗Öt sß╗æ kh├íc c├│ thß╗â chß╗⌐a h├áng tr─âm ─æiß╗âm. Ngo├ái ra, vß╗ï tr├¡ m├⌐p tr╞░ß╗¢c, m├⌐p sau v├á chiß╗üu d├ái d├óy cung giß╗»a c├íc file dß╗» liß╗çu c┼⌐ng c├│ thß╗â kh├íc nhau. Nhß╗»ng kh├íc biß╗çt n├áy g├óy kh├│ kh─ân cho qu├í tr├¼nh tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng v├á x├óy dß╗▒ng m├┤ h├¼nh hß╗ìc m├íy.
+||Body Text||Do ─æ├│, tr╞░ß╗¢c khi tiß║┐n h├ánh ph├ón t├¡ch h├¼nh hß╗ìc v├á huß║Ñn luyß╗çn m├┤ h├¼nh, cß║ºn thß╗▒c hiß╗çn qu├í tr├¼nh tiß╗ün xß╗¡ l├╜ nhß║▒m ─æ╞░a to├án bß╗Ö c├íc bi├¬n dß║íng vß╗ü c├╣ng mß╗Öt hß╗ç quy chiß║┐u h├¼nh hß╗ìc thß╗æng nhß║Ñt. Qu├í tr├¼nh n├áy gi├║p loß║íi bß╗Å c├íc sai kh├íc kh├┤ng li├¬n quan ─æß║┐n ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc thß╗▒c sß╗▒ cß╗ºa bi├¬n dß║íng, ─æß╗ông thß╗¥i ─æß║úm bß║úo t├¡nh nhß║Ñt qu├ín cß╗ºa dß╗» liß╗çu ─æß║ºu v├áo.
+||Body Text||Trong nghi├¬n cß╗⌐u n├áy, quy tr├¼nh tiß╗ün xß╗¡ l├╜ bao gß╗ôm ba b╞░ß╗¢c ch├¡nh:
+||Body Text||chuß║⌐n h├│a h├¼nh hß╗ìc;
+||Body Text||nß╗Öi suy lß║íi sß╗æ l╞░ß╗úng ─æiß╗âm tß╗ìa ─æß╗Ö;
+||Body Text||kiß╗âm tra t├¡nh hß╗úp lß╗ç cß╗ºa bi├¬n dß║íng.
+||Heading 3||3.3.1. Chuß║⌐n ho├í h├¼nh hß╗ìc bi├¬n dß║íng
+||Body Text||C├íc bi├¬n dß║íng thu thß║¡p tß╗½ nhiß╗üu nguß╗ôn kh├íc nhau th╞░ß╗¥ng c├│ k├¡ch th╞░ß╗¢c tuyß╗çt ─æß╗æi kh├┤ng giß╗æng nhau. Tuy nhi├¬n, trong b├ái to├ín kh├¡ ─æß╗Öng hß╗ìc hai chiß╗üu, h├¼nh dß║íng t╞░╞íng ─æß╗æi cß╗ºa bi├¬n dß║íng mß╗¢i l├á yß║┐u tß╗æ quyß║┐t ─æß╗ïnh ─æß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc, trong khi k├¡ch th╞░ß╗¢c tuyß╗çt ─æß╗æi c├│ thß╗â ─æ╞░ß╗úc m├┤ tß║ú ri├¬ng th├┤ng qua sß╗æ Reynolds.
+||Body Text||V├¼ l├╜ do ─æ├│, tß║Ñt cß║ú c├íc bi├¬n dß║íng ─æ╞░ß╗úc chuß║⌐n h├│a theo chiß╗üu d├ái d├óy cung ─æ╞ín vß╗ï:
+||Body Text||Sau qu├í tr├¼nh chuß║⌐n h├│a, m├⌐p tr╞░ß╗¢c ─æ╞░ß╗úc ─æ╞░a vß╗ü vß╗ï tr├¡:
+||Body Text||v├á m├⌐p sau ─æ╞░ß╗úc ─æ╞░a vß╗ü vß╗ï tr├¡:
+||Body Text||Nhß╗¥ ─æ├│, to├án bß╗Ö c├íc bi├¬n dß║íng ─æ╞░ß╗úc biß╗âu diß╗àn trong c├╣ng mß╗Öt hß╗ç tß╗ìa ─æß╗Ö chuß║⌐n h├│a.
+||Body Text||Viß╗çc chuß║⌐n h├│a mang lß║íi ba lß╗úi ├¡ch ch├¡nh.
+||Body Text||Thß╗⌐ nhß║Ñt, loß║íi bß╗Å ß║únh h╞░ß╗ƒng cß╗ºa k├¡ch th╞░ß╗¢c tuyß╗çt ─æß╗æi giß╗»a c├íc bi├¬n dß║íng kh├íc nhau.
+||Body Text||Thß╗⌐ hai, tß║ío ─æiß╗üu kiß╗çn thuß║¡n lß╗úi cho viß╗çc so s├ính trß╗▒c tiß║┐p c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc nh╞░ ─æß╗Ö d├áy cß╗▒c ─æß║íi hoß║╖c ─æß╗Ö cong cß╗▒c ─æß║íi.
+||Body Text||Thß╗⌐ ba, gi├║p c├íc m├┤ h├¼nh hß╗ìc m├íy tß║¡p trung v├áo sß╗▒ kh├íc biß╗çt h├¼nh hß╗ìc thß╗▒c sß╗▒ thay v├¼ hß╗ìc c├íc biß║┐n ─æß╗òi tß╗ë lß╗ç kh├┤ng c├│ ├╜ ngh─⌐a kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Sau b╞░ß╗¢c chuß║⌐n h├│a, mß╗ìi bi├¬n dß║íng trong c╞í sß╗ƒ dß╗» liß╗çu ─æß╗üu ─æ╞░ß╗úc biß╗âu diß╗àn tr├¬n c├╣ng miß╗ün tß╗ìa ─æß╗Ö:
+||Body Text||─æ├óy c┼⌐ng l├á c╞í sß╗ƒ cho qu├í tr├¼nh nß╗Öi suy h├¼nh hß╗ìc ß╗ƒ b╞░ß╗¢c tiß║┐p theo.
+||Heading 3||3.3.2. Nß╗Öi suy lß║íi sß╗æ l╞░ß╗úng ─æiß╗âm tß╗ìa ─æß╗Ö
+||Body Text||Mß║╖c d├╣ ─æ├ú ─æ╞░ß╗úc chuß║⌐n h├│a vß╗ü chiß╗üu d├ái d├óy cung, c├íc bi├¬n dß║íng vß║½n c├│ sß╗▒ kh├íc biß╗çt ─æ├íng kß╗â vß╗ü sß╗æ l╞░ß╗úng ─æiß╗âm m├┤ tß║ú.
+||Body Text||V├¡ dß╗Ñ, mß╗Öt sß╗æ file DAT chß╗ë chß╗⌐a khoß║úng 60 ─æß║┐n 80 ─æiß╗âm, trong khi c├íc bi├¬n dß║íng kh├íc c├│ thß╗â chß╗⌐a tr├¬n 200 ─æiß╗âm. ─Éiß╗üu n├áy g├óy kh├│ kh─ân cho viß╗çc xß╗¡ l├╜ dß╗» liß╗çu h├áng loß║ít v├¼ c├íc m├┤ h├¼nh hß╗ìc m├íy y├¬u cß║ºu c├íc mß║½u dß╗» liß╗çu phß║úi c├│ c├╣ng cß║Ñu tr├║c.
+||Body Text||─Éß╗â giß║úi quyß║┐t vß║Ñn ─æß╗ü n├áy, mß╗ùi bi├¬n dß║íng ─æ╞░ß╗úc nß╗Öi suy lß║íi th├ánh mß╗Öt sß╗æ l╞░ß╗úng ─æiß╗âm cß╗æ ─æß╗ïnh.
+||Body Text||Trong hß╗ç thß╗æng b├ái n├áy, mß╗ùi bi├¬n dß║íng ─æ╞░ß╗úc lß║Ñy mß║½u lß║íi th├ánh:
+||Body Text||120 ─æiß╗âm mß║╖t tr├¬n;
+||Body Text||120 ─æiß╗âm mß║╖t d╞░ß╗¢i.
+||Body Text||Tß╗òng cß╗Öng:
+||Body Text||─æiß╗âm tß╗ìa ─æß╗Ö cho mß╗ùi bi├¬n dß║íng.
+||Body Text||Viß╗çc sß╗¡ dß╗Ñng c├╣ng mß╗Öt sß╗æ l╞░ß╗úng ─æiß╗âm cho tß║Ñt cß║ú c├íc mß║½u mang lß║íi nhiß╗üu lß╗úi ├¡ch.
+||Body Text||Tr╞░ß╗¢c hß║┐t, n├│ gi├║p ─æß║úm bß║úo mß╗ìi bi├¬n dß║íng ─æ╞░ß╗úc m├┤ tß║ú vß╗¢i ─æß╗Ö ph├ón giß║úi t╞░╞íng ─æ╞░╞íng nhau. Thß╗⌐ hai, qu├í tr├¼nh t├¡nh to├ín c├íc ─æß║íi l╞░ß╗úng h├¼nh hß╗ìc nh╞░ ─æß╗Ö d├áy, camber hoß║╖c ─æß╗Ö cong trß╗ƒ n├¬n ß╗òn ─æß╗ïnh h╞ín. Cuß╗æi c├╣ng, viß╗çc nß╗Öi suy gi├║p giß║úm ß║únh h╞░ß╗ƒng cß╗ºa sß╗▒ kh├íc biß╗çt giß╗»a c├íc nguß╗ôn dß╗» liß╗çu kh├íc nhau.
+||Body Text||Trong nghi├¬n cß╗⌐u n├áy, nß╗Öi suy ─æ╞░ß╗úc thß╗▒c hiß╗çn tr├¬n miß╗ün d├óy cung chuß║⌐n h├│a nhß║▒m duy tr├¼ h├¼nh dß║íng tß╗òng thß╗â cß╗ºa bi├¬n dß║íng trong khi vß║½n bß║úo ─æß║úm t├¡nh nhß║Ñt qu├ín cß╗ºa dß╗» liß╗çu ─æß║ºu v├áo.
+||Heading 3||3.3.3. Kiß╗âm tra t├¡nh hß╗úp lß╗ç cß╗ºa bi├¬n dß║íng
+||Body Text||Sau khi chuß║⌐n h├│a v├á nß╗Öi suy, cß║ºn tiß║┐p tß╗Ñc kiß╗âm tra t├¡nh hß╗úp lß╗ç h├¼nh hß╗ìc cß╗ºa tß╗½ng bi├¬n dß║íng tr╞░ß╗¢c khi ─æ╞░a v├áo qu├í tr├¼nh tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng.
+||Body Text||B╞░ß╗¢c n├áy ─æß║╖c biß╗çt quan trß╗ìng v├¼ c├íc lß╗ùi h├¼nh hß╗ìc c├│ thß╗â l├ám sai lß╗çch kß║┐t quß║ú t├¡nh to├ín hoß║╖c g├óy ra c├íc gi├í trß╗ï ─æß║╖c tr╞░ng kh├┤ng c├│ ├╜ ngh─⌐a vß║¡t l├╜.
+||Body Text||Mß╗Öt bi├¬n dß║íng ─æ╞░ß╗úc xem l├á hß╗úp lß╗ç khi thß╗Åa m├ún ─æß╗ông thß╗¥i c├íc ─æiß╗üu kiß╗çn c╞í bß║ún sau:
+||Body Text||─Éiß╗üu kiß╗çn ─æß╗Ö d├áy d╞░╞íng
+||Body Text||Ph├ón bß╗æ ─æß╗Ö d├áy phß║úi thß╗Åa m├ún:
+||Body Text||tr├¬n phß║ºn lß╗¢n chiß╗üu d├ái d├óy cung. ─Éiß╗üu kiß╗çn n├áy bß║úo ─æß║úm mß║╖t tr├¬n v├á mß║╖t d╞░ß╗¢i kh├┤ng giao nhau.
+||Body Text||─Éiß╗üu kiß╗çn diß╗çn t├¡ch d╞░╞íng
+||Body Text||Diß╗çn t├¡ch mß║╖t cß║»t phß║úi lß╗¢n h╞ín kh├┤ng:
+||Body Text||Nß║┐u ─æiß╗üu kiß╗çn n├áy kh├┤ng ─æ╞░ß╗úc thß╗Åa m├ún, bi├¬n dß║íng kh├┤ng c├▓n mang ├╜ ngh─⌐a vß║¡t l├╜.
+||Body Text||─Éiß╗üu kiß╗çn kh├┤ng tß╗▒ giao nhau
+||Body Text||─É╞░ß╗¥ng bi├¬n cß╗ºa airfoil kh├┤ng ─æ╞░ß╗úc xuß║Ñt hiß╗çn c├íc ─æoß║ín tß╗▒ cß║»t hoß║╖c giao nhau.
+||Body Text||C├íc tr╞░ß╗¥ng hß╗úp tß╗▒ giao th╞░ß╗¥ng xuß║Ñt hiß╗çn do lß╗ùi dß╗» liß╗çu hoß║╖c sai sß╗æ trong qu├í tr├¼nh nß╗Öi suy v├á c├│ thß╗â g├óy mß║Ñt ß╗òn ─æß╗ïnh trong c├íc b╞░ß╗¢c t├¡nh to├ín tiß║┐p theo.
+||Body Text||─Éiß╗üu kiß╗çn h├¼nh hß╗ìc li├¬n tß╗Ñc
+||Body Text||Bi├¬n dß║íng cß║ºn duy tr├¼ t├¡nh li├¬n tß╗Ñc v├á ─æß╗Ö m╞░ß╗út hß╗úp l├╜ tß║íi v├╣ng m├⌐p tr╞░ß╗¢c v├á m├⌐p sau nhß║▒m bß║úo ─æß║úm ├╜ ngh─⌐a kh├¡ ─æß╗Öng hß╗ìc cß╗ºa h├¼nh dß║íng.
+||Body Text||Nhß╗»ng bi├¬n dß║íng kh├┤ng thß╗Åa m├ún c├íc ─æiß╗üu kiß╗çn tr├¬n sß║╜ bß╗ï loß║íi khß╗Åi tß║¡p dß╗» liß╗çu tr╞░ß╗¢c khi tiß║┐n h├ánh x├óy dß╗▒ng c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc.
+||Heading 3||3.3.4. Kiß╗âm tra kh├¡ ─æß╗Öng hß╗ìc v├á ph├ít hiß╗çn ngoß║íi lß║íi bß║▒ng isolation forest
+||Body Text||Sau khi v╞░ß╗út qua kiß╗âm tra h├¼nh hß╗ìc, dß╗» liß╗çu tiß║┐p tß╗Ñc ─æ╞░ß╗úc ─æ├ính gi├í theo c├íc quy luß║¡t kh├¡ ─æß╗Öng hß╗ìc c╞í bß║ún.
+||Body Text||C├íc mß║½u c├│:
+||Body Text||bß╗ï xem l├á kh├┤ng hß╗úp lß╗ç v├¼ lß╗▒c cß║ún kh├¡ ─æß╗Öng hß╗ìc lu├┤n kh├┤ng ├óm.
+||Body Text||T╞░╞íng tß╗▒, c├íc tr╞░ß╗¥ng hß╗úp:
+||Body Text||qu├í lß╗¢n bß║Ñt th╞░ß╗¥ng;
+||Body Text||v╞░ß╗út xa miß╗ün gi├í trß╗ï vß║¡t l├╜ cß╗ºa tß║¡p dß╗» liß╗çu;
+||Body Text||bß║Ñt th╞░ß╗¥ng;
+||Body Text||─æ╞░ß╗úc ─æ├ính dß║Ñu ─æß╗â kiß╗âm tra bß╗ò sung.
+||Body Text||Viß╗çc kiß╗âm tra n├áy gi├║p loß║íi bß╗Å c├íc kß║┐t quß║ú m├┤ phß╗Ång lß╗ùi hoß║╖c c├íc mß║½u c├│ khß║ú n─âng bß╗ï sai lß╗çch trong qu├í tr├¼nh sinh dß╗» liß╗çu.
+||Body Text||Ngay cß║ú khi thß╗Åa m├ún c├íc ─æiß╗üu kiß╗çn h├¼nh hß╗ìc v├á vß║¡t l├╜ c╞í bß║ún, mß╗Öt sß╗æ mß║½u vß║½n c├│ thß╗â nß║▒m rß║Ñt xa ph├ón bß╗æ chung cß╗ºa dß╗» liß╗çu.
+||Body Text||─Éß╗â ph├ít hiß╗çn c├íc tr╞░ß╗¥ng hß╗úp n├áy, nghi├¬n cß╗⌐u sß╗¡ dß╗Ñng thuß║¡t to├ín Isolation Forest tr├¬n kh├┤ng gian ─æß║╖c tr╞░ng h├¼nh hß╗ìc.
+||Body Text||Cho vector ─æß║╖c tr╞░ng:
+||Body Text||Isolation Forest x├óy dß╗▒ng tß║¡p c├óy ph├ón hoß║ích ngß║½u nhi├¬n v├á t├¡nh ─æiß╗âm bß║Ñt th╞░ß╗¥ng cho tß╗½ng mß║½u.
+||Body Text||Nh╞░ng tß╗æt nhß║Ñt, ─æ├ú kh├┤ng xo├í ngay lß║¡p tß╗⌐c, tr├ính tr╞░ß╗¥ng hß╗úp xo├í nhß╗»ng bi├¬n dnajg hiß║┐m nh╞░ng ─æem lß║íi gi├í trß╗ï tß╗æt, th├¼ ─æ├ú x├óy dß╗▒ng chß╗ë sß╗æ tin cß║¡y dß╗» liß╗çu ΓÇô sample_confidence
+||Body Text||Khi ─æ├│ chß╗ë sß╗æ n├áy sß║╜ phß║ún ├ính:
+||Body Text||Mß╗⌐c ─æß╗Ö hß╗úp lß╗ç h├¼nh hß╗ìc
+||Body Text||Mß╗⌐c ─æß╗Ö hß╗úp lß╗ç vß║¡t l├╜
+||Body Text||Khoß║úng c├ích tß╗¢i ph├ón bß╗æ dß╗» liß╗çu ch├¡nh
+||Body Text||Kß║┐t quß║ú ─æ├ính gi├í Isolation Forest
+||Body Text||Nhß╗¥ ─æ├│, dß╗» liß╗çu c├│ thß╗â ─æ╞░ß╗úc ph├ón tß║ºng chß║Ñt l╞░ß╗úng tr╞░ß╗¢c khi ─æ╞░a v├áo huß║Ñn luyß╗çn m├┤ h├¼nh.
+||Body Text||─Éß╗â nhß║¡n diß╗çn duy nhß║Ñt c├íc kiß╗âu h├¼nh hß╗ìc, mß╗ùi bi├¬n dß║íng c┼⌐ng sß║╜ ─æ╞░ß╗úc g├ín m├ú ─æß╗ïnh danh ΓÇô geom_hash. Viß╗çc d├╣ng ─æß╗ïnh danh n├áy sß║╜ gi├║p loß║íi bß╗Å ─æ╞░ß╗úc dß╗» liß╗çu tr├╣ng lß║╖p, quß║ún l├╜ c├íc mß║½u c├╣ng h├¼nh hß╗ìc nh╞░ng kh├íc AoA hoß║╖c Re, phß╗Ñc vß╗Ñ ─æ├ính gi├í GroupKFold tß╗æt h╞ín.
+||Heading 2||3.4. Tr├¡ch xuß║Ñt v├á x├óy dß╗▒ng ─æß║╖c tr╞░ng h├¼nh hß╗ìc
+||Heading 3||3.4.1. Nguy├¬n tß║»c x├óy dß╗▒ng descriptor h├¼nh hß╗ìc
+||Body Text||Qu├í tr├¼nh x├óy dß╗▒ng descriptor tu├ón theo ba nguy├¬n tß║»c ch├¡nh.
+||Body Text||Thß╗⌐ nhß║Ñt, descriptor phß║úi phß║ún ├ính ─æ╞░ß╗úc mß╗Öt ─æß║╖c t├¡nh h├¼nh hß╗ìc c├│ ├╜ ngh─⌐a kh├¡ ─æß╗Öng hß╗ìc r├╡ r├áng. Mß╗ùi ─æß║╖c tr╞░ng ─æ╞░ß╗úc lß╗▒a chß╗ìn ─æß╗üu cß║ºn c├│ mß╗æi li├¬n hß╗ç vß╗¢i ├¡t nhß║Ñt mß╗Öt trong c├íc c╞í chß║┐ vß║¡t l├╜ ─æ├ú tr├¼nh b├áy ß╗ƒ Ch╞░╞íng 2 nh╞░ tuß║ºn ho├án kh├¡ ─æß╗Öng hß╗ìc, sß╗▒ ph├ít triß╗ân lß╗¢p bi├¬n, t├ích d├▓ng hoß║╖c ─æiß╗üu kiß╗çn Kutta.
+||Body Text||Thß╗⌐ hai, descriptor phß║úi c├│ t├¡nh ß╗òn ─æß╗ïnh ─æß╗æi vß╗¢i sai sß╗æ nß╗Öi suy h├¼nh hß╗ìc. C├íc ─æß║íi l╞░ß╗úng ─æ╞░ß╗úc lß╗▒a chß╗ìn cß║ºn ├¡t nhß║íy cß║úm vß╗¢i nhiß╗àu dß╗» liß╗çu v├á duy tr├¼ ─æ╞░ß╗úc gi├í trß╗ï ─æß║╖c tr╞░ng khi mß║¡t ─æß╗Ö lß║Ñy mß║½u thay ─æß╗òi.
+||Body Text||Thß╗⌐ ba, descriptor phß║úi c├│ khß║ú n─âng diß╗àn giß║úi. ─Éiß╗üu n├áy gi├║p ─æ├ính gi├í vai tr├▓ cß╗ºa tß╗½ng biß║┐n trong qu├í tr├¼nh dß╗▒ ─æo├ín v├á hß╗ù trß╗ú ph├ón t├¡ch kß║┐t quß║ú sau khi huß║Ñn luyß╗çn m├┤ h├¼nh.
+||Body Text||Dß╗▒a tr├¬n c├íc nguy├¬n tß║»c tr├¬n, bß╗Ö descriptor cß╗ºa CKi_ML ─æ╞░ß╗úc chia th├ánh n─âm nh├│m ch├¡nh: ─æß║╖c tr╞░ng ─æß╗Ö d├áy, ─æß║╖c tr╞░ng ─æß╗Ö cong trung b├¼nh, ─æß║╖c tr╞░ng m├⌐p tr╞░ß╗¢c, ─æß║╖c tr╞░ng m├⌐p sau v├á ─æß║╖c tr╞░ng h├¼nh hß╗ìc tß╗òng hß╗úp.
+||Heading 3||3.4.2 Ph├ón loß║íi c├íc nh├│m ─æß║╖c tr╞░ng
+||Body Text||a. Nh├│m ─æß║╖c tr╞░ng ─æß╗Ö d├áy
+||Body Text||─Éß╗Ö d├áy l├á mß╗Öt trong nhß╗»ng yß║┐u tß╗æ ß║únh h╞░ß╗ƒng mß║ính nhß║Ñt ─æß║┐n cß║Ñu tr├║c d├▓ng chß║úy quanh bi├¬n dß║íng c├ính. N├│ quyß║┐t ─æß╗ïnh sß╗▒ ph├ít triß╗ân cß╗ºa lß╗¢p bi├¬n, vß╗ï tr├¡ t├ích d├▓ng v├á ─æß║╖c t├¡nh thß║Ñt tß╗æc cß╗ºa airfoil.
+||Body Text||Ph├ón bß╗æ ─æß╗Ö d├áy ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||Tß╗½ ph├ón bß╗æ n├áy, hß╗ç thß╗æng x├óy dß╗▒ng c├íc descriptor:
+||Body Text||max_thickness;
+||Body Text||x_max_thickness;
+||Body Text||mean_thickness;
+||Body Text||leading_edge_thickness;
+||Body Text||trailing_edge_thickness;
+||Body Text||aft_thickness.
+||Body Text||Trong ─æ├│, ─æß╗Ö d├áy cß╗▒c ─æß║íi phß║ún ├ính mß╗⌐c ─æß╗Ö ph├ít triß╗ân tß╗òng thß╗â cß╗ºa bi├¬n dß║íng, c├▓n vß╗ï tr├¡ ─æß╗Ö d├áy cß╗▒c ─æß║íi phß║ún ├ính sß╗▒ ph├ón bß╗æ ├íp suß║Ñt dß╗ìc d├óy cung. C├íc nghi├¬n cß╗⌐u kh├¡ ─æß╗Öng hß╗ìc thß╗▒c nghiß╗çm cho thß║Ñy sß╗▒ dß╗ïch chuyß╗ân cß╗ºa vß╗ï tr├¡ ─æß╗Ö d├áy cß╗▒c ─æß║íi c├│ thß╗â l├ám thay ─æß╗òi ─æ├íng kß╗â hß╗ç sß╗æ lß╗▒c cß║ún v├á ─æß║╖c t├¡nh stall cß╗ºa airfoil.
+||Body Text||─Éß╗Ö d├áy v├╣ng ─æu├┤i c├ính (aft_thickness) ─æ╞░ß╗úc bß╗ò sung nhß║▒m m├┤ tß║ú ri├¬ng h├¼nh dß║íng phß║ºn sau cß╗ºa bi├¬n dß║íng, n╞íi c├│ ß║únh h╞░ß╗ƒng trß╗▒c tiß║┐p ─æß║┐n wake v├á lß╗▒c cß║ún ├íp suß║Ñt.
+||Body Text||Nh├│m ─æß║╖c tr╞░ng ─æß╗Ö cong trung b├¼nh
+||Body Text||Khß║ú n─âng sinh lß╗▒c n├óng cß╗ºa airfoil c├│ li├¬n hß╗ç chß║╖t chß║╜ vß╗¢i ─æß╗Ö cong h├¼nh hß╗ìc cß╗ºa bi├¬n dß║íng.
+||Body Text||─É╞░ß╗¥ng cong trung b├¼nh ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||Tß╗½ ─æ├│ x├óy dß╗▒ng c├íc descriptor:
+||Body Text||max_abs_camber;
+||Body Text||x_max_abs_camber;
+||Body Text||mean_camber;
+||Body Text||aft_camber.
+||Body Text||─Éß╗Ö cong cß╗▒c ─æß║íi phß║ún ├ính khß║ú n─âng tß║ío tuß║ºn ho├án kh├¡ ─æß╗Öng hß╗ìc cß╗ºa bi├¬n dß║íng. Theo ─æß╗ïnh l├╜ KuttaΓÇôJoukowski, tuß║ºn ho├án l├á yß║┐u tß╗æ quyß║┐t ─æß╗ïnh lß╗▒c n├óng, do ─æ├│ c├íc descriptor li├¬n quan ─æß║┐n camber th╞░ß╗¥ng c├│ mß╗⌐c ─æß╗Ö quan trß╗ìng cao ─æß╗æi vß╗¢i c├íc m├┤ h├¼nh dß╗▒ ─æo├ín .
+||Body Text||Ngo├ái ra, ─æß╗Ö cong v├╣ng ─æu├┤i c├ính ─æ╞░ß╗úc sß╗¡ dß╗Ñng nhß║▒m m├┤ tß║ú ri├¬ng phß║ºn sau cß╗ºa ─æ╞░ß╗¥ng camber, n╞íi c├│ ß║únh h╞░ß╗ƒng lß╗¢n ─æß║┐n m├┤ men kh├¡ ─æß╗Öng hß╗ìc v├á ─æß║╖c t├¡nh ß╗òn ─æß╗ïnh dß╗ìc.
+||Body Text||c. Nh├│m ─æß║╖c tr╞░ng m├⌐p tr╞░ß╗¢c
+||Body Text||M├⌐p tr╞░ß╗¢c l├á vß╗ï tr├¡ ─æß║ºu ti├¬n tiß║┐p x├║c vß╗¢i d├▓ng kh├¡ v├á ─æ├│ng vai tr├▓ quan trß╗ìng trong viß╗çc h├¼nh th├ánh v├╣ng stagnation.
+||Body Text||Trong CKi_ML, hai descriptor ch├¡nh ─æ╞░ß╗úc sß╗¡ dß╗Ñng l├á:
+||Body Text||leading_edge_thickness;
+||Body Text||le_radius_proxy.
+||Body Text||B├ín k├¡nh m├⌐p tr╞░ß╗¢c thß╗▒c tß║┐ kh├│ x├íc ─æß╗ïnh ch├¡nh x├íc tß╗½ dß╗» liß╗çu tß╗ìa ─æß╗Ö rß╗¥i rß║íc. V├¼ vß║¡y, nghi├¬n cß╗⌐u sß╗¡ dß╗Ñng c├íc ─æß║íi l╞░ß╗úng xß║Ñp xß╗ë nhß║▒m phß║ún ├ính ─æß╗Ö t├╣ hoß║╖c ─æß╗Ö nhß╗ìn cß╗ºa v├╣ng m├⌐p tr╞░ß╗¢c.
+||Body Text||C├íc descriptor n├áy c├│ li├¬n hß╗ç trß╗▒c tiß║┐p vß╗¢i khß║ú n─âng chß╗æng t├ích d├▓ng sß╗¢m v├á h├ánh vi cß╗ºa bi├¬n dß║íng tß║íi c├íc g├│c tß║Ñn lß╗¢n.
+||Body Text||d. Nh├│m ─æß║╖c tr╞░ng m├⌐p sau
+||Body Text||M├⌐p sau c├│ vai tr├▓ quan trß╗ìng ─æß╗æi vß╗¢i ─æiß╗üu kiß╗çn Kutta v├á sß╗▒ ph├ít triß╗ân cß╗ºa wake ph├¡a sau c├ính.
+||Body Text||C├íc descriptor ─æ╞░ß╗úc x├óy dß╗▒ng gß╗ôm:
+||Body Text||trailing_edge_thickness;
+||Body Text||te_angle_proxy;
+||Body Text||aft_thickness;
+||Body Text||aft_camber.
+||Body Text||Nhß╗»ng ─æß║╖c tr╞░ng n├áy phß║ún ├ính cß║Ñu tr├║c h├¼nh hß╗ìc cß╗ºa v├╣ng d├▓ng chß║úy rß╗¥i khß╗Åi bi├¬n dß║íng. Ch├║ng th╞░ß╗¥ng c├│ ß║únh h╞░ß╗ƒng ─æ├íng kß╗â ─æß║┐n hß╗ç sß╗æ lß╗▒c cß║ún v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||─Éß║╖c biß╗çt, g├│c m├⌐p sau l├á mß╗Öt ─æß║íi l╞░ß╗úng th╞░ß╗¥ng ─æ╞░ß╗úc sß╗¡ dß╗Ñng trong c├íc nghi├¬n cß╗⌐u tß╗æi ╞░u h├│a airfoil nhß║▒m kiß╗âm so├ít cß║Ñu tr├║c wake v├á giß║úm lß╗▒c cß║ún ├íp suß║Ñt.
+||Body Text||e. ─Éß║╖c tr╞░ng h├¼nh hß╗ìc tß╗òng hß╗úp
+||Body Text||B├¬n cß║ính c├íc descriptor cß╗Ñc bß╗Ö, nghi├¬n cß╗⌐u c├▓n x├óy dß╗▒ng c├íc ─æß║╖c tr╞░ng m├┤ tß║ú h├¼nh dß║íng tß╗òng thß╗â cß╗ºa bi├¬n dß║íng.
+||Body Text||Diß╗çn t├¡ch mß║╖t cß║»t ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||v├á ─æ╞░ß╗úc l╞░u d╞░ß╗¢i dß║íng descriptor:
+||Body Text||section_area.
+||Body Text||Ngo├ái ra c├▓n c├│:
+||Body Text||upper_peak;
+||Body Text||lower_peak.
+||Body Text||Nh├│m descriptor n├áy cho ph├⌐p m├┤ h├¼nh nhß║¡n diß╗çn nhß╗»ng kh├íc biß╗çt h├¼nh hß╗ìc tß╗òng qu├ít giß╗»a c├íc hß╗ì airfoil kh├íc nhau m├á c├íc descriptor cß╗Ñc bß╗Ö kh├│ phß║ún ├ính ─æß║ºy ─æß╗º.
+||Heading 3||3.4.3. Kiß╗âm ─æß╗ïnh descriptor v├á x├óy dß╗▒ng chß╗ë sß╗æ chß║Ñt l╞░ß╗úng dß╗» liß╗çu
+||Body Text||Sau khi tr├¡ch xuß║Ñt, to├án bß╗Ö descriptor tiß║┐p tß╗Ñc ─æ╞░ß╗úc kiß╗âm ─æß╗ïnh nhß║▒m ph├ít hiß╗çn c├íc tr╞░ß╗¥ng hß╗úp bß║Ñt th╞░ß╗¥ng c├▓n s├│t lß║íi.
+||Body Text||C├íc ─æiß╗üu kiß╗çn kiß╗âm tra bao gß╗ôm:
+||Body Text||Nhß╗»ng descriptor vi phß║ím c├íc ─æiß╗üu kiß╗çn tr├¬n ─æ╞░ß╗úc xem l├á kh├┤ng hß╗úp lß╗ç v├á bß╗ï loß║íi bß╗Å.
+||Body Text||B├¬n cß║ính ─æ├│, hß╗ç thß╗æng c├▓n x├óy dß╗▒ng c├íc biß║┐n ─æ├ính gi├í chß║Ñt l╞░ß╗úng dß╗» liß╗çu nh╞░:
+||Body Text||rule_flags;
+||Body Text||rule_status;
+||Body Text||sample_confidence.
+||Body Text||C├íc biß║┐n n├áy tß╗òng hß╗úp kß║┐t quß║ú tß╗½ qu├í tr├¼nh kiß╗âm tra h├¼nh hß╗ìc, kiß╗âm tra vß║¡t l├╜ v├á ph├ít hiß╗çn ngoß║íi lai, qua ─æ├│ phß║ún ├ính mß╗⌐c ─æß╗Ö tin cß║¡y cß╗ºa tß╗½ng mß║½u dß╗» liß╗çu.
+||Heading 3||3.4.4. X├óy dß╗▒ng ─æß║╖c tr╞░ng ─æiß╗üu kiß╗çn d├▓ng chß║úy
+||Body Text||─Éß║╖c t├¡nh kh├¡ ─æß╗Öng hß╗ìc cß╗ºa mß╗Öt bi├¬n dß║íng kh├┤ng chß╗ë phß╗Ñ thuß╗Öc v├áo h├¼nh hß╗ìc m├á c├▓n phß╗Ñ thuß╗Öc mß║ính v├áo ─æiß╗üu kiß╗çn vß║¡n h├ánh.
+||Body Text||Do ─æ├│, bß╗Ö ─æß║╖c tr╞░ng ─æß║ºu v├áo c├▓n bao gß╗ôm:
+||Body Text||angle;
+||Body Text||abs_angle;
+||Body Text||reynolds;
+||Body Text||log10_re.
+||Body Text||Trong ─æ├│, log10_re ─æ╞░ß╗úc sß╗¡ dß╗Ñng ─æß╗â giß║úm ─æß╗Ö lß╗çch ph├ón bß╗æ cß╗ºa Reynolds Number v├á gi├║p m├┤ h├¼nh hß╗ìc hiß╗çu quß║ú h╞ín tr├¬n nhiß╗üu miß╗ün Reynolds kh├íc nhau.
+||Heading 3||3.4.5. X├óy dß╗▒ng bß╗Ö dß╗» liß╗çu hß╗ìc m├íy
+||Body Text||Sau khi ho├án th├ánh qu├í tr├¼nh tr├¡ch xuß║Ñt descriptor, dß╗» liß╗çu h├¼nh hß╗ìc ─æ╞░ß╗úc kß║┐t hß╗úp vß╗¢i ─æiß╗üu kiß╗çn d├▓ng chß║úy ─æß╗â tß║ío th├ánh vector ─æß║ºu v├áo cß╗ºa m├┤ h├¼nh hß╗ìc m├íy:
+||Body Text||Trong ─æ├│ l├á tß║¡p descriptor h├¼nh hß╗ìc.
+||Body Text||C├íc biß║┐n mß╗Ñc ti├¬u ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||Bß╗Ö dß╗» liß╗çu thu ─æ╞░ß╗úc l├á nß╗ün tß║úng cho qu├í tr├¼nh huß║Ñn luyß╗çn c├íc m├┤ h├¼nh surrogate ─æ╞░ß╗úc tr├¼nh b├áy trong c├íc mß╗Ñc tiß║┐p theo.
+||Body Text||Qu├í tr├¼nh Feature Engineering kh├┤ng ─æ╞ín thuß║ºn l├á b╞░ß╗¢c giß║úm chiß╗üu dß╗» liß╗çu m├á l├á qu├í tr├¼nh chuyß╗ân ─æß╗òi h├¼nh hß╗ìc airfoil sang mß╗Öt hß╗ç tß╗ìa ─æß╗Ö mß╗¢i c├│ ├╜ ngh─⌐a vß║¡t l├╜. C├íc descriptor ─æ╞░ß╗úc x├óy dß╗▒ng ─æ├│ng vai tr├▓ l├á cß║ºu nß╗æi giß╗»a Geometry Manifold v├á c├íc m├┤ h├¼nh hß╗ìc m├íy, gi├║p m├┤ h├¼nh khai th├íc trß╗▒c tiß║┐p c├íc yß║┐u tß╗æ h├¼nh hß╗ìc c├│ ß║únh h╞░ß╗ƒng ─æß║┐n lß╗▒c n├óng, lß╗▒c cß║ún v├á m├┤ men kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||3.5. X├éY Dß╗░NG Bß╗ÿ Dß╗« LIß╗åU Hß╗îC M├üY
+||Body Text||Sau qu├í tr├¼nh l├ám sß║ích dß╗» liß╗çu v├á tr├¡ch xuß║Ñt ─æß║╖c tr╞░ng h├¼nh hß╗ìc, mß╗ùi mß║½u dß╗» liß╗çu ─æ╞░ß╗úc biß╗âu diß╗àn d╞░ß╗¢i dß║íng mß╗Öt vector ─æß║╖c tr╞░ng bao gß╗ôm c├íc descriptor h├¼nh hß╗ìc, c├íc ─æiß╗üu kiß╗çn d├▓ng chß║úy v├á c├íc chß╗ë sß╗æ ─æ├ính gi├í chß║Ñt l╞░ß╗úng dß╗» liß╗çu. Mß╗Ñc ti├¬u cß╗ºa giai ─æoß║ín n├áy l├á x├óy dß╗▒ng mß╗Öt bß╗Ö dß╗» liß╗çu thß╗æng nhß║Ñt phß╗Ñc vß╗Ñ cho qu├í tr├¼nh huß║Ñn luyß╗çn c├íc m├┤ h├¼nh surrogate dß╗▒ ─æo├ín kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Vß╗ü mß║╖t to├ín hß╗ìc, vector ─æß║ºu v├áo cß╗ºa m├┤ h├¼nh ─æ╞░ß╗úc x├íc ─æß╗ïnh bß╗ƒi:
+||Body Text||Trong ─æ├│:
+||Body Text||l├á tß║¡p descriptor h├¼nh hß╗ìc ─æ╞░ß╗úc x├óy dß╗▒ng ß╗ƒ Mß╗Ñc 3.4;
+||Body Text||(Re) l├á sß╗æ Reynolds;
+||Body Text||l├á g├│c tß║Ñn.
+||Body Text||B├¬n cß║ính c├íc ─æß║╖c tr╞░ng h├¼nh hß╗ìc v├á ─æiß╗üu kiß╗çn d├▓ng chß║úy, bß╗Ö dß╗» liß╗çu c├▓n l╞░u trß╗» c├íc biß║┐n hß╗ù trß╗ú ─æ├ính gi├í chß║Ñt l╞░ß╗úng dß╗» liß╗çu nh╞░:
+||Body Text||geom_hash;
+||Body Text||rule_status;
+||Body Text||rule_flags;
+||Body Text||sample_confidence;
+||Body Text||iforest_keep.
+||Body Text||C├íc biß║┐n n├áy kh├┤ng ─æ╞░ß╗úc sß╗¡ dß╗Ñng trß╗▒c tiß║┐p l├ám ─æß║ºu v├áo cho m├┤ h├¼nh nh╞░ng ─æ├│ng vai tr├▓ quan trß╗ìng trong qu├í tr├¼nh quß║ún l├╜ dß╗» liß╗çu, ─æ├ính gi├í m├┤ h├¼nh v├á kiß╗âm so├ít hiß╗çn t╞░ß╗úng r├▓ rß╗ë dß╗» liß╗çu giß╗»a c├íc tß║¡p huß║Ñn luyß╗çn v├á kiß╗âm tra.
+||Body Text||C├íc biß║┐n mß╗Ñc ti├¬u ─æ╞░ß╗úc x├íc ─æß╗ïnh theo:
+||Body Text||Trong ─æ├│:
+||Body Text||l├á hß╗ç sß╗æ lß╗▒c n├óng.
+||Body Text||l├á hß╗ç sß╗æ lß╗▒c cß║ún;
+||Body Text||l├á hß╗ç sß╗æ m├┤ men kh├¡ ─æß╗Öng hß╗ìc.
+||Body Text||Mß╗ùi h├áng dß╗» liß╗çu t╞░╞íng ß╗⌐ng vß╗¢i mß╗Öt trß║íng th├íi kh├¡ ─æß╗Öng hß╗ìc x├íc ─æß╗ïnh cß╗ºa mß╗Öt bi├¬n dß║íng c├ính tß║íi mß╗Öt gi├í trß╗ï Reynolds Number v├á g├│c tß║Ñn cß╗Ñ thß╗â. Do mß╗Öt bi├¬n dß║íng c├│ thß╗â ─æ╞░ß╗úc ─æ├ính gi├í tß║íi nhiß╗üu ─æiß╗üu kiß╗çn d├▓ng chß║úy kh├íc nhau n├¬n sß╗æ l╞░ß╗úng mß║½u dß╗» liß╗çu cuß╗æi c├╣ng lß╗¢n h╞ín ─æ├íng kß╗â sß╗æ l╞░ß╗úng airfoil ban ─æß║ºu.
+||Heading 4||Bß║úng 3.5.1. Cß║Ñu tr├║c bß╗Ö dß╗» liß╗çu hß╗ìc m├íy
+||Heading 1||T├ÇI LIß╗åU THAM KHß║óO
+||Body Text||[1] J. Anderson, Computational Fluid Mechanics: The Basics with Applications, McGraw-Hill, 1995.
+||Body Text||[2] T. Haftka et al., ΓÇ£Surrogate-based analysis and optimization,ΓÇ¥ in Progress in Aerospace Sciences, vol. 34, 1998, pp. 1ΓÇô28.
+||Body Text||[3] S. Brunton and B. Noack, ΓÇ£Machine learning for fluid mechanics,ΓÇ¥ in Annual Review of Fluid Mechanics, vol. 52, 2020, pp. 477ΓÇô508.
+||Body Text||[4] M. M. Paraschivoiu et al., ΓÇ£NeuralFoil: Rapid airfoil aerodynamic predictions via deep learning,ΓÇ¥ in AIAA SciTech Forum, 2022.
+||Body Text||[5] B. Peherstorfer et al., ΓÇ£Survey of model reduction methods for numerical physics,ΓÇ¥ in SIAM Review, vol. 60, no. 3, 2018, pp. 550ΓÇô591.
+||Body Text||[6] Anderson, J. D. (2017), Fundamentals of Aerodynamics, 6th Edition, McGraw-Hill Education, New York, USA.
+||Body Text||[7] Katz, J. and Plotkin, A. (2001), Low-Speed Aerodynamics, 2nd Edition, Cambridge University Press, Cambridge, United Kingdom.
+||Body Text||[8] Schlichting, H. and Gersten, K. (2017), Boundary-Layer Theory, 9th Edition, Springer, Berlin, Germany.
+||Body Text||[9] Kulfan, B. M. (2008), ΓÇ£Universal Parametric Geometry Representation MethodΓÇ¥, Journal of Aircraft, Vol. 45, No. 1, pp. 142ΓÇô158.
+||Body Text||[10] Kulfan, B. M. and Bussoletti, J. E. (2006), ΓÇ£Fundamental Parametric Geometry Representations for Aircraft Component ShapesΓÇ¥, Proceedings of the 11th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, Portsmouth, Virginia, USA.
+||Body Text||[11] Masters, D. A., Taylor, N. J., Rendall, T. C. S., Allen, C. B. and Poole, D. J. (2019), ΓÇ£Geometric Deep Learning for Data-Driven Airfoil DesignΓÇ¥, AIAA Journal, Vol. 57, No. 3, pp. 1159ΓÇô1172.
+||Body Text||[12] Forrester, A. I. J., S├│bester, A. and Keane, A. J. (2008), Engineering Design via Surrogate Modelling: A Practical Guide, John Wiley & Sons, Chichester, United Kingdom.
+||Normal||[13] M. S. Selig, UIUC Airfoil Coordinates Database, Department of Aerospace Engineering, University of Illinois UrbanaΓÇôChampaign. Truy cß║¡p tß║íi: https://m-selig.ae.illinois.edu/ads/coord_database.html (truy cß║¡p ng├áy 20/05/2026).

@@ -1,0 +1,25 @@
+﻿=== CL Champion Metrics ===
+  candidate  logo_mae  clmax_error  stall_aoa_error  uncertainty_quality      rmse        r2  selected
+0       hgb       0.0     0.032832         1.062417             0.324949  0.056952  0.995054      True
+
+=== CL Model Comparison ===
+  model  clmax_mae  stall_aoa_mae  logo_mae      mae      rmse        r2 logo_eval_mode
+0   hgb    0.03552       0.881226       0.0  0.03857  0.059478  0.994609        removed
+
+=== CD Champion Metrics ===
+        candidate  overall_mae  overall_rmse        r2  logo_mae    r1_mae   r1_rmse   r1_bias  r1_low_drag_mae    r2_mae   r2_rmse   r2_bias  stall_region_mae  near_stall_mae  post_stall_mae  high_cd_tail_mae  high_cd_tail_rmse  high_cd_tail_bias  coverage90  uq_pearson uncertainty_quality  physics_violation_count         selection_source  uq_pass_rank
+0  stall_weighted     0.002038      0.003476  0.998134       NaN  0.001620  0.003405 -0.000264         0.000973  0.002391  0.004087 -0.000244          0.001973        0.001774        0.002051          0.004106           0.006101          -0.001037    0.898909         NaN         CV_P50_ONLY                        0  geometry_groupkfold_oof             0
+1        baseline     0.002136      0.003574  0.998027       NaN  0.001646  0.003506 -0.000234         0.000994  0.002251  0.003945 -0.000250          0.002140        0.001967        0.002134          0.003939           0.005966          -0.002218    0.888877         NaN         CV_P50_ONLY                        0  geometry_groupkfold_oof             0
+
+=== CD GroupKFold Overall Metrics ===
+                         scope       n       mae      rmse        r2      bias       tag
+0  geometry_groupkfold_overall  665215  0.002136  0.003574  0.998027  0.000094  baseline
+
+=== CM Model Selection ===
+                        Model    ID_MAE   ID_RMSE     ID_R┬▓     Slope  Intercept  Extreme_Neg_MAE  Middle_MAE  Extreme_Pos_MAE Compressed_Flag  Compression_Reasons
+0  Regime-Specific ExtraTrees  0.008748  0.013546  0.939812  1.021364   0.001132         0.011715    0.008050         0.008364              NO                  NaN
+1           Global ExtraTrees  0.009887  0.014399  0.931997  1.037302   0.001598         0.013390    0.009119         0.009180              NO                  NaN
+2                    CatBoost  0.010810  0.014946  0.926725  1.028901   0.001039         0.013957    0.010277         0.009467              NO                  NaN
+3        HistGradientBoosting  0.011258  0.015399  0.922224  1.026151   0.001060         0.014288    0.010647         0.010409              NO                  NaN
+4          Regime-Specific RF  0.010396  0.016001  0.916023  0.995229   0.000276         0.013629    0.009793         0.009266              NO                  NaN
+5                   Global RF  0.011115  0.016233  0.913568  1.000356   0.000362         0.014267    0.010544         0.009939              NO                  NaN
