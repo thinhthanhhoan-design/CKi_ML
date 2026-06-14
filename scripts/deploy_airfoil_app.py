@@ -537,8 +537,8 @@ with st.sidebar:
     st.header("Cấu hình chạy (Run Settings)")
     reynolds = st.number_input("Số Reynolds (Reynolds)", min_value=10_000.0, max_value=20_000_000.0, value=500_000.0, step=50_000.0)
     aoa_csv = st.text_input("Danh sách góc tấn AoA", value="0,2,4,6,8")
-    maxiter = st.number_input("Số lần lặp tối đa (maxiter)", min_value=1, max_value=80, value=5, step=1)
-    popsize = st.number_input("Kích thước quần thể (popsize)", min_value=2, max_value=20, value=4, step=1)
+    maxiter = st.number_input("Số lần lặp tối đa (maxiter)", min_value=1, max_value=80, value=15, step=1)
+    popsize = st.number_input("Kích thước quần thể (popsize)", min_value=2, max_value=20, value=8, step=1)
     outer_loops = st.number_input("Số vòng lặp ngoài (outer loops)", min_value=1, max_value=8, value=1, step=1)
 
     st.success("Tất cả mô hình đã sẵn sàng (CL2 + CD + CM).")
