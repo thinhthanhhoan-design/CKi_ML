@@ -115,7 +115,12 @@ def missing_model_paths(cfg: Config) -> Dict[str, str]:
     return {name: path for name, path in required_model_paths(cfg).items() if not Path(path).exists()}
 
 
-# Cấu hình Google Drive File ID hoặc Liên kết chia sẻ mặc định cho các mô hình
+# Cấu hình ID thư mục Google Drive dùng chung chứa đầy đủ các file mô hình
+# Khi điền ID này, ứng dụng sẽ tự động tải các mô hình về ở chế độ nền khi phát hiện thiếu file.
+# Định dạng ví dụ: "1a2b3c4d5e6f..." (phần mã ký tự sau /folders/ trong link chia sẻ)
+SHARED_FOLDER_DRIVE_ID = ""
+
+# Cấu hình Google Drive File ID hoặc Liên kết chia sẻ mặc định cho các mô hình (dự phòng)
 MODEL_DRIVE_IDS = {
     "CL": "",        # Google Drive ID cho cl_model.joblib
     "CD": "",        # Google Drive ID cho day5_cd_v3_interface.pkl
@@ -369,6 +374,49 @@ base_cfg = use_cl2_artifacts(Config())
 miss = missing_model_paths(base_cfg)
 
 if miss:
+    # 1. Tự động tải từ SHARED_FOLDER_DRIVE_ID nếu được cấu hình sẵn
+    if SHARED_FOLDER_DRIVE_ID.strip():
+        if "auto_download_attempted" not in st.session_state:
+            st.session_state["auto_download_attempted"] = False
+
+        if not st.session_state["auto_download_attempted"]:
+            st.session_state["auto_download_attempted"] = True
+            st.info("🔄 **Phát hiện thiếu các tệp mô hình. Đang tiến hành tự động tải từ Google Drive Folder cấu hình sẵn...**")
+            
+            temp_dir = APP_OUT / "temp_download"
+            if temp_dir.exists():
+                import shutil
+                try:
+                    shutil.rmtree(temp_dir)
+                except Exception:
+                    pass
+            
+            with st.spinner("Đang tự động tải toàn bộ thư mục mô hình từ Google Drive (có thể mất vài phút do dung lượng lớn)..."):
+                success = download_folder_from_drive(SHARED_FOLDER_DRIVE_ID.strip(), str(temp_dir))
+                
+            if success:
+                found_files = organize_downloaded_models(str(temp_dir), miss)
+                still_missing = [n for n in miss.keys() if n not in found_files]
+                
+                if not still_missing:
+                    st.success("🎉 Tự động tải xuống và sắp xếp tất cả các mô hình thành công!")
+                    if temp_dir.exists():
+                        import shutil
+                        try:
+                            shutil.rmtree(temp_dir)
+                        except Exception:
+                            pass
+                    time.sleep(1.5)
+                    st.rerun()
+                else:
+                    st.error(
+                        f"❌ Đã tải thư mục tự động thành công nhưng thiếu các tệp sau trong thư mục: {', '.join(still_missing)}. "
+                        "Vui lòng kiểm tra lại xem bạn đã upload đầy đủ các tệp mô hình lên thư mục Google Drive chưa."
+                    )
+            else:
+                st.error("❌ Tự động tải thư mục từ Google Drive thất bại! Vui lòng kiểm tra lại cấu hình SHARED_FOLDER_DRIVE_ID và quyền chia sẻ của thư mục (phải ở chế độ 'Bất kỳ ai có liên kết đều có thể xem').")
+
+    # 2. Giao diện tải thủ công dự phòng nếu không tự động tải được hoặc không cấu hình
     st.warning("⚠️ **Thiếu các tệp mô hình (model artifacts) để chạy ứng dụng!**")
     st.write(
         "Do giới hạn kích thước tệp của GitHub (100MB), các tệp mô hình lớn không được tải lên kho lưu trữ. "
