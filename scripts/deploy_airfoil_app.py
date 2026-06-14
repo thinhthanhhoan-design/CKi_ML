@@ -118,7 +118,7 @@ def missing_model_paths(cfg: Config) -> Dict[str, str]:
 # Cấu hình ID thư mục Google Drive dùng chung chứa đầy đủ các file mô hình
 # Khi điền ID này, ứng dụng sẽ tự động tải các mô hình về ở chế độ nền khi phát hiện thiếu file.
 # Định dạng ví dụ: "1a2b3c4d5e6f..." (phần mã ký tự sau /folders/ trong link chia sẻ)
-SHARED_FOLDER_DRIVE_ID = ""
+SHARED_FOLDER_DRIVE_ID = "https://drive.google.com/drive/folders/1LyTiC50dQCj0PkfBFuJOiQw1txrbKj4G?usp=drive_link"
 
 # Cấu hình Google Drive File ID hoặc Liên kết chia sẻ mặc định cho các mô hình (dự phòng)
 MODEL_DRIVE_IDS = {
