@@ -1,15 +1,32 @@
-*.csv
-*.csv.gz
-*.parquet
-*.joblib
-*.pkl
-*.log
-*.zip
-*.rar
-__pycache__/
-.ipynb_checkpoints/
+# Virtual environments
 .venv/
-outputs/deploy_app/runs/
-outputs/deploy_app/uploads/
+airfoil/.venv/
+venv/
+ENV/
 
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
 
+# User settings and IDE configs
+.vscode/
+.idea/
+
+# Large model artifacts and datasets
+*.pkl
+*.joblib
+*.zip
+*.gz
+*.csv
+*.dat
+outputs/
+tables/
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

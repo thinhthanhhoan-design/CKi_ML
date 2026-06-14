@@ -631,6 +631,14 @@ show_cols = [
 show_cols = [c for c in show_cols if c in top_df.columns]
 st.dataframe(top_df[show_cols].round(6), use_container_width=True)
 
+if len(top_df) < 5:
+    st.info(
+        f"💡 **Thông tin:** Chỉ tìm thấy {len(top_df)} ứng viên thỏa mãn hoàn toàn các ràng buộc nghiêm ngặt "
+        f"(bao gồm cải thiện khí động học, kiểm tra độ mượt CAD, Descriptor Manifold, giới hạn Peak Count, và độ bất định). "
+        f"Để tìm kiếm được nhiều ứng viên hơn (đủ Top 5), bạn nên tăng **Số lần lặp tối đa (maxiter)** (ví dụ: 15-20) "
+        f"hoặc **Kích thước quần thể (popsize)** (ví dụ: 6-10) ở Sidebar bên trái."
+    )
+
 fig_overlay = run_dir / "figures" / "top_candidates_geometry_overlay.png"
 fig_polars = run_dir / "figures" / "top_candidates_polar_comparison.png"
 fig_polars_nf = run_dir / "figures" / "top_candidates_neuralfoil_polar_comparison.png"
